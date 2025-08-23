@@ -1,0 +1,6435 @@
+{
+  "Α": [
+    {
+      "lemma": "ὅς",
+      "lines": [
+        "96"
+      ],
+      "morph": "pronombre relativo, nominativo/acusativo neutro plural",
+      "word": "ἃ"
+    },
+    {
+      "lemma": "ἀγαθός",
+      "lines": [
+        "100"
+      ],
+      "morph": "adjetivo, genitivo plural, masculino/neutro",
+      "word": "ἀγαθῶν,"
+    },
+    {
+      "lemma": "ἀγαλλιάω",
+      "lines": [
+        "100"
+      ],
+      "morph": "participio, presente, medio/pasivo, nominativo plural, masculino",
+      "word": "ἀγαλλιώµενοι"
+    },
+    {
+      "lemma": "ἀγαπητός",
+      "lines": [
+        "13",
+        "58",
+        "72",
+        "87"
+      ],
+      "morph": "adjetivo, nominativo plural, masculino",
+      "word": "ἀγαπητοὶ,"
+    },
+    {
+      "lemma": "ἀγγελικός",
+      "lines": [
+        "9"
+      ],
+      "morph": "adjetivo, acusativo singular, femenino",
+      "word": "ἀγγελικὴν"
+    },
+    {
+      "lemma": "ἀγγελικός",
+      "lines": [
+        "51"
+      ],
+      "morph": "adjetivo, acusativo singular, masculino/neutro",
+      "word": "ἀγγελικὸν"
+    },
+    {
+      "lemma": "ἅγιος",
+      "lines": [
+        "50"
+      ],
+      "morph": "adjetivo, genitivo singular, masculino/neutro",
+      "word": "ἁγίου"
+    },
+    {
+      "lemma": "ἄγριος",
+      "lines": [
+        "50"
+      ],
+      "morph": "adjetivo, nominativo plural, masculino",
+      "word": "ἄγριοι"
+    },
+    {
+      "lemma": "ἀδελφός",
+      "lines": [
+        "97"
+      ],
+      "morph": "sustantivo, genitivo singular, masculino",
+      "word": "ἀδελφοῦ"
+    },
+    {
+      "lemma": "ἀδελφός",
+      "lines": [
+        "80"
+      ],
+      "morph": "sustantivo, genitivo plural, masculino",
+      "word": "ἀδελφῶν,"
+    },
+    {
+      "lemma": "ἀδεῶς",
+      "lines": [
+        "65"
+      ],
+      "morph": "adverbio",
+      "word": "ἀδεῶς"
+    },
+    {
+      "lemma": "ἀδηφαγία",
+      "lines": [
+        "6"
+      ],
+      "morph": "sustantivo, acusativo singular, femenino",
+      "word": "ἀδηφαγίαν"
+    },
+    {
+      "lemma": "ἀδικέω",
+      "lines": [
+        "38"
+      ],
+      "morph": "verbo, presente, indicativo, activo, 3ª persona singular",
+      "word": "ἀδικεῖ"
+    },
+    {
+      "lemma": "ἀδικία",
+      "lines": [
+        "85"
+      ],
+      "morph": "sustantivo, genitivo singular, femenino",
+      "word": "ἀδικίας,"
+    },
+    {
+      "lemma": "ἀθάνατος",
+      "lines": [
+        "12"
+      ],
+      "morph": "adjetivo, acusativo singular, masculino/femenino/neutro",
+      "word": "ἀθάνατον"
+    },
+    {
+      "lemma": "αἰών",
+      "lines": [
+        "100"
+      ],
+      "morph": "sustantivo, acusativo plural, masculino",
+      "word": "αἰῶνας"
+    },
+    {
+      "lemma": "αἰώνιος",
+      "lines": [
+        "57"
+      ],
+      "morph": "adjetivo, acusativo singular, masculino/femenino/neutro",
+      "word": "αἰώνιον"
+    },
+    {
+      "lemma": "αἰών",
+      "lines": [
+        "100"
+      ],
+      "morph": "sustantivo, genitivo plural, masculino",
+      "word": "αἰώνων."
+    },
+    {
+      "lemma": "ἀκαίρως",
+      "lines": [
+        "64"
+      ],
+      "morph": "adverbio",
+      "word": "ἀκαίρως"
+    },
+    {
+      "lemma": "ἀκαταμάχητος",
+      "lines": [
+        "10"
+      ],
+      "morph": "adjetivo, acusativo singular, masculino/femenino/neutro",
+      "word": "ἀκαταµάχητον."
+    },
+    {
+      "lemma": "ἀκμή",
+      "lines": [
+        "66"
+      ],
+      "morph": "sustantivo, acusativo singular, femenino",
+      "word": "ἀκµήν."
+    },
+    {
+      "lemma": "ἀκοή",
+      "lines": [
+        "2"
+      ],
+      "morph": "sustantivo, acusativo singular, femenino",
+      "word": "ἀκοὴν"
+    },
+    {
+      "lemma": "ἀκόλαστος",
+      "lines": [
+        "49"
+      ],
+      "morph": "adjetivo, genitivo plural, masculino/femenino/neutro",
+      "word": "ἀκολάστων"
+    },
+    {
+      "lemma": "ἀκόλαστος",
+      "lines": [
+        "48"
+      ],
+      "morph": "adjetivo, genitivo plural, masculino/femenino/neutro",
+      "word": "ἀκολάστων,"
+    },
+    {
+      "lemma": "ἀκούω",
+      "lines": [
+        "82"
+      ],
+      "morph": "verbo, presente, imperativo, activo, 2ª persona singular",
+      "word": "Ἄκουε"
+    },
+    {
+      "lemma": "ἀκούω",
+      "lines": [
+        "99"
+      ],
+      "morph": "verbo, aoristo, subjuntivo, activo, 2ª persona singular",
+      "word": "ἀκούσῃς,"
+    },
+    {
+      "lemma": "ἀλείφω",
+      "lines": [
+        "8"
+      ],
+      "morph": "verbo, presente, indicativo, activo, 3ª persona singular",
+      "word": "ἀλείφει,"
+    },
+    {
+      "lemma": "ἀλήθεια",
+      "lines": [
+        "2"
+      ],
+      "morph": "sustantivo, genitivo singular, femenino",
+      "word": "ἀληθείας"
+    },
+    {
+      "lemma": "ἀληθινός",
+      "lines": [
+        "87"
+      ],
+      "morph": "adjetivo, nominativo singular, femenino",
+      "word": "ἀληθινὴ"
+    },
+    {
+      "lemma": "ἀληθινός",
+      "lines": [
+        "81"
+      ],
+      "morph": "adjetivo, nominativo singular, femenino",
+      "word": "ἀληθινὴ,"
+    },
+    {
+      "lemma": "ἀλλά",
+      "lines": [
+        "2",
+        "17",
+        "23",
+        "98",
+        "99"
+      ],
+      "morph": "conjunción",
+      "word": "ἀλλ'"
+    },
+    {
+      "lemma": "ἀλλά",
+      "lines": [
+        "13",
+        "14",
+        "46",
+        "51",
+        "52",
+        "70"
+      ],
+      "morph": "conjunción",
+      "word": "ἀλλὰ"
+    },
+    {
+      "lemma": "ἀλλά",
+      "lines": [
+        "39",
+        "84"
+      ],
+      "morph": "conjunción",
+      "word": "Ἀλλὰ"
+    },
+    {
+      "lemma": "ἀλλάσσω",
+      "lines": [
+        "75"
+      ],
+      "morph": "participio, presente, medio/pasivo, nominativo singular, masculino",
+      "word": "ἀλλασσόµενος."
+    },
+    {
+      "lemma": "ἁμάρτημα",
+      "lines": [
+        "75"
+      ],
+      "morph": "sustantivo, genitivo plural, neutro",
+      "word": "ἁµαρτηµάτων"
+    },
+    {
+      "lemma": "ἁμάρτημα",
+      "lines": [
+        "81"
+      ],
+      "morph": "sustantivo, genitivo plural, neutro",
+      "word": "ἁµαρτηµάτων."
+    },
+    {
+      "lemma": "ἁμαρτία",
+      "lines": [
+        "22"
+      ],
+      "morph": "sustantivo, acusativo singular, femenino",
+      "word": "ἁµαρτίαν"
+    },
+    {
+      "lemma": "ἁμαρτία",
+      "lines": [
+        "20"
+      ],
+      "morph": "sustantivo, genitivo singular, femenino",
+      "word": "ἁµαρτίας"
+    },
+    {
+      "lemma": "ἁμαρτία",
+      "lines": [
+        "74"
+      ],
+      "morph": "sustantivo, genitivo singular, femenino",
+      "word": "ἁµαρτίας."
+    },
+    {
+      "lemma": "ἀμήν",
+      "lines": [
+        "101"
+      ],
+      "morph": "interjección/adverbio",
+      "word": "Ἀµήν."
+    },
+    {
+      "lemma": "ἀμφότερος",
+      "lines": [
+        "60"
+      ],
+      "morph": "adjetivo, nominativo/acusativo plural, neutro",
+      "word": "ἀµφότερα."
+    },
+    {
+      "lemma": "ἀναβαίνω",
+      "lines": [
+        "74"
+      ],
+      "morph": "verbo, aoristo, subjuntivo, activo, 3ª persona singular",
+      "word": "ἀναβῇ"
+    },
+    {
+      "lemma": "ἀνάγω",
+      "lines": [
+        "12"
+      ],
+      "morph": "verbo, presente, indicativo, activo, 3ª persona singular",
+      "word": "ἀνάγει"
+    },
+    {
+      "lemma": "ἀνατρέχω",
+      "lines": [
+        "27"
+      ],
+      "morph": "verbo, aoristo, imperativo, activo, 2ª persona singular",
+      "word": "Ἀνάδραµε"
+    },
+    {
+      "lemma": "ἀνάθημα",
+      "lines": [
+        "19"
+      ],
+      "morph": "sustantivo, genitivo plural, neutro",
+      "word": "ἀναθηµάτων."
+    },
+    {
+      "lemma": "ἀναίρεσις",
+      "lines": [
+        "61"
+      ],
+      "morph": "sustantivo, nominativo singular, femenino",
+      "word": "ἀναίρεσις,"
+    },
+    {
+      "lemma": "ἀναιρετικός",
+      "lines": [
+        "20"
+      ],
+      "morph": "adjetivo, acusativo singular, masculino/neutro",
+      "word": "ἀναιρετικὸν"
+    },
+    {
+      "lemma": "ἀναξηραίνω",
+      "lines": [
+        "22"
+      ],
+      "morph": "verbo, presente, indicativo, activo, 3ª persona singular",
+      "word": "ἀναξηραίνει"
+    },
+    {
+      "lemma": "ἀνάστασις",
+      "lines": [
+        "100"
+      ],
+      "morph": "sustantivo, genitivo singular, femenino",
+      "word": "ἀναστάσεως,"
+    },
+    {
+      "lemma": "ἀνατρέπω",
+      "lines": [
+        "34"
+      ],
+      "morph": "verbo, imperfecto, indicativo, activo, 3ª persona singular",
+      "word": "ἀνέτρεπε."
+    },
+    {
+      "lemma": "ἀνθρώπινος",
+      "lines": [
+        "45",
+        "93"
+      ],
+      "morph": "adjetivo, acusativo singular, femenino",
+      "word": "ἀνθρωπίνην"
+    },
+    {
+      "lemma": "ἀνθρώπινος",
+      "lines": [
+        "51"
+      ],
+      "morph": "adjetivo, acusativo singular, masculino/neutro",
+      "word": "ἀνθρώπινον,"
+    },
+    {
+      "lemma": "ἄνθρωπος",
+      "lines": [
+        "83"
+      ],
+      "morph": "sustantivo, acusativo singular, masculino",
+      "word": "ἄνθρωπον"
+    },
+    {
+      "lemma": "ἄνθρωπος",
+      "lines": [
+        "87"
+      ],
+      "morph": "sustantivo, dativo singular, masculino",
+      "word": "ἀνθρώπῳ"
+    },
+    {
+      "lemma": "ἀντί",
+      "lines": [
+        "52"
+      ],
+      "morph": "preposición",
+      "word": "ἀντὶ"
+    },
+    {
+      "lemma": "ἀντιλαμβάνω",
+      "lines": [
+        "76"
+      ],
+      "morph": "participio, presente, medio/pasivo, nominativo singular, masculino",
+      "word": "ἀντιλαµβανόµενος;"
+    },
+    {
+      "lemma": "ἀντίπαλος",
+      "lines": [
+        "99"
+      ],
+      "morph": "adjetivo/sustantivo, nominativo singular, masculino",
+      "word": "ἀντίπαλος."
+    },
+    {
+      "lemma": "ἀντιπίπτω",
+      "lines": [
+        "38"
+      ],
+      "morph": "participio, presente, activo, nominativo singular, femenino",
+      "word": "ἀντιπίπτουσα"
+    },
+    {
+      "lemma": "ἀντιστρατεύομαι",
+      "lines": [
+        "32"
+      ],
+      "morph": "participio, presente, medio/pasivo, nominativo singular, femenino",
+      "word": "ἀντιστρατευοµένη·"
+    },
+    {
+      "lemma": "ἀντιστρατεύομαι",
+      "lines": [
+        "11"
+      ],
+      "morph": "participio, presente, medio/pasivo, acusativo singular, femenino",
+      "word": "ἀντιστρατευοµένην"
+    },
+    {
+      "lemma": "ἀνυψόω",
+      "lines": [
+        "2"
+      ],
+      "morph": "participio, presente, activo, nominativo singular, masculino",
+      "word": "ἀνυψῶν,"
+    },
+    {
+      "lemma": "ἄνω",
+      "lines": [
+        "34"
+      ],
+      "morph": "adverbio",
+      "word": "Ἄνω"
+    },
+    {
+      "lemma": "ἀόρατος",
+      "lines": [
+        "46"
+      ],
+      "morph": "adjetivo, acusativo singular, masculino/femenino/neutro",
+      "word": "ἀόρατον"
+    },
+    {
+      "lemma": "ἅπας",
+      "lines": [
+        "22"
+      ],
+      "morph": "adjetivo, nominativo/acusativo singular, neutro",
+      "word": "ἅπαν"
+    },
+    {
+      "lemma": "ἀπατάω",
+      "lines": [
+        "2"
+      ],
+      "morph": "verbo, aoristo, subjuntivo, activo, 1ª persona singular",
+      "word": "ἀπατήσω,"
+    },
+    {
+      "lemma": "ἄπειρος",
+      "lines": [
+        "53"
+      ],
+      "morph": "adjetivo, genitivo plural, masculino/femenino/neutro",
+      "word": "ἀπείρων"
+    },
+    {
+      "lemma": "ἀποκλείω",
+      "lines": [
+        "50"
+      ],
+      "morph": "verbo, aoristo, indicativo, activo, 3ª persona plural",
+      "word": "ἀπέκλεισαν"
+    },
+    {
+      "lemma": "ἀποκλείω",
+      "lines": [
+        "48"
+      ],
+      "morph": "verbo, aoristo, indicativo, activo, 3ª persona singular",
+      "word": "ἀπέκλεισε"
+    },
+    {
+      "lemma": "ἀποκρούω",
+      "lines": [
+        "56"
+      ],
+      "morph": "verbo, aoristo, indicativo, medio, 3ª persona plural",
+      "word": "ἀπεκρούσαντο·"
+    },
+    {
+      "lemma": "ἀποπλανάω",
+      "lines": [
+        "51"
+      ],
+      "morph": "verbo, aoristo, indicativo, activo, 3ª persona singular",
+      "word": "ἀπεπλάνησε"
+    },
+    {
+      "lemma": "ἀπεργάζομαι",
+      "lines": [
+        "63"
+      ],
+      "morph": "verbo, presente, infinitivo, medio/pasivo",
+      "word": "ἀπεργάζεσθαι·"
+    },
+    {
+      "lemma": "ἀπεργάζομαι",
+      "lines": [
+        "4"
+      ],
+      "morph": "verbo, presente, indicativo, medio/pasivo, 3ª persona singular",
+      "word": "ἀπεργάζεται"
+    },
+    {
+      "lemma": "ἀπέχω",
+      "lines": [
+        "73"
+      ],
+      "morph": "verbo, presente, indicativo, activo, 3ª persona singular",
+      "word": "ἀπέχει"
+    },
+    {
+      "lemma": "ἀπέχω",
+      "lines": [
+        "75"
+      ],
+      "morph": "verbo, presente, indicativo, activo, 2ª persona singular",
+      "word": "ἀπέχεις"
+    },
+    {
+      "lemma": "ἀπέχω",
+      "lines": [
+        "19"
+      ],
+      "morph": "verbo, presente, subjuntivo, activo, 2ª persona singular",
+      "word": "ἀπέχῃ"
+    },
+    {
+      "lemma": "ἀπέχω",
+      "lines": [
+        "99"
+      ],
+      "morph": "participio, presente, medio/pasivo, nominativo singular, masculino",
+      "word": "ἀπεχόµενος"
+    },
+    {
+      "lemma": "ἀπέχω",
+      "lines": [
+        "80"
+      ],
+      "morph": "participio, presente, medio/pasivo, nominativo singular, masculino",
+      "word": "ἀπεχόµενος,"
+    },
+    {
+      "lemma": "ἀπέχω",
+      "lines": [
+        "77"
+      ],
+      "morph": "participio, presente, medio/pasivo, nominativo singular, masculino",
+      "word": "ἀπεχόµενος·"
+    },
+    {
+      "lemma": "ἀπέχω",
+      "lines": [
+        "75"
+      ],
+      "morph": "verbo, presente, imperativo, medio/pasivo, 2ª persona singular",
+      "word": "ἀπέχου"
+    },
+    {
+      "lemma": "ἀπιστία",
+      "lines": [
+        "41"
+      ],
+      "morph": "sustantivo, acusativo singular, femenino",
+      "word": "ἀπιστίαν·"
+    },
+    {
+      "lemma": "ἀπό",
+      "lines": [
+        "3",
+        "18",
+        "70",
+        "99"
+      ],
+      "morph": "preposición",
+      "word": "ἀπὸ"
+    },
+    {
+      "lemma": "ἀπογεύομαι",
+      "lines": [
+        "80"
+      ],
+      "morph": "participio, presente, medio/pasivo, nominativo singular, masculino",
+      "word": "ἀπογευόµενος."
+    },
+    {
+      "lemma": "ἀποκαθαίρω",
+      "lines": [
+        "22"
+      ],
+      "morph": "participio, presente, activo, nominativo singular, femenino",
+      "word": "ἀποκαθαίρουσα."
+    },
+    {
+      "lemma": "ἀπόκειμαι",
+      "lines": [
+        "100"
+      ],
+      "morph": "participio, presente, medio/pasivo, genitivo plural, masculino/femenino/neutro",
+      "word": "ἀποκειµένων"
+    },
+    {
+      "lemma": "ἀπολαύω",
+      "lines": [
+        "100"
+      ],
+      "morph": "participio, presente, activo, nominativo plural, masculino",
+      "word": "ἀπολαύοντες"
+    },
+    {
+      "lemma": "ἀπόλλυμι",
+      "lines": [
+        "24"
+      ],
+      "morph": "verbo, aoristo, subjuntivo, activo, 2ª persona singular",
+      "word": "ἀπολέσῃς·"
+    },
+    {
+      "lemma": "ἀπολιμπάνω",
+      "lines": [
+        "94"
+      ],
+      "morph": "participio, presente, medio/pasivo, nominativo singular, masculino",
+      "word": "ἀπολιµπανόµενος"
+    },
+    {
+      "lemma": "ἀπολύτρωσις",
+      "lines": [
+        "61"
+      ],
+      "morph": "sustantivo, nominativo singular, femenino",
+      "word": "ἀπολύτρωσις·"
+    },
+    {
+      "lemma": "ἀποπλύνω",
+      "lines": [
+        "20"
+      ],
+      "morph": "participio, presente, activo, nominativo singular, femenino",
+      "word": "ἀποπλύνουσα"
+    },
+    {
+      "lemma": "ἀπορρίπτω",
+      "lines": [
+        "21"
+      ],
+      "morph": "verbo, presente, indicativo, activo, 3ª persona singular",
+      "word": "ἀποῤῥίπτει·"
+    },
+    {
+      "lemma": "ἀποτελέω",
+      "lines": [
+        "9"
+      ],
+      "morph": "verbo, presente, indicativo, activo, 3ª persona singular",
+      "word": "ἀποτελεῖ"
+    },
+    {
+      "lemma": "ἀποφεύγω",
+      "lines": [
+        "6"
+      ],
+      "morph": "participio, presente, activo, nominativo singular, masculino",
+      "word": "ἀποφεύγων,"
+    },
+    {
+      "lemma": "ἀποχή",
+      "lines": [
+        "81"
+      ],
+      "morph": "sustantivo, nominativo singular, femenino",
+      "word": "ἀποχὴ"
+    },
+    {
+      "lemma": "ἅπτομαι",
+      "lines": [
+        "79"
+      ],
+      "morph": "participio, presente, medio/pasivo, nominativo singular, masculino",
+      "word": "ἁπτόµενος;"
+    },
+    {
+      "lemma": "ἀργέω",
+      "lines": [
+        "41"
+      ],
+      "morph": "verbo, futuro, indicativo, activo, 3ª persona singular",
+      "word": "ἀργήσει,"
+    },
+    {
+      "lemma": "ἀρεστός",
+      "lines": [
+        "87"
+      ],
+      "morph": "adjetivo, nominativo singular, femenino",
+      "word": "ἀρεστή."
+    },
+    {
+      "lemma": "ἄρτος",
+      "lines": [
+        "30",
+        "49",
+        "85"
+      ],
+      "morph": "sustantivo, acusativo singular, masculino",
+      "word": "ἄρτον"
+    },
+    {
+      "lemma": "ἄστεγος",
+      "lines": [
+        "85"
+      ],
+      "morph": "adjetivo, acusativo singular, masculino/femenino/neutro",
+      "word": "ἄστεγον"
+    },
+    {
+      "lemma": "ἀσφάλεια",
+      "lines": [
+        "40"
+      ],
+      "morph": "sustantivo, acusativo singular, femenino",
+      "word": "ἀσφάλειαν"
+    },
+    {
+      "lemma": "ἀσώματος",
+      "lines": [
+        "46"
+      ],
+      "morph": "adjetivo, acusativo singular, masculino/femenino/neutro",
+      "word": "ἀσώµατον"
+    },
+    {
+      "lemma": "αὐτός",
+      "lines": [
+        "39"
+      ],
+      "morph": "pronombre/adjetivo, dativo plural, femenino",
+      "word": "αὐταῖς"
+    },
+    {
+      "lemma": "αὐτάρκεια",
+      "lines": [
+        "64"
+      ],
+      "morph": "sustantivo, acusativo singular, femenino",
+      "word": "αὐτάρκειαν"
+    },
+    {
+      "lemma": "αὐτός",
+      "lines": [
+        "13"
+      ],
+      "morph": "pronombre/adjetivo, acusativo plural, femenino",
+      "word": "αὐτὰς"
+    },
+    {
+      "lemma": "οὗτος",
+      "lines": [
+        "87"
+      ],
+      "morph": "pronombre/adjetivo demostrativo, nominativo singular, femenino",
+      "word": "Αὕτη,"
+    },
+    {
+      "lemma": "αὐτός",
+      "lines": [
+        "12",
+        "22"
+      ],
+      "morph": "pronombre/adjetivo, acusativo singular, femenino",
+      "word": "αὐτὴν"
+    },
+    {
+      "lemma": "αὐτός",
+      "lines": [
+        "51",
+        "80"
+      ],
+      "morph": "pronombre/adjetivo, genitivo singular, femenino",
+      "word": "αὐτῆς"
+    },
+    {
+      "lemma": "αὐτός",
+      "lines": [
+        "55"
+      ],
+      "morph": "pronombre/adjetivo, nominativo/acusativo singular, neutro",
+      "word": "αὐτὸ"
+    },
+    {
+      "lemma": "αὐτός",
+      "lines": [
+        "22",
+        "44",
+        "93"
+      ],
+      "morph": "pronombre/adjetivo, acusativo singular, masculino",
+      "word": "αὐτὸν"
+    },
+    {
+      "lemma": "αὐτός",
+      "lines": [
+        "49"
+      ],
+      "morph": "pronombre/adjetivo, nominativo singular, masculino",
+      "word": "αὐτὸς"
+    },
+    {
+      "lemma": "ἑαυτοῦ",
+      "lines": [
+        "80"
+      ],
+      "morph": "pronombre reflexivo, genitivo singular, masculino",
+      "word": "αὑτοῦ"
+    },
+    {
+      "lemma": "ἑαυτοῦ",
+      "lines": [
+        "83"
+      ],
+      "morph": "pronombre reflexivo, genitivo singular, masculino",
+      "word": "αὑτοῦ."
+    },
+    {
+      "lemma": "αὐτός",
+      "lines": [
+        "27"
+      ],
+      "morph": "pronombre/adjetivo, acusativo plural, masculino",
+      "word": "αὐτοὺς"
+    },
+    {
+      "lemma": "αὐτός",
+      "lines": [
+        "54"
+      ],
+      "morph": "pronombre/adjetivo, genitivo plural, masculino/femenino/neutro",
+      "word": "αὐτῶν"
+    },
+    {
+      "lemma": "ἀφίημι",
+      "lines": [
+        "74"
+      ],
+      "morph": "verbo, aoristo, subjuntivo, activo, 2ª persona singular",
+      "word": "ἀφῇς,"
+    },
+    {
+      "lemma": "ἅπτομαι",
+      "lines": [
+        "50",
+        "54"
+      ],
+      "morph": "verbo, aoristo, infinitivo, medio",
+      "word": "ἅψασθαι"
+    },
+    {
+      "lemma": "ἀψευδής",
+      "lines": [
+        "88"
+      ],
+      "morph": "adjetivo, nominativo singular, masculino/femenino",
+      "word": "ἀψευδὴς"
+    }
+  ],
+  "Β": [
+    {
+      "lemma": "Βαβυλών",
+      "lines": [
+        "52"
+      ],
+      "morph": "Sustantivo propio, singular, dativo.",
+      "word": "Βαβυλῶνι,"
+    },
+    {
+      "lemma": "βαρύνω",
+      "lines": [
+        "70"
+      ],
+      "morph": "Participio, presente, medio/pasivo, singular, acusativo masculino o nominativo/acusativo/vocativo neutro.",
+      "word": "βαρυνόµενον"
+    },
+    {
+      "lemma": "βασιλεύς",
+      "lines": [
+        "52"
+      ],
+      "morph": "Sustantivo, singular, genitivo.",
+      "word": "βασιλέως"
+    },
+    {
+      "lemma": "βαρύνω",
+      "lines": [
+        "37"
+      ],
+      "morph": "Participio, perfecto, medio/pasivo, plural, dativo femenino.",
+      "word": "βεβαρηµέναις"
+    },
+    {
+      "lemma": "βίαιος",
+      "lines": [
+        "85"
+      ],
+      "morph": "Adjetivo, plural, genitivo masculino/neutro.",
+      "word": "βιαίων"
+    },
+    {
+      "lemma": "βίος",
+      "lines": [
+        "48"
+      ],
+      "morph": "Sustantivo, singular, acusativo.",
+      "word": "βίον"
+    },
+    {
+      "lemma": "βίος",
+      "lines": [
+        "40"
+      ],
+      "morph": "Sustantivo, singular, genitivo.",
+      "word": "βίου"
+    },
+    {
+      "lemma": "βλάβος",
+      "lines": [
+        "4"
+      ],
+      "morph": "Sustantivo, singular, nominativo/acusativo/vocativo neutro.",
+      "word": "βλάβος."
+    },
+    {
+      "lemma": "βλάπτω",
+      "lines": [
+        "32"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, tercera persona singular.",
+      "word": "βλάπτει"
+    },
+    {
+      "lemma": "βλέπω",
+      "lines": [
+        "38"
+      ],
+      "morph": "Verbo, presente, imperativo, activo, segunda persona singular.",
+      "word": "Βλέπε"
+    },
+    {
+      "lemma": "βλέπω",
+      "lines": [
+        "93"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, segunda persona singular.",
+      "word": "Βλέπεις"
+    },
+    {
+      "lemma": "βούλομαι",
+      "lines": [
+        "52"
+      ],
+      "morph": "Participio, aoristo, pasivo, plural, nominativo masculino.",
+      "word": "βουληθέντες"
+    },
+    {
+      "lemma": "βοάω",
+      "lines": [
+        "2"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, primera persona singular.",
+      "word": "βοῶ"
+    },
+    {
+      "lemma": "βοάω",
+      "lines": [
+        "90"
+      ],
+      "morph": "Participio, presente, activo, singular, genitivo masculino/neutro.",
+      "word": "βοῶντός"
+    },
+    {
+      "lemma": "βραδύνω",
+      "lines": [
+        "25"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, segunda persona singular.",
+      "word": "βραδύνεις,"
+    },
+    {
+      "lemma": "βρῶμα",
+      "lines": [
+        "16"
+      ],
+      "morph": "Sustantivo, plural, nominativo/acusativo/vocativo neutro.",
+      "word": "βρώµατα·"
+    },
+    {
+      "lemma": "βρῶμα",
+      "lines": [
+        "6",
+        "17",
+        "70",
+        "75"
+      ],
+      "morph": "Sustantivo, plural, genitivo.",
+      "word": "βρωµάτων"
+    },
+    {
+      "lemma": "βρῶμα",
+      "lines": [
+        "18",
+        "67",
+        "73"
+      ],
+      "morph": "Sustantivo, plural, genitivo.",
+      "word": "βρωµáτων,"
+    },
+    {
+      "lemma": "βρῶσις",
+      "lines": [
+        "5"
+      ],
+      "morph": "Sustantivo, singular, dativo.",
+      "word": "βρώσει"
+    }
+  ],
+  "Γ": [
+    {
+      "lemma": "γάρ",
+      "lines": [
+        "15"
+      ],
+      "morph": "Conjunción, pospositiva",
+      "word": "γάρ"
+    },
+    {
+      "lemma": "γάρ",
+      "lines": [
+        "4",
+        "5",
+        "7",
+        "11",
+        "14",
+        "26",
+        "31",
+        "35",
+        "44",
+        "47",
+        "50",
+        "51",
+        "53",
+        "55",
+        "57",
+        "59",
+        "64",
+        "70",
+        "78",
+        "81",
+        "89"
+      ],
+      "morph": "Conjunción, pospositiva",
+      "word": "γὰρ"
+    },
+    {
+      "lemma": "γάρ",
+      "lines": [
+        "74"
+      ],
+      "morph": "Conjunción, pospositiva",
+      "word": "γὰρ,"
+    },
+    {
+      "lemma": "γαστήρ",
+      "lines": [
+        "3",
+        "5"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo",
+      "word": "γαστρὸς"
+    },
+    {
+      "lemma": "γίγνομαι",
+      "lines": [
+        "28"
+      ],
+      "morph": "Verbo, indicativo, perfecto, activo, 3ra persona singular",
+      "word": "γέγονε."
+    },
+    {
+      "lemma": "γίγνομαι",
+      "lines": [
+        "50"
+      ],
+      "morph": "Participio, aoristo, medio, nominativo, masculino, plural",
+      "word": "γενόµενοι,"
+    },
+    {
+      "lemma": "γεύομαι",
+      "lines": [
+        "49",
+        "75"
+      ],
+      "morph": "Participio, aoristo, medio, nominativo, masculino, singular",
+      "word": "γευσάµενος,"
+    },
+    {
+      "lemma": "γίγνομαι",
+      "lines": [
+        "33"
+      ],
+      "morph": "Participio, presente, medio/pasivo, dativo, masculino/neutro, plural",
+      "word": "γιγνοµένοις,"
+    },
+    {
+      "lemma": "γίγνομαι",
+      "lines": [
+        "70"
+      ],
+      "morph": "Verbo, indicativo, presente, medio/pasivo, 3ra persona singular",
+      "word": "γίνεται"
+    },
+    {
+      "lemma": "γίγνομαι",
+      "lines": [
+        "40"
+      ],
+      "morph": "Participio, presente, medio/pasivo, genitivo, masculino/neutro, singular",
+      "word": "γινοµένου"
+    },
+    {
+      "lemma": "γνόφος",
+      "lines": [
+        "28"
+      ],
+      "morph": "Sustantivo, masculino, singular, acusativo",
+      "word": "γνόφον"
+    },
+    {
+      "lemma": "γιγνώσκω",
+      "lines": [
+        "48"
+      ],
+      "morph": "Verbo, subjuntivo, aoristo, activo, 3ra persona plural",
+      "word": "γνῶσι,"
+    },
+    {
+      "lemma": "γογγύζω",
+      "lines": [
+        "25"
+      ],
+      "morph": "Verbo, subjuntivo, aoristo, activo, 2da persona singular",
+      "word": "γογγύσῃς"
+    },
+    {
+      "lemma": "γυμνάζω",
+      "lines": [
+        "8"
+      ],
+      "morph": "Verbo, indicativo, presente, activo, 3ra persona singular",
+      "word": "γυµνάζει·"
+    },
+    {
+      "lemma": "γυμνάσιον",
+      "lines": [
+        "62"
+      ],
+      "morph": "Sustantivo, neutro, singular, nominativo/acusativo",
+      "word": "γυµνάσιον"
+    },
+    {
+      "lemma": "γυμνός",
+      "lines": [
+        "86"
+      ],
+      "morph": "Adjetivo, singular, acusativo, masculino/neutro",
+      "word": "γυµνὸν,"
+    }
+  ],
+  "Δ": [
+    {
+      "lemma": "Δανιήλ",
+      "lines": [
+        "49"
+      ],
+      "morph": "Sustantivo propio, indeclinable.",
+      "word": "∆ανιὴλ"
+    },
+    {
+      "lemma": "δεσπότης",
+      "lines": [
+        "88"
+      ],
+      "morph": "Sustantivo, masculino, singular, genitivo.",
+      "word": "∆εσπότου"
+    },
+    {
+      "lemma": "διά",
+      "lines": [
+        "18",
+        "23",
+        "72"
+      ],
+      "morph": "Preposición.",
+      "word": "∆ιὰ"
+    },
+    {
+      "lemma": "διδάσκω",
+      "lines": [
+        "67"
+      ],
+      "morph": "Verbo, presente de indicativo, activo, 3ª persona singular.",
+      "word": "∆ιδάσκει"
+    },
+    {
+      "lemma": "δαπανάω",
+      "lines": [
+        "64"
+      ],
+      "morph": "Verbo, presente de infinitivo, activo.",
+      "word": "δαπανᾷν"
+    },
+    {
+      "lemma": "δέ",
+      "lines": [
+        "3",
+        "4",
+        "6",
+        "22",
+        "32",
+        "42",
+        "43",
+        "49",
+        "54",
+        "56",
+        "60",
+        "99",
+        "100"
+      ],
+      "morph": "Conjunción pospositiva.",
+      "word": "δὲ"
+    },
+    {
+      "lemma": "δέησις",
+      "lines": [
+        "59"
+      ],
+      "morph": "Sustantivo, femenino, singular, nominativo.",
+      "word": "δέησις"
+    },
+    {
+      "lemma": "δεύτερος",
+      "lines": [
+        "42"
+      ],
+      "morph": "Adjetivo, femenino, singular, nominativo.",
+      "word": "δευτέρα"
+    },
+    {
+      "lemma": "δεύτερος",
+      "lines": [
+        "42"
+      ],
+      "morph": "Adjetivo, neutro, singular, nominativo/acusativo/vocativo.",
+      "word": "δεύτερον"
+    },
+    {
+      "lemma": "δεύτερος",
+      "lines": [
+        "42"
+      ],
+      "morph": "Adjetivo, masculino/neutro, singular, genitivo.",
+      "word": "δευτέρου"
+    },
+    {
+      "lemma": "δέχομαι",
+      "lines": [
+        "70"
+      ],
+      "morph": "Verbo, presente de indicativo, medio/pasivo, 3ª persona singular.",
+      "word": "δέχεται"
+    },
+    {
+      "lemma": "δέχομαι",
+      "lines": [
+        "17"
+      ],
+      "morph": "Verbo, participio de presente, medio/pasivo, masculino, singular, nominativo.",
+      "word": "δεχόµενος"
+    },
+    {
+      "lemma": "δέχομαι",
+      "lines": [
+        "42"
+      ],
+      "morph": "Verbo, participio de presente, medio/pasivo, masculino/neutro, singular, genitivo.",
+      "word": "δεχοµένου"
+    },
+    {
+      "lemma": "δηλητήριον",
+      "lines": [
+        "15"
+      ],
+      "morph": "Sustantivo, neutro, singular, nominativo/acusativo/vocativo.",
+      "word": "δηλητήριον."
+    },
+    {
+      "lemma": "διά",
+      "lines": [
+        "25",
+        "51",
+        "57",
+        "80",
+        "95"
+      ],
+      "morph": "Preposición (elidida).",
+      "word": "δι'"
+    },
+    {
+      "lemma": "διά",
+      "lines": [
+        "3",
+        "18",
+        "19",
+        "27",
+        "28",
+        "29",
+        "40",
+        "41",
+        "48",
+        "49",
+        "52",
+        "99"
+      ],
+      "morph": "Preposición.",
+      "word": "διὰ"
+    },
+    {
+      "lemma": "διαθρύπτω",
+      "lines": [
+        "85"
+      ],
+      "morph": "Verbo, presente de imperativo, activo, 2ª persona singular.",
+      "word": "διάθρυπτε"
+    },
+    {
+      "lemma": "διαλύω",
+      "lines": [
+        "85"
+      ],
+      "morph": "Verbo, presente de imperativo, activo, 2ª persona singular.",
+      "word": "διάλυε"
+    },
+    {
+      "lemma": "διάνοια",
+      "lines": [
+        "73"
+      ],
+      "morph": "Sustantivo, femenino, singular, dativo.",
+      "word": "διανοίᾳ"
+    },
+    {
+      "lemma": "διάνοια",
+      "lines": [
+        "37"
+      ],
+      "morph": "Sustantivo, femenino, plural, dativo.",
+      "word": "διανοίαις"
+    },
+    {
+      "lemma": "διάνοια",
+      "lines": [
+        "12"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo.",
+      "word": "διάνοιαν"
+    },
+    {
+      "lemma": "διάνοια",
+      "lines": [
+        "68"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo.",
+      "word": "διανοίας"
+    },
+    {
+      "lemma": "διάνοια",
+      "lines": [
+        "62"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo.",
+      "word": "διανοίας,"
+    },
+    {
+      "lemma": "διατηρέω",
+      "lines": [
+        "69"
+      ],
+      "morph": "Verbo, presente de indicativo, activo, 3ª persona singular.",
+      "word": "διατηρεῖ"
+    },
+    {
+      "lemma": "διατίθημι",
+      "lines": [
+        "13"
+      ],
+      "morph": "Verbo, participio de presente, medio/pasivo, masculino, plural, nominativo.",
+      "word": "διατιθέµενοι."
+    },
+    {
+      "lemma": "δίδαγμα",
+      "lines": [
+        "17"
+      ],
+      "morph": "Sustantivo, neutro, plural, nominativo/acusativo/vocativo.",
+      "word": "διδάγµατα."
+    },
+    {
+      "lemma": "δίδωμι",
+      "lines": [
+        "42"
+      ],
+      "morph": "Verbo, participio de presente, medio/pasivo, femenino, singular, nominativo.",
+      "word": "διδοµένη,"
+    },
+    {
+      "lemma": "διέρχομαι",
+      "lines": [
+        "13"
+      ],
+      "morph": "Verbo, participio de presente, medio/pasivo, masculino, plural, nominativo.",
+      "word": "διεξερχόµενοι,"
+    },
+    {
+      "lemma": "δικαιοσύνη",
+      "lines": [
+        "60"
+      ],
+      "morph": "Sustantivo, femenino, singular, nominativo.",
+      "word": "δικαιοσύνη"
+    },
+    {
+      "lemma": "δικαιοσύνη",
+      "lines": [
+        "62"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo.",
+      "word": "δικαιοσύνης."
+    },
+    {
+      "lemma": "δίκαιος",
+      "lines": [
+        "27"
+      ],
+      "morph": "Adjetivo, masculino/femenino/neutro, plural, genitivo.",
+      "word": "δικαίων"
+    },
+    {
+      "lemma": "δικαστήριον",
+      "lines": [
+        "95"
+      ],
+      "morph": "Sustantivo, neutro, plural, dativo.",
+      "word": "δικαστηρίοις"
+    },
+    {
+      "lemma": "διοδεύω",
+      "lines": [
+        "43"
+      ],
+      "morph": "Verbo, participio de aoristo, activo, masculino, singular, nominativo.",
+      "word": "διοδεύσας,"
+    },
+    {
+      "lemma": "δόξα",
+      "lines": [
+        "100"
+      ],
+      "morph": "Sustantivo, femenino, singular, nominativo.",
+      "word": "δόξα"
+    },
+    {
+      "lemma": "δόξα",
+      "lines": [
+        "99"
+      ],
+      "morph": "Sustantivo, femenino, plural, dativo.",
+      "word": "δόξῃς"
+    },
+    {
+      "lemma": "δοῦλος",
+      "lines": [
+        "13"
+      ],
+      "morph": "Sustantivo, masculino, plural, nominativo/vocativo.",
+      "word": "δοῦλοι"
+    },
+    {
+      "lemma": "δριμύτατος",
+      "lines": [
+        "21"
+      ],
+      "morph": "Adjetivo, superlativo, masculino/neutro, plural, dativo.",
+      "word": "δριµυτάτοις"
+    },
+    {
+      "lemma": "δρόσος",
+      "lines": [
+        "52"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo.",
+      "word": "δρόσον"
+    },
+    {
+      "lemma": "δύναμαι",
+      "lines": [
+        "54"
+      ],
+      "morph": "Verbo, participio de presente, medio, neutro, singular, nominativo/acusativo/vocativo.",
+      "word": "δυνάµενον."
+    },
+    {
+      "lemma": "δύναμις",
+      "lines": [
+        "33"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo.",
+      "word": "δύναµιν"
+    },
+    {
+      "lemma": "δυσωπἐω",
+      "lines": [
+        "93"
+      ],
+      "morph": "Verbo, presente de infinitivo, activo.",
+      "word": "δυσωπεῖν"
+    },
+    {
+      "lemma": "δῶρον",
+      "lines": [
+        "93"
+      ],
+      "morph": "Sustantivo, neutro, plural, nominativo/acusativo/vocativo.",
+      "word": "δῶρα"
+    },
+    {
+      "lemma": "δώρημα",
+      "lines": [
+        "72"
+      ],
+      "morph": "Sustantivo, neutro, plural, genitivo.",
+      "word": "δωρηµάτων."
+    }
+  ],
+  "Ε": [
+    {
+      "lemma": "ἐάν",
+      "lines": [
+        "86"
+      ],
+      "morph": "Conjunción condicional (si, si es que)",
+      "word": "ἐὰν"
+    },
+    {
+      "lemma": "ἐάν",
+      "lines": [
+        "74"
+      ],
+      "morph": "Conjunción condicional (si, si es que)",
+      "word": "Ἐὰν"
+    },
+    {
+      "lemma": "ἑαυτοῦ",
+      "lines": [
+        "51"
+      ],
+      "morph": "Pronombre reflexivo, masculino, singular, acusativo (a sí mismo)",
+      "word": "ἑαυτὸν"
+    },
+    {
+      "lemma": "ἑαυτοῦ",
+      "lines": [
+        "48"
+      ],
+      "morph": "Pronombre reflexivo, común, plural, genitivo (de sí mismos/as)",
+      "word": "ἑαυτῶν"
+    },
+    {
+      "lemma": "βαστάζω",
+      "lines": [
+        "44"
+      ],
+      "morph": "Verbo, indicativo, imperfecto, activo, 3ª persona singular (llevaba, soportaba)",
+      "word": "ἐβάσταζε,"
+    },
+    {
+      "lemma": "ἑβδομάς",
+      "lines": [
+        "49"
+      ],
+      "morph": "Sustantivo, femenino, plural, acusativo (semanas)",
+      "word": "ἑβδοµάδας"
+    },
+    {
+      "lemma": "ἐγκράτεια",
+      "lines": [
+        "67"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (autocontrol, templanza)",
+      "word": "ἐγκράτειαν,"
+    },
+    {
+      "lemma": "ἐγκράτεια",
+      "lines": [
+        "73"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo (de autocontrol, de templanza)",
+      "word": "ἐγκρατείας"
+    },
+    {
+      "lemma": "ἐγκράτεια",
+      "lines": [
+        "62"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo (de autocontrol, de templanza)",
+      "word": "ἐγκρατείας,"
+    },
+    {
+      "lemma": "ἔδεσμα",
+      "lines": [
+        "19",
+        "70"
+      ],
+      "morph": "Sustantivo, neutro, plural, genitivo (de alimentos, de manjares)",
+      "word": "ἐδεσµάτων,"
+    },
+    {
+      "lemma": "διδάσκω",
+      "lines": [
+        "49"
+      ],
+      "morph": "Verbo, indicativo, aoristo, activo, 3ª persona singular (enseñó)",
+      "word": "ἐδίδαξεν."
+    },
+    {
+      "lemma": "δυσωπἐω",
+      "lines": [
+        "50"
+      ],
+      "morph": "Verbo, indicativo, aoristo, pasivo, 3ª persona plural (fueron avergonzados, se avergonzaron)",
+      "word": "Ἐδυσωπήθησαν"
+    },
+    {
+      "lemma": "θεάομαι",
+      "lines": [
+        "45",
+        "46"
+      ],
+      "morph": "Verbo, indicativo, aoristo, medio, 3ª persona singular (observó, contempló)",
+      "word": "ἐθεάσατο,"
+    },
+    {
+      "lemma": "ἔθος",
+      "lines": [
+        "94"
+      ],
+      "morph": "Sustantivo, neutro, singular, nominativo/acusativo (costumbre, hábito)",
+      "word": "ἔθος"
+    },
+    {
+      "lemma": "εἰ",
+      "lines": [
+        "23"
+      ],
+      "morph": "Conjunción condicional (si)",
+      "word": "εἰ"
+    },
+    {
+      "lemma": "εἰ",
+      "lines": [
+        "14"
+      ],
+      "morph": "Conjunción condicional (si)",
+      "word": "Εἰ"
+    },
+    {
+      "lemma": "εἰκών",
+      "lines": [
+        "73"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (imagen)",
+      "word": "εἰκόνα"
+    },
+    {
+      "lemma": "αἱρέω",
+      "lines": [
+        "48"
+      ],
+      "morph": "Verbo, indicativo, aoristo, medio, 3ª persona plural (eligieron)",
+      "word": "εἵλοντο"
+    },
+    {
+      "lemma": "εἰς",
+      "lines": [
+        "12",
+        "22",
+        "49",
+        "52",
+        "85",
+        "98",
+        "100"
+      ],
+      "morph": "Preposición con acusativo (a, hacia, para, en)",
+      "word": "εἰς"
+    },
+    {
+      "lemma": "εἰσάγω",
+      "lines": [
+        "85"
+      ],
+      "morph": "Verbo, imperativo, aoristo, activo, 2ª persona singular (introduce, lleva dentro)",
+      "word": "εἰσάγαγε"
+    },
+    {
+      "lemma": "εἰσακούω",
+      "lines": [
+        "90"
+      ],
+      "morph": "Verbo, indicativo, futuro, medio/pasivo, 3ª persona singular (será escuchado, escuchará [a sí mismo/por sí mismo])",
+      "word": "εἰσακούσεταί"
+    },
+    {
+      "lemma": "εἰσέρχομαι",
+      "lines": [
+        "28"
+      ],
+      "morph": "Verbo, indicativo, perfecto, activo, 3ª persona singular (ha entrado)",
+      "word": "εἰσελήλυθε,"
+    },
+    {
+      "lemma": "εἰσέρχομαι",
+      "lines": [
+        "52"
+      ],
+      "morph": "Participio, aoristo, activo, masculino, plural, nominativo (habiendo entrado)",
+      "word": "εἰσελθόντες"
+    },
+    {
+      "lemma": "ἐκ",
+      "lines": [
+        "26",
+        "59"
+      ],
+      "morph": "Preposición con genitivo (de, desde, fuera de)",
+      "word": "ἐκ"
+    },
+    {
+      "lemma": "ἐκδέχομαι",
+      "lines": [
+        "16"
+      ],
+      "morph": "Verbo, imperativo, presente, medio, 2ª persona singular (espera, recibe)",
+      "word": "ἐκδέχου,"
+    },
+    {
+      "lemma": "ἐκδιδάσκω",
+      "lines": [
+        "7"
+      ],
+      "morph": "Verbo, indicativo, presente, activo, 3ª persona singular (enseña, instruye completamente)",
+      "word": "ἐκδιδάσκει,"
+    },
+    {
+      "lemma": "ἐκδιδάσκω",
+      "lines": [
+        "31"
+      ],
+      "morph": "Participio, presente, medio/pasivo, masculino, singular, nominativo (siendo instruido, enseñándose a sí mismo)",
+      "word": "ἐκδιδασκόµενος."
+    },
+    {
+      "lemma": "ἐκεῖ",
+      "lines": [
+        "49",
+        "100"
+      ],
+      "morph": "Adverbio de lugar (allí)",
+      "word": "ἐκεῖ"
+    },
+    {
+      "lemma": "ἐκτελέω",
+      "lines": [
+        "58"
+      ],
+      "morph": "Participio, presente, medio/pasivo, femenino, singular, nominativo (siendo completada, realizada)",
+      "word": "ἐκτελουµένη."
+    },
+    {
+      "lemma": "ἐκτενῶς",
+      "lines": [
+        "57"
+      ],
+      "morph": "Adverbio de modo (con fervor, diligentemente)",
+      "word": "ἐκτενῶς"
+    },
+    {
+      "lemma": "λαμβάνω",
+      "lines": [
+        "34"
+      ],
+      "morph": "Verbo, indicativo, imperfecto, activo, 3ª persona singular (tomaba, recibía)",
+      "word": "ἐλάµβανε,"
+    },
+    {
+      "lemma": "ἐλπίς",
+      "lines": [
+        "100"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (esperanza)",
+      "word": "ἐλπίδα"
+    },
+    {
+      "lemma": "ἐμπίπλημι",
+      "lines": [
+        "19"
+      ],
+      "morph": "Verbo, subjuntivo, aoristo, pasivo, 2ª persona singular (que seas lleno, que te sacies)",
+      "word": "ἐµπλησθῇς"
+    },
+    {
+      "lemma": "ἐν",
+      "lines": [
+        "48",
+        "52",
+        "54",
+        "55",
+        "73",
+        "100"
+      ],
+      "morph": "Preposición con dativo (en, entre)",
+      "word": "ἐν"
+    },
+    {
+      "lemma": "ἐνεργέω",
+      "lines": [
+        "42"
+      ],
+      "morph": "Verbo, indicativo, aoristo, activo, 3ª persona singular (actuó, obró, realizó)",
+      "word": "ἐνήργησε"
+    },
+    {
+      "lemma": "ἔννατος",
+      "lines": [
+        "98"
+      ],
+      "morph": "Adjetivo numeral ordinal, femenino, singular, acusativo (novena)",
+      "word": "ἐννάτην,"
+    },
+    {
+      "lemma": "ἐννόημα",
+      "lines": [
+        "73"
+      ],
+      "morph": "Sustantivo, neutro, plural, genitivo (de pensamientos, de reflexiones)",
+      "word": "ἐννοηµάτων."
+    },
+    {
+      "lemma": "ἐνταῦθα",
+      "lines": [
+        "100"
+      ],
+      "morph": "Adverbio de lugar (aquí, allí)",
+      "word": "ἐνταῦθα"
+    },
+    {
+      "lemma": "ἐντείνω",
+      "lines": [
+        "40"
+      ],
+      "morph": "Participio, presente, medio/pasivo, masculino, singular, nominativo (esforzándose, extendiéndose)",
+      "word": "ἐντεινόµενος."
+    },
+    {
+      "lemma": "ἐντυγχάνω",
+      "lines": [
+        "97"
+      ],
+      "morph": "Verbo, subjuntivo, presente, activo, 2ª persona singular (que te encuentres, que intercedas)",
+      "word": "ἐντυγχάνῃς,"
+    },
+    {
+      "lemma": "ἐνυποµυχεύω",
+      "lines": [
+        "22"
+      ],
+      "morph": "Participio, presente, activo, femenino, singular, acusativo (que se esconde dentro, que acecha en lo profundo)",
+      "word": "ἐνυποµυχεύουσαν"
+    },
+    {
+      "lemma": "ἐξακολουθέω",
+      "lines": [
+        "52"
+      ],
+      "morph": "Verbo, infinitivo, aoristo, activo (seguir, obedecer)",
+      "word": "ἐξακολουθῆσαι,"
+    },
+    {
+      "lemma": "ἐξαφανίζω",
+      "lines": [
+        "22"
+      ],
+      "morph": "Verbo, indicativo, presente, activo, 3ª persona singular (destruye, elimina)",
+      "word": "ἐξαφανίζει"
+    },
+    {
+      "lemma": "ἐξάπτω",
+      "lines": [
+        "52"
+      ],
+      "morph": "Participio, aoristo, pasivo, femenino, singular, acusativo (habiendo sido encendida, inflamada)",
+      "word": "ἐξαφθεῖσαν"
+    },
+    {
+      "lemma": "ἐξεγείρω",
+      "lines": [
+        "3"
+      ],
+      "morph": "Verbo, indicativo, futuro, activo, 1ª persona singular (despertaré, levantaré)",
+      "word": "ἐξεγερῶ"
+    },
+    {
+      "lemma": "ἐκλέγομαι",
+      "lines": [
+        "83"
+      ],
+      "morph": "Verbo, indicativo, aoristo, medio, 1ª persona singular (elegí para mí, escogí)",
+      "word": "ἐξελεξάµην,"
+    },
+    {
+      "lemma": "ἐξουσιάζω",
+      "lines": [
+        "74"
+      ],
+      "morph": "Participio, presente, activo, masculino, singular, genitivo (del que tiene autoridad, del que domina)",
+      "word": "ἐξουσιάζοντος"
+    },
+    {
+      "lemma": "ἔξωθεν",
+      "lines": [
+        "73"
+      ],
+      "morph": "Adverbio de lugar (desde fuera)",
+      "word": "ἔξωθεν"
+    },
+    {
+      "lemma": "ἐπαγγελία",
+      "lines": [
+        "88"
+      ],
+      "morph": "Sustantivo, femenino, singular, nominativo (promesa)",
+      "word": "ἐπαγγελία."
+    },
+    {
+      "lemma": "ἔπαινος",
+      "lines": [
+        "57"
+      ],
+      "morph": "Sustantivo, masculino, singular, acusativo (alabanza, elogio)",
+      "word": "ἔπαινον"
+    },
+    {
+      "lemma": "ἐπακολουθέω",
+      "lines": [
+        "88"
+      ],
+      "morph": "Verbo, indicativo, presente, activo, 3ª persona singular (sigue, acompaña)",
+      "word": "ἐπακολουθεῖ"
+    },
+    {
+      "lemma": "ἐπαναβαίνω",
+      "lines": [
+        "73"
+      ],
+      "morph": "Participio, presente, activo, masculino/neutro, plural, genitivo (de los que suben, de los que ascienden)",
+      "word": "ἐπαναβαινόντων"
+    },
+    {
+      "lemma": "ἐπανακαλέω",
+      "lines": [
+        "39"
+      ],
+      "morph": "Verbo, indicativo, aoristo, medio, 3ª persona singular (llamó de nuevo, recuperó)",
+      "word": "ἐπανεκαλέσατο"
+    },
+    {
+      "lemma": "ἐπανορθόω",
+      "lines": [
+        "39"
+      ],
+      "morph": "Participio, aoristo, activo, femenino, singular, nominativo (habiendo corregido, rectificado)",
+      "word": "ἐπανορθώσασα"
+    },
+    {
+      "lemma": "ἐπεισέρχομαι",
+      "lines": [
+        "73"
+      ],
+      "morph": "Participio, presente, medio/pasivo, masculino/neutro, plural, genitivo (de los que entran además, de los que sobrevienen)",
+      "word": "ἐπεισερχοµένων"
+    },
+    {
+      "lemma": "ἐπί",
+      "lines": [
+        "27",
+        "28",
+        "74"
+      ],
+      "morph": "Preposición con genitivo/dativo/acusativo (sobre, en, a, para)",
+      "word": "ἐπὶ"
+    },
+    {
+      "lemma": "ἐπίβουλος",
+      "lines": [
+        "11"
+      ],
+      "morph": "Adjetivo, masculino/femenino, singular, acusativo (traicionero, insidioso)",
+      "word": "ἐπίβουλον"
+    },
+    {
+      "lemma": "ἐπιδείκνυμι",
+      "lines": [
+        "48"
+      ],
+      "morph": "Participio, presente, medio/pasivo, femenino, singular, nominativo (mostrando, exhibiendo)",
+      "word": "ἐπιδεικνυµένη."
+    },
+    {
+      "lemma": "ἐπιδείκνυμι",
+      "lines": [
+        "51"
+      ],
+      "morph": "Participio, aoristo, medio, masculino, singular, nominativo (habiendo mostrado, exhibido)",
+      "word": "ἐπιδειξάµενος."
+    },
+    {
+      "lemma": "πίνω",
+      "lines": [
+        "30"
+      ],
+      "morph": "Verbo, indicativo, aoristo, activo, 3ª persona singular (bebió)",
+      "word": "ἔπιεν·"
+    },
+    {
+      "lemma": "ἐπιζήμιος",
+      "lines": [
+        "4"
+      ],
+      "morph": "Adjetivo, neutro, singular, nominativo/acusativo (dañino, perjudicial)",
+      "word": "ἐπιζήµιον"
+    },
+    {
+      "lemma": "ἐπιθυμία",
+      "lines": [
+        "11"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (deseo, codicia)",
+      "word": "ἐπιθυµίαν"
+    },
+    {
+      "lemma": "ἐπιθυμία",
+      "lines": [
+        "3",
+        "5"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (deseo, codicia)",
+      "word": "ἐπιθυµίαν,"
+    },
+    {
+      "lemma": "ἐπιθυμία",
+      "lines": [
+        "49"
+      ],
+      "morph": "Sustantivo, femenino, plural, genitivo (de deseos, de codicias)",
+      "word": "ἐπιθυµιῶν"
+    },
+    {
+      "lemma": "ἐπιθυμέω",
+      "lines": [
+        "14"
+      ],
+      "morph": "Participio, presente, activo, masculino, singular, nominativo (deseando, codiciando)",
+      "word": "ἐπιθυµῶν"
+    },
+    {
+      "lemma": "ἐπικαρπία",
+      "lines": [
+        "5"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (fruto, provecho)",
+      "word": "ἐπικαρπίαν"
+    },
+    {
+      "lemma": "ἐπικουφίζω",
+      "lines": [
+        "44"
+      ],
+      "morph": "Participio, presente, activo, femenino, singular, nominativo (aliviando, que alivia)",
+      "word": "ἐπικουφίζουσα·"
+    },
+    {
+      "lemma": "ἐπιμέλεια",
+      "lines": [
+        "73"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (cuidado, diligencia)",
+      "word": "ἐπιµέλειαν,"
+    },
+    {
+      "lemma": "ἐπίπονος",
+      "lines": [
+        "23"
+      ],
+      "morph": "Adjetivo, masculino/femenino, singular, nominativo (penoso, laborioso)",
+      "word": "ἐπίπονος"
+    },
+    {
+      "lemma": "ἐπίσταμαι",
+      "lines": [
+        "66"
+      ],
+      "morph": "Verbo, indicativo, presente, medio, 3ª persona singular (sabe, entiende)",
+      "word": "ἐπίσταται"
+    },
+    {
+      "lemma": "ἐπισυνάπτω",
+      "lines": [
+        "29"
+      ],
+      "morph": "Participio, aoristo, activo, masculino, singular, nominativo (habiendo unido, añadido)",
+      "word": "ἐπισυνάψας,"
+    },
+    {
+      "lemma": "ἐπιτρέπω",
+      "lines": [
+        "36",
+        "71",
+        "102"
+      ],
+      "morph": "Verbo, indicativo, presente, pasivo, 3ª persona singular (se permite, es permitido)",
+      "word": "Επιτρέπετα"
+    },
+    {
+      "lemma": "ἐπιτυγχάνω",
+      "lines": [
+        "72"
+      ],
+      "morph": "Verbo, subjuntivo, aoristo, activo, 1ª persona plural (que alcancemos, que consigamos)",
+      "word": "ἐπιτύχωµεν"
+    },
+    {
+      "lemma": "ἐπιφέρω",
+      "lines": [
+        "89"
+      ],
+      "morph": "Verbo, indicativo, presente, activo, 3ª persona singular (trae, añade, impone)",
+      "word": "ἐπιφέρει·"
+    },
+    {
+      "lemma": "ἐπουράνιος",
+      "lines": [
+        "4"
+      ],
+      "morph": "Adjetivo, neutro, singular, nominativo/acusativo (celestial, divino)",
+      "word": "ἐπουράνιον"
+    },
+    {
+      "lemma": "ἐργάζομαι",
+      "lines": [
+        "55"
+      ],
+      "morph": "Participio, aoristo, medio, femenino, singular, genitivo (de haber trabajado, de haber hecho)",
+      "word": "ἐργασαµένης."
+    },
+    {
+      "lemma": "ἐργάζομαι",
+      "lines": [
+        "52"
+      ],
+      "morph": "Participio, aoristo, medio, masculino, plural, nominativo (habiendo trabajado, habiendo hecho)",
+      "word": "ἐργασάµενοι·"
+    },
+    {
+      "lemma": "ἐργασία",
+      "lines": [
+        "48"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (trabajo, actividad)",
+      "word": "ἐργασίαν"
+    },
+    {
+      "lemma": "ἐργασία",
+      "lines": [
+        "3"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (trabajo, actividad)",
+      "word": "ἐργασίαν."
+    },
+    {
+      "lemma": "ἔργον",
+      "lines": [
+        "58"
+      ],
+      "morph": "Sustantivo, neutro, plural, genitivo (de obras, de trabajos)",
+      "word": "ἔργων"
+    },
+    {
+      "lemma": "λέγω",
+      "lines": [
+        "91"
+      ],
+      "morph": "Verbo, indicativo, futuro, activo, 3ª persona singular (dirá)",
+      "word": "ἐρεῖ·"
+    },
+    {
+      "lemma": "ἔρημος",
+      "lines": [
+        "43"
+      ],
+      "morph": "Adjetivo, neutro, singular, nominativo/acusativo (desierto, solitario)",
+      "word": "ἔρηµον"
+    },
+    {
+      "lemma": "σβέννυμι",
+      "lines": [
+        "52"
+      ],
+      "morph": "Verbo, indicativo, aoristo, activo, 3ª persona plural (apagaron, extinguieron)",
+      "word": "ἔσβεσαν"
+    },
+    {
+      "lemma": "ἑσπέρα",
+      "lines": [
+        "98"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (tarde, noche)",
+      "word": "ἑσπέραν,"
+    },
+    {
+      "lemma": "εἰμί",
+      "lines": [
+        "10"
+      ],
+      "morph": "Verbo, indicativo, presente, 3ª persona singular (es)",
+      "word": "ἐστι"
+    },
+    {
+      "lemma": "εἰμί",
+      "lines": [
+        "99"
+      ],
+      "morph": "Verbo, indicativo, presente, 3ª persona singular (es, hay)",
+      "word": "ἔστι"
+    },
+    {
+      "lemma": "εἰμί",
+      "lines": [
+        "20",
+        "48"
+      ],
+      "morph": "Verbo, indicativo, presente, 3ª persona singular (es, hay)",
+      "word": "ἐστιν"
+    },
+    {
+      "lemma": "ἔτι",
+      "lines": [
+        "91"
+      ],
+      "morph": "Adverbio de tiempo (todavía, aún)",
+      "word": "ἔτι"
+    },
+    {
+      "lemma": "εὐδοκιμέω",
+      "lines": [
+        "27"
+      ],
+      "morph": "Participio, aoristo, activo, masculino, plural, acusativo (a los que tuvieron éxito, a los que fueron aprobados)",
+      "word": "εὐδοκιµήσαντας."
+    },
+    {
+      "lemma": "εὔλογος",
+      "lines": [
+        "35"
+      ],
+      "morph": "Adjetivo, neutro, singular, nominativo/acusativo (razonable, justo)",
+      "word": "εὔλογον"
+    },
+    {
+      "lemma": "εὐπρόσιτος",
+      "lines": [
+        "23"
+      ],
+      "morph": "Adjetivo, masculino/femenino, singular, nominativo (fácil de abordar, accesible)",
+      "word": "εὐπρόσιτος."
+    },
+    {
+      "lemma": "εὑρίσκω",
+      "lines": [
+        "33"
+      ],
+      "morph": "Verbo, indicativo, futuro, activo, 2ª persona singular (encontrarás)",
+      "word": "εὑρήσεις"
+    },
+    {
+      "lemma": "εὑρίσκω",
+      "lines": [
+        "27"
+      ],
+      "morph": "Verbo, indicativo, presente, activo, 2ª persona singular (encuentras)",
+      "word": "εὑρίσκεις"
+    },
+    {
+      "lemma": "εὔρωστος",
+      "lines": [
+        "70"
+      ],
+      "morph": "Adjetivo, neutro, singular, nominativo/acusativo (fuerte, robusto)",
+      "word": "εὔρωστον"
+    },
+    {
+      "lemma": "εὐσέβεια",
+      "lines": [
+        "8",
+        "67"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (piedad, devoción)",
+      "word": "εὐσέβειαν"
+    },
+    {
+      "lemma": "εὐσέβεια",
+      "lines": [
+        "73"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (piedad, devoción)",
+      "word": "εὐσέβειαν,"
+    },
+    {
+      "lemma": "εὐσέβεια",
+      "lines": [
+        "20"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo (piedad, devoción)",
+      "word": "εὐσέβειαν."
+    },
+    {
+      "lemma": "εὐσέβεια",
+      "lines": [
+        "62",
+        "93"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo (de piedad, de devoción)",
+      "word": "εὐσεβείας,"
+    },
+    {
+      "lemma": "εὐχή",
+      "lines": [
+        "94"
+      ],
+      "morph": "Sustantivo, femenino, plural, dativo (con oraciones, en oraciones)",
+      "word": "εὐχαῖς,"
+    },
+    {
+      "lemma": "εὐχή",
+      "lines": [
+        "58"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo (de oración)",
+      "word": "εὐχῆς"
+    },
+    {
+      "lemma": "ἐσθίω",
+      "lines": [
+        "30"
+      ],
+      "morph": "Verbo, indicativo, aoristo, activo, 3ª persona singular (comió)",
+      "word": "ἔφαγεν,"
+    },
+    {
+      "lemma": "ἔχομαι",
+      "lines": [
+        "93"
+      ],
+      "morph": "Verbo, indicativo, presente, medio/pasivo, 3ª persona singular (se aferra, está unido)",
+      "word": "ἔχεται"
+    },
+    {
+      "lemma": "ἔχθρα",
+      "lines": [
+        "99"
+      ],
+      "morph": "Sustantivo, femenino, singular, nominativo (enemistad)",
+      "word": "ἔχθρα"
+    },
+    {
+      "lemma": "χρηματίζω",
+      "lines": [
+        "29"
+      ],
+      "morph": "Verbo, indicativo, aoristo, activo, 3ª persona singular (advirtió, dio un oráculo, negoció)",
+      "word": "ἐχρηµάτισε·"
+    },
+    {
+      "lemma": "χρή",
+      "lines": [
+        "97"
+      ],
+      "morph": "Verbo impersonal, indicativo, imperfecto, activo, 3ª persona singular (era necesario, convenía)",
+      "word": "ἐχρῆν."
+    }
+  ],
+  "Ζ": [
+    {
+      "lemma": "ζῆλος",
+      "lines": [
+        "49"
+      ],
+      "morph": "Sustantivo, masculino, singular, acusativo",
+      "word": "ζῆλον"
+    },
+    {
+      "lemma": "ζημία",
+      "lines": [
+        "25"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo",
+      "word": "ζηµίαν"
+    },
+    {
+      "lemma": "ζημιόω",
+      "lines": [
+        "5"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, 3ª persona singular",
+      "word": "ζηµιοῖ"
+    },
+    {
+      "lemma": "ζυγός",
+      "lines": [
+        "62"
+      ],
+      "morph": "Sustantivo, masculino, singular, nominativo",
+      "word": "ζυγὸς"
+    }
+  ],
+  "Η": [
+    {
+      "lemma": "ἤ",
+      "lines": [
+        "95",
+        "97",
+        "98"
+      ],
+      "morph": "Conjunción disyuntiva",
+      "word": "ἢ"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "20",
+        "23",
+        "32",
+        "38",
+        "41",
+        "42",
+        "48",
+        "78",
+        "87",
+        "88",
+        "100"
+      ],
+      "morph": "Artículo definido, nominativo singular femenino",
+      "word": "ἡ"
+    },
+    {
+      "lemma": "ἡγέομαι",
+      "lines": [
+        "35"
+      ],
+      "morph": "Participio, aoristo medio, nominativo singular masculino",
+      "word": "ἠγησάµενος"
+    },
+    {
+      "lemma": "ἡδύς",
+      "lines": [
+        "16"
+      ],
+      "morph": "Adjetivo, nominativo/acusativo plural neutro",
+      "word": "ἡδέα"
+    },
+    {
+      "lemma": "ἡδονή",
+      "lines": [
+        "2",
+        "11"
+      ],
+      "morph": "Sustantivo, acusativo singular femenino",
+      "word": "ἡδονὴν"
+    },
+    {
+      "lemma": "ἡδονή",
+      "lines": [
+        "2"
+      ],
+      "morph": "Sustantivo, genitivo singular femenino",
+      "word": "ἡδονῆς"
+    },
+    {
+      "lemma": "ἡδυπάθεια",
+      "lines": [
+        "4"
+      ],
+      "morph": "Sustantivo, genitivo singular femenino",
+      "word": "ἡδυπαθείας"
+    },
+    {
+      "lemma": "ἡδύς",
+      "lines": [
+        "17"
+      ],
+      "morph": "Adjetivo, comparativo, nominativo/acusativo plural neutro",
+      "word": "ἡδύτερα"
+    },
+    {
+      "lemma": "ἔρχομαι",
+      "lines": [
+        "98"
+      ],
+      "morph": "Verbo, aoristo indicativo activo, 2ª persona singular",
+      "word": "Ἦλθες"
+    },
+    {
+      "lemma": "Ἠλίας",
+      "lines": [
+        "43"
+      ],
+      "morph": "Sustantivo propio, nominativo singular masculino",
+      "word": "Ἠλίας"
+    },
+    {
+      "lemma": "ἡλίκος",
+      "lines": [
+        "93"
+      ],
+      "morph": "Adjetivo, acusativo singular femenino o nominativo/acusativo plural neutro",
+      "word": "ἡλίκα"
+    },
+    {
+      "lemma": "ἡμέρα",
+      "lines": [
+        "39"
+      ],
+      "morph": "Sustantivo, dativo plural femenino",
+      "word": "ἡµέραις,"
+    },
+    {
+      "lemma": "ἡμέρα",
+      "lines": [
+        "83"
+      ],
+      "morph": "Sustantivo, acusativo singular femenino",
+      "word": "ἡµέran"
+    },
+    {
+      "lemma": "ἡμέρα",
+      "lines": [
+        "13",
+        "29",
+        "43",
+        "57"
+      ],
+      "morph": "Sustantivo, genitivo singular femenino o acusativo plural femenino",
+      "word": "ἡµέρας"
+    },
+    {
+      "lemma": "ἡμέρα",
+      "lines": [
+        "95"
+      ],
+      "morph": "Sustantivo, genitivo singular femenino o acusativo plural femenino",
+      "word": "ἡµέρας·"
+    },
+    {
+      "lemma": "ἡμέρα",
+      "lines": [
+        "57"
+      ],
+      "morph": "Sustantivo, genitivo plural femenino",
+      "word": "ἡµερῶν"
+    },
+    {
+      "lemma": "ἥμερος",
+      "lines": [
+        "50"
+      ],
+      "morph": "Adjetivo, comparativo, nominativo plural masculino",
+      "word": "ἡµερώτεροι"
+    },
+    {
+      "lemma": "ἐγώ",
+      "lines": [
+        "40",
+        "100"
+      ],
+      "morph": "Pronombre personal, dativo plural",
+      "word": "ἡµῖν"
+    },
+    {
+      "lemma": "εἰμί",
+      "lines": [
+        "55"
+      ],
+      "morph": "Verbo, imperfecto indicativo activo, 3ª persona singular",
+      "word": "ἦν"
+    },
+    {
+      "lemma": "ἡνιοχέω",
+      "lines": [
+        "67"
+      ],
+      "morph": "Participio, presente activo, nominativo singular femenino",
+      "word": "ἡνιοχοῦσα"
+    },
+    {
+      "lemma": "ἀρκέω",
+      "lines": [
+        "31"
+      ],
+      "morph": "Verbo, imperfecto indicativo medio/pasivo, 3ª persona singular",
+      "word": "ἠρκεῖτο"
+    },
+    {
+      "lemma": "αἰσθάνομαι",
+      "lines": [
+        "43"
+      ],
+      "morph": "Verbo, imperfecto indicativo medio, 3ª persona singular",
+      "word": "ᾐσθάνετο"
+    },
+    {
+      "lemma": "ἑτοιμάζω",
+      "lines": [
+        "100"
+      ],
+      "morph": "Participio, perfecto pasivo, acusativo singular femenino",
+      "word": "ἡτοιµασµένην"
+    }
+  ],
+  "Θ": [
+    {
+      "lemma": "θάνατος",
+      "lines": [
+        "56"
+      ],
+      "morph": "Sustantivo, masculino, singular, acusativo",
+      "word": "θάνατον"
+    },
+    {
+      "lemma": "θάνατος",
+      "lines": [
+        "59",
+        "61"
+      ],
+      "morph": "Sustantivo, masculino, singular, genitivo",
+      "word": "θανάτου"
+    },
+    {
+      "lemma": "Θεός",
+      "lines": [
+        "45",
+        "47",
+        "93"
+      ],
+      "morph": "Sustantivo, masculino, singular, acusativo",
+      "word": "Θεὸν"
+    },
+    {
+      "lemma": "θεραπεύω",
+      "lines": [
+        "97"
+      ],
+      "morph": "Verbo, presente, infinitivo, activo",
+      "word": "θεραπεύειν"
+    },
+    {
+      "lemma": "Θεός",
+      "lines": [
+        "28",
+        "87"
+      ],
+      "morph": "Sustantivo, masculino, singular, dativo",
+      "word": "Θεῷ"
+    },
+    {
+      "lemma": "θήρ",
+      "lines": [
+        "50"
+      ],
+      "morph": "Sustantivo, masculino, plural, nominativo",
+      "word": "θῆρες,"
+    },
+    {
+      "lemma": "θηρίον",
+      "lines": [
+        "50"
+      ],
+      "morph": "Sustantivo, neutro, plural, genitivo",
+      "word": "θηρίων"
+    },
+    {
+      "lemma": "θησαυρίζω",
+      "lines": [
+        "6"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, tercera persona singular",
+      "word": "θησαυρίζει"
+    }
+  ],
+  "Ι": [
+    {
+      "lemma": "ἴαμα",
+      "lines": [
+        "74"
+      ],
+      "morph": "Sustantivo, neutro, singular, nominativo/acusativo/vocativo",
+      "word": "ἴαµα"
+    },
+    {
+      "lemma": "ὁράω",
+      "lines": [
+        "86"
+      ],
+      "morph": "Verbo, aoristo, subjuntivo, activo, 2ª persona singular",
+      "word": "ἴδῃς"
+    },
+    {
+      "lemma": "ἴδιος",
+      "lines": [
+        "48"
+      ],
+      "morph": "Adjetivo, femenino, singular, dativo (usado adverbialmente)",
+      "word": "ἰδίᾳ"
+    },
+    {
+      "lemma": "ἴδιος",
+      "lines": [
+        "50"
+      ],
+      "morph": "Adjetivo, neutro, singular, nominativo/acusativo/vocativo",
+      "word": "ἴδιον"
+    },
+    {
+      "lemma": "ἴδιος",
+      "lines": [
+        "51"
+      ],
+      "morph": "Adjetivo, masculino/neutro, singular, dativo",
+      "word": "ἰδίῳ"
+    },
+    {
+      "lemma": "ἴδιος",
+      "lines": [
+        "65"
+      ],
+      "morph": "Adjetivo, masculino/femenino/neutro, plural, genitivo",
+      "word": "ἰδίων"
+    },
+    {
+      "lemma": "ἰδού",
+      "lines": [
+        "92"
+      ],
+      "morph": "Partícula interjectiva",
+      "word": "Ἰδοὺ"
+    },
+    {
+      "lemma": "Ἰησοῦς",
+      "lines": [
+        "100"
+      ],
+      "morph": "Sustantivo propio, masculino, singular, vocativo",
+      "word": "Ἰησοῦ,"
+    },
+    {
+      "lemma": "ἵνα",
+      "lines": [
+        "48"
+      ],
+      "morph": "Conjunción subordinante (con elisión)",
+      "word": "ἵν'"
+    },
+    {
+      "lemma": "ἵνα",
+      "lines": [
+        "2",
+        "18",
+        "19",
+        "24",
+        "25",
+        "72",
+        "73",
+        "80",
+        "96",
+        "98",
+        "99"
+      ],
+      "morph": "Conjunción subordinante",
+      "word": "ἵνα"
+    },
+    {
+      "lemma": "ἵνα",
+      "lines": [
+        "32",
+        "100"
+      ],
+      "morph": "Conjunción subordinante",
+      "word": "Ἵνα"
+    },
+    {
+      "lemma": "ἰσχύω",
+      "lines": [
+        "58"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, 3ª persona singular",
+      "word": "ἰσχύει"
+    }
+  ],
+  "Κ": [
+    {
+      "lemma": "καθαίρω",
+      "lines": [
+        "15"
+      ],
+      "morph": "Verbo, presente de indicativo, voz activa, tercera persona del singular.",
+      "word": "καθαίρει"
+    },
+    {
+      "lemma": "καθαρός",
+      "lines": [
+        "47"
+      ],
+      "morph": "Adjetivo, nominativo, masculino, plural.",
+      "word": "καθαροὶ"
+    },
+    {
+      "lemma": "καθαρός",
+      "lines": [
+        "68"
+      ],
+      "morph": "Adjetivo, nominativo/acusativo, neutro, singular.",
+      "word": "καθαρὸν"
+    },
+    {
+      "lemma": "καθαρότης",
+      "lines": [
+        "46"
+      ],
+      "morph": "Sustantivo, acusativo, femenino, singular.",
+      "word": "καθαρότητα."
+    },
+    {
+      "lemma": "κάθαρσις",
+      "lines": [
+        "62"
+      ],
+      "morph": "Sustantivo, nominativo, femenino, singular.",
+      "word": "κάθαρσις"
+    },
+    {
+      "lemma": "καθώς",
+      "lines": [
+        "45",
+        "94"
+      ],
+      "morph": "Conjunción.",
+      "word": "καθὼς"
+    },
+    {
+      "lemma": "καί",
+      "lines": [
+        "3",
+        "5",
+        "6",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "27",
+        "28",
+        "30",
+        "32",
+        "33",
+        "34",
+        "35",
+        "40",
+        "42",
+        "43",
+        "45",
+        "48",
+        "49",
+        "50",
+        "51",
+        "53",
+        "56",
+        "58",
+        "59",
+        "61",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69",
+        "73",
+        "77",
+        "80",
+        "87",
+        "88",
+        "90",
+        "93",
+        "99"
+      ],
+      "morph": "Conjunción.",
+      "word": "καὶ"
+    },
+    {
+      "lemma": "καί",
+      "lines": [
+        "21",
+        "43",
+        "52",
+        "99"
+      ],
+      "morph": "Conjunción.",
+      "word": "Καὶ"
+    },
+    {
+      "lemma": "καιρός",
+      "lines": [
+        "48"
+      ],
+      "morph": "Sustantivo, dativo, masculino, singular.",
+      "word": "καιρῷ"
+    },
+    {
+      "lemma": "κακία",
+      "lines": [
+        "78"
+      ],
+      "morph": "Sustantivo, nominativo, femenino, singular.",
+      "word": "κακία"
+    },
+    {
+      "lemma": "κακός",
+      "lines": [
+        "39"
+      ],
+      "morph": "Adjetivo, nominativo/acusativo, neutro, singular.",
+      "word": "κακὸν"
+    },
+    {
+      "lemma": "καλός",
+      "lines": [
+        "16"
+      ],
+      "morph": "Adjetivo, genitivo, plural, masculino/femenino/neutro.",
+      "word": "καλῶν"
+    },
+    {
+      "lemma": "κάματος",
+      "lines": [
+        "24"
+      ],
+      "morph": "Sustantivo, acusativo, masculino, singular.",
+      "word": "κάµατον"
+    },
+    {
+      "lemma": "κάματος",
+      "lines": [
+        "43"
+      ],
+      "morph": "Sustantivo, genitivo, masculino, singular.",
+      "word": "καµάτου·"
+    },
+    {
+      "lemma": "κάμινος",
+      "lines": [
+        "52"
+      ],
+      "morph": "Sustantivo, acusativo, femenino, singular.",
+      "word": "κάµινον"
+    },
+    {
+      "lemma": "κάμινος",
+      "lines": [
+        "52"
+      ],
+      "morph": "Sustantivo, genitivo, femenino, singular.",
+      "word": "καµίνου"
+    },
+    {
+      "lemma": "καρδία",
+      "lines": [
+        "46"
+      ],
+      "morph": "Sustantivo, dativo, femenino, singular.",
+      "word": "καρδίᾳ"
+    },
+    {
+      "lemma": "καρδία",
+      "lines": [
+        "47"
+      ],
+      "morph": "Sustantivo, dativo, femenino, singular.",
+      "word": "καρδίᾳ,"
+    },
+    {
+      "lemma": "καρτερικός",
+      "lines": [
+        "7"
+      ],
+      "morph": "Adjetivo, nominativo/acusativo, neutro, singular.",
+      "word": "καρτερικὸν"
+    },
+    {
+      "lemma": "κατά",
+      "lines": [
+        "22"
+      ],
+      "morph": "Preposición, forma elidida.",
+      "word": "κατ'"
+    },
+    {
+      "lemma": "κατά",
+      "lines": [
+        "22",
+        "46",
+        "48",
+        "52",
+        "73",
+        "97"
+      ],
+      "morph": "Preposición.",
+      "word": "κατὰ"
+    },
+    {
+      "lemma": "καταγωνίζομαι",
+      "lines": [
+        "11"
+      ],
+      "morph": "Verbo, presente de indicativo, voz media/pasiva, tercera persona del singular.",
+      "word": "καταγωνίζεται."
+    },
+    {
+      "lemma": "καταδαπανάω",
+      "lines": [
+        "48"
+      ],
+      "morph": "Participio, presente, voz activa, genitivo, masculino/neutro, plural.",
+      "word": "καταδαπανώντων,"
+    },
+    {
+      "lemma": "καταλαλιά",
+      "lines": [
+        "80"
+      ],
+      "morph": "Sustantivo, genitivo, femenino, singular.",
+      "word": "καταλαλιᾶς"
+    },
+    {
+      "lemma": "καταλείπω",
+      "lines": [
+        "57"
+      ],
+      "morph": "Verbo, perfecto de indicativo, voz activa, tercera persona del plural.",
+      "word": "καταλελοίπασιν."
+    },
+    {
+      "lemma": "καταλείπω",
+      "lines": [
+        "40"
+      ],
+      "morph": "Verbo, perfecto de indicativo, voz activa, tercera persona del singular.",
+      "word": "καταλέλοιπε"
+    },
+    {
+      "lemma": "κατανοέω",
+      "lines": [
+        "45"
+      ],
+      "morph": "Verbo, aoristo, infinitivo, voz activa.",
+      "word": "κατανοῆσαι."
+    },
+    {
+      "lemma": "κατανοέω",
+      "lines": [
+        "46"
+      ],
+      "morph": "Participio, aoristo, voz activa, nominativo, masculino, singular.",
+      "word": "κατανοήσας,"
+    },
+    {
+      "lemma": "κατανοέω",
+      "lines": [
+        "33"
+      ],
+      "morph": "Verbo, aoristo, imperativo, voz activa, segunda persona del singular.",
+      "word": "κατανόησον"
+    },
+    {
+      "lemma": "καταπάσσω",
+      "lines": [
+        "21"
+      ],
+      "morph": "Participio, presente, voz media/pasiva, nominativo/acusativo, neutro, plural.",
+      "word": "καταπασσόµενα,"
+    },
+    {
+      "lemma": "καταπαύω",
+      "lines": [
+        "74"
+      ],
+      "morph": "Verbo, futuro de indicativo, voz activa, tercera persona del singular.",
+      "word": "καταπαύσει"
+    },
+    {
+      "lemma": "καταπιάζω",
+      "lines": [
+        "65"
+      ],
+      "morph": "Verbo, presente, infinitivo, voz activa.",
+      "word": "καταπιάζειν·"
+    },
+    {
+      "lemma": "κατάπλασμα",
+      "lines": [
+        "20"
+      ],
+      "morph": "Sustantivo, nominativo/acusativo, neutro, singular.",
+      "word": "κατάπλασµα"
+    },
+    {
+      "lemma": "κατασκευάζω",
+      "lines": [
+        "7"
+      ],
+      "morph": "Verbo, presente de indicativo, voz activa, tercera persona del singular.",
+      "word": "κατασκευάζει·"
+    },
+    {
+      "lemma": "κατασκευάζω",
+      "lines": [
+        "65"
+      ],
+      "morph": "Verbo, presente, infinitivo, voz activa.",
+      "word": "κατασκευάζειν,"
+    },
+    {
+      "lemma": "κατατολμάω",
+      "lines": [
+        "50"
+      ],
+      "morph": "Participio, aoristo, voz activa, nominativo, masculino, plural.",
+      "word": "κατατολµήσαντες."
+    },
+    {
+      "lemma": "καταδαπανάω",
+      "lines": [
+        "53"
+      ],
+      "morph": "Verbo, aoristo de indicativo, voz activa, tercera persona del singular.",
+      "word": "κατεδαπάνησε·"
+    },
+    {
+      "lemma": "κατεργάζομαι",
+      "lines": [
+        "78"
+      ],
+      "morph": "Verbo, presente, infinitivo, voz media/pasiva.",
+      "word": "κατεργάζεσθαι."
+    },
+    {
+      "lemma": "κατατολμάω",
+      "lines": [
+        "53"
+      ],
+      "morph": "Verbo, aoristo de indicativo, voz activa, tercera persona del singular.",
+      "word": "κατετόλµησε"
+    },
+    {
+      "lemma": "κάτω",
+      "lines": [
+        "34"
+      ],
+      "morph": "Adverbio.",
+      "word": "κάτω"
+    },
+    {
+      "lemma": "κέρδος",
+      "lines": [
+        "4"
+      ],
+      "morph": "Sustantivo, nominativo/acusativo, neutro, singular.",
+      "word": "κέρδος"
+    },
+    {
+      "lemma": "κέρδος",
+      "lines": [
+        "4"
+      ],
+      "morph": "Sustantivo, nominativo/acusativo, neutro, singular.",
+      "word": "κέρδος,"
+    },
+    {
+      "lemma": "κοιλία",
+      "lines": [
+        "98"
+      ],
+      "morph": "Sustantivo, genitivo, femenino, singular.",
+      "word": "κοιλίας"
+    },
+    {
+      "lemma": "κοινωνέω",
+      "lines": [
+        "52"
+      ],
+      "morph": "Verbo, aoristo, infinitivo, voz activa.",
+      "word": "κοινωνῆσαι,"
+    },
+    {
+      "lemma": "κοινωνός",
+      "lines": [
+        "99"
+      ],
+      "morph": "Sustantivo, nominativo, masculino, singular.",
+      "word": "κοινωνὸς,"
+    },
+    {
+      "lemma": "κόλασις",
+      "lines": [
+        "57"
+      ],
+      "morph": "Sustantivo, acusativo, femenino, singular.",
+      "word": "κόλασιν"
+    },
+    {
+      "lemma": "κόσμος",
+      "lines": [
+        "57"
+      ],
+      "morph": "Sustantivo, dativo, masculino, singular.",
+      "word": "κόσµῳ"
+    },
+    {
+      "lemma": "κουφίζω",
+      "lines": [
+        "70"
+      ],
+      "morph": "Participio, presente, voz media/pasiva, nominativo/acusativo, neutro, singular.",
+      "word": "κουφιζόµενον"
+    },
+    {
+      "lemma": "κρέας",
+      "lines": [
+        "80"
+      ],
+      "morph": "Sustantivo, nominativo/acusativo, neutro, plural.",
+      "word": "κρέα"
+    },
+    {
+      "lemma": "κρείττων",
+      "lines": [
+        "6"
+      ],
+      "morph": "Adjetivo, genitivo, plural, masculino/femenino/neutro, comparativo.",
+      "word": "κρειττόνων"
+    },
+    {
+      "lemma": "κρέας",
+      "lines": [
+        "79"
+      ],
+      "morph": "Sustantivo, genitivo, neutro, plural.",
+      "word": "κρεῶν"
+    },
+    {
+      "lemma": "κτῆσις",
+      "lines": [
+        "88"
+      ],
+      "morph": "Sustantivo, nominativo, femenino, singular.",
+      "word": "κτῆσις,"
+    },
+    {
+      "lemma": "",
+      "lines": [
+        "21"
+      ],
+      "morph": "",
+      "word": "κωτάτοις"
+    }
+  ],
+  "Λ": [
+    {
+      "lemma": "λάκκος",
+      "lines": [
+        "49"
+      ],
+      "morph": "Sustantivo, masculino, singular, acusativo.",
+      "word": "λάκκον"
+    },
+    {
+      "lemma": "λαλῶ",
+      "lines": [
+        "91"
+      ],
+      "morph": "Participio, presente, activo, masculino/neutro, singular, genitivo.",
+      "word": "λαλοῦντός"
+    },
+    {
+      "lemma": "λαµβάνω",
+      "lines": [
+        "73"
+      ],
+      "morph": "Participio, presente, activo, masculino, singular, nominativo.",
+      "word": "λαµβάνων"
+    },
+    {
+      "lemma": "λαός",
+      "lines": [
+        "34"
+      ],
+      "morph": "Sustantivo, masculino, singular, nominativo.",
+      "word": "λαὸς"
+    },
+    {
+      "lemma": "λαός",
+      "lines": [
+        "33",
+        "41"
+      ],
+      "morph": "Sustantivo, masculino, singular, genitivo.",
+      "word": "λαοῦ"
+    },
+    {
+      "lemma": "λέγω",
+      "lines": [
+        "82"
+      ],
+      "morph": "Participio, presente, activo, masculino/neutro, singular, genitivo.",
+      "word": "λέγοντος·"
+    },
+    {
+      "lemma": "λέγω",
+      "lines": [
+        "2"
+      ],
+      "morph": "Verbo, futuro, indicativo, activo, tercera persona singular.",
+      "word": "λέξει"
+    },
+    {
+      "lemma": "λέων",
+      "lines": [
+        "49"
+      ],
+      "morph": "Sustantivo, masculino, plural, acusativo.",
+      "word": "λέοντας"
+    },
+    {
+      "lemma": "λέων",
+      "lines": [
+        "49"
+      ],
+      "morph": "Sustantivo, masculino, plural, genitivo.",
+      "word": "λεόντων"
+    },
+    {
+      "lemma": "λέων",
+      "lines": [
+        "51"
+      ],
+      "morph": "Sustantivo, masculino, plural, genitivo.",
+      "word": "λεόντων,"
+    },
+    {
+      "lemma": "λεπτύνω",
+      "lines": [
+        "22"
+      ],
+      "morph": "Participio, presente, activo, femenino, singular, nominativo.",
+      "word": "λεπτύνουσα,"
+    },
+    {
+      "lemma": "λιµός",
+      "lines": [
+        "48"
+      ],
+      "morph": "Sustantivo, masculino, singular, genitivo.",
+      "word": "λιµοῦ"
+    },
+    {
+      "lemma": "λόγιον",
+      "lines": [
+        "37"
+      ],
+      "morph": "Sustantivo, neutro, plural, nominativo/acusativo.",
+      "word": "λόγια"
+    },
+    {
+      "lemma": "λογικός",
+      "lines": [
+        "50"
+      ],
+      "morph": "Adjetivo, masculino/femenino/neutro, plural, genitivo.",
+      "word": "λογικῶν"
+    },
+    {
+      "lemma": "λόγος",
+      "lines": [
+        "3"
+      ],
+      "morph": "Sustantivo, masculino, singular, genitivo.",
+      "word": "λόγου"
+    },
+    {
+      "lemma": "λύω",
+      "lines": [
+        "85"
+      ],
+      "morph": "Verbo, presente, imperativo, activo, segunda persona singular.",
+      "word": "Λύε,"
+    },
+    {
+      "lemma": "λυπέω",
+      "lines": [
+        "35"
+      ],
+      "morph": "Participio, aoristo, pasivo, masculino, singular, nominativo.",
+      "word": "Λυπηθεὶς"
+    },
+    {
+      "lemma": "λυπέω",
+      "lines": [
+        "24"
+      ],
+      "morph": "Participio, presente, pasivo/medio, masculino, singular, nominativo.",
+      "word": "λυπούµενος"
+    }
+  ],
+  "Μ": [
+    {
+      "lemma": "μανθάνω",
+      "lines": [
+        "32"
+      ],
+      "morph": "Verbo, aoristo segundo, subjuntivo, activo, segunda persona singular.",
+      "word": "µάθῃς"
+    },
+    {
+      "lemma": "μανθάνω",
+      "lines": [
+        "48"
+      ],
+      "morph": "Verbo, aoristo segundo, subjuntivo, activo, tercera persona plural.",
+      "word": "µάθωσι"
+    },
+    {
+      "lemma": "μακάριος",
+      "lines": [
+        "47"
+      ],
+      "morph": "Adjetivo, nominativo, masculino, plural.",
+      "word": "Μακάριοι"
+    },
+    {
+      "lemma": "μακροθυμέω",
+      "lines": [
+        "17"
+      ],
+      "morph": "Verbo, presente, imperativo, activo, segunda persona singular.",
+      "word": "µακροθύµει"
+    },
+    {
+      "lemma": "μαλακτικός",
+      "lines": [
+        "20"
+      ],
+      "morph": "Adjetivo, acusativo, neutro, singular.",
+      "word": "µαλακτικὸν,"
+    },
+    {
+      "lemma": "μαραίνω",
+      "lines": [
+        "6"
+      ],
+      "morph": "Participio, presente, activo, nominativo, masculino, singular.",
+      "word": "µαραίνων,"
+    },
+    {
+      "lemma": "μέθη",
+      "lines": [
+        "32",
+        "38"
+      ],
+      "morph": "Sustantivo, nominativo, femenino, singular.",
+      "word": "µέθη"
+    },
+    {
+      "lemma": "μέθη",
+      "lines": [
+        "99"
+      ],
+      "morph": "Sustantivo, nominativo, femenino, singular.",
+      "word": "Μέθη"
+    },
+    {
+      "lemma": "μέθη",
+      "lines": [
+        "78"
+      ],
+      "morph": "Sustantivo, acusativo, femenino, singular.",
+      "word": "µέθην"
+    },
+    {
+      "lemma": "μεθύω",
+      "lines": [
+        "99"
+      ],
+      "morph": "Verbo, presente, infinitivo, activo.",
+      "word": "µεθύειν,"
+    },
+    {
+      "lemma": "μεθύω",
+      "lines": [
+        "99"
+      ],
+      "morph": "Participio, presente, activo, nominativo, masculino, plural.",
+      "word": "µεθύοντες,"
+    },
+    {
+      "lemma": "μεθύω",
+      "lines": [
+        "35"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, tercera persona plural.",
+      "word": "µεθύουσι"
+    },
+    {
+      "lemma": "μέγας",
+      "lines": [
+        "78"
+      ],
+      "morph": "Adjetivo, grado comparativo, acusativo, singular (masculino/femenino) o acusativo, plural (neutro).",
+      "word": "µείζονα"
+    },
+    {
+      "lemma": "μέν",
+      "lines": [
+        "3",
+        "5",
+        "21",
+        "22",
+        "41",
+        "53",
+        "99",
+        "100"
+      ],
+      "morph": "Partícula.",
+      "word": "µὲν"
+    },
+    {
+      "lemma": "μετά",
+      "lines": [
+        "58"
+      ],
+      "morph": "Preposición (forma elidida).",
+      "word": "µετ'"
+    },
+    {
+      "lemma": "μετά",
+      "lines": [
+        "45"
+      ],
+      "morph": "Preposición.",
+      "word": "µετὰ"
+    },
+    {
+      "lemma": "μεταποιέω",
+      "lines": [
+        "57"
+      ],
+      "morph": "Participio, aoristo, activo, nominativo, masculino, plural.",
+      "word": "µεταποιήσαντες,"
+    },
+    {
+      "lemma": "μετέρχομαι",
+      "lines": [
+        "48"
+      ],
+      "morph": "Participio, presente, medio, nominativo, masculino, plural.",
+      "word": "µετερχόµενοι,"
+    },
+    {
+      "lemma": "μέτρον",
+      "lines": [
+        "64"
+      ],
+      "morph": "Sustantivo, genitivo, neutro, singular.",
+      "word": "µέτρου"
+    },
+    {
+      "lemma": "μή",
+      "lines": [
+        "13",
+        "14",
+        "24",
+        "25",
+        "49",
+        "50",
+        "51",
+        "52",
+        "54",
+        "65",
+        "74",
+        "75",
+        "76",
+        "79",
+        "80",
+        "94",
+        "96",
+        "99"
+      ],
+      "morph": "Partícula negativa.",
+      "word": "µὴ"
+    },
+    {
+      "lemma": "μή",
+      "lines": [
+        "16",
+        "24"
+      ],
+      "morph": "Partícula negativa.",
+      "word": "Μὴ"
+    },
+    {
+      "lemma": "μηδέ",
+      "lines": [
+        "25",
+        "95"
+      ],
+      "morph": "Conjunción negativa.",
+      "word": "µηδὲ"
+    },
+    {
+      "lemma": "εἷς",
+      "lines": [
+        "43"
+      ],
+      "morph": "Numeral, dativo, femenino, singular.",
+      "word": "µιᾷ"
+    },
+    {
+      "lemma": "μνημόσυνον",
+      "lines": [
+        "40"
+      ],
+      "morph": "Sustantivo, nominativo o acusativo, neutro, singular.",
+      "word": "Μνηµόσυνον"
+    },
+    {
+      "lemma": "μυστήριον",
+      "lines": [
+        "40"
+      ],
+      "morph": "Sustantivo, nominativo o acusativo, neutro, singular.",
+      "word": "µυστήριόν"
+    },
+    {
+      "lemma": "Μωϋσῆς",
+      "lines": [
+        "33"
+      ],
+      "morph": "Sustantivo propio, genitivo, masculino, singular.",
+      "word": "Μωϋσέως"
+    },
+    {
+      "lemma": "Μωϋσῆς",
+      "lines": [
+        "28",
+        "34",
+        "35"
+      ],
+      "morph": "Sustantivo propio, nominativo, masculino, singular.",
+      "word": "Μωϋσῆς"
+    }
+  ],
+  "Ν": [
+    {
+      "lemma": "νέμω",
+      "lines": [
+        "22"
+      ],
+      "morph": "Participio presente medio/pasivo, femenino, acusativo singular",
+      "word": "νεµοµένην"
+    },
+    {
+      "lemma": "νεότης",
+      "lines": [
+        "66"
+      ],
+      "morph": "Sustantivo, genitivo singular, femenino",
+      "word": "νεότητος"
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "8",
+        "9",
+        "10",
+        "22",
+        "26",
+        "39",
+        "44",
+        "58",
+        "62",
+        "63",
+        "66"
+      ],
+      "morph": "Sustantivo, nominativo singular, femenino",
+      "word": "νηστεία"
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "7",
+        "12",
+        "59",
+        "61",
+        "69",
+        "81"
+      ],
+      "morph": "Sustantivo, nominativo singular, femenino",
+      "word": "Νηστεία"
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "6",
+        "14",
+        "32",
+        "52",
+        "57"
+      ],
+      "morph": "Sustantivo, dativo singular, femenino",
+      "word": "νηστείᾳ"
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "20",
+        "23",
+        "32",
+        "48",
+        "87"
+      ],
+      "morph": "Sustantivo, nominativo singular, femenino",
+      "word": "νηστεία,"
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "38"
+      ],
+      "morph": "Sustantivo, dativo singular, femenino",
+      "word": "νηστείᾳ."
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "16",
+        "29",
+        "45",
+        "83"
+      ],
+      "morph": "Sustantivo, acusativo singular, femenino",
+      "word": "νηστείαν"
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "51"
+      ],
+      "morph": "Sustantivo, acusativo singular, femenino",
+      "word": "νηστείαν,"
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "3",
+        "4",
+        "26",
+        "27",
+        "28",
+        "29",
+        "48",
+        "52",
+        "53",
+        "54",
+        "55",
+        "98",
+        "99"
+      ],
+      "morph": "Sustantivo, genitivo singular, femenino",
+      "word": "νηστείας"
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "93"
+      ],
+      "morph": "Sustantivo, genitivo singular, femenino",
+      "word": "νηστείας,"
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "33"
+      ],
+      "morph": "Sustantivo, genitivo singular, femenino",
+      "word": "νηστείας."
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "1"
+      ],
+      "morph": "Sustantivo, genitivo singular, femenino",
+      "word": "Νηστείας."
+    },
+    {
+      "lemma": "νηστεία",
+      "lines": [
+        "13"
+      ],
+      "morph": "Sustantivo, genitivo plural, femenino",
+      "word": "νηστειῶν"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "77",
+        "80"
+      ],
+      "morph": "Verbo, imperativo presente activo, segunda persona singular",
+      "word": "νήστευε"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "94"
+      ],
+      "morph": "Verbo, imperativo presente activo, segunda persona singular",
+      "word": "Νήστευε"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "49"
+      ],
+      "morph": "Verbo, infinitivo presente activo",
+      "word": "νηστεύειν"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "18"
+      ],
+      "morph": "Verbo, indicativo presente activo, segunda persona singular",
+      "word": "νηστεύεις"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "76",
+        "79"
+      ],
+      "morph": "Verbo, indicativo presente activo, segunda persona singular",
+      "word": "Νηστεύεις"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "56"
+      ],
+      "morph": "Participio aoristo activo, nominativo plural, masculino",
+      "word": "νηστεύσαντες"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "28"
+      ],
+      "morph": "Participio aoristo activo, nominativo singular, masculino",
+      "word": "νηστεύσας"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "43",
+        "48",
+        "49"
+      ],
+      "morph": "Participio aoristo activo, nominativo singular, masculino",
+      "word": "νηστεύσας,"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "24"
+      ],
+      "morph": "Verbo, subjuntivo aoristo activo, segunda persona singular",
+      "word": "νηστεύσῃς,"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "72"
+      ],
+      "morph": "Verbo, subjuntivo aoristo activo, primera persona plural",
+      "word": "νηστεύσωµεν,"
+    },
+    {
+      "lemma": "νηστευτής",
+      "lines": [
+        "50"
+      ],
+      "morph": "Sustantivo, acusativo singular, masculino",
+      "word": "νηστευτὴν"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "13"
+      ],
+      "morph": "Verbo, subjuntivo presente activo, primera persona plural",
+      "word": "Νηστεύωµεν"
+    },
+    {
+      "lemma": "νηστεύω",
+      "lines": [
+        "73"
+      ],
+      "morph": "Participio presente activo, nominativo singular, masculino",
+      "word": "Νηστεύων"
+    },
+    {
+      "lemma": "νήφω",
+      "lines": [
+        "99"
+      ],
+      "morph": "Verbo, infinitivo presente activo",
+      "word": "νήφειν,"
+    },
+    {
+      "lemma": "Νινευΐτης",
+      "lines": [
+        "56"
+      ],
+      "morph": "Sustantivo, nominativo plural, masculino",
+      "word": "Νινευῗται"
+    },
+    {
+      "lemma": "νομοθεσία",
+      "lines": [
+        "41"
+      ],
+      "morph": "Sustantivo, nominativo singular, femenino",
+      "word": "νοµοθεσία"
+    },
+    {
+      "lemma": "νομοθεσία",
+      "lines": [
+        "31"
+      ],
+      "morph": "Sustantivo, acusativo singular, femenino",
+      "word": "νοµοθεσίαν"
+    },
+    {
+      "lemma": "νομοθέτης",
+      "lines": [
+        "29"
+      ],
+      "morph": "Sustantivo, nominativo singular, masculino",
+      "word": "νοµοθέτης"
+    },
+    {
+      "lemma": "νομοθέτης",
+      "lines": [
+        "31"
+      ],
+      "morph": "Sustantivo, genitivo singular, masculino",
+      "word": "νοµοθέτου"
+    },
+    {
+      "lemma": "νόμος",
+      "lines": [
+        "34",
+        "35",
+        "52"
+      ],
+      "morph": "Sustantivo, acusativo singular, masculino",
+      "word": "νόµον"
+    },
+    {
+      "lemma": "νόμος",
+      "lines": [
+        "42"
+      ],
+      "morph": "Sustantivo, acusativo singular, masculino",
+      "word": "νόµον,"
+    },
+    {
+      "lemma": "νόμος",
+      "lines": [
+        "39"
+      ],
+      "morph": "Sustantivo, acusativo singular, masculino",
+      "word": "νόµον."
+    },
+    {
+      "lemma": "νόσημα",
+      "lines": [
+        "70"
+      ],
+      "morph": "Sustantivo, genitivo plural, neutro",
+      "word": "νοσηµάτων,"
+    },
+    {
+      "lemma": "νουθεσία",
+      "lines": [
+        "94"
+      ],
+      "morph": "Sustantivo, dativo plural, femenino",
+      "word": "νουθεσίαις,"
+    },
+    {
+      "lemma": "νῦν",
+      "lines": [
+        "75"
+      ],
+      "morph": "Adverbio",
+      "word": "νῦν"
+    }
+  ],
+  "Ξ": [],
+  "Ο": [
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "6",
+        "34"
+      ],
+      "morph": "Artículo definido, masculino, nominativo, singular.",
+      "word": "ὁ"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "5"
+      ],
+      "morph": "Artículo definido, masculino, nominativo, singular.",
+      "word": "Ὁ"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "47",
+        "50",
+        "52",
+        "99"
+      ],
+      "morph": "Artículo definido, masculino, nominativo, plural.",
+      "word": "οἱ"
+    },
+    {
+      "lemma": "οἶδα",
+      "lines": [
+        "65",
+        "78"
+      ],
+      "morph": "Verbo, indicativo, perfecto, activo, 3ª persona, singular.",
+      "word": "οἶδε"
+    },
+    {
+      "lemma": "οἶδα",
+      "lines": [
+        "63",
+        "68"
+      ],
+      "morph": "Verbo, indicativo, perfecto, activo, 3ª persona, singular.",
+      "word": "Οἶδε"
+    },
+    {
+      "lemma": "οἶκος",
+      "lines": [
+        "85"
+      ],
+      "morph": "Sustantivo, masculino, acusativo, singular.",
+      "word": "οἶκόν"
+    },
+    {
+      "lemma": "οἰκονόμος",
+      "lines": [
+        "65"
+      ],
+      "morph": "Sustantivo, masculino, acusativo, singular.",
+      "word": "οἰκονόµον"
+    },
+    {
+      "lemma": "οἶνος",
+      "lines": [
+        "30"
+      ],
+      "morph": "Sustantivo, masculino, acusativo, singular.",
+      "word": "οἶνον"
+    },
+    {
+      "lemma": "οἶνος",
+      "lines": [
+        "76",
+        "99"
+      ],
+      "morph": "Sustantivo, masculino, genitivo, singular.",
+      "word": "οἴνου"
+    },
+    {
+      "lemma": "οἶνος",
+      "lines": [
+        "99"
+      ],
+      "morph": "Sustantivo, masculino, genitivo, singular.",
+      "word": "οἴνου!"
+    },
+    {
+      "lemma": "οἶνος",
+      "lines": [
+        "37"
+      ],
+      "morph": "Sustantivo, masculino, dativo, singular.",
+      "word": "οἴνῳ"
+    },
+    {
+      "lemma": "οἷος",
+      "lines": [
+        "45"
+      ],
+      "morph": "Pronombre/Adjetivo relativo-interrogativo, neutro, nominativo/acusativo, singular (con ν enclítica).",
+      "word": "οἷόν"
+    },
+    {
+      "lemma": "ὅλος",
+      "lines": [
+        "95"
+      ],
+      "morph": "Adjetivo, femenino, genitivo, singular.",
+      "word": "ὅλης"
+    },
+    {
+      "lemma": "ὀλίγος",
+      "lines": [
+        "22",
+        "25"
+      ],
+      "morph": "Adjetivo, neutro, nominativo/acusativo, singular.",
+      "word": "ὀλίγον"
+    },
+    {
+      "lemma": "ὀλίγος",
+      "lines": [
+        "57"
+      ],
+      "morph": "Adjetivo, genitivo, plural.",
+      "word": "ὀλίγων"
+    },
+    {
+      "lemma": "ὅλος",
+      "lines": [
+        "51"
+      ],
+      "morph": "Adjetivo, neutro, nominativo/acusativo, singular.",
+      "word": "ὅλον"
+    },
+    {
+      "lemma": "ὅλος",
+      "lines": [
+        "25"
+      ],
+      "morph": "Adjetivo, masculino/neutro, genitivo, singular.",
+      "word": "ὅλου"
+    },
+    {
+      "lemma": "ὄμμα",
+      "lines": [
+        "68"
+      ],
+      "morph": "Sustantivo, neutro, nominativo/acusativo, singular.",
+      "word": "ὄµµα."
+    },
+    {
+      "lemma": "ὁμοδίαιτος",
+      "lines": [
+        "62"
+      ],
+      "morph": "Adjetivo, nominativo, singular.",
+      "word": "ὁµοδίαιτος"
+    },
+    {
+      "lemma": "ὅμοιος",
+      "lines": [
+        "56"
+      ],
+      "morph": "Adverbio.",
+      "word": "Ὁµοίως"
+    },
+    {
+      "lemma": "ὅς",
+      "lines": [
+        "97"
+      ],
+      "morph": "Pronombre relativo, masculino, acusativo, singular.",
+      "word": "ὃν"
+    },
+    {
+      "lemma": "ὅσπερ",
+      "lines": [
+        "48"
+      ],
+      "morph": "Pronombre relativo, neutro, nominativo/acusativo, singular.",
+      "word": "ὅπερ"
+    },
+    {
+      "lemma": "ὅπλον",
+      "lines": [
+        "10",
+        "51"
+      ],
+      "morph": "Sustantivo, neutro, nominativo/acusativo, singular.",
+      "word": "ὅπλον"
+    },
+    {
+      "lemma": "ὁράω",
+      "lines": [
+        "89"
+      ],
+      "morph": "Verbo, imperativo, presente, activo, 2ª persona, singular.",
+      "word": "Ὅρα"
+    },
+    {
+      "lemma": "ὁράω",
+      "lines": [
+        "58"
+      ],
+      "morph": "Verbo, imperativo, presente, activo, 2ª persona, plural.",
+      "word": "Ὁρᾶτε,"
+    },
+    {
+      "lemma": "ὀργή",
+      "lines": [
+        "61"
+      ],
+      "morph": "Sustantivo, femenino, genitivo, singular.",
+      "word": "ὀργῆς"
+    },
+    {
+      "lemma": "ὄρεξις",
+      "lines": [
+        "98"
+      ],
+      "morph": "Sustantivo, femenino, acusativo, singular.",
+      "word": "ὄρεξιν."
+    },
+    {
+      "lemma": "ὅσος",
+      "lines": [
+        "26"
+      ],
+      "morph": "Pronombre/Adjetivo correlativo, masculino/neutro, dativo, singular.",
+      "word": "Ὅσῳ"
+    },
+    {
+      "lemma": "ὅτι",
+      "lines": [
+        "25",
+        "41",
+        "47",
+        "74"
+      ],
+      "morph": "Conjunción.",
+      "word": "ὅτι"
+    },
+    {
+      "lemma": "οὐ",
+      "lines": [
+        "64",
+        "70"
+      ],
+      "morph": "Adverbio de negación.",
+      "word": "οὐ"
+    },
+    {
+      "lemma": "οὐ",
+      "lines": [
+        "46",
+        "83"
+      ],
+      "morph": "Adverbio de negación.",
+      "word": "Οὐ"
+    },
+    {
+      "lemma": "οὐαί",
+      "lines": [
+        "99"
+      ],
+      "morph": "Interjección.",
+      "word": "Οὐαὶ"
+    },
+    {
+      "lemma": "οὐδέ",
+      "lines": [
+        "83"
+      ],
+      "morph": "Conjunción coordinante.",
+      "word": "οὐδὲ"
+    },
+    {
+      "lemma": "οὐδέ",
+      "lines": [
+        "55"
+      ],
+      "morph": "Conjunción coordinante.",
+      "word": "Οὐδὲ"
+    },
+    {
+      "lemma": "οὐ",
+      "lines": [
+        "35",
+        "43",
+        "99"
+      ],
+      "morph": "Adverbio de negación (forma en κ).",
+      "word": "οὐκ"
+    },
+    {
+      "lemma": "οὐρανός",
+      "lines": [
+        "12",
+        "48"
+      ],
+      "morph": "Sustantivo, masculino, acusativo, singular.",
+      "word": "οὐρανὸν"
+    },
+    {
+      "lemma": "οὐρανός",
+      "lines": [
+        "88"
+      ],
+      "morph": "Sustantivo, masculino, genitivo, plural.",
+      "word": "οὐρανῶν"
+    },
+    {
+      "lemma": "οὔτε",
+      "lines": [
+        "30"
+      ],
+      "morph": "Conjunción coordinante.",
+      "word": "οὔτε"
+    },
+    {
+      "lemma": "οὔτε",
+      "lines": [
+        "11"
+      ],
+      "morph": "Conjunción coordinante.",
+      "word": "Οὔτε"
+    },
+    {
+      "lemma": "οὕτω",
+      "lines": [
+        "73"
+      ],
+      "morph": "Adverbio de modo.",
+      "word": "οὕτω"
+    },
+    {
+      "lemma": "οὕτω",
+      "lines": [
+        "48"
+      ],
+      "morph": "Adverbio de modo.",
+      "word": "Οὕτω"
+    },
+    {
+      "lemma": "οὕτω",
+      "lines": [
+        "75"
+      ],
+      "morph": "Adverbio de modo (forma en ς).",
+      "word": "οὕτως"
+    },
+    {
+      "lemma": "οὐ",
+      "lines": [
+        "2",
+        "48",
+        "98"
+      ],
+      "morph": "Adverbio de negación (forma en χ).",
+      "word": "οὐχ"
+    },
+    {
+      "lemma": "ὀφθαλμός",
+      "lines": [
+        "46"
+      ],
+      "morph": "Sustantivo, masculino, dativo, plural.",
+      "word": "ὀφθαλµοῖς"
+    },
+    {
+      "lemma": "ὀφθαλμός",
+      "lines": [
+        "51"
+      ],
+      "morph": "Sustantivo, masculino, acusativo, plural.",
+      "word": "ὀφθαλµοὺς"
+    },
+    {
+      "lemma": "ὀχυρόω",
+      "lines": [
+        "51"
+      ],
+      "morph": "Verbo, participio, aoristo, activo, masculino, nominativo, singular.",
+      "word": "ὀχυρώσας,"
+    },
+    {
+      "lemma": "ὁράω",
+      "lines": [
+        "47"
+      ],
+      "morph": "Verbo, indicativo, futuro, medio, 3ª persona, plural.",
+      "word": "ὄψονται."
+    }
+  ],
+  "Π": [
+    {
+      "lemma": "πάθος",
+      "lines": [
+        "21"
+      ],
+      "morph": "Sustantivo, neutro, plural, nominativo/acusativo/vocativo.",
+      "word": "πάθη"
+    },
+    {
+      "lemma": "παιδαγωγέω",
+      "lines": [
+        "73"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, tercera persona singular.",
+      "word": "παιδαγωγεῖ"
+    },
+    {
+      "lemma": "παῖς",
+      "lines": [
+        "52"
+      ],
+      "morph": "Sustantivo, masculino/femenino, plural, nominativo/vocativo.",
+      "word": "παῖδες"
+    },
+    {
+      "lemma": "παιδεύω",
+      "lines": [
+        "48"
+      ],
+      "morph": "Participio, presente, medio/pasivo, masculino, plural, nominativo.",
+      "word": "παιδευόµενοι,"
+    },
+    {
+      "lemma": "πάλιν",
+      "lines": [
+        "39"
+      ],
+      "morph": "Adverbio.",
+      "word": "πάλιν"
+    },
+    {
+      "lemma": "πᾶς",
+      "lines": [
+        "85"
+      ],
+      "morph": "Adjetivo, neutro, plural, nominativo/acusativo.",
+      "word": "πάντα"
+    },
+    {
+      "lemma": "πᾶς",
+      "lines": [
+        "53"
+      ],
+      "morph": "Adjetivo, masculino, plural, acusativo.",
+      "word": "πάντας"
+    },
+    {
+      "lemma": "πανταχοῦ",
+      "lines": [
+        "42"
+      ],
+      "morph": "Adverbio.",
+      "word": "πανταχοῦ"
+    },
+    {
+      "lemma": "παρά",
+      "lines": [
+        "31"
+      ],
+      "morph": "Preposición.",
+      "word": "παρὰ"
+    },
+    {
+      "lemma": "παραγίγνομαι",
+      "lines": [
+        "93"
+      ],
+      "morph": "Verbo, aoristo, infinitivo, medio.",
+      "word": "παραγενέσθαι;"
+    },
+    {
+      "lemma": "παραγίγνομαι",
+      "lines": [
+        "49"
+      ],
+      "morph": "Participio, aoristo, medio, masculino, singular, nominativo.",
+      "word": "παραγενόµενος,"
+    },
+    {
+      "lemma": "παραδέχομαι",
+      "lines": [
+        "11"
+      ],
+      "morph": "Verbo, presente, indicativo, medio, tercera persona singular.",
+      "word": "παραδέχεται,"
+    },
+    {
+      "lemma": "παραδίδωμι",
+      "lines": [
+        "37"
+      ],
+      "morph": "Verbo, presente, infinitivo, medio/pasivo.",
+      "word": "παραδίδοσθαι."
+    },
+    {
+      "lemma": "παρατίθημι",
+      "lines": [
+        "51"
+      ],
+      "morph": "Participio, aoristo, medio, masculino, singular, nominativo.",
+      "word": "παραθέµενος"
+    },
+    {
+      "lemma": "παραμένω",
+      "lines": [
+        "94"
+      ],
+      "morph": "Verbo, presente, imperativo, activo, segunda persona singular.",
+      "word": "παράµενε"
+    },
+    {
+      "lemma": "παράνομος",
+      "lines": [
+        "52"
+      ],
+      "morph": "Adjetivo, masculino/neutro, singular, dativo.",
+      "word": "παρανόµῳ"
+    },
+    {
+      "lemma": "πάρειμι",
+      "lines": [
+        "92"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, primera persona singular.",
+      "word": "πάρειµι."
+    },
+    {
+      "lemma": "παρέχω",
+      "lines": [
+        "64"
+      ],
+      "morph": "Participio, presente, medio, femenino, singular, nominativo.",
+      "word": "παρεχοµένη·"
+    },
+    {
+      "lemma": "πᾶς",
+      "lines": [
+        "87"
+      ],
+      "morph": "Adjetivo, masculino/neutro, plural, dativo.",
+      "word": "πᾶσιν"
+    },
+    {
+      "lemma": "παύω",
+      "lines": [
+        "3"
+      ],
+      "morph": "Verbo, futuro, indicativo, activo, primera persona singular.",
+      "word": "παύσω"
+    },
+    {
+      "lemma": "πεινάω",
+      "lines": [
+        "85"
+      ],
+      "morph": "Participio, presente, activo, masculino/neutro, singular, dativo.",
+      "word": "πεινῶντι"
+    },
+    {
+      "lemma": "πένης",
+      "lines": [
+        "63"
+      ],
+      "morph": "Sustantivo, masculino, singular, acusativo.",
+      "word": "πένητα"
+    },
+    {
+      "lemma": "περί",
+      "lines": [
+        "16"
+      ],
+      "morph": "Preposición.",
+      "word": "περὶ"
+    },
+    {
+      "lemma": "περί",
+      "lines": [
+        "1"
+      ],
+      "morph": "Preposición.",
+      "word": "Περὶ"
+    },
+    {
+      "lemma": "περιβάλλω",
+      "lines": [
+        "86"
+      ],
+      "morph": "Verbo, aoristo, imperativo, activo, segunda persona singular.",
+      "word": "περίβαλε."
+    },
+    {
+      "lemma": "περιίστημι",
+      "lines": [
+        "53"
+      ],
+      "morph": "Participio, perfecto, activo, masculino, plural, acusativo.",
+      "word": "περιεστῶτας"
+    },
+    {
+      "lemma": "περιτίθημι",
+      "lines": [
+        "67"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, tercera persona singular.",
+      "word": "περιτίθησι"
+    },
+    {
+      "lemma": "πιστεύω",
+      "lines": [
+        "35"
+      ],
+      "morph": "Verbo, presente, infinitivo, pasivo.",
+      "word": "πιστεύεσθαι,"
+    },
+    {
+      "lemma": "πιστῶς",
+      "lines": [
+        "42"
+      ],
+      "morph": "Adverbio.",
+      "word": "πιστῶς"
+    },
+    {
+      "lemma": "πλείων",
+      "lines": [
+        "27"
+      ],
+      "morph": "Adjetivo/Adverbio, neutro, singular, nominativo/acusativo.",
+      "word": "πλεῖον"
+    },
+    {
+      "lemma": "πληρόω",
+      "lines": [
+        "99"
+      ],
+      "morph": "Participio, presente, medio/pasivo, masculino, singular, nominativo.",
+      "word": "πληρούµενος"
+    },
+    {
+      "lemma": "πληρόω",
+      "lines": [
+        "5"
+      ],
+      "morph": "Participio, presente, activo, masculino, singular, nominativo.",
+      "word": "πληρῶν"
+    },
+    {
+      "lemma": "πληρόω",
+      "lines": [
+        "98"
+      ],
+      "morph": "Verbo, aoristo, subjuntivo, activo, segunda persona singular.",
+      "word": "πληρώσῃς"
+    },
+    {
+      "lemma": "πλούσιος",
+      "lines": [
+        "63",
+        "65"
+      ],
+      "morph": "Adjetivo, masculino, singular, acusativo.",
+      "word": "πλούσιον"
+    },
+    {
+      "lemma": "πνεῦμα",
+      "lines": [
+        "74"
+      ],
+      "morph": "Sustantivo, neutro, singular, nominativo/acusativo/vocativo.",
+      "word": "Πνεῦµα"
+    },
+    {
+      "lemma": "πνευματικός",
+      "lines": [
+        "5"
+      ],
+      "morph": "Adjetivo, femenino, singular, acusativo.",
+      "word": "πνευµατικήν·"
+    },
+    {
+      "lemma": "πνευματικός",
+      "lines": [
+        "55"
+      ],
+      "morph": "Adjetivo, neutro, singular, nominativo/acusativo.",
+      "word": "πνευµατικὸν"
+    },
+    {
+      "lemma": "πνευματικός",
+      "lines": [
+        "9"
+      ],
+      "morph": "Adjetivo, neutro, singular, nominativo/acusativo.",
+      "word": "πνευµατικὸν,"
+    },
+    {
+      "lemma": "πνευματικός",
+      "lines": [
+        "19",
+        "72"
+      ],
+      "morph": "Adjetivo, masculino/neutro, plural, genitivo.",
+      "word": "πνευµατικῶν"
+    },
+    {
+      "lemma": "πνεῦμα",
+      "lines": [
+        "18"
+      ],
+      "morph": "Sustantivo, neutro, singular, genitivo.",
+      "word": "Πνεύµατος·"
+    },
+    {
+      "lemma": "πόθος",
+      "lines": [
+        "4"
+      ],
+      "morph": "Sustantivo, masculino, singular, nominativo.",
+      "word": "Πόθος"
+    },
+    {
+      "lemma": "πόθος",
+      "lines": [
+        "3"
+      ],
+      "morph": "Sustantivo, masculino, singular, genitivo.",
+      "word": "πόθου"
+    },
+    {
+      "lemma": "ποιέω",
+      "lines": [
+        "9"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, tercera persona singular.",
+      "word": "ποιεῖ"
+    },
+    {
+      "lemma": "πολιτεία",
+      "lines": [
+        "9"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo.",
+      "word": "πολιτείαν,"
+    },
+    {
+      "lemma": "πολιτεία",
+      "lines": [
+        "27",
+        "40"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo.",
+      "word": "πολιτείας,"
+    },
+    {
+      "lemma": "πονηρία",
+      "lines": [
+        "77",
+        "99"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo.",
+      "word": "πονηρίας"
+    },
+    {
+      "lemma": "πονηρός",
+      "lines": [
+        "73"
+      ],
+      "morph": "Adjetivo, masculino/neutro, plural, genitivo.",
+      "word": "πονηρῶν"
+    },
+    {
+      "lemma": "πόνος",
+      "lines": [
+        "44"
+      ],
+      "morph": "Sustantivo, masculino, singular, acusativo.",
+      "word": "πόνον"
+    },
+    {
+      "lemma": "πόσος",
+      "lines": [
+        "93"
+      ],
+      "morph": "Adjetivo, femenino, singular, genitivo.",
+      "word": "πόσης"
+    },
+    {
+      "lemma": "πόσος",
+      "lines": [
+        "32",
+        "38",
+        "58"
+      ],
+      "morph": "Adjetivo, masculino, singular, acusativo; o neutro, singular, nominativo/acusativo.",
+      "word": "πόσον"
+    },
+    {
+      "lemma": "πραγματεία",
+      "lines": [
+        "95"
+      ],
+      "morph": "Sustantivo, femenino, plural, dativo.",
+      "word": "πραγµατείαις"
+    },
+    {
+      "lemma": "πράσσω",
+      "lines": [
+        "33"
+      ],
+      "morph": "Participio, presente, medio/pasivo, masculino/neutro, plural, dativo.",
+      "word": "πραττοµένοις,"
+    },
+    {
+      "lemma": "πρεσβύτερος",
+      "lines": [
+        "68"
+      ],
+      "morph": "Adjetivo, masculino, plural, acusativo.",
+      "word": "πρεσβυτέρους"
+    },
+    {
+      "lemma": "προαίρεσις",
+      "lines": [
+        "48"
+      ],
+      "morph": "Sustantivo, femenino, singular, dativo.",
+      "word": "προαιρέσει"
+    },
+    {
+      "lemma": "πρόθεσις",
+      "lines": [
+        "98"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo.",
+      "word": "πρόθεσιν,"
+    },
+    {
+      "lemma": "πρός",
+      "lines": [
+        "8",
+        "12",
+        "13",
+        "20",
+        "40",
+        "67",
+        "70",
+        "73",
+        "93"
+      ],
+      "morph": "Preposición.",
+      "word": "πρὸς"
+    },
+    {
+      "lemma": "προσδεκτός",
+      "lines": [
+        "87"
+      ],
+      "morph": "Adjetivo, femenino, singular, nominativo.",
+      "word": "προσδεκτὴ,"
+    },
+    {
+      "lemma": "προσδοκία",
+      "lines": [
+        "6"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo.",
+      "word": "προσδοκίαν."
+    },
+    {
+      "lemma": "προσδοκάω",
+      "lines": [
+        "100"
+      ],
+      "morph": "Participio, presente, medio/pasivo, masculino/neutro, plural, dativo.",
+      "word": "προσδοκωµένοις"
+    },
+    {
+      "lemma": "προσέρχομαι",
+      "lines": [
+        "14"
+      ],
+      "morph": "Verbo, perfecto, indicativo, activo, segunda persona singular.",
+      "word": "προσελήλυθας,"
+    },
+    {
+      "lemma": "προσκαρτερέω",
+      "lines": [
+        "57"
+      ],
+      "morph": "Participio, aoristo, activo, masculino, plural, nominativo.",
+      "word": "προσκαρτερήσαντες,"
+    },
+    {
+      "lemma": "πρόσωπον",
+      "lines": [
+        "13"
+      ],
+      "morph": "Sustantivo, neutro, plural, dativo.",
+      "word": "προσώποις"
+    },
+    {
+      "lemma": "πρότερος",
+      "lines": [
+        "41"
+      ],
+      "morph": "Adjetivo, masculino/neutro, singular, genitivo.",
+      "word": "προτέρου"
+    },
+    {
+      "lemma": "προφήτης",
+      "lines": [
+        "82"
+      ],
+      "morph": "Sustantivo, masculino, singular, genitivo.",
+      "word": "Προφήτου"
+    },
+    {
+      "lemma": "πρώϊμος",
+      "lines": [
+        "90"
+      ],
+      "morph": "Adjetivo, masculino, singular, acusativo; o neutro, singular, nominativo/acusativo.",
+      "word": "πρώϊµον"
+    },
+    {
+      "lemma": "πρῶτος",
+      "lines": [
+        "41"
+      ],
+      "morph": "Adjetivo, femenino, singular, nominativo.",
+      "word": "πρώτη"
+    },
+    {
+      "lemma": "πρῶτος",
+      "lines": [
+        "28"
+      ],
+      "morph": "Adjetivo, neutro, singular, nominativo/acusativo.",
+      "word": "Πρῶτον"
+    },
+    {
+      "lemma": "πτερόω",
+      "lines": [
+        "12"
+      ],
+      "morph": "Verbo, presente, indicativo, activo, tercera persona singular.",
+      "word": "πτεροῖ"
+    },
+    {
+      "lemma": "πῦρ",
+      "lines": [
+        "53"
+      ],
+      "morph": "Sustantivo, neutro, singular, nominativo/acusativo.",
+      "word": "πῦρ"
+    },
+    {
+      "lemma": "πυρά",
+      "lines": [
+        "52"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo.",
+      "word": "πυρὰν"
+    },
+    {
+      "lemma": "πῦρ",
+      "lines": [
+        "52"
+      ],
+      "morph": "Sustantivo, neutro, singular, genitivo.",
+      "word": "πυρὸς"
+    },
+    {
+      "lemma": "πῶς",
+      "lines": [
+        "48"
+      ],
+      "morph": "Adverbio, interrogativo.",
+      "word": "πῶς"
+    }
+  ],
+  "Ρ": [
+    {
+      "lemma": "ῥήγνυμι",
+      "lines": [
+        "90"
+      ],
+      "morph": "Verbo, Futuro, Medio/Pasivo, Indicativo, 3ª persona singular",
+      "word": "ῥαγήσεται"
+    },
+    {
+      "lemma": "ῥύομαι",
+      "lines": [
+        "59"
+      ],
+      "morph": "Verbo, Presente, Medio/Pasivo, Indicativo, 3ª persona singular",
+      "word": "ῥύεται·"
+    }
+  ],
+  "Σ": [
+    {
+      "lemma": "σάλπιγξ",
+      "lines": [
+        "2"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo",
+      "word": "Σάλπιγγος"
+    },
+    {
+      "lemma": "σάρξ",
+      "lines": [
+        "6"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo",
+      "word": "σάρκα"
+    },
+    {
+      "lemma": "σάρξ",
+      "lines": [
+        "80"
+      ],
+      "morph": "Sustantivo, femenino, plural, genitivo",
+      "word": "σαρκῶν"
+    },
+    {
+      "lemma": "σβέννυμι",
+      "lines": [
+        "2"
+      ],
+      "morph": "Verbo, indicativo, futuro, activo, 1ª persona singular",
+      "word": "σβέσω·"
+    },
+    {
+      "lemma": "σύ",
+      "lines": [
+        "74"
+      ],
+      "morph": "Pronombre personal, 2ª persona singular, acusativo",
+      "word": "σὲ,"
+    },
+    {
+      "lemma": "σηπτικός",
+      "lines": [
+        "21"
+      ],
+      "morph": "Adjetivo, singular, acusativo, masculino o neutro",
+      "word": "σηπτικὸν"
+    },
+    {
+      "lemma": "σκορπίζω",
+      "lines": [
+        "96"
+      ],
+      "morph": "Verbo, infinitivo, presente, activo",
+      "word": "σκορπίζειν"
+    },
+    {
+      "lemma": "σκυθρωπός",
+      "lines": [
+        "13"
+      ],
+      "morph": "Adjetivo, masculino, plural, nominativo",
+      "word": "σκυθρωποὶ"
+    },
+    {
+      "lemma": "σύ",
+      "lines": [
+        "15",
+        "74",
+        "97"
+      ],
+      "morph": "Pronombre personal, 2ª persona singular, genitivo",
+      "word": "σου"
+    },
+    {
+      "lemma": "σύ",
+      "lines": [
+        "85",
+        "90",
+        "91"
+      ],
+      "morph": "Pronombre personal, 2ª persona singular, genitivo",
+      "word": "σου,"
+    },
+    {
+      "lemma": "σύ",
+      "lines": [
+        "85",
+        "90"
+      ],
+      "morph": "Pronombre personal, 2ª persona singular, genitivo",
+      "word": "σου·"
+    },
+    {
+      "lemma": "σοφίζω",
+      "lines": [
+        "68"
+      ],
+      "morph": "Verbo, infinitivo, presente, activo",
+      "word": "σοφίζειν,"
+    },
+    {
+      "lemma": "σοφῶς",
+      "lines": [
+        "67"
+      ],
+      "morph": "Adverbio",
+      "word": "σοφῶς"
+    },
+    {
+      "lemma": "στόμα",
+      "lines": [
+        "50"
+      ],
+      "morph": "Sustantivo, neutro, singular, nominativo/acusativo/vocativo",
+      "word": "στόµα,"
+    },
+    {
+      "lemma": "στραγγαλιά",
+      "lines": [
+        "85"
+      ],
+      "morph": "Sustantivo, femenino, plural, acusativo",
+      "word": "στραγγαλιὰς"
+    },
+    {
+      "lemma": "στυγνάζω",
+      "lines": [
+        "14"
+      ],
+      "morph": "Verbo, imperativo, presente, activo, 2ª persona singular",
+      "word": "στύγναζε,"
+    },
+    {
+      "lemma": "",
+      "lines": [
+        "21"
+      ],
+      "morph": "",
+      "word": "στυπτι"
+    },
+    {
+      "lemma": "στυπτικός",
+      "lines": [
+        "22"
+      ],
+      "morph": "Adjetivo, superlativo, femenino, singular, nominativo",
+      "word": "στυπτικωτάτη"
+    },
+    {
+      "lemma": "συγχωρέω",
+      "lines": [
+        "64"
+      ],
+      "morph": "Verbo, indicativo, presente, activo, 3ª persona singular",
+      "word": "συγχωρεῖ,"
+    },
+    {
+      "lemma": "συγχωρέω",
+      "lines": [
+        "65"
+      ],
+      "morph": "Verbo, participio, presente, activo, femenino, singular, nominativo",
+      "word": "συγχωροῦσα"
+    },
+    {
+      "lemma": "συμφυλάττω",
+      "lines": [
+        "42"
+      ],
+      "morph": "Verbo, participio, presente, activo, singular, genitivo, masculino o neutro",
+      "word": "συµφυλάττοντος."
+    },
+    {
+      "lemma": "συναγωγή",
+      "lines": [
+        "94"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo",
+      "word": "συναγωγῆς,"
+    },
+    {
+      "lemma": "συνάλλαγμα",
+      "lines": [
+        "85"
+      ],
+      "morph": "Sustantivo, neutro, plural, genitivo",
+      "word": "συναλλαγµάτων,"
+    },
+    {
+      "lemma": "σύναξις",
+      "lines": [
+        "94"
+      ],
+      "morph": "Sustantivo, femenino, plural, dativo",
+      "word": "συνάξεσι,"
+    },
+    {
+      "lemma": "συνάγω",
+      "lines": [
+        "96"
+      ],
+      "morph": "Verbo, subjuntivo aoristo, activo, 2ª persona singular",
+      "word": "συνάξης,"
+    },
+    {
+      "lemma": "σύνδεσμος",
+      "lines": [
+        "85"
+      ],
+      "morph": "Sustantivo, masculino o neutro, singular, acusativo",
+      "word": "σύνδεσµον"
+    },
+    {
+      "lemma": "συντρίβω",
+      "lines": [
+        "35"
+      ],
+      "morph": "Verbo, indicativo, imperfecto, activo, 3ª persona singular",
+      "word": "συνέτριβεν,"
+    },
+    {
+      "lemma": "συνήθεια",
+      "lines": [
+        "54"
+      ],
+      "morph": "Sustantivo, femenino, singular, dativo",
+      "word": "συνηθείᾳ"
+    },
+    {
+      "lemma": "συνόμιλος",
+      "lines": [
+        "28"
+      ],
+      "morph": "Adjetivo o sustantivo, masculino o femenino, singular, nominativo",
+      "word": "συνόµιλος"
+    },
+    {
+      "lemma": "συντρίβω",
+      "lines": [
+        "41"
+      ],
+      "morph": "Verbo, participio, presente, medio/pasivo, femenino, singular, nominativo",
+      "word": "συντριβοµένη"
+    },
+    {
+      "lemma": "σχολάζω",
+      "lines": [
+        "5"
+      ],
+      "morph": "Verbo, participio, presente, activo, masculino, singular, nominativo",
+      "word": "σχολάζων,"
+    },
+    {
+      "lemma": "σῶμα",
+      "lines": [
+        "51"
+      ],
+      "morph": "Sustantivo, neutro, singular, nominativo/acusativo/vocativo",
+      "word": "σῶµα"
+    },
+    {
+      "lemma": "σῶμα",
+      "lines": [
+        "26"
+      ],
+      "morph": "Sustantivo, neutro, singular, nominativo/acusativo/vocativo",
+      "word": "σῶµα,"
+    },
+    {
+      "lemma": "σῶμα",
+      "lines": [
+        "9",
+        "69"
+      ],
+      "morph": "Sustantivo, neutro, singular, nominativo/acusativo/vocativo",
+      "word": "σῶµα·"
+    },
+    {
+      "lemma": "σῶμα",
+      "lines": [
+        "51"
+      ],
+      "morph": "Sustantivo, neutro, singular, dativo",
+      "word": "σώµατι"
+    },
+    {
+      "lemma": "σῶμα",
+      "lines": [
+        "55"
+      ],
+      "morph": "Sustantivo, neutro, singular, dativo",
+      "word": "σώµατι,"
+    },
+    {
+      "lemma": "σωματικός",
+      "lines": [
+        "73"
+      ],
+      "morph": "Adjetivo, femenino, singular, genitivo",
+      "word": "σωµατικῆς"
+    },
+    {
+      "lemma": "σωματικός",
+      "lines": [
+        "46"
+      ],
+      "morph": "Adjetivo, plural, dativo, masculino o neutro",
+      "word": "σωµατικοῖς"
+    },
+    {
+      "lemma": "σωματικός",
+      "lines": [
+        "19"
+      ],
+      "morph": "Adjetivo, plural, genitivo, masculino, femenino o neutro",
+      "word": "σωµατικῶν"
+    },
+    {
+      "lemma": "σῶμα",
+      "lines": [
+        "10",
+        "21",
+        "50",
+        "54"
+      ],
+      "morph": "Sustantivo, neutro, singular, genitivo",
+      "word": "σώµατος"
+    },
+    {
+      "lemma": "σωτηριώδης",
+      "lines": [
+        "87"
+      ],
+      "morph": "Adjetivo, masculino o femenino, singular, nominativo",
+      "word": "σωτηριώδης,"
+    },
+    {
+      "lemma": "σωφροσύνη",
+      "lines": [
+        "7"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo",
+      "word": "σωφροσύνην"
+    },
+    {
+      "lemma": "σωφροσύνη",
+      "lines": [
+        "67"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo",
+      "word": "σωφροσύνην."
+    }
+  ],
+  "Τ": [
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "16",
+        "17",
+        "21"
+      ],
+      "morph": "Artículo definido, neutro, plural, nominativo o acusativo.",
+      "word": "τὰ"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "13",
+        "39",
+        "94"
+      ],
+      "morph": "Artículo definido, femenino, plural, dativo.",
+      "word": "ταῖς"
+    },
+    {
+      "lemma": "ταπεινόω",
+      "lines": [
+        "83"
+      ],
+      "morph": "Verbo, presente, infinitivo, activo.",
+      "word": "ταπεινοῦν"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "13",
+        "27"
+      ],
+      "morph": "Artículo definido, femenino, plural, acusativo.",
+      "word": "τὰς"
+    },
+    {
+      "lemma": "οὗτος",
+      "lines": [
+        "88"
+      ],
+      "morph": "Pronombre demostrativo, femenino, singular, dativo.",
+      "word": "Ταύτῃ"
+    },
+    {
+      "lemma": "οὗτος",
+      "lines": [
+        "83"
+      ],
+      "morph": "Pronombre demostrativo, femenino, singular, acusativo.",
+      "word": "ταύτην"
+    },
+    {
+      "lemma": "τάχα",
+      "lines": [
+        "40"
+      ],
+      "morph": "Adverbio.",
+      "word": "τάχα"
+    },
+    {
+      "lemma": "τε",
+      "lines": [
+        "45"
+      ],
+      "morph": "Conjunción.",
+      "word": "τε"
+    },
+    {
+      "lemma": "τελέω",
+      "lines": [
+        "98"
+      ],
+      "morph": "Verbo, aoristo, subjuntivo, activo, segunda persona singular.",
+      "word": "τελέσῃς"
+    },
+    {
+      "lemma": "τέρψις",
+      "lines": [
+        "2"
+      ],
+      "morph": "Sustantivo, femenino, singular, dativo.",
+      "word": "τέρψει"
+    },
+    {
+      "lemma": "τεσσαράκοντα",
+      "lines": [
+        "43"
+      ],
+      "morph": "Adjetivo numeral cardinal, invariable.",
+      "word": "τεσσαράκοντα"
+    },
+    {
+      "lemma": "τεσσαράκοντα",
+      "lines": [
+        "29"
+      ],
+      "morph": "Adjetivo numeral cardinal, invariable.",
+      "word": "Τεσσαράκοντα"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "14",
+        "38",
+        "47",
+        "52",
+        "73",
+        "78"
+      ],
+      "morph": "Artículo definido, femenino, singular, dativo.",
+      "word": "τῇ"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "2",
+        "3",
+        "5",
+        "6",
+        "9",
+        "11",
+        "12",
+        "15",
+        "16",
+        "22",
+        "29",
+        "31",
+        "33",
+        "41",
+        "43",
+        "45",
+        "46",
+        "48",
+        "51",
+        "52",
+        "57",
+        "64",
+        "67",
+        "73",
+        "83",
+        "98",
+        "100"
+      ],
+      "morph": "Artículo definido, femenino, singular, acusativo.",
+      "word": "τὴν"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "2",
+        "3",
+        "5",
+        "20",
+        "22",
+        "26",
+        "33",
+        "46",
+        "48",
+        "52",
+        "53",
+        "54",
+        "55",
+        "68",
+        "73",
+        "93",
+        "94",
+        "98",
+        "100"
+      ],
+      "morph": "Artículo definido, femenino, singular, genitivo.",
+      "word": "τῆς"
+    },
+    {
+      "lemma": "τις",
+      "lines": [
+        "40"
+      ],
+      "morph": "Pronombre indefinido, neutro, singular, nominativo o acusativo (enclítico).",
+      "word": "τι"
+    },
+    {
+      "lemma": "τίς",
+      "lines": [
+        "89"
+      ],
+      "morph": "Pronombre interrogativo, neutro, singular, nominativo o acusativo.",
+      "word": "τί"
+    },
+    {
+      "lemma": "τίς",
+      "lines": [
+        "84"
+      ],
+      "morph": "Pronombre interrogativo, neutro, singular, nominativo o acusativo.",
+      "word": "τί;"
+    },
+    {
+      "lemma": "τις",
+      "lines": [
+        "55"
+      ],
+      "morph": "Pronombre indefinido, masculino o femenino, singular, nominativo.",
+      "word": "τις"
+    },
+    {
+      "lemma": "τις",
+      "lines": [
+        "21"
+      ],
+      "morph": "Pronombre indefinido, plural, dativo (enclítico).",
+      "word": "τισὶ"
+    },
+    {
+      "lemma": "τις",
+      "lines": [
+        "94"
+      ],
+      "morph": "Pronombre indefinido, plural, dativo.",
+      "word": "τισί·"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "4",
+        "9",
+        "15",
+        "21",
+        "26",
+        "27",
+        "50",
+        "53",
+        "68",
+        "69",
+        "90",
+        "99"
+      ],
+      "morph": "Artículo definido, neutro, singular, nominativo o acusativo.",
+      "word": "τὸ"
+    },
+    {
+      "lemma": "τοίνυν",
+      "lines": [
+        "24"
+      ],
+      "morph": "Partícula postpositiva.",
+      "word": "τοίνυν"
+    },
+    {
+      "lemma": "τοίνυν",
+      "lines": [
+        "13",
+        "94"
+      ],
+      "morph": "Partícula postpositiva.",
+      "word": "τοίνυν,"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "13",
+        "33",
+        "100"
+      ],
+      "morph": "Artículo definido, masculino o neutro, plural, dativo.",
+      "word": "τοῖς"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "22",
+        "24",
+        "28",
+        "34",
+        "35",
+        "39",
+        "42",
+        "44",
+        "46",
+        "47",
+        "48",
+        "50",
+        "56",
+        "63",
+        "65",
+        "85"
+      ],
+      "morph": "Artículo definido, masculino, singular, acusativo.",
+      "word": "τὸν"
+    },
+    {
+      "lemma": "τόπος",
+      "lines": [
+        "74"
+      ],
+      "morph": "Sustantivo, masculino, singular, acusativo.",
+      "word": "τόπον"
+    },
+    {
+      "lemma": "τοσοῦτος",
+      "lines": [
+        "26",
+        "39"
+      ],
+      "morph": "Adjetivo demostrativo, masculino o neutro, singular, acusativo.",
+      "word": "τοσοῦτον"
+    },
+    {
+      "lemma": "τότε",
+      "lines": [
+        "90"
+      ],
+      "morph": "Adverbio.",
+      "word": "τότε"
+    },
+    {
+      "lemma": "τότε",
+      "lines": [
+        "90"
+      ],
+      "morph": "Adverbio.",
+      "word": "Τότε"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "18",
+        "21",
+        "25",
+        "31",
+        "33",
+        "41",
+        "42",
+        "48",
+        "50",
+        "52",
+        "54",
+        "64",
+        "74",
+        "82",
+        "88",
+        "97"
+      ],
+      "morph": "Artículo definido, masculino o neutro, singular, genitivo.",
+      "word": "τοῦ"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "51",
+        "53",
+        "54",
+        "100"
+      ],
+      "morph": "Artículo definido, masculino, plural, acusativo.",
+      "word": "τοὺς"
+    },
+    {
+      "lemma": "οὗτος",
+      "lines": [
+        "18",
+        "19",
+        "23",
+        "48",
+        "72"
+      ],
+      "morph": "Pronombre demostrativo, neutro, singular, nominativo o acusativo.",
+      "word": "τοῦτο"
+    },
+    {
+      "lemma": "οὗτος",
+      "lines": [
+        "40"
+      ],
+      "morph": "Pronombre demostrativo, masculino o neutro, singular, genitivo.",
+      "word": "τούτου"
+    },
+    {
+      "lemma": "τράπεζα",
+      "lines": [
+        "52"
+      ],
+      "morph": "Sustantivo, femenino, singular, dativo.",
+      "word": "τραπέζῃ"
+    },
+    {
+      "lemma": "τρέφω",
+      "lines": [
+        "18"
+      ],
+      "morph": "Verbo, aoristo, subjuntivo, pasivo, segunda persona singular.",
+      "word": "τραφῇς"
+    },
+    {
+      "lemma": "τρεῖς",
+      "lines": [
+        "49",
+        "52",
+        "57"
+      ],
+      "morph": "Adjetivo numeral cardinal, masculino o femenino, plural, nominativo o acusativo.",
+      "word": "τρεῖς"
+    },
+    {
+      "lemma": "τρόπος",
+      "lines": [
+        "22"
+      ],
+      "morph": "Sustantivo, masculino, singular, acusativo.",
+      "word": "τρόπον"
+    },
+    {
+      "lemma": "τροφή",
+      "lines": [
+        "31",
+        "43"
+      ],
+      "morph": "Sustantivo, femenino, singular, dativo.",
+      "word": "τροφῇ"
+    },
+    {
+      "lemma": "τρυφή",
+      "lines": [
+        "48"
+      ],
+      "morph": "Sustantivo, femenino, singular, dativo.",
+      "word": "τρυφῇ"
+    },
+    {
+      "lemma": "τρυφή",
+      "lines": [
+        "48"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo.",
+      "word": "τρυφῆς"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "28",
+        "51",
+        "55",
+        "57",
+        "87"
+      ],
+      "morph": "Artículo definido, masculino o neutro, singular, dativo.",
+      "word": "τῷ"
+    },
+    {
+      "lemma": "ὁ",
+      "lines": [
+        "6",
+        "13",
+        "17",
+        "19",
+        "27",
+        "48",
+        "49",
+        "50",
+        "51",
+        "53",
+        "65",
+        "67",
+        "70",
+        "72",
+        "73",
+        "80",
+        "81",
+        "88",
+        "100"
+      ],
+      "morph": "Artículo definido, plural, genitivo.",
+      "word": "τῶν"
+    }
+  ],
+  "Υ": [
+    {
+      "lemma": "ὑγιεινός",
+      "lines": [
+        "69"
+      ],
+      "morph": "Adjetivo, comparativo, nominativo/acusativo singular, neutro",
+      "word": "ὑγιεινότερον"
+    },
+    {
+      "lemma": "ὕλη",
+      "lines": [
+        "55"
+      ],
+      "morph": "Sustantivo, nominativo singular, femenino",
+      "word": "ὕλη"
+    },
+    {
+      "lemma": "ὕλη",
+      "lines": [
+        "70"
+      ],
+      "morph": "Sustantivo, acusativo singular, femenino",
+      "word": "ὕλην"
+    },
+    {
+      "lemma": "ὑπαναχωρέω",
+      "lines": [
+        "54"
+      ],
+      "morph": "Verbo, indicativo, aoristo, activo, tercera persona singular",
+      "word": "ὑπανεχώρησε,"
+    },
+    {
+      "lemma": "ὑπεισέρχομαι",
+      "lines": [
+        "22"
+      ],
+      "morph": "Verbo, participio, aoristo, activo, nominativo singular, femenino",
+      "word": "ὑπεισελθοῦσα"
+    },
+    {
+      "lemma": "ὑπέρ",
+      "lines": [
+        "60"
+      ],
+      "morph": "Preposición",
+      "word": "ὑπὲρ"
+    },
+    {
+      "lemma": "ὑπό",
+      "lines": [
+        "33",
+        "70"
+      ],
+      "morph": "Preposición",
+      "word": "ὑπὸ"
+    },
+    {
+      "lemma": "ὑποδοχή",
+      "lines": [
+        "70"
+      ],
+      "morph": "Sustantivo, acusativo singular, femenino",
+      "word": "ὑποδοχὴν"
+    },
+    {
+      "lemma": "ὑπομένω",
+      "lines": [
+        "25"
+      ],
+      "morph": "Verbo, subjuntivo, aoristo, activo, segunda persona singular",
+      "word": "ὑποµείνῃς."
+    },
+    {
+      "lemma": "ὑπομένω",
+      "lines": [
+        "17"
+      ],
+      "morph": "Verbo, participio, presente, activo, nominativo singular, masculino",
+      "word": "ὑποµένων"
+    },
+    {
+      "lemma": "ὑπομονή",
+      "lines": [
+        "8"
+      ],
+      "morph": "Sustantivo, acusativo singular, femenino",
+      "word": "ὑποµονὴν"
+    },
+    {
+      "lemma": "ὑποστύφω",
+      "lines": [
+        "26"
+      ],
+      "morph": "Verbo, indicativo, presente, activo, tercera persona singular",
+      "word": "ὑποστύφει"
+    },
+    {
+      "lemma": "ὑψηλός",
+      "lines": [
+        "2"
+      ],
+      "morph": "Adjetivo, comparativo, nominativo/acusativo plural, neutro",
+      "word": "ὑψηλότερα"
+    }
+  ],
+  "Φ": [
+    {
+      "lemma": "ἐσθίω",
+      "lines": [
+        "80"
+      ],
+      "morph": "Verbo, Aoristo Subjuntivo Activo, 2ª persona singular.",
+      "word": "φάγῃς"
+    },
+    {
+      "lemma": "φαιδρός",
+      "lines": [
+        "13"
+      ],
+      "morph": "Adjetivo, Femenino, Dativo plural.",
+      "word": "φαιδραῖς"
+    },
+    {
+      "lemma": "φάρμακον",
+      "lines": [
+        "20"
+      ],
+      "morph": "Sustantivo, Neutro, Nominativo/Acusativo singular.",
+      "word": "Φάρµακόν"
+    },
+    {
+      "lemma": "φημί",
+      "lines": [
+        "74",
+        "85"
+      ],
+      "morph": "Verbo, Presente Indicativo Activo, 3ª persona singular.",
+      "word": "φησὶ,"
+    },
+    {
+      "lemma": "φθάνω",
+      "lines": [
+        "100"
+      ],
+      "morph": "Verbo, Aoristo Subjuntivo Activo, 1ª persona plural.",
+      "word": "φθάσωµεν"
+    },
+    {
+      "lemma": "φλόξ",
+      "lines": [
+        "52"
+      ],
+      "morph": "Sustantivo, Femenino, Acusativo singular.",
+      "word": "φλόγα,"
+    },
+    {
+      "lemma": "φυλακτήριον",
+      "lines": [
+        "10"
+      ],
+      "morph": "Sustantivo, Neutro, Nominativo/Acusativo singular.",
+      "word": "φυλακτήριον,"
+    },
+    {
+      "lemma": "φυλάττω",
+      "lines": [
+        "68"
+      ],
+      "morph": "Verbo, Presente Infinitivo Activo.",
+      "word": "φυλάττειν"
+    },
+    {
+      "lemma": "φύσις",
+      "lines": [
+        "45",
+        "93"
+      ],
+      "morph": "Sustantivo, Femenino, Acusativo singular.",
+      "word": "φύσιν"
+    },
+    {
+      "lemma": "φύσις",
+      "lines": [
+        "12"
+      ],
+      "morph": "Sustantivo, Femenino, Acusativo singular.",
+      "word": "φύσιν."
+    },
+    {
+      "lemma": "φωνή",
+      "lines": [
+        "2"
+      ],
+      "morph": "Sustantivo, Femenino, Acusativo singular.",
+      "word": "φωνὴν"
+    },
+    {
+      "lemma": "φῶς",
+      "lines": [
+        "90"
+      ],
+      "morph": "Sustantivo, Neutro, Nominativo/Acusativo singular.",
+      "word": "φῶς"
+    }
+  ],
+  "Χ": [
+    {
+      "lemma": "χαίρω",
+      "lines": [
+        "14"
+      ],
+      "morph": "Verbo, presente, imperativo, voz media/pasiva, 2ª persona singular",
+      "word": "χαίρου·"
+    },
+    {
+      "lemma": "Χαλδαῖος",
+      "lines": [
+        "53"
+      ],
+      "morph": "Sustantivo, masculino, plural, acusativo",
+      "word": "Χαλδαίους"
+    },
+    {
+      "lemma": "χαλινός",
+      "lines": [
+        "67"
+      ],
+      "morph": "Sustantivo, masculino, singular, acusativo",
+      "word": "χαλινὸν"
+    },
+    {
+      "lemma": "χάρισμα",
+      "lines": [
+        "70"
+      ],
+      "morph": "Sustantivo, neutro, plural, genitivo",
+      "word": "χαρισµάτων."
+    },
+    {
+      "lemma": "χείρων",
+      "lines": [
+        "21"
+      ],
+      "morph": "Adjetivo, comparativo, masculino/femenino, singular, acusativo",
+      "word": "χείρονα"
+    },
+    {
+      "lemma": "χρῆμα",
+      "lines": [
+        "96"
+      ],
+      "morph": "Sustantivo, neutro, plural, nominativo/acusativo",
+      "word": "χρήµατα"
+    },
+    {
+      "lemma": "χρῆμα",
+      "lines": [
+        "65"
+      ],
+      "morph": "Sustantivo, neutro, plural, genitivo",
+      "word": "χρηµάτων"
+    },
+    {
+      "lemma": "χράομαι",
+      "lines": [
+        "39"
+      ],
+      "morph": "Verbo, participio, aoristo, voz media, masculino, singular, nominativo",
+      "word": "χρησάµενος"
+    },
+    {
+      "lemma": "Χριστός",
+      "lines": [
+        "13"
+      ],
+      "morph": "Sustantivo propio, masculino, singular, genitivo",
+      "word": "Χριστοῦ"
+    },
+    {
+      "lemma": "Χριστός",
+      "lines": [
+        "100"
+      ],
+      "morph": "Sustantivo propio, masculino, singular, dativo",
+      "word": "Χριστῷ"
+    }
+  ],
+  "Ψ": [
+    {
+      "lemma": "ψυχή",
+      "lines": [
+        "13"
+      ],
+      "morph": "Sustantivo, femenino, plural, dativo",
+      "word": "ψυχαῖς"
+    },
+    {
+      "lemma": "ψυχή",
+      "lines": [
+        "78"
+      ],
+      "morph": "Sustantivo, femenino, singular, dativo",
+      "word": "ψυχῇ"
+    },
+    {
+      "lemma": "ψυχή",
+      "lines": [
+        "15",
+        "73",
+        "83"
+      ],
+      "morph": "Sustantivo, femenino, singular, acusativo",
+      "word": "ψυχὴν"
+    },
+    {
+      "lemma": "ψυχή",
+      "lines": [
+        "5",
+        "10",
+        "20",
+        "22",
+        "46"
+      ],
+      "morph": "Sustantivo, femenino, singular, genitivo",
+      "word": "ψυχῆς"
+    }
+  ],
+  "Ω": [
+    {
+      "lemma": "ὅς",
+      "lines": [
+        "100"
+      ],
+      "morph": "Pronombre relativo, masculino/neutro, singular, dativo.",
+      "word": "ᾧ"
+    },
+    {
+      "lemma": "ὅς",
+      "lines": [
+        "16"
+      ],
+      "morph": "Pronombre relativo, masculino/femenino/neutro, plural, genitivo.",
+      "word": "ὧν"
+    },
+    {
+      "lemma": "ὡς",
+      "lines": [
+        "13",
+        "93"
+      ],
+      "morph": "Adverbio, conjunción.",
+      "word": "ὡς"
+    },
+    {
+      "lemma": "ὥσπερ",
+      "lines": [
+        "21",
+        "73"
+      ],
+      "morph": "Adverbio, conjunción.",
+      "word": "ὥσπερ"
+    },
+    {
+      "lemma": "ὥσπερ",
+      "lines": [
+        "51",
+        "75"
+      ],
+      "morph": "Adverbio, conjunción.",
+      "word": "Ὥσπερ"
+    },
+    {
+      "lemma": "ὀφείλω",
+      "lines": [
+        "96"
+      ],
+      "morph": "Verbo, indicativo, aoristo segundo, activo, segunda persona singular.",
+      "word": "ὤφειλες·"
+    },
+    {
+      "lemma": "ὠφελέω",
+      "lines": [
+        "32"
+      ],
+      "morph": "Verbo, indicativo, presente, activo, tercera persona singular.",
+      "word": "ὠφελεῖ"
+    },
+    {
+      "lemma": "ὠφέλεια",
+      "lines": [
+        "26"
+      ],
+      "morph": "Sustantivo, femenino, singular, nominativo.",
+      "word": "ὠφέλεια."
+    },
+    {
+      "lemma": "ὠφέλιμος",
+      "lines": [
+        "23"
+      ],
+      "morph": "Adjetivo, masculino/femenino, singular, nominativo.",
+      "word": "ὠφέλιµος"
+    },
+    {
+      "lemma": "ὠφέλιμος",
+      "lines": [
+        "48"
+      ],
+      "morph": "Adjetivo, masculino/femenino, singular, nominativo.",
+      "word": "ὠφέλιµός"
+    }
+  ],
+  "Other": [
+    {
+      "word": "[[61.788]]",
+      "lines": [
+        11
+      ],
+      "lemma": "",
+      "morph": ""
+    },
+    {
+      "word": "[[61.789]]",
+      "lines": [
+        21
+      ],
+      "lemma": "",
+      "morph": ""
+    },
+    {
+      "word": "[[61.790]]",
+      "lines": [
+        56
+      ],
+      "lemma": "",
+      "morph": ""
+    }
+  ]
+}

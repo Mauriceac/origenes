@@ -1,0 +1,2010 @@
+[
+  {
+    "definition": "pronombre relativo, que, quien, el cual",
+    "lemma": "ὅς"
+  },
+  {
+    "definition": "bueno, excelente, noble",
+    "lemma": "ἀγαθός"
+  },
+  {
+    "definition": "regocijarse, alegrarse mucho",
+    "lemma": "ἀγαλλιάω"
+  },
+  {
+    "definition": "amado, querido",
+    "lemma": "ἀγαπητός"
+  },
+  {
+    "definition": "angelical, de mensajero",
+    "lemma": "ἀγγελικός"
+  },
+  {
+    "definition": "santo, sagrado, puro",
+    "lemma": "ἅγιος"
+  },
+  {
+    "definition": "salvaje, agreste, feroz",
+    "lemma": "ἄγριος"
+  },
+  {
+    "definition": "hermano",
+    "lemma": "ἀδελφός"
+  },
+  {
+    "definition": "sin temor, con confianza",
+    "lemma": "ἀδεῶς"
+  },
+  {
+    "definition": "glotonería, voracidad",
+    "lemma": "ἀδηφαγία"
+  },
+  {
+    "definition": "cometer injusticia, agraviar",
+    "lemma": "ἀδικέω"
+  },
+  {
+    "definition": "injusticia, maldad",
+    "lemma": "ἀδικία"
+  },
+  {
+    "definition": "inmortal, imperecedero",
+    "lemma": "ἀθάνατος"
+  },
+  {
+    "definition": "eternidad, era, tiempo",
+    "lemma": "αἰών"
+  },
+  {
+    "definition": "eterno, perpetuo",
+    "lemma": "αἰώνιος"
+  },
+  {
+    "definition": "inoportunamente",
+    "lemma": "ἀκαίρως"
+  },
+  {
+    "definition": "invencible, inconquistable",
+    "lemma": "ἀκαταμάχητος"
+  },
+  {
+    "definition": "punto álgido, cima, flor de la edad",
+    "lemma": "ἀκμή"
+  },
+  {
+    "definition": "oído, rumor, noticia",
+    "lemma": "ἀκοή"
+  },
+  {
+    "definition": "intemperante, desenfrenado",
+    "lemma": "ἀκόλαστος"
+  },
+  {
+    "definition": "oír, escuchar, entender",
+    "lemma": "ἀκούω"
+  },
+  {
+    "definition": "ungir, untar",
+    "lemma": "ἀλείφω"
+  },
+  {
+    "definition": "verdad, realidad",
+    "lemma": "ἀλήθεια"
+  },
+  {
+    "definition": "verdadero, genuino",
+    "lemma": "ἀληθινός"
+  },
+  {
+    "definition": "pero, sino, sin embargo",
+    "lemma": "ἀλλά"
+  },
+  {
+    "definition": "cambiar, transformar",
+    "lemma": "ἀλλάσσω"
+  },
+  {
+    "definition": "pecado, error, falta",
+    "lemma": "ἁμάρτημα"
+  },
+  {
+    "definition": "pecado, culpa",
+    "lemma": "ἁμαρτία"
+  },
+  {
+    "definition": "amén, así sea, de verdad",
+    "lemma": "ἀμήν"
+  },
+  {
+    "definition": "ambos",
+    "lemma": "ἀμφότερος"
+  },
+  {
+    "definition": "subir, ascender",
+    "lemma": "ἀναβαίνω"
+  },
+  {
+    "definition": "llevar arriba, elevar, conducir",
+    "lemma": "ἀνάγω"
+  },
+  {
+    "definition": "retroceder, subir corriendo",
+    "lemma": "ἀνατρέχω"
+  },
+  {
+    "definition": "ofrenda votiva, dedicatoria",
+    "lemma": "ἀνάθημα"
+  },
+  {
+    "definition": "destrucción, aniquilación",
+    "lemma": "ἀναίρεσις"
+  },
+  {
+    "definition": "destructivo, aniquilador",
+    "lemma": "ἀναιρετικός"
+  },
+  {
+    "definition": "secar, marchitar",
+    "lemma": "ἀναξηραίνω"
+  },
+  {
+    "definition": "resurrección, levantamiento",
+    "lemma": "ἀνάστασις"
+  },
+  {
+    "definition": "derribar, volcar, trastornar",
+    "lemma": "ἀνατρέπω"
+  },
+  {
+    "definition": "humano, de hombre",
+    "lemma": "ἀνθρώπινος"
+  },
+  {
+    "definition": "hombre, ser humano",
+    "lemma": "ἄνθρωπος"
+  },
+  {
+    "definition": "en lugar de, a cambio de, contra",
+    "lemma": "ἀντί"
+  },
+  {
+    "definition": "ayudar, sostener, percibir",
+    "lemma": "ἀντιλαμβάνομαι"
+  },
+  {
+    "definition": "adversario, oponente",
+    "lemma": "ἀντίπαλος"
+  },
+  {
+    "definition": "oponerse, resistir",
+    "lemma": "ἀντιπίπτω"
+  },
+  {
+    "definition": "hacer guerra contra, oponerse militarmente",
+    "lemma": "ἀντιστρατεύομαι"
+  },
+  {
+    "definition": "elevar, alzar",
+    "lemma": "ἀνυψόω"
+  },
+  {
+    "definition": "arriba, hacia arriba",
+    "lemma": "ἄνω"
+  },
+  {
+    "definition": "invisible",
+    "lemma": "ἀόρατος"
+  },
+  {
+    "definition": "todo, entero, cada uno",
+    "lemma": "ἅπας"
+  },
+  {
+    "definition": "engañar, defraudar",
+    "lemma": "ἀπατάω"
+  },
+  {
+    "definition": "infinito, inexperto",
+    "lemma": "ἄπειρος"
+  },
+  {
+    "definition": "cerrar con llave, excluir",
+    "lemma": "ἀποκλείω"
+  },
+  {
+    "definition": "rechazar, repeler",
+    "lemma": "ἀποκρούομαι"
+  },
+  {
+    "definition": "extraviar, desviar",
+    "lemma": "ἀποπλανάω"
+  },
+  {
+    "definition": "producir, ejecutar, obrar",
+    "lemma": "ἀπεργάζομαι"
+  },
+  {
+    "definition": "estar lejos, recibir completo (pago)",
+    "lemma": "ἀπέχω"
+  },
+  {
+    "definition": "abstenerse de",
+    "lemma": "ἀπέχομαι"
+  },
+  {
+    "definition": "incredulidad, desconfianza",
+    "lemma": "ἀπιστία"
+  },
+  {
+    "definition": "de, desde (preposición)",
+    "lemma": "ἀπό"
+  },
+  {
+    "definition": "probar, degustar",
+    "lemma": "ἀπογεύομαι"
+  },
+  {
+    "definition": "limpiar, purificar",
+    "lemma": "ἀποκαθαίρω"
+  },
+  {
+    "definition": "estar guardado, reservado",
+    "lemma": "ἀπόκειμαι"
+  },
+  {
+    "definition": "disfrutar, gozar de",
+    "lemma": "ἀπολαύω"
+  },
+  {
+    "definition": "destruir, perder",
+    "lemma": "ἀπόλλυμι"
+  },
+  {
+    "definition": "dejar atrás, abandonar",
+    "lemma": "ἀπολιμπάνω"
+  },
+  {
+    "definition": "redención, liberación",
+    "lemma": "ἀπολύτρωσις"
+  },
+  {
+    "definition": "lavar, limpiar",
+    "lemma": "ἀποπλύνω"
+  },
+  {
+    "definition": "tirar, desechar",
+    "lemma": "ἀπορρίπτω"
+  },
+  {
+    "definition": "completar, terminar, producir",
+    "lemma": "ἀποτελέω"
+  },
+  {
+    "definition": "escapar, huir",
+    "lemma": "ἀποφεύγω"
+  },
+  {
+    "definition": "abstinencia, recibo",
+    "lemma": "ἀποχή"
+  },
+  {
+    "definition": "tocar, agarrar",
+    "lemma": "ἅπτομαι"
+  },
+  {
+    "definition": "estar ocioso, no hacer nada",
+    "lemma": "ἀργέω"
+  },
+  {
+    "definition": "agradable, aceptable",
+    "lemma": "ἀρεστός"
+  },
+  {
+    "definition": "pan, alimento",
+    "lemma": "ἄρτος"
+  },
+  {
+    "definition": "sin techo, desamparado",
+    "lemma": "ἄστεγος"
+  },
+  {
+    "definition": "seguridad, firmeza",
+    "lemma": "ἀσφάλεια"
+  },
+  {
+    "definition": "incorpóreo, inmaterial",
+    "lemma": "ἀσώματος"
+  },
+  {
+    "definition": "él, ella, ello; mismo",
+    "lemma": "αὐτός"
+  },
+  {
+    "definition": "autosuficiencia, contento",
+    "lemma": "αὐτάρκεια"
+  },
+  {
+    "definition": "este, esta, esto",
+    "lemma": "οὗτος"
+  },
+  {
+    "definition": "de sí mismo",
+    "lemma": "ἑαυτοῦ"
+  },
+  {
+    "definition": "soltar, perdonar, dejar",
+    "lemma": "ἀφίημι"
+  },
+  {
+    "definition": "encender, atar",
+    "lemma": "ἅπτω"
+  },
+  {
+    "definition": "veraz, sin falsedad",
+    "lemma": "ἀψευδής"
+  },
+  {
+    "definition": "Babilonia",
+    "lemma": "Βαβυλών"
+  },
+  {
+    "definition": "cargar, agravar",
+    "lemma": "βαρύνω"
+  },
+  {
+    "definition": "rey",
+    "lemma": "βασιλεύς"
+  },
+  {
+    "definition": "violento, forzado",
+    "lemma": "βίαιος"
+  },
+  {
+    "definition": "vida, modo de vida",
+    "lemma": "βίος"
+  },
+  {
+    "definition": "daño, perjuicio",
+    "lemma": "βλάβος"
+  },
+  {
+    "definition": "dañar, perjudicar",
+    "lemma": "βλάπτω"
+  },
+  {
+    "definition": "ver, mirar",
+    "lemma": "βλέπω"
+  },
+  {
+    "definition": "querer, desear",
+    "lemma": "βούλομαι"
+  },
+  {
+    "definition": "gritar, clamar",
+    "lemma": "βοάω"
+  },
+  {
+    "definition": "retrasar, demorar",
+    "lemma": "βραδύνω"
+  },
+  {
+    "definition": "alimento, comida",
+    "lemma": "βρῶμα"
+  },
+  {
+    "definition": "acción de comer, alimento",
+    "lemma": "βρῶσις"
+  },
+  {
+    "definition": "pues, porque, en efecto",
+    "lemma": "γάρ"
+  },
+  {
+    "definition": "vientre, estómago",
+    "lemma": "γαστήρ"
+  },
+  {
+    "definition": "llegar a ser, nacer, suceder",
+    "lemma": "γίγνομαι"
+  },
+  {
+    "definition": "gustar, probar",
+    "lemma": "γεύομαι"
+  },
+  {
+    "definition": "oscuridad, tiniebla",
+    "lemma": "γνόφος"
+  },
+  {
+    "definition": "conocer, saber, percibir",
+    "lemma": "γιγνώσκω"
+  },
+  {
+    "definition": "murmurar, quejarse",
+    "lemma": "γογγύζω"
+  },
+  {
+    "definition": "ejercitar, entrenar",
+    "lemma": "γυμνάζω"
+  },
+  {
+    "definition": "gimnasio, lugar de ejercicio",
+    "lemma": "γυμνάσιον"
+  },
+  {
+    "definition": "desnudo, descubierto",
+    "lemma": "γυμνός"
+  },
+  {
+    "definition": "Daniel",
+    "lemma": "Δανιήλ"
+  },
+  {
+    "definition": "señor, amo, dueño",
+    "lemma": "δεσπότης"
+  },
+  {
+    "definition": "a través de, por medio de (preposición)",
+    "lemma": "διά"
+  },
+  {
+    "definition": "enseñar, instruir",
+    "lemma": "διδάσκω"
+  },
+  {
+    "definition": "gastar, consumir",
+    "lemma": "δαπανάω"
+  },
+  {
+    "definition": "y, pero, por otra parte",
+    "lemma": "δέ"
+  },
+  {
+    "definition": "petición, súplica, oración",
+    "lemma": "δέησις"
+  },
+  {
+    "definition": "segundo",
+    "lemma": "δεύτερος"
+  },
+  {
+    "definition": "recibir, aceptar",
+    "lemma": "δέχομαι"
+  },
+  {
+    "definition": "veneno",
+    "lemma": "δηλητήριον"
+  },
+  {
+    "definition": "desmenuzar, quebrar",
+    "lemma": "διαθρύπτω"
+  },
+  {
+    "definition": "disolver, destruir",
+    "lemma": "διαλύω"
+  },
+  {
+    "definition": "mente, entendimiento, pensamiento",
+    "lemma": "διάνοια"
+  },
+  {
+    "definition": "conservar, guardar cuidadosamente",
+    "lemma": "διατηρέω"
+  },
+  {
+    "definition": "disponer, establecer (un pacto)",
+    "lemma": "διατίθημι"
+  },
+  {
+    "definition": "enseñanza, lección",
+    "lemma": "δίδαγμα"
+  },
+  {
+    "definition": "dar, conceder",
+    "lemma": "δίδωμι"
+  },
+  {
+    "definition": "pasar a través, atravesar",
+    "lemma": "διέρχομαι"
+  },
+  {
+    "definition": "justicia, rectitud",
+    "lemma": "δικαιοσύνη"
+  },
+  {
+    "definition": "justo, recto",
+    "lemma": "δίκαιος"
+  },
+  {
+    "definition": "tribunal de justicia",
+    "lemma": "δικαστήριον"
+  },
+  {
+    "definition": "atravesar, viajar por",
+    "lemma": "διοδεύω"
+  },
+  {
+    "definition": "gloria, opinión, reputación",
+    "lemma": "δόξα"
+  },
+  {
+    "definition": "esclavo, siervo",
+    "lemma": "δοῦλος"
+  },
+  {
+    "definition": "acre, picante, severo",
+    "lemma": "δριμύς"
+  },
+  {
+    "definition": "rocío",
+    "lemma": "δρόσος"
+  },
+  {
+    "definition": "poder, ser capaz de",
+    "lemma": "δύναμαι"
+  },
+  {
+    "definition": "poder, fuerza, milagro",
+    "lemma": "δύναμις"
+  },
+  {
+    "definition": "avergonzar, respetar",
+    "lemma": "δυσωπῶ"
+  },
+  {
+    "definition": "don, regalo",
+    "lemma": "δῶρον"
+  },
+  {
+    "definition": "don, regalo",
+    "lemma": "δώρημα"
+  },
+  {
+    "definition": "si (con subjuntivo)",
+    "lemma": "ἐάν"
+  },
+  {
+    "definition": "llevar, soportar",
+    "lemma": "βαστάζω"
+  },
+  {
+    "definition": "semana, período de siete días",
+    "lemma": "ἑβδομάς"
+  },
+  {
+    "definition": "autocontrol, templanza",
+    "lemma": "ἐγκράτεια"
+  },
+  {
+    "definition": "comida, manjar",
+    "lemma": "ἔδεσμα"
+  },
+  {
+    "definition": "contemplar, mirar",
+    "lemma": "θεάομαι"
+  },
+  {
+    "definition": "costumbre, hábito",
+    "lemma": "ἔθος"
+  },
+  {
+    "definition": "si (con indicativo)",
+    "lemma": "εἰ"
+  },
+  {
+    "definition": "imagen, semejanza",
+    "lemma": "εἰκών"
+  },
+  {
+    "definition": "tomar, elegir",
+    "lemma": "αἱρέω"
+  },
+  {
+    "definition": "a, hacia, para (preposición)",
+    "lemma": "εἰς"
+  },
+  {
+    "definition": "introducir, llevar dentro",
+    "lemma": "εἰσάγω"
+  },
+  {
+    "definition": "escuchar, oír (una oración)",
+    "lemma": "εἰσακούω"
+  },
+  {
+    "definition": "entrar, ir dentro",
+    "lemma": "εἰσέρχομαι"
+  },
+  {
+    "definition": "de, desde (preposición)",
+    "lemma": "ἐκ"
+  },
+  {
+    "definition": "esperar, aguardar",
+    "lemma": "ἐκδέχομαι"
+  },
+  {
+    "definition": "enseñar completamente, instruir",
+    "lemma": "ἐκδιδάσκω"
+  },
+  {
+    "definition": "allí, en aquel lugar",
+    "lemma": "ἐκεῖ"
+  },
+  {
+    "definition": "llevar a cabo, completar",
+    "lemma": "ἐκτελέω"
+  },
+  {
+    "definition": "diligentemente, con vehemencia",
+    "lemma": "ἐκτενῶς"
+  },
+  {
+    "definition": "tomar, recibir, coger",
+    "lemma": "λαμβάνω"
+  },
+  {
+    "definition": "esperanza",
+    "lemma": "ἐλπίς"
+  },
+  {
+    "definition": "llenar, saciar",
+    "lemma": "ἐμπίπλημι"
+  },
+  {
+    "definition": "en, dentro de (preposición)",
+    "lemma": "ἐν"
+  },
+  {
+    "definition": "obrar, operar, estar activo",
+    "lemma": "ἐνεργέω"
+  },
+  {
+    "definition": "noveno",
+    "lemma": "ἔννατος"
+  },
+  {
+    "definition": "pensamiento, idea",
+    "lemma": "ἐννόημα"
+  },
+  {
+    "definition": "aquí, allí",
+    "lemma": "ἐνταῦθα"
+  },
+  {
+    "definition": "extender, esforzarse",
+    "lemma": "ἐντείνω"
+  },
+  {
+    "definition": "encontrarse con, interceder",
+    "lemma": "ἐντυγχάνω"
+  },
+  {
+    "definition": "esconderse, acechar",
+    "lemma": "ἐνυποµυχεύω"
+  },
+  {
+    "definition": "seguir, imitar",
+    "lemma": "ἐξακολουθέω"
+  },
+  {
+    "definition": "desaparecer, destruir",
+    "lemma": "ἐξαφανίζω"
+  },
+  {
+    "definition": "encender, prender",
+    "lemma": "ἐξάπτω"
+  },
+  {
+    "definition": "despertar, levantar",
+    "lemma": "ἐξεγείρω"
+  },
+  {
+    "definition": "escoger, elegir",
+    "lemma": "ἐκλέγω"
+  },
+  {
+    "definition": "tener autoridad, ejercer poder",
+    "lemma": "ἐξουσιάζω"
+  },
+  {
+    "definition": "de fuera, por fuera",
+    "lemma": "ἔξωθεν"
+  },
+  {
+    "definition": "promesa",
+    "lemma": "ἐπαγγελία"
+  },
+  {
+    "definition": "alabanza, elogio",
+    "lemma": "ἔπαινος"
+  },
+  {
+    "definition": "seguir, acompañar",
+    "lemma": "ἐπακολουθέω"
+  },
+  {
+    "definition": "subir de nuevo, regresar",
+    "lemma": "ἐπαναβαίνω"
+  },
+  {
+    "definition": "llamar de nuevo, revocar",
+    "lemma": "ἐπανακαλέω"
+  },
+  {
+    "definition": "corregir, restaurar",
+    "lemma": "ἐπανορθόω"
+  },
+  {
+    "definition": "entrar además, sobrevenir",
+    "lemma": "ἐπεισέρχομαι"
+  },
+  {
+    "definition": "sobre, en, para, contra (preposición)",
+    "lemma": "ἐπί"
+  },
+  {
+    "definition": "conspirador, traidor",
+    "lemma": "ἐπίβουλος"
+  },
+  {
+    "definition": "mostrar, exhibir",
+    "lemma": "ἐπιδείκνυμι"
+  },
+  {
+    "definition": "beber",
+    "lemma": "πίνω"
+  },
+  {
+    "definition": "dañino, perjudicial",
+    "lemma": "ἐπιζήμιος"
+  },
+  {
+    "definition": "deseo, concupiscencia",
+    "lemma": "ἐπιθυμία"
+  },
+  {
+    "definition": "desear, anhelar",
+    "lemma": "ἐπιθυμέω"
+  },
+  {
+    "definition": "cosecha, fruto, provecho",
+    "lemma": "ἐπικαρπία"
+  },
+  {
+    "definition": "aliviar, mitigar",
+    "lemma": "ἐπικουφίζω"
+  },
+  {
+    "definition": "cuidado, diligencia",
+    "lemma": "ἐπιμέλεια"
+  },
+  {
+    "definition": "penoso, laborioso",
+    "lemma": "ἐπίπονος"
+  },
+  {
+    "definition": "saber, entender",
+    "lemma": "ἐπίσταμαι"
+  },
+  {
+    "definition": "unir, juntar",
+    "lemma": "ἐπισυνάπτω"
+  },
+  {
+    "definition": "permitir, conceder",
+    "lemma": "ἐπιτρέπω"
+  },
+  {
+    "definition": "alcanzar, lograr, obtener",
+    "lemma": "ἐπιτυγχάνω"
+  },
+  {
+    "definition": "imponer, infligir",
+    "lemma": "ἐπιφέρω"
+  },
+  {
+    "definition": "celestial, de los cielos",
+    "lemma": "ἐπουράνιος"
+  },
+  {
+    "definition": "trabajar, obrar",
+    "lemma": "ἐργάζομαι"
+  },
+  {
+    "definition": "trabajo, obra",
+    "lemma": "ἐργασία"
+  },
+  {
+    "definition": "obra, trabajo, acción",
+    "lemma": "ἔργον"
+  },
+  {
+    "definition": "decir, hablar",
+    "lemma": "λέγω"
+  },
+  {
+    "definition": "desierto, solitario",
+    "lemma": "ἔρημος"
+  },
+  {
+    "definition": "apagar, extinguir",
+    "lemma": "σβέννυμι"
+  },
+  {
+    "definition": "tarde, noche",
+    "lemma": "ἑσπέρα"
+  },
+  {
+    "definition": "ser, estar",
+    "lemma": "εἰμί"
+  },
+  {
+    "definition": "todavía, aún",
+    "lemma": "ἔτι"
+  },
+  {
+    "definition": "ser bien reputado, tener éxito",
+    "lemma": "εὐδοκιμέω"
+  },
+  {
+    "definition": "razonable, sensato",
+    "lemma": "εὔλογος"
+  },
+  {
+    "definition": "fácil de abordar, accesible",
+    "lemma": "εὐπρόσιτος"
+  },
+  {
+    "definition": "encontrar, descubrir",
+    "lemma": "εὑρίσκω"
+  },
+  {
+    "definition": "fuerte, robusto, sano",
+    "lemma": "εὔρωστος"
+  },
+  {
+    "definition": "piedad, devoción",
+    "lemma": "εὐσέβεια"
+  },
+  {
+    "definition": "oración, voto",
+    "lemma": "εὐχή"
+  },
+  {
+    "definition": "comer",
+    "lemma": "ἐσθίω"
+  },
+  {
+    "definition": "tener, poseer",
+    "lemma": "ἔχω"
+  },
+  {
+    "definition": "enemistad, odio",
+    "lemma": "ἔχθρα"
+  },
+  {
+    "definition": "llamar por un nombre, recibir un oráculo, negociar",
+    "lemma": "χρηματίζω"
+  },
+  {
+    "definition": "es necesario, conviene",
+    "lemma": "χρῆ"
+  },
+  {
+    "definition": "celo, envidia, ardor",
+    "lemma": "ζῆλος"
+  },
+  {
+    "definition": "daño, pérdida",
+    "lemma": "ζημία"
+  },
+  {
+    "definition": "dañar, castigar con pérdida",
+    "lemma": "ζημιόω"
+  },
+  {
+    "definition": "yugo, balanza",
+    "lemma": "ζυγός"
+  },
+  {
+    "definition": "o, que (comparación)",
+    "lemma": "ἤ"
+  },
+  {
+    "definition": "el (artículo definido masculino)",
+    "lemma": "ὁ"
+  },
+  {
+    "definition": "guiar, considerar, pensar",
+    "lemma": "ἡγέομαι"
+  },
+  {
+    "definition": "dulce, agradable",
+    "lemma": "ἡδύς"
+  },
+  {
+    "definition": "placer, deleite",
+    "lemma": "ἡδονή"
+  },
+  {
+    "definition": "vida voluptuosa, sensualidad",
+    "lemma": "ἡδυπάθεια"
+  },
+  {
+    "definition": "ir, venir",
+    "lemma": "ἔρχομαι"
+  },
+  {
+    "definition": "Elías",
+    "lemma": "Ἠλίας"
+  },
+  {
+    "definition": "cuán grande, de qué edad",
+    "lemma": "ἡλίκος"
+  },
+  {
+    "definition": "día",
+    "lemma": "ἡμέρα"
+  },
+  {
+    "definition": "manso, cultivado",
+    "lemma": "ἡμερός"
+  },
+  {
+    "definition": "yo",
+    "lemma": "ἐγώ"
+  },
+  {
+    "definition": "guiar un carro, conducir",
+    "lemma": "ἡνιοχέω"
+  },
+  {
+    "definition": "ser suficiente, bastar",
+    "lemma": "ἀρκέω"
+  },
+  {
+    "definition": "percibir, sentir, entender",
+    "lemma": "αἰσθάνομαι"
+  },
+  {
+    "definition": "preparar, disponer",
+    "lemma": "ἑτοιμάζω"
+  },
+  {
+    "definition": "muerte",
+    "lemma": "θάνατος"
+  },
+  {
+    "definition": "Dios",
+    "lemma": "Θεός"
+  },
+  {
+    "definition": "sanar, servir, cuidar",
+    "lemma": "θεραπεύω"
+  },
+  {
+    "definition": "bestia salvaje",
+    "lemma": "θήρ"
+  },
+  {
+    "definition": "animal salvaje, bestia",
+    "lemma": "θηρίον"
+  },
+  {
+    "definition": "atesorar, guardar tesoros",
+    "lemma": "θησαυρίζω"
+  },
+  {
+    "definition": "remedio, curación",
+    "lemma": "ἴαμα"
+  },
+  {
+    "definition": "ver, mirar",
+    "lemma": "ὁράω"
+  },
+  {
+    "definition": "propio, particular",
+    "lemma": "ἴδιος"
+  },
+  {
+    "definition": "he aquí, mira",
+    "lemma": "ἰδοὺ"
+  },
+  {
+    "definition": "Jesús",
+    "lemma": "Ἰησοῦς"
+  },
+  {
+    "definition": "para que, a fin de que",
+    "lemma": "ἵνα"
+  },
+  {
+    "definition": "ser fuerte, poder",
+    "lemma": "ἰσχύω"
+  },
+  {
+    "definition": "limpiar, purificar",
+    "lemma": "καθαίρω"
+  },
+  {
+    "definition": "limpio, puro",
+    "lemma": "καθαρός"
+  },
+  {
+    "definition": "pureza, limpieza",
+    "lemma": "καθαρότης"
+  },
+  {
+    "definition": "purificación, limpieza",
+    "lemma": "κάθαρσις"
+  },
+  {
+    "definition": "como, así como",
+    "lemma": "καθώς"
+  },
+  {
+    "definition": "y, también, incluso",
+    "lemma": "καί"
+  },
+  {
+    "definition": "tiempo oportuno, ocasión",
+    "lemma": "καιρός"
+  },
+  {
+    "definition": "maldad, perversidad",
+    "lemma": "κακία"
+  },
+  {
+    "definition": "malo, malvado",
+    "lemma": "κακός"
+  },
+  {
+    "definition": "hermoso, bueno, noble",
+    "lemma": "καλός"
+  },
+  {
+    "definition": "fatiga, trabajo duro",
+    "lemma": "κάματος"
+  },
+  {
+    "definition": "horno, fogón",
+    "lemma": "κάμινος"
+  },
+  {
+    "definition": "corazón",
+    "lemma": "καρδία"
+  },
+  {
+    "definition": "resistente, paciente",
+    "lemma": "καρτερικός"
+  },
+  {
+    "definition": "hacia abajo, según, contra (preposición)",
+    "lemma": "κατά"
+  },
+  {
+    "definition": "luchar contra, vencer",
+    "lemma": "καταγωνίζομαι"
+  },
+  {
+    "definition": "consumir, derrochar",
+    "lemma": "καταδαπανάω"
+  },
+  {
+    "definition": "maledicencia, difamación",
+    "lemma": "καταλαλιά"
+  },
+  {
+    "definition": "dejar, abandonar",
+    "lemma": "καταλείπω"
+  },
+  {
+    "definition": "observar atentamente, comprender",
+    "lemma": "κατανοέω"
+  },
+  {
+    "definition": "esparcir, rociar",
+    "lemma": "καταπάσσω"
+  },
+  {
+    "definition": "hacer cesar, descansar",
+    "lemma": "καταπαύω"
+  },
+  {
+    "definition": "oprimir, agobiar",
+    "lemma": "καταπιάζω"
+  },
+  {
+    "definition": "emplasto, cataplasma",
+    "lemma": "κατάπλασμα"
+  },
+  {
+    "definition": "preparar, construir",
+    "lemma": "κατασκευάζω"
+  },
+  {
+    "definition": "atreverse, osar",
+    "lemma": "κατατολμάω"
+  },
+  {
+    "definition": "obrar, realizar, producir",
+    "lemma": "κατεργάζομαι"
+  },
+  {
+    "definition": "abajo, hacia abajo",
+    "lemma": "κάτω"
+  },
+  {
+    "definition": "ganancia, lucro",
+    "lemma": "κέρδος"
+  },
+  {
+    "definition": "vientre, estómago",
+    "lemma": "κοιλία"
+  },
+  {
+    "definition": "participar, tener parte",
+    "lemma": "κοινωνέω"
+  },
+  {
+    "definition": "socio, compañero, partícipe",
+    "lemma": "κοινωνός"
+  },
+  {
+    "definition": "castigo, tormento",
+    "lemma": "κόλασις"
+  },
+  {
+    "definition": "mundo, universo, adorno",
+    "lemma": "κόσμος"
+  },
+  {
+    "definition": "aliviar, aligerar",
+    "lemma": "κουφίζω"
+  },
+  {
+    "definition": "carne",
+    "lemma": "κρέας"
+  },
+  {
+    "definition": "mejor, superior",
+    "lemma": "κρείττων"
+  },
+  {
+    "definition": "posesión, adquisición",
+    "lemma": "κτῆσις"
+  },
+  {
+    "definition": "cisterna, foso, pozo",
+    "lemma": "λάκκος"
+  },
+  {
+    "definition": "hablar, charlar",
+    "lemma": "λαλῶ"
+  },
+  {
+    "definition": "pueblo",
+    "lemma": "λαός"
+  },
+  {
+    "definition": "león",
+    "lemma": "λέων"
+  },
+  {
+    "definition": "adelgazar, debilitar",
+    "lemma": "λεπτύνω"
+  },
+  {
+    "definition": "hambre, hambruna",
+    "lemma": "λιμός"
+  },
+  {
+    "definition": "oráculo, dicho divino",
+    "lemma": "λόγιον"
+  },
+  {
+    "definition": "razonable, racional",
+    "lemma": "λογικός"
+  },
+  {
+    "definition": "palabra, razón, discurso",
+    "lemma": "λόγος"
+  },
+  {
+    "definition": "desatar, disolver, destruir",
+    "lemma": "λύω"
+  },
+  {
+    "definition": "entristecer, afligir",
+    "lemma": "λυπέω"
+  },
+  {
+    "definition": "aprender, comprender",
+    "lemma": "µανθάνω"
+  },
+  {
+    "definition": "bienaventurado, feliz",
+    "lemma": "µακάριος"
+  },
+  {
+    "definition": "tener paciencia, ser sufrido",
+    "lemma": "µακροθυµέω"
+  },
+  {
+    "definition": "suavizante, emoliente",
+    "lemma": "µαλακτικός"
+  },
+  {
+    "definition": "marchitar, desvanecer",
+    "lemma": "µαραίνω"
+  },
+  {
+    "definition": "embriaguez",
+    "lemma": "µέθη"
+  },
+  {
+    "definition": "estar ebrio, embriagarse",
+    "lemma": "µεθύω"
+  },
+  {
+    "definition": "grande",
+    "lemma": "µέγας"
+  },
+  {
+    "definition": "por una parte (partícula)",
+    "lemma": "µέν"
+  },
+  {
+    "definition": "con (genitivo), después de (acusativo)",
+    "lemma": "µετά"
+  },
+  {
+    "definition": "cambiar, transformar",
+    "lemma": "µεταποιέω"
+  },
+  {
+    "definition": "ir tras, perseguir",
+    "lemma": "µετέρχοµαι"
+  },
+  {
+    "definition": "medida",
+    "lemma": "µέτρον"
+  },
+  {
+    "definition": "no (con subjuntivo/imperativo)",
+    "lemma": "µή"
+  },
+  {
+    "definition": "ni, ni siquiera",
+    "lemma": "µηδέ"
+  },
+  {
+    "definition": "uno",
+    "lemma": "εἷς"
+  },
+  {
+    "definition": "memorial, recuerdo",
+    "lemma": "µνηµόσυνον"
+  },
+  {
+    "definition": "misterio, secreto",
+    "lemma": "µυστήριον"
+  },
+  {
+    "definition": "Moisés",
+    "lemma": "Μωϋσῆς"
+  },
+  {
+    "definition": "distribuir, pastorear",
+    "lemma": "νέμω"
+  },
+  {
+    "definition": "juventud",
+    "lemma": "νεότης"
+  },
+  {
+    "definition": "ayuno",
+    "lemma": "νηστεία"
+  },
+  {
+    "definition": "ayunar",
+    "lemma": "νηστεύω"
+  },
+  {
+    "definition": "ayunador",
+    "lemma": "νηστευτής"
+  },
+  {
+    "definition": "ser sobrio, estar alerta",
+    "lemma": "νήφω"
+  },
+  {
+    "definition": "ninivita, de Nínive",
+    "lemma": "Νινευΐτης"
+  },
+  {
+    "definition": "legislación, ley",
+    "lemma": "νομοθεσία"
+  },
+  {
+    "definition": "legislador",
+    "lemma": "νομοθέτης"
+  },
+  {
+    "definition": "ley, costumbre",
+    "lemma": "νόμος"
+  },
+  {
+    "definition": "enfermedad, dolencia",
+    "lemma": "νόσημα"
+  },
+  {
+    "definition": "advertencia, amonestación",
+    "lemma": "νουθεσία"
+  },
+  {
+    "definition": "ahora, en el presente",
+    "lemma": "νῦν"
+  },
+  {
+    "definition": "este (próximo)",
+    "lemma": "ὅδε"
+  },
+  {
+    "definition": "casa, hogar, familia",
+    "lemma": "οἶκος"
+  },
+  {
+    "definition": "mayordomo, administrador",
+    "lemma": "οἰκονόμος"
+  },
+  {
+    "definition": "vino",
+    "lemma": "οἶνος"
+  },
+  {
+    "definition": "tal, como, qué clase de",
+    "lemma": "οἷος"
+  },
+  {
+    "definition": "todo, entero",
+    "lemma": "ὅλος"
+  },
+  {
+    "definition": "poco, pequeño",
+    "lemma": "ὀλίγος"
+  },
+  {
+    "definition": "ojo",
+    "lemma": "ὄμμα"
+  },
+  {
+    "definition": "compañero de mesa, camarada",
+    "lemma": "ὁμοδίαιτος"
+  },
+  {
+    "definition": "igualmente, de la misma manera",
+    "lemma": "ὁμοίως"
+  },
+  {
+    "definition": "el mismo que, quien precisamente",
+    "lemma": "ὅσπερ"
+  },
+  {
+    "definition": "arma, instrumento",
+    "lemma": "ὅπλον"
+  },
+  {
+    "definition": "ira, cólera",
+    "lemma": "ὀργή"
+  },
+  {
+    "definition": "apetito, deseo",
+    "lemma": "ὄρεξις"
+  },
+  {
+    "definition": "cuán grande, cuánto, cuantos",
+    "lemma": "ὅσος"
+  },
+  {
+    "definition": "que (conjunción), porque",
+    "lemma": "ὅτι"
+  },
+  {
+    "definition": "no (con indicativo)",
+    "lemma": "οὐ"
+  },
+  {
+    "definition": "¡ay!",
+    "lemma": "οὐαί"
+  },
+  {
+    "definition": "ni, tampoco",
+    "lemma": "οὐδέ"
+  },
+  {
+    "definition": "cielo",
+    "lemma": "οὐρανός"
+  },
+  {
+    "definition": "ni (negación doble)",
+    "lemma": "οὔτε"
+  },
+  {
+    "definition": "así, de esta manera",
+    "lemma": "οὕτω"
+  },
+  {
+    "definition": "así, de esta manera",
+    "lemma": "οὕτως"
+  },
+  {
+    "definition": "ojo",
+    "lemma": "ὀφθαλμός"
+  },
+  {
+    "definition": "fortificar, asegurar",
+    "lemma": "ὀχυρόω"
+  },
+  {
+    "definition": "sufrimiento, pasión, afección",
+    "lemma": "πάθος"
+  },
+  {
+    "definition": "guiar, instruir (como pedagogo)",
+    "lemma": "παιδαγωγέω"
+  },
+  {
+    "definition": "niño, siervo",
+    "lemma": "παῖς"
+  },
+  {
+    "definition": "educar, instruir, disciplinar",
+    "lemma": "παιδεύω"
+  },
+  {
+    "definition": "de nuevo, otra vez",
+    "lemma": "πάλιν"
+  },
+  {
+    "definition": "todo, cada",
+    "lemma": "πᾶς"
+  },
+  {
+    "definition": "en todas partes",
+    "lemma": "πανταχοῦ"
+  },
+  {
+    "definition": "junto a, de (genitivo), contra (acusativo)",
+    "lemma": "παρά"
+  },
+  {
+    "definition": "venir, estar presente",
+    "lemma": "παραγίγνομαι"
+  },
+  {
+    "definition": "recibir, aceptar",
+    "lemma": "παραδέχομαι"
+  },
+  {
+    "definition": "entregar, transmitir",
+    "lemma": "παραδίδωμι"
+  },
+  {
+    "definition": "poner al lado, encomendar",
+    "lemma": "παρατίθημι"
+  },
+  {
+    "definition": "permanecer, quedarse",
+    "lemma": "παραμένω"
+  },
+  {
+    "definition": "ilegal, transgresor",
+    "lemma": "παράνομος"
+  },
+  {
+    "definition": "estar presente, haber llegado",
+    "lemma": "πάρειμι"
+  },
+  {
+    "definition": "proporcionar, causar",
+    "lemma": "παρέχω"
+  },
+  {
+    "definition": "detener, cesar",
+    "lemma": "παύω"
+  },
+  {
+    "definition": "tener hambre",
+    "lemma": "πεινάω"
+  },
+  {
+    "definition": "pobre, necesitado",
+    "lemma": "πένης"
+  },
+  {
+    "definition": "alrededor de, acerca de (preposición)",
+    "lemma": "περί"
+  },
+  {
+    "definition": "rodear, vestir",
+    "lemma": "περιβάλλω"
+  },
+  {
+    "definition": "rodear, evitar",
+    "lemma": "περιίστημι"
+  },
+  {
+    "definition": "poner alrededor, revestir",
+    "lemma": "περιτίθημι"
+  },
+  {
+    "definition": "creer, confiar",
+    "lemma": "πιστεύω"
+  },
+  {
+    "definition": "fielmente, con confianza",
+    "lemma": "πιστῶς"
+  },
+  {
+    "definition": "más, mayor (comparativo)",
+    "lemma": "πλείων"
+  },
+  {
+    "definition": "llenar, completar, cumplir",
+    "lemma": "πληρόω"
+  },
+  {
+    "definition": "rico",
+    "lemma": "πλούσιος"
+  },
+  {
+    "definition": "espíritu, aliento, viento",
+    "lemma": "πνεῦμα"
+  },
+  {
+    "definition": "espiritual",
+    "lemma": "πνευματικός"
+  },
+  {
+    "definition": "anhelo, deseo",
+    "lemma": "πόθος"
+  },
+  {
+    "definition": "hacer, obrar",
+    "lemma": "ποιέω"
+  },
+  {
+    "definition": "ciudadanía, constitución, modo de vida",
+    "lemma": "πολιτεία"
+  },
+  {
+    "definition": "maldad, perversidad",
+    "lemma": "πονηρία"
+  },
+  {
+    "definition": "malvado, malo",
+    "lemma": "πονηρός"
+  },
+  {
+    "definition": "trabajo, esfuerzo, dolor",
+    "lemma": "πόνος"
+  },
+  {
+    "definition": "cuánto, cuán grande",
+    "lemma": "πόσος"
+  },
+  {
+    "definition": "asunto, ocupación, estudio",
+    "lemma": "πραγματεία"
+  },
+  {
+    "definition": "hacer, obrar, practicar",
+    "lemma": "πράττω"
+  },
+  {
+    "definition": "anciano, mayor",
+    "lemma": "πρεσβύτερος"
+  },
+  {
+    "definition": "elección, propósito",
+    "lemma": "προαίρεσις"
+  },
+  {
+    "definition": "propósito, plan",
+    "lemma": "πρόθεσις"
+  },
+  {
+    "definition": "hacia, a, con (preposición)",
+    "lemma": "πρός"
+  },
+  {
+    "definition": "aceptable, bienvenido",
+    "lemma": "προσδεκτός"
+  },
+  {
+    "definition": "expectativa, espera",
+    "lemma": "προσδοκία"
+  },
+  {
+    "definition": "esperar, aguardar",
+    "lemma": "προσδοκάω"
+  },
+  {
+    "definition": "acercarse, venir a",
+    "lemma": "προσέρχομαι"
+  },
+  {
+    "definition": "perseverar, dedicarse a",
+    "lemma": "προσκαρτερέω"
+  },
+  {
+    "definition": "rostro, persona",
+    "lemma": "πρόσωπον"
+  },
+  {
+    "definition": "anterior, primero",
+    "lemma": "πρότερος"
+  },
+  {
+    "definition": "profeta",
+    "lemma": "προφήτης"
+  },
+  {
+    "definition": "temprano, matutino",
+    "lemma": "πρώϊμος"
+  },
+  {
+    "definition": "primero",
+    "lemma": "πρῶτος"
+  },
+  {
+    "definition": "dar alas, alzar",
+    "lemma": "πτερόω"
+  },
+  {
+    "definition": "fuego",
+    "lemma": "πῦρ"
+  },
+  {
+    "definition": "pira, hoguera",
+    "lemma": "πυρά"
+  },
+  {
+    "definition": "cómo?",
+    "lemma": "πῶς"
+  },
+  {
+    "definition": "romper, desgarrar",
+    "lemma": "ῥήγνυμι"
+  },
+  {
+    "definition": "librar, rescatar",
+    "lemma": "ῥύομαι"
+  },
+  {
+    "definition": "trompeta",
+    "lemma": "σάλπιγξ"
+  },
+  {
+    "definition": "carne, cuerpo",
+    "lemma": "σάρξ"
+  },
+  {
+    "definition": "tú",
+    "lemma": "σύ"
+  },
+  {
+    "definition": "séptico, putrefactor",
+    "lemma": "σηπτικός"
+  },
+  {
+    "definition": "dispersar, esparcir",
+    "lemma": "σκορπίζω"
+  },
+  {
+    "definition": "triste, de semblante sombrío",
+    "lemma": "σκυθρωπός"
+  },
+  {
+    "definition": "hacer sabio, engañar astutamente",
+    "lemma": "σοφίζω"
+  },
+  {
+    "definition": "sabiamente, astutamente",
+    "lemma": "σοφῶς"
+  },
+  {
+    "definition": "boca",
+    "lemma": "στόμα"
+  },
+  {
+    "definition": "estrangulamiento",
+    "lemma": "στραγγαλιά"
+  },
+  {
+    "definition": "estar triste, oscuro",
+    "lemma": "στυγνάζω"
+  },
+  {
+    "definition": "astringente",
+    "lemma": "στυπτικός"
+  },
+  {
+    "definition": "conceder, permitir",
+    "lemma": "συγχωρέω"
+  },
+  {
+    "definition": "guardar juntos, preservar",
+    "lemma": "συμφυλάττω"
+  },
+  {
+    "definition": "sinagoga, reunión",
+    "lemma": "συναγωγή"
+  },
+  {
+    "definition": "contrato, intercambio",
+    "lemma": "συνάλλαγμα"
+  },
+  {
+    "definition": "reunión, asamblea",
+    "lemma": "σύναξις"
+  },
+  {
+    "definition": "reunir, congregar",
+    "lemma": "συνάγω"
+  },
+  {
+    "definition": "lazo, vínculo",
+    "lemma": "σύνδεσμος"
+  },
+  {
+    "definition": "quebrar, aplastar",
+    "lemma": "συντρίβω"
+  },
+  {
+    "definition": "costumbre, hábito",
+    "lemma": "συνήθεια"
+  },
+  {
+    "definition": "compañero, camarada",
+    "lemma": "συνόμιλος"
+  },
+  {
+    "definition": "tener tiempo libre, dedicarse a",
+    "lemma": "σχολάζω"
+  },
+  {
+    "definition": "cuerpo",
+    "lemma": "σῶμα"
+  },
+  {
+    "definition": "corporal, físico",
+    "lemma": "σωματικός"
+  },
+  {
+    "definition": "saludable, que trae salvación",
+    "lemma": "σωτηριώδης"
+  },
+  {
+    "definition": "sensatez, moderación, prudencia",
+    "lemma": "σωφροσύνη"
+  },
+  {
+    "definition": "humillar, abatir",
+    "lemma": "ταπεινόω"
+  },
+  {
+    "definition": "quizás, pronto",
+    "lemma": "τάχα"
+  },
+  {
+    "definition": "y (enclítico)",
+    "lemma": "τε"
+  },
+  {
+    "definition": "completar, terminar, pagar",
+    "lemma": "τελέω"
+  },
+  {
+    "definition": "gozo, deleite",
+    "lemma": "τέρψις"
+  },
+  {
+    "definition": "cuarenta",
+    "lemma": "τεσσαράκοντα"
+  },
+  {
+    "definition": "alguien, alguno, cierto",
+    "lemma": "τις"
+  },
+  {
+    "definition": "quién, qué",
+    "lemma": "τίς"
+  },
+  {
+    "definition": "entonces, por consiguiente",
+    "lemma": "τοίνυν"
+  },
+  {
+    "definition": "lugar",
+    "lemma": "τόπος"
+  },
+  {
+    "definition": "tan grande, tanto",
+    "lemma": "τοσοῦτος"
+  },
+  {
+    "definition": "entonces, en aquel tiempo",
+    "lemma": "τότε"
+  },
+  {
+    "definition": "mesa, banco",
+    "lemma": "τράπεζα"
+  },
+  {
+    "definition": "alimentar, nutrir",
+    "lemma": "τρέφω"
+  },
+  {
+    "definition": "tres",
+    "lemma": "τρεῖς"
+  },
+  {
+    "definition": "modo, manera, carácter",
+    "lemma": "τρόπος"
+  },
+  {
+    "definition": "alimento, nutrición",
+    "lemma": "τροφή"
+  },
+  {
+    "definition": "lujo, deleite",
+    "lemma": "τρυφή"
+  },
+  {
+    "definition": "saludable, sano",
+    "lemma": "ὑγιεινός"
+  },
+  {
+    "definition": "materia, bosque, madera",
+    "lemma": "ὕλη"
+  },
+  {
+    "definition": "retirarse, retroceder",
+    "lemma": "ὑπαναχωρέω"
+  },
+  {
+    "definition": "entrar secretamente, insinuarse",
+    "lemma": "ὑπεισέρχομαι"
+  },
+  {
+    "definition": "sobre, en favor de (genitivo); más allá de (acusativo)",
+    "lemma": "ὑπέρ"
+  },
+  {
+    "definition": "bajo, por (genitivo); debajo de (acusativo)",
+    "lemma": "ὑπό"
+  },
+  {
+    "definition": "recepción, acogida",
+    "lemma": "ὑποδοχή"
+  },
+  {
+    "definition": "permanecer, soportar, perseverar",
+    "lemma": "ὑπομένω"
+  },
+  {
+    "definition": "paciencia, perseverancia",
+    "lemma": "ὑπομονή"
+  },
+  {
+    "definition": "hacer astringente, apretar",
+    "lemma": "ὑποστύφω"
+  },
+  {
+    "definition": "alto, elevado",
+    "lemma": "ὑψηλός"
+  },
+  {
+    "definition": "brillante, alegre",
+    "lemma": "φαιδρός"
+  },
+  {
+    "definition": "remedio, veneno, droga",
+    "lemma": "φάρμακον"
+  },
+  {
+    "definition": "decir, afirmar",
+    "lemma": "φημί"
+  },
+  {
+    "definition": "llegar antes, adelantarse",
+    "lemma": "φθάνω"
+  },
+  {
+    "definition": "llama, fuego",
+    "lemma": "φλόξ"
+  },
+  {
+    "definition": "guarda, talismán, filacteria",
+    "lemma": "φυλακτήριον"
+  },
+  {
+    "definition": "guardar, proteger",
+    "lemma": "φυλάττω"
+  },
+  {
+    "definition": "naturaleza, origen",
+    "lemma": "φύσις"
+  },
+  {
+    "definition": "voz, sonido",
+    "lemma": "φωνή"
+  },
+  {
+    "definition": "luz",
+    "lemma": "φῶς"
+  },
+  {
+    "definition": "alegrarse, regocijarse",
+    "lemma": "χαίρω"
+  },
+  {
+    "definition": "caldeo",
+    "lemma": "Χαλδαῖος"
+  },
+  {
+    "definition": "freno (de caballo)",
+    "lemma": "χαλινός"
+  },
+  {
+    "definition": "don, regalo de gracia",
+    "lemma": "χάρισμα"
+  },
+  {
+    "definition": "peor, inferior",
+    "lemma": "χείρων"
+  },
+  {
+    "definition": "cosa, dinero, riqueza",
+    "lemma": "χρῆμα"
+  },
+  {
+    "definition": "usar, emplear",
+    "lemma": "χράομαι"
+  },
+  {
+    "definition": "Cristo, Ungido",
+    "lemma": "Χριστός"
+  },
+  {
+    "definition": "alma, vida",
+    "lemma": "ψυχή"
+  },
+  {
+    "definition": "como, cuando, que (comparación, tiempo)",
+    "lemma": "ὡς"
+  },
+  {
+    "definition": "así como, tal como",
+    "lemma": "ὥσπερ"
+  },
+  {
+    "definition": "deber, estar obligado",
+    "lemma": "ὀφείλω"
+  },
+  {
+    "definition": "beneficiar, ayudar",
+    "lemma": "ὠφελέω"
+  },
+  {
+    "definition": "beneficio, ayuda",
+    "lemma": "ὠφέλεια"
+  },
+  {
+    "definition": "útil, provechoso",
+    "lemma": "ὠφέλιμος"
+  }
+]

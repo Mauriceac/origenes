@@ -27,14 +27,14 @@ const NotesBlock = ({ notes }) => {
   );
 };
 
+
 export default function BookDisplay({ data }) {
   if (!Array.isArray(data)) return <div>No data found.</div>;
-
   return (
     <div style={{ margin: '2em 0' }}>
       {data.map((section, sectionIdx) => (
         <div key={sectionIdx} style={{ marginBottom: '2em' }}>
-          <h2 id={`anchor${section.section}`}>Sección {section.section}</h2>
+          <h2 id={`section-${section.section}`}>Section {section.section}</h2>
           <div style={{
             background: 'var(--ifm-card-background-color)', 
             padding: '0.75em 1em',
@@ -79,11 +79,13 @@ export default function BookDisplay({ data }) {
   );
 }
 
+// Named export for Docusaurus TOC integration
 export function generateTOC(data) {
   if (!Array.isArray(data)) return [];
   return data.map(section => ({
-    value: `Sección ${section.section}`,
-    id: `anchor${section.section}`,
+    value: `Section ${section.section}`,
+    id: `section-${section.section}`,
     level: 2,
   }));
 }
+

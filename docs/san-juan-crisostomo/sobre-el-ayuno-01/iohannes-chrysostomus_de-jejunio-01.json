@@ -2,11 +2,6 @@
   {
     "chapter": "0",
     "section": "1",
-    "translation": []
-  },
-  {
-    "chapter": "0",
-    "section": "2",
     "translation": [
       {
         "chapter": 0,
@@ -27,7 +22,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Περὶ Νηστείας.",
           "spanishTranslation": "Sobre el Ayuno."
@@ -52,7 +47,7 @@
           "notesGreek": "",
           "notesLinguistics": "La frase 'Σάλπιγγος ὑψηλότερα βοῶ' (Sálpingos hypsēlotera boō) significa literalmente 'grito más fuerte que una trompeta', denotando la intensidad y la fuerza del mensaje que se va a proclamar."
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Σάλπιγγος ὑψηλότερα βοῶ τὴν φωνὴν ἀνυψῶν, οὐχ ἵνα τέρψει ἡδονῆς τὴν ἀκοὴν ἀπατήσω, ἀλλ' ἵνα λέξει τῆς ἀληθείας τὴν ἡδονὴν σβέσω·",
           "spanishTranslation": "Grito más fuerte que una trompeta, elevando la voz, no para engañar el oído con el deleite del placer, sino para extinguir el placer con la palabra de la verdad;"
@@ -77,7 +72,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "καὶ παύσω µὲν ἀπὸ λόγου τὴν τῆς γαστρὸς ἐπιθυµίαν, ἐξεγερῶ δὲ διὰ πόθου τὴν τῆς νηστείας ἐργασίαν.",
           "spanishTranslation": "y detendré con la razón el deseo del vientre, y despertaré con anhelo la práctica del ayuno."
@@ -102,7 +97,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Πόθος γὰρ νηστείας ἐπουράνιον τὸ κέρδος, κέρδος δὲ ἡδυπαθείας ἐπιζήµιον ἀπεργάζεται τὸ βλάβος.",
           "spanishTranslation": "Porque el anhelo por el ayuno produce una ganancia celestial, mientras que la ganancia del placer produce un daño perjudicial."
@@ -128,7 +123,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Ὁ µὲν γὰρ βρώσει σχολάζων, καὶ τὴν τῆς γαστρὸς πληρῶν ἐπιθυµίαν, τῆς ψυχῆς ζηµιοῖ τὴν ἐπικαρπίαν τὴν πνευµατικήν· ὁ δὲ νηστείᾳ τὴν σάρκα µαραίνων, καὶ τῶν βρωµάτων τὴν ἀδηφαγίαν ἀποφεύγων, τῶν κρειττόνων θησαυρίζει τὴν προσδοκίαν.",
           "spanishTranslation": "Porque el que se entrega a la comida y satisface el deseo del vientre, perjudica la cosecha espiritual del alma; mientras que el que mortifica la carne con el ayuno y evita la voracidad de los alimentos, atesora la esperanza de cosas mejores."
@@ -153,7 +148,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Νηστεία γὰρ σωφροσύνην ἐκδιδάσκει, καρτερικὸν κατασκευάζει·",
           "spanishTranslation": "Porque el ayuno enseña la templanza y hace al hombre perseverante;"
@@ -178,7 +173,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "νηστεία πρὸς εὐσέβειαν ἀλείφει, καὶ πρὸς ὑποµονὴν γυµνάζει·",
           "spanishTranslation": "el ayuno unge para la piedad y ejercita para la paciencia;"
@@ -203,7 +198,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "νηστεία ἀγγελικὴν ποιεῖ τὴν πολιτείαν, καὶ πνευµατικὸν, ἀποτελεῖ τὸ σῶµα·",
           "spanishTranslation": "el ayuno hace angélica la vida y espiritualiza el cuerpo;"
@@ -228,7 +223,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "νηστεία ψυχῆς ἐστι φυλακτήριον, καὶ σώµατος ὅπλον ἀκαταµάχητον.",
           "spanishTranslation": "el ayuno es el guardián del alma y un arma invencible para el cuerpo."
@@ -253,7 +248,7 @@
           "notesGreek": "La palabra 'ἀντιστρατευοµένην' (antistrateuomenēn) significa 'que le es adverso' o 'que combate', refiriéndose a un deseo que lucha en contra de la voluntad.",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Οὔτε γὰρ τὴν ἐπίβουλον ἡδονὴν παραδέχεται, καὶ τὴν ἀντιστρατευοµένην ἐπιθυµίαν καταγωνίζεται.",
           "spanishTranslation": "Porque ni acepta el placer insidioso, y combate el deseo que le es adverso."
@@ -278,7 +273,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Νηστεία εἰς οὐρανὸν ἀνάγει τὴν διάνοιαν καὶ πτεροῖ αὐτὴν πρὸς τὴν ἀθάνατον φύσιν.",
           "spanishTranslation": "El ayuno eleva la mente al cielo y la dota de alas hacia la naturaleza inmortal."
@@ -303,7 +298,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Νηστεύωµεν τοίνυν, ἀγαπητοὶ, µὴ σκυθρωποὶ τοῖς προσώποις τὰς ἡµέρας τῶν νηστειῶν διεξερχόµενοι, ἀλλὰ φαιδραῖς ταῖς ψυχαῖς ὡς δοῦλοι Χριστοῦ πρὸς αὐτὰς διατιθέµενοι.",
           "spanishTranslation": "Ayunemos, pues, amados, no con rostros tristes durante los días de ayuno, sino con almas alegres, comportándonos como siervos de Cristo."
@@ -329,7 +324,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Εἰ γὰρ ἐπιθυµῶν τῇ νηστείᾳ προσελήλυθας, µὴ στύγναζε, ἀλλὰ χαίρου· καθαίρει γάρ σου τὴν ψυχὴν τὸ δηλητήριον.",
           "spanishTranslation": "Porque si has venido al ayuno deseándolo, no te entristezcas, sino alégrate; pues purifica el veneno de tu alma."
@@ -355,7 +350,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Μὴ περὶ καλῶν τὴν νηστείαν ἐκδέχου, ὧν ἡδέα τὰ βρώµατα· ἀλλ' ὑποµένων µακροθύµει ἡδύτερα τῶν βρωµάτων δεχόµενος τὰ διδάγµατα.",
           "spanishTranslation": "No recibas el ayuno pensando en cosas buenas cuyos alimentos sean agradables; sino persevera con paciencia, recibiendo las enseñanzas, que son más dulces que los alimentos."
@@ -381,7 +376,7 @@
           "notesGreek": "La palabra 'ἀναθηµάτων' (anathēmatōn) puede referirse a ofrendas o cosas dedicadas, en este contexto, 'ofrendas espirituales' o 'dones espirituales' que llenan el alma.",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "∆ιὰ τοῦτο νηστεύεις ἀπὸ βρωµάτων, ἵνα τραφῇς διὰ τοῦ Πνεύµατος· καὶ διὰ τοῦτο ἀπέχῃ τῶν σωµατικῶν ἐδεσµάτων, ἵνα ἐµπλησθῇς τῶν πνευµατικῶν ἀναθηµάτων.",
           "spanishTranslation": "Por eso ayunas de alimentos, para que te alimentes por el Espíritu; y por eso te abstienes de manjares corporales, para que te sacies de ofrendas espirituales."
@@ -406,7 +401,7 @@
           "notesGreek": "El término 'κατάπλασµα' (kataplasma) se refiere a un emplasto o cataplasma, una aplicación medicinal que se usaba para suavizar o curar.",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Φάρµακόν ἐστιν ἀναιρετικὸν τῆς ἁµαρτίας ἡ νηστεία, καὶ κατάπλασµα ψυχῆς µαλακτικὸν, ἀποπλύνουσα πρὸς εὐσέβειαν.",
           "spanishTranslation": "El ayuno es un remedio que destruye el pecado, y un emplasto suavizante para el alma, lavándola hacia la piedad."
@@ -432,7 +427,7 @@
           "notesGreek": "Las palabras 'δριµυτάτοις' (drimytatois) y 'στυπτικωτάτοις' (styptikōtatois) significan 'muy acre' y 'muy astringente' respectivamente, describiendo la acción purificadora del ayuno de manera vívida.",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Καὶ ὥσπερ τὰ χείρονα πάθη δριµυτάτοις τισὶ καὶ στυπτικωτάτοις καταπασσόµενα, τὸ µὲν σηπτικὸν τοῦ σώµατος ἀποῤῥίπτει· τὸν αὐτὸν τρόπον καὶ τὴν ἐνυποµυχεύουσαν ἁµαρτίαν καὶ κατὰ τῆς ψυχῆς νεµοµένην στυπτικωτάτη ὑπεισελθοῦσα νηστεία ἀναξηραίνει µὲν αὐτὴν κατ' ὀλίγον λεπτύνουσα, ἐξαφανίζει δὲ εἰς ἅπαν ἀποκαθαίρουσα.",
           "spanishTranslation": "Y así como las peores pasiones, al ser espolvoreadas con sustancias muy astringentes y acre, desechan lo putrefacto del cuerpo, de la misma manera el ayuno, al penetrar como una sustancia muy astringente, seca poco a poco el pecado que acecha y se extiende por el alma, reduciéndolo, y lo elimina por completo, purificándolo."
@@ -457,7 +452,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "∆ιὰ τοῦτο εἰ καὶ ἐπίπονος ἡ νηστεία, ἀλλ' ὠφέλιµος καὶ εὐπρόσιτος.",
           "spanishTranslation": "Por esto, aunque el ayuno es penoso, es útil y accesible."
@@ -483,7 +478,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Μὴ τοίνυν λυπούµενος νηστεύσῃς, ἵνα µὴ τὸν κάµατον ἀπολέσῃς· µηδὲ γογγύσῃς ὅτι ὀλίγον βραδύνεις, ἵνα µὴ δι' ὀλίγον τοῦ ὅλου ζηµίαν ὑποµείνῃς.",
           "spanishTranslation": "Por tanto, no ayunes con tristeza, para que no pierdas el esfuerzo; ni murmures porque te detengas un poco, para que no sufras una pérdida total por poco tiempo."
@@ -508,7 +503,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Ὅσῳ γὰρ νηστεία ὑποστύφει τὸ σῶµα, τοσοῦτον ἐκ τῆς νηστείας ὠφέλεια.",
           "spanishTranslation": "Porque cuanto más contrae el ayuno el cuerpo, tanto mayor es el beneficio del ayuno."
@@ -533,7 +528,7 @@
           "notesGreek": "La palabra 'πολιτείας' (politeias) aquí se refiere a 'vidas' o 'conducta', no a un sistema político, en el sentido de la manera de vivir de los justos.",
           "notesLinguistics": ""
         },
-        "section": 2,
+        "section": 1,
         "text": {
           "originalGreekText": "Ἀνάδραµε ἐπὶ τὰς τῶν δικαίων πολιτείας, καὶ εὑρίσκεις αὐτοὺς τὸ πλεῖον διὰ νηστείας εὐδοκιµήσαντας.",
           "spanishTranslation": "Recorre las vidas de los justos y encontrarás que la mayoría de ellos se distinguieron por el ayuno."
@@ -543,7 +538,7 @@
   },
   {
     "chapter": "0",
-    "section": "3",
+    "section": "2",
     "translation": [
       {
         "chapter": 0,
@@ -564,7 +559,7 @@
           "notesGreek": "Γνόφος (gnóphos): oscuridad, tinieblas, especialmente una nube espesa o neblina. Συνόµιλος (synómilos): compañero en la conversación, amigo, confidente. Se usa aquí para enfatizar la cercanía de Moisés con Dios.",
           "notesLinguistics": "La construcción participial 'νηστεύσας' (habiendo ayunado) es común en griego clásico y koiné para indicar una acción previa a la principal."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Πρῶτον Μωϋσῆς νηστεύσας ἐπὶ τὸν γνόφον εἰσελήλυθε, καὶ συνόµιλος τῷ Θεῷ διὰ νηστείας γέγονε.",
           "spanishTranslation": "Primero, Moisés, habiendo ayunado, entró en la oscuridad (nube), y se hizo compañero de Dios por medio del ayuno."
@@ -589,7 +584,7 @@
           "notesGreek": "Ἐπισυνάψας (episynápsas): habiendo unido, habiendo añadido consecutivamente. Aquí significa 'habiendo continuado' o 'prolongado' el ayuno. Νοµοθέτης (nomothétēs): legislador.",
           "notesLinguistics": "El verbo 'ἐχρηµάτισε' (echrēmátise) puede significar 'fue llamado', 'fue designado' o 'actuó como'. Aquí se traduce como 'se hizo' o 'actuó como' un legislador."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Τεσσαράκοντα ἡµέρας τὴν νηστείαν ἐπισυνάψας, νοµοθέτης διὰ νηστείας ἐχρηµάτισε·",
           "spanishTranslation": "Habiendo prolongado el ayuno por cuarenta días, se convirtió en legislador por medio del ayuno."
@@ -615,7 +610,7 @@
           "notesGreek": "Ἤρκεῖτο (ērkeîto): era suficiente, se contentaba. Aquí se traduce como 'se sostenía' o 'se contentaba'. Ἐκδιδασκόµενος (ekdidaskómenos): siendo enseñado completamente, instruido.",
           "notesLinguistics": "La construcción 'οὔτε... οὔτε...' (oúte... oúte...) es una negación doble que se traduce como 'ni... ni...'. El participio presente pasivo 'ἐκδιδασκόµενος' se utiliza aquí en sentido causal o de medio, explicando por qué se contentaba."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "καὶ οὔτε ἄρτον ἔφαγεν, οὔτε οἶνον ἔπιεν· ἠρκεῖτο γὰρ τροφῇ τὴν νοµοθεσίαν παρὰ τοῦ νοµοθέτου ἐκδιδασκόµενος.",
           "spanishTranslation": "Y no comió pan ni bebió vino; pues se sostenía con el alimento de ser instruido en la ley por el legislador."
@@ -641,7 +636,7 @@
           "notesGreek": "Ἀντιστρατευοµένη (antistrateuoménē): la que lucha contra, la que se opone. Κατανόησον (katanóēson): entiende, considera cuidadosamente. Imperativo aoristo.",
           "notesLinguistics": "La frase 'Ἵνα δὲ µάθῃς' (Hína de máthēs) introduce una cláusula de propósito, 'para que aprendas'. El uso del 'δὲ' (de) aquí es adversativo, introduciendo un contraste."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Ἵνα δὲ µάθῃς πόσον ὠφελεῖ ἡ νηστεία, καὶ πόσον βλάπτει ἡ µέθη νηστείᾳ ἀντιστρατευοµένη· κατανόησον τοῖς ὑπὸ Μωϋσέως πραττοµένοις, καὶ τοῖς ὑπὸ τοῦ λαοῦ γιγνοµένοις, καὶ εὑρήσεις τὴν δύναµιν τῆς νηστείας.",
           "spanishTranslation": "Pero para que aprendas cuánto beneficia el ayuno y cuánto perjudica la embriaguez que se opone al ayuno; considera lo que fue hecho por Moisés y lo que fue hecho por el pueblo, y encontrarás el poder del ayuno."
@@ -666,7 +661,7 @@
           "notesGreek": "Ἄνω (ánō): arriba. Κάτω (kátō): abajo. Ἀνέτρεπε (anétrepe): volcaba, arruinaba, anulaba. Imperfecto que indica una acción continua o habitual.",
           "notesLinguistics": "La estructura paralela con 'ἄνω' y 'κάτω' enfatiza el contraste geográfico y moral de las acciones de Moisés y el pueblo."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Ἄνω Μωϋσῆς τὸν νόµον ἐλάµβανε, καὶ κάτω ὁ λαὸς τὸν νόµον ἀνέτρεπε.",
           "spanishTranslation": "Arriba, Moisés recibía la ley, y abajo, el pueblo anulaba la ley."
@@ -693,7 +688,7 @@
           "notesGreek": "Λυπηθεὶς (lypētheís): habiéndose entristecido. Μωϋσῆς... συνέτριβεν (Mōysēs... synétriben): Moisés... rompió. Ἠγησάµενος (hēgēsámenos): habiendo considerado, creyendo. Βεβαρηµέναις (bebarēménāis): cargadas, pesadas. Λόγια (lógia): oráculos, palabras divinas, enseñanzas.",
           "notesLinguistics": "La construcción 'οὐκ εὔλογον ἠγησάµενος... πιστεύεσθαι' (no considerando razonable... que fuera confiada) es un ejemplo de la voz pasiva de infinitivo para expresar lo que se consideraba apropiado o no. El 'καὶ' (kai) antes de 'διανοίαις' conecta la segunda cláusula con la primera, significando 'y que [no debieran ser entregados]...'"
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Λυπηθεὶς γὰρ Μωϋσῆς τὸν νόµον συνέτριβεν, οὐκ εὔλογον ἠγησάµενος µεθύουσι τὸν νόµον πιστεύεσθαι, καὶ Επιτρέπετα διανοίαις οἴνῳ βεβαρηµέναις λόγια παραδίδοσθαι.",
           "spanishTranslation": "Porque Moisés, entristecido, rompió la ley, no considerando razonable que la ley fuera confiada a borrachos, ni que los oráculos fueran entregados a mentes cargadas de vino."
@@ -718,7 +713,7 @@
           "notesGreek": "Ἀδικεῖ (adikeî): perjudica, daña, hace injusticia. Ἀντιπίπτουσα (antipíptousa): la que se opone, la que choca contra.",
           "notesLinguistics": "El uso del participio presente 'ἀντιπίπτουσα' añade una descripción activa del daño causado por la embriaguez: es una fuerza que se opone directamente al ayuno."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Βλέπε πόσον ἀδικεῖ ἡ µέθη ἀντιπίπτουσα τῇ νηστείᾳ.",
           "spanishTranslation": "Mira cuánto perjudica la embriaguez que se opone al ayuno."
@@ -743,7 +738,7 @@
           "notesGreek": "Ἐπανορθώσασα (epanorthōsása): habiendo rectificado, habiendo corregido. Χρησάµενος (chrēsámenos): habiendo usado. Ἐπανεκαλέσατο (epanekalésato): volvió a llamar, reclamó de nuevo.",
           "notesLinguistics": "La repetición del adverbio 'πάλιν' (pálin, de nuevo) enfatiza la recurrencia y la capacidad restauradora del ayuno en una segunda oportunidad."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Ἀλλὰ πάλιν νηστεία τοσοῦτον κακὸν ἐπανορθώσασα ταῖς αὐταῖς χρησάµενος ἡµέραις, πάλιν ἐπανεκαλέσατο τὸν νόµον.",
           "spanishTranslation": "Pero de nuevo, el ayuno, habiendo rectificado tan gran mal, al usar los mismos días, volvió a convocar la ley."
@@ -770,7 +765,7 @@
           "notesGreek": "Μνηµόσυνον (mnēmósynon): recuerdo, conmemoración, memorial. Ἀργήσει (argḗsei): quedará ineficaz, inactiva. Συντριβοµένη (syntriboménē): siendo rota, quebrada. Ἐνήργησε (enērgēse): actuó, fue efectiva. Συµφυλάττοντος (symphyláttontos): el que la guarda conjuntamente, el que la mantiene.",
           "notesLinguistics": "La construcción 'ὅτι ἡ µὲν... ἡ δὲ...' (hoti hē men... hē de...) es una forma común en griego para contrastar dos elementos ('por un lado... por otro lado...')."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Μνηµόσυνον ἡµῖν καταλέλοιπε πρὸς ἀσφάλειαν βίου καὶ πολιτείας, τάχα διὰ τούτου γινοµένου καὶ µυστήριόν τι ἐντεινόµενος. ὅτι ἡ µὲν πρώτη νοµοθεσία ἀργήσει, συντριβοµένη διὰ τὴν τοῦ προτέρου λαοῦ ἀπιστίαν· ἡ δὲ δευτέρα ἐνήργησε πανταχοῦ διδοµένη, τοῦ δευτέρου πιστῶς δεχοµένου τὸν δεύτερον νόµον, καὶ συµφυλάττοντος.",
           "spanishTranslation": "Nos dejó un memorial para la seguridad de vida y de conducta, quizás al intensificar por medio de esto algún misterio: que la primera ley sería ineficaz, quebrantada por la incredulidad del pueblo anterior; mientras que la segunda actuó al ser dada por todas partes, pues el segundo pueblo recibió fielmente la segunda ley y la guardó."
@@ -798,7 +793,7 @@
           "notesGreek": "Διοδεύσας (diodeúsas): habiendo atravesado, recorrido. ᾐσθάνετο (ēistháneto): sentía, percibía. Ἐβάσταζε (ebástaze): lo sostenía. Ἐπικουφίζουσα (epikouphízousa): aliviando, haciendo más ligero. Ἀσώµατον (asṓmaton): incorpóreo. Ἀόρατον (aóraton): invisible.",
           "notesLinguistics": "El uso del participio 'νηστεύσας' (habiendo ayunado) y 'διοδεύσας' (habiendo atravesado) en la misma frase, indica una secuencia de acciones previas a la principal (no sentir cansancio)."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Καὶ Ἠλίας δὲ τεσσαράκοντα ἡµέρας νηστεύσας, καὶ µιᾷ τροφῇ τὴν ἔρηµον διοδεύσας, οὐκ ᾐσθάνετο καµάτου· νηστεία γὰρ αὐτὸν ἐβάσταζε, τὸν πόνον ἐπικουφίζουσα· καὶ µετὰ νηστείαν Θεὸν ἐθεάσατο, καθὼς οἷόν τε τὴν ἀνθρωπίνην φύσιν κατανοῆσαι. Οὐ σωµατικοῖς ὀφθαλµοῖς τὸν ἀσώµατον ἐθεάσατο, ἀλλὰ καρδίᾳ τὸν ἀόρατον κατανοήσας, κατὰ τὴν τῆς ψυχῆς καθαρότητα.",
           "spanishTranslation": "Y Elías también, habiendo ayunado cuarenta días, y habiendo recorrido el desierto con una sola comida, no sintió cansancio; pues el ayuno lo sostenía, aliviando su esfuerzo; y después del ayuno vio a Dios, según le fue posible a la naturaleza humana comprender. No vio al incorpóreo con ojos corporales, sino que, habiendo comprendido al invisible con su corazón, lo hizo según la pureza de su alma."
@@ -823,7 +818,7 @@
           "notesGreek": "Μακάριοι (makárioi): bienaventurados, felices. Καθαροὶ (katharoi): puros. Ὄψονται (ópsontai): verán. Futuro de ὁράω (horáō, ver).",
           "notesLinguistics": "La frase 'καθαροὶ τῇ καρδίᾳ' es un dativo de respecto o relación, que indica 'puros en cuanto al corazón'."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Μακάριοι γὰρ οἱ καθαροὶ τῇ καρδίᾳ, ὅτι τὸν Θεὸν ὄψονται.",
           "spanishTranslation": "Porque bienaventurados los puros de corazón, porque ellos verán a Dios."
@@ -848,7 +843,7 @@
           "notesGreek": "Ἀπέκλεισε (apékleise): cerró. Ἀκολάστων (akolástōn): los indisciplinados, los desenfrenados. Καταδαπανώντων (katadapanṓntōn): los que gastan completamente, los que despilfarran. Προαιρέσει (proairései): por propia elección, voluntad. Παιδευόµενοι (paideuómenoi): siendo educados, disciplinados.",
           "notesLinguistics": "La cláusula de propósito 'ἵν' ὅπερ... µάθωσι παιδευόµενοι, καὶ γνῶσι' (para que lo que... aprendan siendo disciplinados, y conozcan) es una construcción elaborada que muestra el objetivo del castigo divino."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Οὕτω νηστεύσας, τὸν οὐρανὸν ἀπέκλεισε κατὰ τῶν ἀκολάστων, καὶ τρυφῇ τὸν ἑαυτῶν βίον καταδαπανώντων, ἵν' ὅπερ οὐχ εἵλοντο ἰδίᾳ προαιρέσει µετερχόµενοι, τοῦτο διὰ τῆς τοῦ λιµοῦ νηστείας µάθωσι παιδευόµενοι, καὶ γνῶσι, πῶς ὠφέλιµός ἐστιν ἡ νηστεία, καὶ ἐν καιρῷ τρυφῆς τὴν ἐργασίαν ἐπιδεικνυµένη.",
           "spanishTranslation": "Así, habiendo ayunado, cerró el cielo contra los indisciplinados y aquellos que despilfarraban su vida en lujos, para que lo que no eligieron buscar por su propia voluntad, esto lo aprendieran siendo disciplinados por el ayuno del hambre, y conocieran cuán útil es el ayuno, incluso mostrando su obra en tiempo de lujo."
@@ -875,7 +870,7 @@
           "notesGreek": "Ἐπιθυµιῶν (epithymiōn): deseados. Λάκκον (lákkon): foso, cisterna, guarida. Ἀκολάστων (akolástōn): los indisciplinados (aquí, los celosos o envidiosos que conspiraron contra Daniel). Ἐδυσωπήθησαν (edysōpḗthēsan): fueron avergonzados, respetaron, se intimidaron. Ἡµερώτεροι (hēmerṓteroi): más mansos. Κατατολµήσαντες (katatolmḗsantes): atreviéndose, osando. Ἀπεπλάνησε (apeplánēse): engañó, extravió.",
           "notesLinguistics": "La comparación entre 'bestias salvajes' y 'bestias racionales' (los hombres envidiosos) es una retórica fuerte que subraya la depravación humana frente a la obediencia instintiva de los animales ante la santidad."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "∆ανιὴλ δὲ καὶ αὐτὸς τρεῖς ἑβδοµάδας νηστεύσας, καὶ ἄρτον ἐπιθυµιῶν µὴ γευσάµενος, εἰς λάκκον λεόντων διὰ ζῆλον τῶν ἀκολάστων παραγενόµενος, καὶ λέοντας ἐκεῖ νηστεύειν ἐδίδαξεν. Ἐδυσωπήθησαν γὰρ τὸν νηστευτὴν οἱ ἄγριοι θῆρες, ἡµερώτεροι τῶν λογικῶν θηρίων γενόµενοι, καὶ ἀπέκλεισαν τὸ ἴδιον στόµα, τοῦ ἁγίου σώµατος ἅψασθαι µὴ κατατολµήσαντες. Ὥσπερ γὰρ ὅπλον τῷ ἰδίῳ σώµατι παραθέµενος τὴν νηστείαν, καὶ ὅλον ἑαυτὸν δι' αὐτῆς ὀχυρώσας, ἀπεπλάνησε τοὺς ὀφθαλµοὺς τῶν λεόντων, µὴ σῶµα ἀνθρώπινον, ἀλλὰ σῶµα ἀγγελικὸν ἐπιδειξάµενος.",
           "spanishTranslation": "Y Daniel también, habiendo ayunado por tres semanas, y no habiendo probado el pan deseado, habiendo llegado al foso de los leones por el celo de los indisciplinados, incluso enseñó a los leones a ayunar allí. Pues las bestias salvajes se intimidaron ante el que ayunaba, volviéndose más mansos que las bestias racionales, y cerraron su propia boca, no atreviéndose a tocar el cuerpo santo. Pues, como si hubiera puesto el ayuno como arma en su propio cuerpo, y habiéndose fortificado completamente por medio de él, engañó los ojos de los leones, mostrando no un cuerpo humano, sino un cuerpo angélico."
@@ -903,7 +898,7 @@
           "notesGreek": "Παρανόµῳ (paranómō): ilegal, contra la ley. Ἐξαφθεῖσαν (exaphtheîsan): encendido, prendido. Πυρὰν (pyrán): pira, hoguera. Κάµινον (káminon): horno. Δρόσον (dróson): rocío. Ἀπείρων (apeírōn): los que no tienen experiencia, los inexpertos. Κατεδαπάνησε (katedapánēse): consumió completamente. Ὑπανεχώρησε (hỹpanekhōrēse): retrocedió, cedió. Πνευµατικὸν (pneumatikón): espiritual.",
           "notesLinguistics": "La contraposición 'τῶν µὲν ἀπείρων τῆς νηστείας... τοὺς δὲ ἐν συνηθείᾳ τῆς νηστείας' es una construcción enfática para contrastar a los que no practicaban el ayuno con los que sí lo hacían."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Καὶ οἱ τρεῖς παῖδες ἐν Βαβυλῶνι, µὴ βουληθέντες τῇ παρανόµῳ τραπέζῃ τοῦ βασιλέως κοινωνῆσαι, ἀλλὰ τῇ κατὰ νόµον νηστείᾳ ἐξακολουθῆσαι, εἰς τὴν ἐξαφθεῖσαν πυρὰν τῆς καµίνου εἰσελθόντες ἔσβεσαν τὴν φλόγα, δρόσον ἀντὶ πυρὸς τὴν κάµινον διὰ νηστείας ἐργασάµενοι· καὶ τῶν µὲν ἀπείρων τῆς νηστείας τὸ πῦρ κατετόλµησε πάντας γὰρ τοὺς περιεστῶτας Χαλδαίους κατεδαπάνησε· τοὺς δὲ ἐν συνηθείᾳ τῆς νηστείας ὑπανεχώρησε, τοῦ σώµατος αὐτῶν ἅψασθαι µὴ δυνάµενον. Οὐδὲ γὰρ ὕλη τις ἦν ἐν τῷ σώµατι, τῆς νηστείας πνευµατικὸν αὐτὸ ἐργασαµένης.",
           "spanishTranslation": "Y los tres jóvenes en Babilonia, no queriendo participar de la mesa ilegal del rey, sino seguir el ayuno conforme a la ley, habiendo entrado en la hoguera encendida del horno, apagaron la llama, habiendo hecho que el horno produjera rocío en lugar de fuego por medio del ayuno; y el fuego, por un lado, se atrevió contra los inexpertos en el ayuno, pues consumió a todos los caldeos que estaban alrededor; pero, por otro lado, retrocedió ante los acostumbrados al ayuno, al no poder tocar su cuerpo. Pues no había ninguna sustancia material en el cuerpo, ya que el ayuno lo había hecho espiritual."
@@ -929,7 +924,7 @@
           "notesGreek": "Ἀπεκρούσαντο (apekroúsanto): rechazaron, apartaron. Ἐκτενῶς (ektenōs): diligentemente, con insistencia. Προσκαρτερήσαντες (proskarterḗsantes): habiendo perseverado diligentemente. Μεταποιήσαντες (metapoiḗsantes): habiendo transformado, cambiado. Καταλελοίπασιν (kataleleípasin): han dejado, han legado.",
           "notesLinguistics": "La frase 'δι' ἡµερῶν ὀλίγων µεταποιήσαντες' (habiendo transformado en pocos días) enfatiza la rapidez con la que el ayuno y el arrepentimiento lograron un cambio tan significativo."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Ὁµοίως δὲ [[61.790]] καὶ Νινευῗται νηστεύσαντες τὸν θάνατον ἀπεκρούσαντο· τρεῖς γὰρ ἡµέρας νηστείᾳ ἐκτενῶς προσκαρτερήσαντες, τὴν αἰώνιον κόλασιν δι' ἡµερῶν ὀλίγων µεταποιήσαντες, αἰώνιον ἔπαινον τῷ κόσµῳ καταλελοίπασιν.",
           "spanishTranslation": "Del mismo modo, los ninivitas, habiendo ayunado, apartaron la muerte; pues habiendo perseverado diligentemente en el ayuno durante tres días, habiendo transformado el castigo eterno en pocos días, dejaron una alabanza eterna al mundo."
@@ -954,7 +949,7 @@
           "notesGreek": "Ἰσχύει (iskhýei): es fuerte, es poderosa. Ἐκτελουµένη (ektelouménē): siendo realizada, ejecutada, completada.",
           "notesLinguistics": "La construcción 'µετ' εὐχῆς καὶ ἔργων' (met' euchês kai érgōn, con oración y obras) es una fórmula que enfatiza la necesidad de que el ayuno sea acompañado por otras prácticas piadosas."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Ὁρᾶτε, ἀγαπητοὶ, πόσον ἰσχύει νηστεία µετ' εὐχῆς καὶ ἔργων ἐκτελουµένη.",
           "spanishTranslation": "Ved, amados, cuán poderoso es el ayuno realizado con oración y obras."
@@ -980,7 +975,7 @@
           "notesGreek": "Ῥύεται (rhýetai): rescata, libra. Δικαιοσύνη (dikaiosýnē): justicia, rectitud, caridad. Ὑπὲρ ἀµφότερα (hypèr amphótera): por encima de ambos.",
           "notesLinguistics": "La frase 'δικαιοσύνη δὲ ὑπὲρ ἀµφότερα' sirve como una conclusión poderosa, estableciendo una jerarquía de virtudes. 'Δὲ' (de) aquí es adversativo, introduciendo un contraste o una distinción."
         },
-        "section": 3,
+        "section": 2,
         "text": {
           "originalGreekText": "Νηστεία γὰρ καὶ δέησις ἐκ θανάτου ῥύεται· δικαιοσύνη δὲ ὑπὲρ ἀµφότερα.",
           "spanishTranslation": "Pues el ayuno y la oración rescatan de la muerte; pero la justicia está por encima de ambos."
@@ -990,7 +985,7 @@
   },
   {
     "chapter": "0",
-    "section": "4",
+    "section": "3",
     "translation": [
       {
         "chapter": 0,
@@ -1012,7 +1007,7 @@
           "notesGreek": "El término 'ὁµοδίαιτος' (homodiaitos) significa 'que vive con la misma dieta' o 'compañero de dieta'. Aquí se usa metafóricamente para describir el ayuno como un compañero o una cualidad intrínseca de la templanza.",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Νηστεία καὶ θανάτου ἀναίρεσις, καὶ ὀργῆς ἀπολύτρωσις· νηστεία κάθαρσις διανοίας, ὁµοδίαιτος ἐγκρατείας, γυµνάσιον εὐσεβείας, ζυγὸς δικαιοσύνης.",
           "spanishTranslation": "El ayuno es la abolición de la muerte y la liberación de la ira; el ayuno es la purificación de la mente, compañero de la templanza, gimnasio de la piedad, balanza de la justicia."
@@ -1039,7 +1034,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Οἶδε νηστεία πλούσιον τὸν πένητα ἀπεργάζεσθαι· οὐ γὰρ ἀκαίρως δαπανᾷν συγχωρεῖ, τοῦ µέτρου τὴν αὐτάρκειαν παρεχοµένη· οἶδε καὶ τὸν πλούσιον οἰκονόµον τῶν ἰδίων χρηµάτων κατασκευάζειν, µὴ ἀδεῶς συγχωροῦσα καταπιάζειν·",
           "spanishTranslation": "El ayuno sabe cómo hacer rico al pobre, pues no permite que se gaste inoportunamente, proveyendo la suficiencia de la medida; también sabe cómo hacer del rico un buen administrador de sus propias riquezas, no permitiéndole despilfarrar despreocupadamente."
@@ -1064,7 +1059,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "ἐπίσταται καὶ νεότητος νηστεία ἀκµήν.",
           "spanishTranslation": "El ayuno también conoce el vigor de la juventud."
@@ -1089,7 +1084,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "∆ιδάσκει χαλινὸν τῶν βρωµάτων, περιτίθησι τὴν ἐγκράτειαν, καὶ σοφῶς ἡνιοχοῦσα πρὸς εὐσέβειαν καὶ σωφροσύνην.",
           "spanishTranslation": "Enseña a poner freno a las comidas, impone la templanza y, sabiamente, conduce hacia la piedad y la moderación."
@@ -1114,7 +1109,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Οἶδε καὶ πρεσβυτέρους σοφίζειν, καὶ καθαρὸν τὸ τῆς διανοίας φυλάττειν ὄµµα.",
           "spanishTranslation": "También sabe cómo dar sabiduría a los ancianos y mantener puro el ojo de la mente."
@@ -1140,7 +1135,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Νηστεία ὑγιεινότερον διατηρεῖ καὶ τὸ σῶµα· οὐ γὰρ βαρυνόµενον ὑπὸ τῶν βρωµάτων ὕλην δέχεται νοσηµάτων, ἀλλὰ κουφιζόµενον ἀπὸ τῶν ἐδεσµάτων, εὔρωστον γίνεται πρὸς ὑποδοχὴν τῶν χαρισµάτων.",
           "spanishTranslation": "El ayuno también mantiene el cuerpo más sano; pues al no ser gravado por las comidas, no recibe material para enfermedades, sino que aligerado de los alimentos, se vuelve robusto para la recepción de los carismas."
@@ -1165,7 +1160,7 @@
           "notesGreek": "La palabra 'Επιτρέπετα' parece ser una forma incompleta o abreviada de 'Επιτρέπεται' (Epitrepetai), que significa 'se permite' o 'está permitido'.",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Επιτρέπετα",
           "spanishTranslation": "Se permite."
@@ -1190,7 +1185,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "∆ιὰ τοῦτο νηστεύσωµεν, ἀγαπητοὶ, ἵνα τῶν πνευµατικῶν ἐπιτύχωµεν δωρηµάτων.",
           "spanishTranslation": "Por esto, amados, ayunemos, para que alcancemos los dones espirituales."
@@ -1215,7 +1210,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Νηστεύων παιδαγωγεῖ καὶ τὴν ψυχὴν πρὸς εὐσέβειαν, εἰκόνα λαµβάνων τῆς σωµατικῆς ἐγκρατείας τὴν κατὰ ψυχὴν ἐπιµέλειαν, ἵνα ὥσπερ ἀπέχει τῶν ἔξωθεν ἐπεισερχοµένων βρωµάτων, οὕτω καὶ τῶν ἐν τῇ διανοίᾳ ἐπαναβαινόντων πονηρῶν ἐννοηµάτων.",
           "spanishTranslation": "El que ayuna educa también el alma hacia la piedad, tomando el cuidado del alma como imagen de la templanza corporal, para que así como se abstiene de los alimentos que vienen de fuera, así también de los malos pensamientos que surgen en la mente."
@@ -1241,7 +1236,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Ἐὰν γὰρ, φησὶ, Πνεῦµα τοῦ ἐξουσιάζοντος ἀναβῇ ἐπὶ σὲ, τόπον σου µὴ ἀφῇς, ὅτι ἴαµα καταπαύσει ἁµαρτίας. Ὥσπερ νῦν ἀπέχεις βρωµάτων µὴ γευσάµενος, οὕτως ἀπέχου ἁµαρτηµάτων ἀλλασσόµενος.",
           "spanishTranslation": "Porque, dice, «si el espíritu del que tiene poder sube contra ti, no abandones tu lugar, porque la curación detendrá los pecados». Así como ahora te abstienes de alimentos sin haberlos probado, así abstente de los pecados al cambiar."
@@ -1268,7 +1263,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Νηστεύεις οἴνου µὴ ἀντιλαµβανόµενος; νήστευε καὶ πονηρίας ἀπεχόµενος· οἶδε γὰρ ἡ κακία µείζονα µέθην τῇ ψυχῇ κατεργάζεσθαι.",
           "spanishTranslation": "¿Ayunaste sin tomar vino? Ayuna también absteniéndote de la maldad; pues la maldad sabe cómo causar una embriaguez mayor al alma."
@@ -1294,7 +1289,7 @@
           "notesGreek": "La palabra 'καταλαλιᾶς' (katalalias) significa 'murmuración' o 'difamación', haciendo un juego de palabras con el acto de 'comer carne'.",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Νηστεύεις κρεῶν µὴ ἁπτόµενος; νήστευε καὶ καταλαλιᾶς ἀπεχόµενος, ἵνα µὴ δι' αὐτῆς κρέα φάγῃς τῶν ἀδελφῶν, τῶν σαρκῶν αὑτοῦ ἀπογευόµενος.",
           "spanishTranslation": "¿Ayunaste sin tocar carnes? Ayuna también absteniéndote de la difamación, para que por ella no comas la carne de tus hermanos, gustando de tu propia carne."
@@ -1319,7 +1314,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Νηστεία γὰρ ἀληθινὴ, ἀποχὴ τῶν ἁµαρτηµάτων.",
           "spanishTranslation": "Porque el verdadero ayuno es la abstención de los pecados."
@@ -1348,7 +1343,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Ἄκουε τοῦ Προφήτου λέγοντος· Οὐ ταύτην τὴν νηστείαν ἐξελεξάµην, οὐδὲ ἡµέραν ἄνθρωπον ταπεινοῦν τὴν ψυχὴν αὑτοῦ. Ἀλλὰ τί; Λύε, φησὶ, πάντα σύνδεσµον ἀδικίας, διάλυε στραγγαλιὰς βιαίων συναλλαγµάτων, διάθρυπτε πεινῶντι τὸν ἄρτον σου, ἄστεγον εἰσάγαγε εἰς τὸν οἶκόν σου· ἐὰν ἴδῃς γυµνὸν, περίβαλε.",
           "spanishTranslation": "Escucha lo que dice el Profeta: «¿Acaso es este el ayuno que escogí, o el día en que el hombre humilla su alma?». ¿Pero qué? «Desata, dice, toda atadura de injusticia, deshaz las ligaduras de los contratos violentos, parte tu pan al hambriento, y a los sin techo introdúcelos en tu casa; si vieres al desnudo, cúbrele»."
@@ -1374,7 +1369,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Αὕτη, ἀγαπητοὶ, ἀληθινὴ νηστεία, ἡ τῷ Θεῷ προσδεκτὴ, καὶ ἀνθρώπῳ σωτηριώδης, καὶ πᾶσιν ἀρεστή. Ταύτῃ ἐπακολουθεῖ ἡ τῶν οὐρανῶν κτῆσις, καὶ τοῦ ∆εσπότου ἀψευδὴς ἐπαγγελία.",
           "spanishTranslation": "Este, amados, es el verdadero ayuno, el que es aceptable a Dios, y para el hombre salvífico, y agradable a todos. A este le sigue la posesión de los cielos y la promesa inquebrantable del Señor."
@@ -1402,7 +1397,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Ὅρα γὰρ τί ἐπιφέρει· Τότε ῥαγήσεται πρώϊµον τὸ φῶς σου, καὶ τότε βοῶντός σου, εἰσακούσεταί σου· ἔτι λαλοῦντός σου, ἐρεῖ· Ἰδοὺ πάρειµι.",
           "spanishTranslation": "Pues mira lo que añade: «Entonces tu luz irrumpirá al amanecer, y entonces, al clamar tú, te escuchará; aún estando tú hablando, dirá: Heme aquí»."
@@ -1427,7 +1422,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Βλέπεις ἡλίκα δῶρα τῆς νηστείας, καὶ πόσης ἔχεται τῆς εὐσεβείας, ὡς καὶ Θεὸν αὐτὸν δυσωπεῖν πρὸς ἀνθρωπίνην φύσιν παραγενέσθαι;",
           "spanishTranslation": "¿Ves cuán grandes son los dones del ayuno, y de cuánta piedad se sostiene, como para persuadir al propio Dios a venir a la naturaleza humana?"
@@ -1453,7 +1448,7 @@
           "notesGreek": "'Συναγωγῆς' (synagoges) aquí no se refiere a la sinagoga judía, sino a la 'reunión' o 'asamblea' cristiana, es decir, la iglesia o el servicio de culto cristiano. Es un término usado en el cristianismo primitivo para designar sus propias reuniones.",
           "notesLinguistics": ""
         },
-        "section": 4,
+        "section": 3,
         "text": {
           "originalGreekText": "Νήστευε τοίνυν, παράµενε ταῖς εὐχαῖς, ταῖς συνάξεσι, ταῖς νουθεσίαις, µὴ ἀπολιµπανόµενος τῆς συναγωγῆς, καθὼς ἔθος τισί· µηδὲ πραγµατείαις ἢ δικαστηρίοις δι' ὅλης ἡµέρας·",
           "spanishTranslation": "Ayuna, pues, persevera en las oraciones, en las asambleas, en las exhortaciones, no ausentándote de la congregación, como es costumbre para algunos; ni en asuntos de negocios o tribunales durante todo el día;"
@@ -1463,7 +1458,7 @@
   },
   {
     "chapter": "0",
-    "section": "5",
+    "section": "4",
     "translation": [
       {
         "chapter": 0,
@@ -1485,7 +1480,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 5,
+        "section": 4,
         "text": {
           "originalGreekText": "ἵνα µὴ χρήµατα συνάξης, ἃ σκορπίζειν ὤφειλες· ἢ κατὰ τοῦ ἀδελφοῦ σου ἐντυγχάνῃς, ὃν θεραπεύειν ἐχρῆν.",
           "spanishTranslation": "Para que no acumules dinero que debías haber dispersado; o para que intercedas contra tu hermano, a quien debías haber servido."
@@ -1510,7 +1505,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 5,
+        "section": 4,
         "text": {
           "originalGreekText": "Ἦλθες εἰς ἑσπέραν, ἢ τὴν ἐννάτην, οὐχ ἵνα νηστείας τελέσῃς τὴν πρόθεσιν, ἀλλ' ἵνα τῆς κοιλίας πληρώσῃς τὴν ὄρεξιν.",
           "spanishTranslation": "Llegaste a la tarde, o a la hora nona, no para cumplir el propósito del ayuno, sino para saciar el apetito de tu vientre."
@@ -1535,7 +1530,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 5,
+        "section": 4,
         "text": {
           "originalGreekText": "Καὶ µὴ δόξῃς οἴνου µὲν ἀπεχόµενος διὰ τὸ νήφειν, πονηρίας δὲ πληρούµενος µεθύειν, ἵνα µὴ ἀκούσῃς, Οὐαὶ οἱ µεθύοντες, οὐκ ἀπὸ οἴνου! Μέθη δὲ οὐκ ἔστι νηστείας κοινωνὸς, ἀλλ' ἔχθρα καὶ ἀντίπαλος.",
           "spanishTranslation": "Y no creas que, absteniéndote del vino para estar sobrio, te embriagas llenándote de maldad, para que no escuches: ¡Ay de los que se embriagan, pero no de vino! La embriaguez no es compañera del ayuno, sino enemiga y adversaria."
@@ -1561,7 +1556,7 @@
           "notesGreek": "",
           "notesLinguistics": ""
         },
-        "section": 5,
+        "section": 4,
         "text": {
           "originalGreekText": "Ἵνα φθάσωµεν εἰς τὴν ἡτοιµασµένην ἡµῖν ἐλπίδα τῆς ἀναστάσεως, ἐκεῖ µὲν ἀπολαύοντες τῶν ἀποκειµένων ἀγαθῶν, ἐνταῦθα δὲ ἀγαλλιώµενοι τοῖς προσδοκωµένοις ἐν Χριστῷ Ἰησοῦ, ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀµήν.",
           "spanishTranslation": "Para que alcancemos la esperanza de la resurrección que nos ha sido preparada, allí disfrutando de los bienes reservados, y aquí regocijándonos en lo que se espera en Cristo Jesús, a quien sea la gloria por los siglos de los siglos. Amén."
@@ -1586,7 +1581,7 @@
           "notesGreek": "La palabra 'Επιτρέπεται' significa 'está permitido' o 'se permite'.",
           "notesLinguistics": "Este fragmento final parece ser una nota de permiso o licencia, común en textos antiguos y ediciones."
         },
-        "section": 5,
+        "section": 4,
         "text": {
           "originalGreekText": "Επιτρέπετα",
           "spanishTranslation": "Permitido."

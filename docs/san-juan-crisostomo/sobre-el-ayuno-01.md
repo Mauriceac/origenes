@@ -34,4 +34,11 @@ San Juan Crisóstomo, uno de los más grandes padres de la Iglesia, aborda en es
 </TabItem>
 </Tabs>
 
-
+export const toc = [
+  {
+    value: "Introducción",
+    id: "introducción",
+    level: 2
+  },
+  ...generateTOC(Content)
+]

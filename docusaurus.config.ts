@@ -15,19 +15,20 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://origenes.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Maurice Alvarado', // Usually your GitHub org/user name.
-  projectName: 'Orígenes', // Usually your repo name.
+  organizationName: 'Mauriceac', // Usually your GitHub org/user name.
+  projectName: 'Origenes', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  onBrokenAnchors: 'ignore',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -46,23 +47,23 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Mauriceac/origenes/tree/main',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   feedOptions: {
+        //     type: ['rss', 'atom'],
+        //     xslt: true,
+        //   },
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/Mauriceac/origenes/tree/main',
+        //   // Useful options to enforce blogging best practices
+        //   onInlineTags: 'warn',
+        //   onInlineAuthors: 'warn',
+        //   onUntruncatedBlogPosts: 'warn',
+        // },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -87,7 +88,7 @@ const config: Config = {
           label: 'Textos Antiguos',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Mauriceac/origenes',
           label: 'GitHub',
           position: 'right',
         },
@@ -95,47 +96,30 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      // links: [
-      //   {
-      //     title: 'Docs',
-      //     items: [
-      //       {
-      //         label: 'Tutorial',
-      //         to: '/docs/intro',
-      //       },
-      //     ],
-      //   },
-      //   {
-      //     title: 'Community',
-      //     items: [
-      //       {
-      //         label: 'Stack Overflow',
-      //         href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-      //       },
-      //       {
-      //         label: 'Discord',
-      //         href: 'https://discordapp.com/invite/docusaurus',
-      //       },
-      //       {
-      //         label: 'X',
-      //         href: 'https://x.com/docusaurus',
-      //       },
-      //     ],
-      //   },
-      //   {
-      //     title: 'More',
-      //     items: [
-      //       {
-      //         label: 'Blog',
-      //         to: '/blog',
-      //       },
-      //       {
-      //         label: 'GitHub',
-      //         href: 'https://github.com/facebook/docusaurus',
-      //       },
-      //     ],
-      //   },
-      // ],
+      links: [
+        {
+          title: 'Contact',
+          items: [
+            {
+              label: 'Email',
+              to: 'mailto:mlalvara@uc.cl',
+            },
+            {
+              label: 'LinkedIn',
+              to: 'https://www.linkedin.com/in/maurice-alvarado-9751b03a/'
+            }
+          ],
+        },
+        {
+          title: 'Repositorio',
+          items: [
+            {
+              label: 'GitHub',
+              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+            }
+          ],
+        }
+      ],
       copyright: `Copyright © ${new Date().getFullYear()} Orígenes, Inc. Built with Docusaurus.`,
     },
     prism: {

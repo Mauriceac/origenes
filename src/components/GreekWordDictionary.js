@@ -76,7 +76,7 @@ export default function GreekWordDictionary({ children }) {
   // Render children, wrapping Greek words in <span>
   const renderText = (txt) => {
     // Regex for Greek unicode range
-    const greekRegex = /([\u0370-\u03FF\u1F00-\u1FFF\u00B5]+[.,;:·'’"!?()\[\]—]?)/g;
+    const greekRegex = /([\u0370-\u03FF\u1F00-\u1FFF\u00B5\u2206]+[.,;:·'’"!?()\[\]—]?)/g;
     return txt.split(greekRegex).map((part, idx) => {
       if (greekRegex.test(part)) {
         return (

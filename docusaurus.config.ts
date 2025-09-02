@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Orígenes',
-  tagline: 'Traducción de textos antiguos',
+  tagline: 'Traducción de textos cristianos antiguos',
   favicon: 'img/write.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -74,6 +74,11 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/write.png',
+    docs: {
+      sidebar: {
+        hideable: true,
+      }
+    },
     navbar: {
       title: 'Orígenes',
       logo: {
@@ -83,9 +88,15 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'textsSidebar',
           position: 'left',
-          label: 'Textos Antiguos',
+          label: 'San Juan Crisóstomo',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'searchSidebar',
+          position: 'left',
+          label: 'Buscador de Lemmas',
         },
         {
           href: 'https://github.com/Mauriceac/origenes',
@@ -127,6 +138,7 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  plugins: [require.resolve('docusaurus-lunr-search')],
 };
 
 export default config;

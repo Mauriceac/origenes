@@ -1,0 +1,1192 @@
+[
+  {
+    "chapter": "0",
+    "section": "1",
+    "translation": [
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Περὶ νηστείας.",
+          "spanishTranslation": "Sobre el ayuno."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          1,
+          2
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ὁ ἔχων προσευχὴν καὶ νηστείαν καὶ ἐλεηµοσύνην, τότε ἐστὶ καταπλούσιος ἐν Χριστῷ, καὶ εὐσεβείας ἐργάτης.",
+          "spanishTranslation": "Aquel que tiene oración, ayuno y limosna, ese es verdaderamente rico en Cristo y un obrero de la piedad."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          3
+        ],
+        "notes": {
+          "notesGeneral": "San Juan Crisóstomo enfatiza la interconexión de las tres prácticas ascéticas fundamentales: oración, ayuno y limosna, como pilares de la riqueza espiritual en Cristo y la verdadera piedad.",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Τί γὰρ ὄφελος, ἀδελφοὶ, νηστεύειν τῷ σώµατι, καὶ φονεύειν τοῖς ἔργοις;",
+          "spanishTranslation": "¿De qué sirve, hermanos, ayunar con el cuerpo y asesinar con las obras?"
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          4
+        ],
+        "notes": {
+          "notesGeneral": "Crisóstomo introduce una serie de preguntas retóricas para criticar la hipocresía de quienes practican un ayuno meramente externo.",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "τί τὸ ὄφελος βρώµατος ἀπέχεσθαι, καὶ πορνείᾳ µιαίνεσθαι;",
+          "spanishTranslation": "¿Qué provecho hay en abstenerse de alimentos y mancharse con la fornicación?"
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          5
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "κρέας οὐκ ἐσθίεις, ἀλλὰ κατατρώγεις τὰς σάρκας τοῦ ἀδελφοῦ σου.",
+          "spanishTranslation": "No comes carne, pero devoras las carnes de tu hermano."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          6
+        ],
+        "notes": {
+          "notesGeneral": "Esta frase es una poderosa metáfora que condena la calumnia y el daño social, equiparándolos a un acto de canibalismo espiritual.",
+          "notesBiblical": "El concepto de 'devorar' al prójimo se encuentra en Gálatas 5:15: 'Pero si os mordéis y os coméis unos a otros, mirad que no os consumáis unos a otros'.",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ποῖον κέρδος οἴνῳ µὴ εὐφραίνεσθαι, καὶ µεθύσκεσθαι χρήµασι;",
+          "spanishTranslation": "¿Qué ganancia hay en no alegrarse con el vino y embriagarse con dinero?"
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          7
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "τί ὄφελος ἄρτον µὴ ἐσθίειν, καὶ µεθύειν θυµῷ;",
+          "spanishTranslation": "¿Qué provecho hay en no comer pan y embriagarse con la ira?"
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          8
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "ποῖον κέρδος νηστείᾳ τήκεσθαι, καὶ λοιδορεῖν τὸν πλησίον;",
+          "spanishTranslation": "¿Qué ganancia hay en consumirse con el ayuno e injuriar al prójimo?"
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          9
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "τίς ἡ ὠφέλεια ἐγκρατεύεσθαι βρωµάτων, καὶ ἁρπάζειν τὰ ἀλλότρια;",
+          "spanishTranslation": "¿Cuál es la utilidad de abstenerse de alimentos y robar lo ajeno?"
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          10
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "τίς ἡ ἀνάγκη τὸ σῶµα ξηραίνειν, καὶ πεινῶντα µὴ τρέφειν;",
+          "spanishTranslation": "¿Cuál es la necesidad de secar el cuerpo y no alimentar al hambriento?"
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          11
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "τίς ἡ ὠφέλεια τὸ σῶµα συντρίβειν, καὶ χήρας µὴ ἐλεεῖν καὶ ὀρφανούς;",
+          "spanishTranslation": "¿Cuál es la utilidad de quebrantar el cuerpo y no apiadarse de las viudas y los huérfanos?"
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          12
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ἐὰν βούλῃ νηστεύειν, µίσησον φιλαργυρίαν· τὸ µέγα κακόν ἐστιν ἡ φιλαργυρία.",
+          "spanishTranslation": "Si quieres ayunar, aborrece la avaricia; la avaricia es un gran mal."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          13,
+          14
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "La palabra 'φιλαργυρία' (philargyria) significa literalmente 'amor al dinero', 'codicia' o 'avaricia'.",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Νηστεύεις; φύγε µοιχείαν, φύγε πορνείαν, φύγε καταλαλιὰν, ψεῦδος, λοιδορίαν, ἔχθραν, βλασφηµίαν, καὶ πᾶσαν περιεργίαν.",
+          "spanishTranslation": "¿Ayunas? Huye del adulterio, huye de la fornicación, huye de la calumnia, de la mentira, de la injuria, de la enemistad, de la blasfemia y de toda curiosidad o entrometimiento vano."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          15,
+          16
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "'Καταλαλιὰν' (katalalian) se refiere a la murmuración o calumnia. 'Περιεργίαν' (periergian) puede significar entrometimiento, curiosidad excesiva o afán de saber lo que no incumbe.",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Νηστεύεις; φύγε πλεονεξίαν, ἁρπαγὴν, ἔριν, καὶ τὸν ψυχώλεθρον φθόνον.",
+          "spanishTranslation": "¿Ayunas? Huye de la codicia, del robo, de la contienda y de la envidia destructora del alma."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          17,
+          18
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "'Ψυχώλεθρον' (psycholethron) es un adjetivo compuesto que significa 'destructor del alma' o 'mortal para el alma', enfatizando la gravedad de la envidia.",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Νηστεύεις; φύγε γαστριµαργίαν, τὴν γεννήτριαν πάσης κακίας, τὴν χωρίζουσαν ἡµᾶς καὶ ἀπ' αὐτοῦ τοῦ Θεοῦ, καὶ κατάγουσαν ἡµᾶς ἕως τῶν ἀβύσσων τῆς ἀπωλείας.",
+          "spanishTranslation": "¿Ayunas? Huye de la glotonería, la generadora de toda maldad, que nos separa incluso del mismo Dios y nos arrastra hasta los abismos de la perdición."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          19,
+          20
+        ],
+        "notes": {
+          "notesGeneral": "Crisóstomo utiliza una descripción vívida y fuerte para advertir contra la glotonería, considerándola la raíz de muchos males y una barrera para la relación con Dios.",
+          "notesBiblical": "",
+          "notesGreek": "'Γαστριµαργίαν' (gastrimargian) se refiere a la glotonería, el apetito desmedido por la comida.",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ἐὰν νηστεύῃς διὰ τὸν Θεὸν, φύγε πᾶν πρᾶγµα ὃ µισεῖ ὁ Θεὸς, καὶ δέχεταί σου τὴν µετάνοιαν, ὡς ἐλεήµων καὶ φιλάνθρωπος·",
+          "spanishTranslation": "Si ayunas por Dios, huye de todo acto que Dios aborrece, y Él aceptará tu arrepentimiento, como misericordioso y filántropo."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          21,
+          22
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "'Φιλάνθρωπος' (philanthropos) significa 'amante de la humanidad' o 'benévolo', un atributo común de Dios en la teología patrística.",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "δράµωµεν, ἀδελφοὶ, πρὸς τὴν µετάνοιαν, δράµωµεν·",
+          "spanishTranslation": "Corramos, hermanos, hacia el arrepentimiento, ¡corramos!"
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          23
+        ],
+        "notes": {
+          "notesGeneral": "Una exhortación apremiante a la conversión y el cambio de vida.",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "ἐδόθη ἡµῖν καιρὸς ἐξοµολογήσεως καὶ πένθους καὶ στεναγµῶν, οὐχὶ δὲ ἀµελείας καὶ ῥᾳθυµίας.",
+          "spanishTranslation": "Nos fue dado un tiempo para la confesión, el luto y los gemidos, y no para la negligencia y la indolencia."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          24
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "'Ἐξοµολογήσεως' (exomologeseos) se refiere a la confesión, no solo de pecados sino también de fe o alabanza. 'Πένθους' (penthous) es luto o aflicción. 'Στεναγµῶν' (stenagmōn) son gemidos o suspiros.",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Μετάνοια γάρ ἐστι πρόξενος βασιλείας οὐρανοῦ, καὶ εἴσοδος παραδείσου, καὶ τρυφῆς αἰωνίου ἀπόλαυσις.",
+          "spanishTranslation": "Porque el arrepentimiento es heraldo del reino de los cielos, y entrada al paraíso, y disfrute del deleite eterno."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          25
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "'Πρόξενος' (proxenos) puede significar 'heraldo', 'agente' o 'intermediario', en este contexto, un anticipo o facilitador.",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ἐὰν νηστεύῃς, ἀγαπητὲ, πένητα µὴ περιίδῃς, γυµνὸν περίβαλε, βλέπε τῆς χήρας τὰ δάκρυα, βλέπε ὀρφανοὺς στενάζοντας.",
+          "spanishTranslation": "Si ayunas, amado, no desprecies al pobre, viste al desnudo, mira las lágrimas de la viuda, mira a los huérfanos que gimen."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          26
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "Este pasaje refleja las enseñanzas bíblicas sobre la justicia social y el cuidado de los vulnerables, temas recurrentes en los profetas y en el Nuevo Testamento (ej. Isaías 58:6-7, Santiago 1:27).",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ἐὰν ἔχῃς, ἐλέησον· εἰ δὲ οὐκ ἔχεις, κἂν µὴ ἁρπάζῃς τὰ ἀλλότρια.",
+          "spanishTranslation": "Si tienes, ten misericordia; y si no tienes, al menos no robes lo ajeno."
+        },
+        "chapter": 0,
+        "section": 1,
+        "lines": [
+          27,
+          28
+        ],
+        "notes": {
+          "notesGeneral": "",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": ""
+        }
+      }
+    ]
+  },
+  {
+    "chapter": "0",
+    "section": "2",
+    "translation": [
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Νηστεύεις; παῦσον τὴν γλῶσσάν σου ἀπὸ κακοῦ, καὶ χείλη σου τοῦ µὴ λαλῆσαι δόλον· ἀρκεῖ σοι πρὸς σωτηρίαν.",
+          "spanishTranslation": "¿Ayunas? Detén tu lengua del mal, y tus labios de hablar engaño; esto te basta para la salvación."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          29,
+          30,
+          31
+        ],
+        "notes": {
+          "notesGeneral": "Este pasaje enfatiza que el verdadero ayuno va más allá de la abstinencia de alimentos, abarcando la moralidad y la abstención del pecado verbal.",
+          "notesBiblical": "El énfasis en refrenar la lengua es un tema recurrente en las Escrituras (cf. Santiago 1:26, Salmo 34:13).",
+          "notesGreek": "La palabra 'Νηστεύεις' (nistéueis) es una pregunta retórica que introduce una serie de exhortaciones.",
+          "notesLinguistics": "La construcción imperativa 'παῦσον' (pauson) indica una orden directa a cesar una acción."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ἐὰν νηστεύῃς, βλέπε µὴ δανείσῃς τὸ ἀργύριόν σου ἐπὶ τόκῳ.",
+          "spanishTranslation": "Si ayunas, mira de no prestar tu dinero a interés."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          32
+        ],
+        "notes": {
+          "notesGeneral": "Se condena la usura, práctica prohibida en la ley mosaica y criticada en la tradición cristiana por su explotación de los necesitados.",
+          "notesBiblical": "La prohibición de la usura es clara en el Antiguo Testamento (Éxodo 22:25, Levítico 25:36-37, Deuteronomio 23:19-20) y fue retomada por los Padres de la Iglesia.",
+          "notesGreek": "'ἐπὶ τόκῳ' (epí tóko) significa 'a interés' o 'con usura'.",
+          "notesLinguistics": "La construcción 'βλέπε µὴ' (blépe mē) se traduce como 'ten cuidado de no' o 'mira de no'."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Νηστεύεις; ἐλέησον ὃν ἠδίκησας, µὴ φθονήσῃς ποτὲ ἀδελφὸν, µήτε πάλιν µισήσῃς τινά ποτε.",
+          "spanishTranslation": "¿Ayunas? Ten misericordia de quien has perjudicado, nunca envidies a un hermano, ni tampoco odies a nadie jamás."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          33,
+          34
+        ],
+        "notes": {
+          "notesGeneral": "El verdadero ayuno debe ir acompañado de obras de misericordia, de reparación por el daño causado y de un corazón libre de envidia y odio, pilares de la caridad cristiana.",
+          "notesBiblical": "La enseñanza de no envidiar ni odiar se encuentra en el Sermón de la Montaña (Mateo 5:21-22) y las cartas apostólicas (1 Juan 3:15).",
+          "notesGreek": "'ἠδίκησας' (ēdíkēsas) es aoristo activo de 'ἀδικέω' (adikéō), 'hacer mal, perjudicar'.",
+          "notesLinguistics": "El uso de 'ποτὲ' (poté) y 'ποτέ' (poté) en negaciones ('µὴ... ποτὲ') refuerza el sentido de 'nunca jamás'."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Νηστεύεις; µὴ κενοδοξήσῃς.",
+          "spanishTranslation": "¿Ayunas? No seas vanaglorioso."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          35,
+          36
+        ],
+        "notes": {
+          "notesGeneral": "La vanagloria es una de las pasiones que anula el mérito de las prácticas piadosas si se realizan para ser vistos por los hombres.",
+          "notesBiblical": "Jesús advierte contra la vanagloria en el contexto del ayuno (Mateo 6:16-18) y la limosna (Mateo 6:1-4).",
+          "notesGreek": "'κενοδοξήσῃς' (kenodoxēsēis) proviene de 'κενοδοξία' (kenodoxía), que significa vanagloria o jactancia vana.",
+          "notesLinguistics": "El subjuntivo aoristo con 'µὴ' (mḗ) es la forma estándar para prohibiciones en griego koiné."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Νηστεύεις; φύγε πορνείαν, τὴν χωρίζουσαν ἡµᾶς ἀπὸ τοῦ Θεοῦ καὶ ἀπὸ τῶν ἁγίων, τὴν πρόξενον τοῦ αἰωνίου καὶ ἀσβέστου πυρός.",
+          "spanishTranslation": "¿Ayunas? Huye de la fornicación, que nos separa de Dios y de los santos, la causante del fuego eterno e inextinguible."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          37,
+          38
+        ],
+        "notes": {
+          "notesGeneral": "La fornicación es presentada como un pecado grave que destruye la relación con Dios y con la comunidad de los santos, acarreando consecuencias eternas.",
+          "notesBiblical": "La advertencia sobre el 'fuego inextinguible' evoca imágenes bíblicas del juicio final (Marcos 9:43, Mateo 25:41). Pablo también advierte contra la fornicación como un pecado contra el propio cuerpo y contra Dios (1 Corintios 6:18-19).",
+          "notesGreek": "'πορνείαν' (porneían) abarca un amplio espectro de inmoralidad sexual. 'πρόξενον' (próxenon) significa 'causante' o 'promotora'.",
+          "notesLinguistics": "La descripción de la fornicación mediante participios atributivos ('τὴν χωρίζουσαν', 'τὴν πρόξενον') enfatiza sus efectos negativos."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Νηστεύεις; θρέψον πεινῶντας, πότισον διψῶντας, ἀσθενοῦντας ἐπίσκεψαι, τῶν ἐν φυλακῇ µὴ ἐπιλάθου, καταπονουµένους ἐλέησον, θλιβοµένων καὶ ὀδυροµένων ἐπιµελήθητι· γενοῦ εὔσπλαγχνος, πρᾶος, ἀγαθὸς, ἥµερος, µακρόθυµος, ἐλεήµων, ἀµνησίκακος, εὐλαβὴς, ἄµαχος, ἀληθινὸς, θεοσεβής· ἵνα ὁ Θεὸς καὶ τὴν νηστείαν σου ἀποδέξηται, καὶ τῆς µετανοίας τὸ κέρδος µετὰ πολλῆς τῆς προσθήκης παράσχῃ σοι.",
+          "spanishTranslation": "¿Ayunas? Alimenta a los hambrientos, da de beber a los sedientos, visita a los enfermos, no olvides a los que están en prisión, ten misericordia de los que sufren, cuida de los afligidos y de los que se lamentan; sé compasivo, manso, bueno, apacible, paciente, misericordioso, que no guarda rencor, reverente, no contencioso, veraz, piadoso; para que Dios acepte tu ayuno y te conceda el fruto del arrepentimiento con mucha abundancia."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          39,
+          40,
+          41,
+          42
+        ],
+        "notes": {
+          "notesGeneral": "Este es un extenso listado de virtudes y obras de misericordia que deben acompañar al ayuno, mostrando que la piedad debe manifestarse en acciones concretas hacia el prójimo y en un carácter moralmente transformado.",
+          "notesBiblical": "Las obras de misericordia enumeradas recuerdan directamente las enseñanzas de Jesús sobre el juicio final en Mateo 25:35-36. La lista de virtudes es similar a las encontradas en epístolas paulinas.",
+          "notesGreek": "'ἀµνησίκακος' (amnēsikakos) es un adjetivo compuesto que significa 'que no guarda rencor' o 'que olvida los males'. 'θεοσεβής' (theosebēs) significa 'piadoso' o 'temeroso de Dios'.",
+          "notesLinguistics": "La acumulación de imperativos ('θρέψον', 'πότισον', 'ἐπίσκεψαι', etc.) y adjetivos en una sola frase crea un efecto retórico de exhortación profunda."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ἐὰν νηστεύῃς, ἀγαπητὲ, οὕτω νήστευσον ὡς ὁ Χριστὸς ἐκέλευσεν, ἵνα µὴ καὶ τὸν κόπον ὑποµένῃς, καὶ τὸν µισθὸν ἀπολέσῃς.",
+          "spanishTranslation": "Si ayunas, amado, ayuna como Cristo lo mandó, para que no soportes el esfuerzo y pierdas la recompensa."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          43
+        ],
+        "notes": {
+          "notesGeneral": "El ayuno debe realizarse de acuerdo con las enseñanzas de Cristo, no solo para evitar el esfuerzo en vano, sino para asegurar la recompensa divina.",
+          "notesBiblical": "Se refiere implícitamente a las instrucciones de Jesús en Mateo 6:16-18, donde se advierte contra el ayuno hipócrita que busca la alabanza humana en lugar de la recompensa de Dios.",
+          "notesGreek": "'ἐκέλευσεν' (ekéleusen) es aoristo activo de 'κελεύω' (keleúō), 'mandar, ordenar'. 'κόπον' (kópon) significa 'trabajo, esfuerzo'.",
+          "notesLinguistics": "La construcción 'ἵνα µὴ' (hína mē) introduce una cláusula de propósito negativo, 'para que no'."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ταῦτα παρακαλῶ, ἀδελφοὶ, ἵνα ἀσφαλῶς τηρήσωµεν, καὶ µισθὸν κοµισώµεθα παρὰ τῷ Θεῷ, καὶ ἀκούσωµεν τῆς µακαρίας ἐκείνης φωνῆς τῆς λεγούσης, ∆εῦτε οἱ εὐλογηµένοι τοῦ Πατρός µου· κληρονοµήσατε τὴν ἡτοιµασµένην ὑµῖν βασιλείαν ἀπὸ καταβολῆς κόσµου.",
+          "spanishTranslation": "Estas cosas os exhorto, hermanos, para que las guardemos con seguridad, y recibamos recompensa de parte de Dios, y oigamos aquella bienaventurada voz que dice: 'Venid, benditos de mi Padre; heredad el reino preparado para vosotros desde la fundación del mundo'."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          44,
+          45
+        ],
+        "notes": {
+          "notesGeneral": "Una exhortación final para vivir según estas enseñanzas, con la promesa de la recompensa eterna y la entrada al Reino de Dios, citando directamente la voz de Cristo en el juicio.",
+          "notesBiblical": "La frase '∆εῦτε οἱ εὐλογηµένοι τοῦ Πατρός µου· κληρονοµήσατε τὴν ἡτοιµασµένην ὑµῖν βασιλείαν ἀπὸ καταβολῆς κόσµου' es una cita directa de Mateo 25:34, que se refiere a la invitación a los justos al Reino celestial.",
+          "notesGreek": "'κοµισώµεθα' (komisōmetha) es aoristo subjuntivo medio de 'κοµίζω' (komízō), 'recibir, obtener'. 'καταβολῆς κόσµου' (katabolēs kósmou) significa 'desde la fundación del mundo'.",
+          "notesLinguistics": "El uso del subjuntivo después de 'ἵνα' (hína) expresa propósito, 'para que guardemos... y recibamos... y oigamos'."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Οὐδὲν γὰρ, ἀδελφοὶ, δύναται βοηθῆσαι ἡµῖν ἐν ἐκείνῃ τῇ φοβερᾷ ἡµέρᾳ τῆς κρίσεως, καὶ τῆς φωνῆς ταύτης προξενούσης, ὡς µετάνοια καὶ ἐλεηµοσύνη.",
+          "spanishTranslation": "Pues nada, hermanos, puede ayudarnos en aquel terrible día del juicio, y cuando se pronuncie esa voz, excepto el arrepentimiento y la limosna."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          46
+        ],
+        "notes": {
+          "notesGeneral": "Se subraya la importancia capital del arrepentimiento y la limosna como medios esenciales para obtener la salvación en el día del juicio, enfatizando su valor redentor.",
+          "notesBiblical": "La 'terrible día del juicio' es una imagen recurrente en la escatología bíblica. La combinación de arrepentimiento y limosna como actos salvíficos es un tema patrístico, reflejando la primacía de la misericordia sobre el sacrificio (Oseas 6:6, Mateo 9:13).",
+          "notesGreek": "'φοβερᾷ ἡµέρᾳ τῆς κρίσεως' (phoberá hēmerá tēs kríseōs) 'terrible día del juicio'. 'προξενούσης' (proxenoúsēs) es un participio genitivo que aquí implica 'mientras se anuncia' o 'cuando se pronuncia'.",
+          "notesLinguistics": "El 'ὡς' (hōs) comparativo aquí toma un matiz de exclusividad, 'como' o 'excepto', indicando que la metanoia y la eleemosyna son lo único verdaderamente efectivo."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ὡς πασῶν τροφῶν ὁ ἄρτος ἀναγκαιότερος, οὕτω πασῶν ἐργασιῶν ἡ τοῦ θανάτου ἔννοια.",
+          "spanishTranslation": "Así como el pan es el más necesario de todos los alimentos, así también el pensamiento de la muerte lo es de todas las obras."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          47
+        ],
+        "notes": {
+          "notesGeneral": "Una comparación para elevar la meditación sobre la muerte a la cúspide de las prácticas espirituales, considerándola tan fundamental para la vida del alma como el pan lo es para el cuerpo.",
+          "notesBiblical": "La frase 'pan necesario' tiene ecos del 'pan nuestro de cada día' del Padre Nuestro (Mateo 6:11).",
+          "notesGreek": "'ἀναγκαιότερος' (anankaióteros) es el comparativo de 'ἀναγκαῖος' (anankaîos), 'necesario'. 'ἔννοια' (énnoia) significa 'pensamiento', 'idea' o 'consideración'.",
+          "notesLinguistics": "La estructura 'Ὡς... οὕτω...' (Hōs... hoútō...) es una construcción comparativa común que significa 'Así como... así también...'."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Πυρὸς αἰωνίου µνήµη καθ' ἑσπέραν συγκοιµηθήτω σοι, καὶ συναναστήτω σοι, καὶ οὐ µή σου ῥᾳθυµία ἐν καιρῷ ψαλµῳδίας κυριεύῃ ποτέ.",
+          "spanishTranslation": "Que la memoria del fuego eterno se acueste contigo cada tarde, y se levante contigo, y que tu pereza nunca te domine en el momento de la salmodia."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          48,
+          50
+        ],
+        "notes": {
+          "notesGeneral": "La constante contemplación del juicio y el castigo eterno es un poderoso antídoto contra la pereza espiritual, especialmente en momentos de oración como la salmodia.",
+          "notesBiblical": "La 'memoria del fuego eterno' es una advertencia que busca la contrición y la vigilancia, similar a las exhortaciones evangélicas sobre estar preparados.",
+          "notesGreek": "'συγκοιµηθήτω' (sygkoimēthḗtō) y 'συναναστήτω' (sýnanastḗtō) son imperativos aoristos, significando 'que se acueste contigo' y 'que se levante contigo'. 'ῥᾳθυµία' (rhatʰymía) se refiere a la indolencia o negligencia.",
+          "notesLinguistics": "La omisión del verso 49 ('Επιτρέπετα' - 'Permitido') se debe a que parece ser una rúbrica o nota editorial, no parte de la frase principal."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ὡς φωτὸς φανέντος, ὑποχωρεῖ τὸ σκότος, οὕτω καὶ ἀπὸ ταπεινώσεως πᾶσα πικρία καὶ θυµὸς ἐξαφανίζεται.",
+          "spanishTranslation": "Así como al aparecer la luz se retiran las tinieblas, así también por la humildad desaparecen toda amargura y enojo."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          51
+        ],
+        "notes": {
+          "notesGeneral": "La humildad es presentada como la virtud que disipa las pasiones negativas como la amargura y el enojo, de la misma manera que la luz disipa la oscuridad.",
+          "notesBiblical": "La metáfora de la luz y las tinieblas es central en la teología joánica (Juan 1:5). La humildad es una virtud cristiana fundamental (Mateo 11:29).",
+          "notesGreek": "'ταπεινώσεως' (tapeinṓseōs) significa 'humildad' o 'humillación'. 'ἐξαφανίζεται' (exaphanízetai) es presente medio pasivo de 'ἐξαφανίζω' (exaphanízō), 'desaparecer, ser borrado'.",
+          "notesLinguistics": "La construcción 'Ὡς... οὕτω...' (Hōs... hoútō...) se utiliza nuevamente para establecer una analogía."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "∆εθήτω λοιπὸν θυµὸς, ὡς τύραννος, ἐν δεσµοῖς πραότητος· µηδέποτε καταδέξῃ τὸν πρὸς σὲ τὸν πλησίον καταλαλοῦντα, µᾶλλον δὲ λέγε πρὸς αὐτὸν, Παῦσαι, ἀδελφὲ, ἐγὼ καθ' ἡµέραν ἐν χαλεπωτέροις πταίσµασι πταίω, καὶ πῶς ἐκεῖνον κατακρῖναι δυνάµεθα;",
+          "spanishTranslation": "Que la ira, pues, sea atada como un tirano, con los lazos de la mansedumbre; nunca aceptes a quien te calumnia a tu prójimo, sino dile más bien: 'Detente, hermano, yo cada día caigo en transgresiones más graves, ¿y cómo podemos condenarle a él?'"
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          52,
+          53
+        ],
+        "notes": {
+          "notesGeneral": "Se exhorta a dominar la ira a través de la mansedumbre y a rechazar la calumnia o el juicio hacia el prójimo, reconociendo la propia fragilidad moral.",
+          "notesBiblical": "La idea de no juzgar al prójimo y reconocer los propios pecados es un principio fundamental del Evangelio (Mateo 7:1-5).",
+          "notesGreek": "'πραότητος' (praótētos) significa 'mansedumbre' o 'gentileza'. 'καταλαλοῦντα' (katalaloúnta) es el participio presente de 'καταλαλέω' (katalaléō), 'hablar mal de, calumniar'. 'πταίσµασι' (ptaísmmasi) significa 'tropiezos' o 'transgresiones'.",
+          "notesLinguistics": "El imperativo aoristo '∆εθήτω' (Detʰḗtō) 'sea atada' es una forma fuerte de mandato. La cita directa presenta un modelo de respuesta humilde ante la calumnia."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ψεῦδός ἐστιν ἀγάπης ἀφανισµὸς, ἐπιορκία δὲ Θεοῦ ἄρνησις· φόβον Θεοῦ κτησάµενος ἐδίωξε ψεῦδος, δικαστὴν ἔχων τὴν ἰδίαν συνείδησιν.",
+          "spanishTranslation": "La mentira es la aniquilación del amor, y el perjurio es la negación de Dios; habiendo adquirido el temor de Dios, expulsó la mentira, teniendo su propia conciencia como juez."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          54,
+          55
+        ],
+        "notes": {
+          "notesGeneral": "Se condena la mentira y el perjurio, vinculando el primero a la destrucción del amor y el segundo a la negación de Dios. Se exalta la conciencia como tribunal interior guiado por el temor de Dios.",
+          "notesBiblical": "La prohibición de mentir y perjurar es fundamental en los Diez Mandamientos (Éxodo 20:16). El temor de Dios es un principio de sabiduría (Proverbios 1:7).",
+          "notesGreek": "'ἀφανισµὸς' (aphanismós) significa 'aniquilación, desaparición'. 'ἐπιορκία' (epiorkía) significa 'perjurio'. 'συνείδησιν' (syneídēsin) se refiere a la 'conciencia'.",
+          "notesLinguistics": "La estructura paralela de las dos primeras cláusulas ('Ψεῦδός ἐστιν... ἀφανισµὸς, ἐπιορκία δὲ... ἄρνησις') refuerza el contraste."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Λέοντα ὁ κολακεύσας πολλάκις ἡµέρωσεν.",
+          "spanishTranslation": "El que aduló a un león muchas veces lo amansó."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          56
+        ],
+        "notes": {
+          "notesGeneral": "Un proverbio que sugiere el poder de la persuasión o la adulación, incluso sobre las naturalezas más salvajes, posiblemente en un contexto alegórico sobre el control de las pasiones.",
+          "notesBiblical": "",
+          "notesGreek": "'κολακεύσας' (kolakeúsas) es participio aoristo de 'κολακεύω' (kolakeúō), 'adular'. 'ἡµέρωσεν' (hēmérōsen) es aoristo activo de 'ἡμερόω' (hēmeróō), 'amansar, domesticar'.",
+          "notesLinguistics": "La brevedad y la estructura simple indican una máxima o refrán popular."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ὁ τὴν ἑαυτοῦ θεραπεύων γαστέρα, καὶ πνεῦµα πορνείας νικῆσαι βουλόµενος, ὅµοιός ἐστιν ὁ µετὰ ἐλαίου σβεννύων τινὰ ἐµπρησµόν.",
+          "spanishTranslation": "El que cuida su propio vientre y desea vencer el espíritu de la fornicación, es como quien apaga un incendio con aceite."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          57
+        ],
+        "notes": {
+          "notesGeneral": "Una metáfora vívida que advierte sobre la contradicción de entregarse a la glotonería mientras se intenta luchar contra la inmoralidad sexual, ya que una alimenta a la otra.",
+          "notesBiblical": "La glotonería y la lascivia están a menudo vinculadas en la tradición cristiana como pecados de la carne. La idea de que 'el espíritu está dispuesto, pero la carne es débil' (Mateo 26:41) resuena aquí.",
+          "notesGreek": "'θεραπεύων γαστέρα' (therapeúōn gastéra) 'servir al vientre' significa entregarse a los placeres de la comida. 'ἐµπρησµόν' (embrēsmón) significa 'incendio'.",
+          "notesLinguistics": "La comparación con 'apagar un incendio con aceite' es una hipérbole que subraya la imposibilidad de la empresa y la contraproducente de la acción."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Νευροῦται γλῶσσα ὑπὸ πλήθους ἐδεσµάτων.",
+          "spanishTranslation": "La lengua se envalentona por la abundancia de manjares."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          58
+        ],
+        "notes": {
+          "notesGeneral": "La indulgencia en la comida puede llevar a una lengua sin control, propensa a la charla excesiva, la calumnia o el habla impúdica.",
+          "notesBiblical": "El control de la lengua es un tema importante en la sabiduría bíblica (Santiago 3:5-8).",
+          "notesGreek": "'Νευροῦται' (neuroūtai) literalmente significa 'es fortalecida' o 'se hace robusta', pero en este contexto se entiende como 'se hace audaz, impúdica, o descontrolada'. 'ἐδεσµάτων' (edesmáton) son 'manjares' o 'comidas'.",
+          "notesLinguistics": "El verbo 'νευρόω' (neuróō) en voz media/pasiva sugiere que la lengua se vuelve de cierta manera a causa de los excesos."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ἀνάθου Κυρίῳ τὴν τῆς φύσεως ἀσθένειαν, γινώσκων εἰς ἅπαν τὴν ἰδίαν ἀδυναµίαν.",
+          "spanishTranslation": "Encomienda al Señor la debilidad de tu naturaleza, conociendo plenamente tu propia incapacidad."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          59
+        ],
+        "notes": {
+          "notesGeneral": "Una exhortación a la humildad y a la confianza en Dios, reconociendo la fragilidad inherente de la naturaleza humana y dependiendo de la gracia divina.",
+          "notesBiblical": "La dependencia de Dios y el reconocimiento de la propia debilidad son temas paulinos (2 Corintios 12:9-10).",
+          "notesGreek": "'Ἀνάθου' (anathou) es imperativo aoristo de 'ἀνατίθημι' (anatíthēmi), 'consagrar, encomendar'. 'ἀσθένειαν' (asthéneian) y 'ἀδυναµίαν' (adynamían) son sinónimos de 'debilidad' o 'incapacidad'.",
+          "notesLinguistics": "El participio presente 'γινώσκων' (ginṓskōn) 'conociendo' expresa una acción simultánea o la base de la acción principal."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Μὴ εὔχου ἐν σεσοφισµένοις ῥήµασιν, ἀλλ' ἐξ ὅλης ψυχῆς, καὶ ταπεινώσεως καρδίας· πρὸ πάντων δὲ λέγε, Ἐλέησόν µε, Κύριε, ὅτι ἀσθενής εἰµι.",
+          "spanishTranslation": "No ores con palabras sofisticadas, sino con toda tu alma y con humildad de corazón; y sobre todo di: 'Ten piedad de mí, Señor, porque soy débil'."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          60,
+          61
+        ],
+        "notes": {
+          "notesGeneral": "Se enfatiza la sinceridad y la humildad en la oración, priorizando la súplica por misericordia y el reconocimiento de la propia debilidad sobre la elocuencia o la sofisticación verbal.",
+          "notesBiblical": "La oración humilde es más aceptable a Dios que la jactanciosa (Lucas 18:9-14, parábola del fariseo y el publicano).",
+          "notesGreek": "'σεσοφισµένοις ῥήµασιν' (sesophisménois rhḗmasin) se refiere a 'palabras ingeniosas, elaboradas o artificiosas'. 'ταπεινώσεως καρδίας' (tapeinṓseōs kardías) es 'humildad de corazón'.",
+          "notesLinguistics": "La frase 'πρὸ πάντων δὲ λέγε' (prò pántōn dè lége) se traduce como 'y sobre todo di', indicando la preeminencia de esa petición."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ἡµῖν πίστις ἀκλινὴς καὶ ἀγάπη Θεοῦ περικόπτει φροντίδας· θανάτου δὲ µνήµη ἀπαρνεῖται καὶ σῶµα.",
+          "spanishTranslation": "Para nosotros, la fe inquebrantable y el amor de Dios cortan las preocupaciones; y la memoria de la muerte también renuncia al cuerpo."
+        },
+        "chapter": 0,
+        "section": 2,
+        "lines": [
+          62,
+          63
+        ],
+        "notes": {
+          "notesGeneral": "La fe y el amor a Dios liberan al alma de las ansiedades terrenales, mientras que la meditación sobre la muerte ayuda a desprenderse de los deseos corporales.",
+          "notesBiblical": "La fe que 'mueve montañas' (Mateo 17:20) y el amor de Dios que 'echa fuera el temor' (1 Juan 4:18) son temas fundamentales. La mortificación del cuerpo es un tema paulino (Romanos 8:13, Colosenses 3:5).",
+          "notesGreek": "'ἀκλινὴς' (aklinḗs) significa 'inquebrantable, firme'. 'περικόπτει' (perikóptei) es 'cortar alrededor, eliminar'. 'φροντίδας' (phrontídas) son 'preocupaciones, ansiedades'. 'ἀπαρνεῖται' (aparneítai) significa 'negarse, renunciar a'.",
+          "notesLinguistics": "La conexión entre la 'memoria de la muerte' y la renuncia al cuerpo es una expresión concisa de ascetismo."
+        }
+      }
+    ]
+  },
+  {
+    "chapter": "0",
+    "section": "3",
+    "translation": [
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "∆ιὰ µικροῦ τινος πυρὸς πολλὴν ὕλην κατέκαυσαν, καὶ διὰ µιᾶς ἀρετῆς ὅλα τὰ πάθη ἔφυγον.",
+          "spanishTranslation": "Por un pequeño fuego quemaron mucha leña, y por una sola virtud huyeron todas las pasiones."
+        },
+        "chapter": 0,
+        "section": 3,
+        "lines": [
+          64
+        ],
+        "notes": {
+          "notesGeneral": "Esta frase usa una vívida analogía entre un pequeño fuego y una gran cantidad de leña, y una sola virtud capaz de desterrar todas las pasiones. Es una exhortación a la eficacia de la vida virtuosa.",
+          "notesBiblical": "",
+          "notesGreek": "El término griego 'πάθη' (páthē) se refiere aquí a las pasiones o afecciones del alma que desvían al individuo de la virtud, un concepto central en la ética patrística.",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ὁ Θεῷ παρίστασθαι λογιζόµενος ἐν αἰσθήσει καρδίας, ἐν προσευχῇ γενοῦ στῦλος ἀκλόνητος, ὑπ' οὐδενὸς τῶν βιωτικῶν φροντίδων ἐµποδιζόµενος.",
+          "spanishTranslation": "El que se considera presente ante Dios con la sensibilidad del corazón, sé en la oración una columna inquebrantable, no impedido por ninguna de las preocupaciones de la vida."
+        },
+        "chapter": 0,
+        "section": 3,
+        "lines": [
+          65
+        ],
+        "notes": {
+          "notesGeneral": "San Juan Crisóstomo enfatiza la importancia de la oración constante y la presencia consciente ante Dios, libre de las distracciones mundanas.",
+          "notesBiblical": "La imagen de la 'columna inquebrantable' (στῦλος ἀκλόνητος) puede evocar pasajes bíblicos que hablan de la firmeza en la fe, como 1 Timoteo 3:15, aunque aplicado aquí al individuo en oración.",
+          "notesGreek": "'Αίσθησις καρδίας' (aisthēsis kardías) denota una percepción espiritual y profunda, no meramente emocional, de la presencia divina.",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Εἴ τις ἁγνὸν σῶµα βούλεται παραστῆσαι τῷ Χριστῷ, καὶ καρδίαν καθαρὰν ἐπιδείξασθαι αὐτῷ, τηρησάτω ἀοργησίαν καὶ ἐγκράτειαν. Τούτων γὰρ χωρὶς ἢ σῶµα ἢ νοῦν καθαρὸν παραστῆσαι τῷ Θεῷ βουλόµενος, καὶ φροντίσι τοῦ βίου δονούµενος, ὅµοιός ἐστι τῷ τοὺς ἑαυτοῦ πόδας ἰσχυρῶς δήσαντι, καὶ ὀξέως περιπατεῖν δοκιµάζοντι ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ.",
+          "spanishTranslation": "Si alguien quiere presentar un cuerpo puro a Cristo y mostrarle un corazón limpio, que guarde la ausencia de ira y la continencia. Porque sin estas, el que quiere presentar a Dios un cuerpo o una mente puros, y está agitado por las preocupaciones de la vida, es semejante a quien se ha atado fuertemente los pies y trata de caminar rápidamente en Cristo Jesús, el Señor."
+        },
+        "chapter": 0,
+        "section": 3,
+        "lines": [
+          66,
+          67
+        ],
+        "notes": {
+          "notesGeneral": "Crisóstomo subraya la interconexión entre la pureza externa (cuerpo) e interna (corazón y mente), y cómo la ira y la falta de autocontrol, junto con las preocupaciones mundanas, impiden una verdadera ofrenda a Dios. La analogía del hombre atado es muy gráfica.",
+          "notesBiblical": "",
+          "notesGreek": "'Ἀοργησία' (aorgēsía) no es solo la ausencia de ira, sino una disposición de mansedumbre. 'Ἐγκράτεια' (enkráteia) abarca el dominio de uno mismo sobre todas las pasiones y deseos.",
+          "notesLinguistics": "La estructura de la oración en griego utiliza participios y un dativo de referencia ('τῷ τοὺς ἑαυτοῦ πόδας ἰσχυρῶς δήσαντι') para construir la analogía de manera concisa."
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Ἀµήν.",
+          "spanishTranslation": "Amén."
+        },
+        "chapter": 0,
+        "section": 3,
+        "lines": [
+          68
+        ],
+        "notes": {
+          "notesGeneral": "Conclusión de la homilía o sección, afirmando la verdad de lo dicho.",
+          "notesBiblical": "",
+          "notesGreek": "'Ἀμήν' (Amén) es una transliteración del hebreo, que significa 'así sea' o 'verdaderamente'.",
+          "notesLinguistics": ""
+        }
+      },
+      {
+        "metadata": {
+          "authorOfficialName": "Iohannes Chrysostomus",
+          "authorSpanish": "San Juan Cristóstomo",
+          "originalTitle": "De Jejunio (03)",
+          "titleSpanish": "Sobre el Ayuno (03)",
+          "originalLanguage": "Greek",
+          "outputLanguage": "Spanish"
+        },
+        "text": {
+          "originalGreekText": "Επιτρέπετα",
+          "spanishTranslation": "Se permite"
+        },
+        "chapter": 0,
+        "section": 3,
+        "lines": [
+          69
+        ],
+        "notes": {
+          "notesGeneral": "Esta línea es parte de la información de la edición digital del texto y no forma parte del sermón original de San Juan Crisóstomo. Probablemente indica permiso de uso o distribución.",
+          "notesBiblical": "",
+          "notesGreek": "",
+          "notesLinguistics": "La palabra griega 'Επιτρέπετα' es una forma truncada o un error tipográfico de 'Επιτρέπεται' (Epitrépetai), que significa 'se permite' o 'está permitido'."
+        }
+      }
+    ]
+  }
+]

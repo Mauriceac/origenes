@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 
 // Load both dictionaries as JSON imports
-import completedDictionary from '@site/docs/san-juan-crisostomo/sobre-el-ayuno-01/iohannes-chrysostomus_de-jejunio-01_completed_dictionary.json';
-import lemmaDefinitions from '@site/docs/san-juan-crisostomo/sobre-el-ayuno-01/iohannes-chrysostomus_de-jejunio-01_lemma_definitions.json';
+import completedDictionary from '@site/docs/san-juan-crisostomo/sobre-el-ayuno/iohannes-chrysostomus_de-jejunio-00_completed_dictionary.json';
+import lemmaDefinitions from '@site/docs/san-juan-crisostomo/sobre-el-ayuno/iohannes-chrysostomus_de-jejunio-00_lemma_definitions.json';
 
 // Helper to flatten completedDictionary to array of word objects
 function flattenDictionary(dict) {
@@ -82,7 +82,8 @@ export default function GreekWordDictionary({ children }) {
         return (
           <span
             key={idx}
-            style={{ color: '#2a3', cursor: 'pointer', textDecoration: 'underline dotted' }}
+            // style={{ color: 'rgba(0, 139, 19, 1)', cursor: 'pointer', textDecoration: 'underline dotted' }}
+            style={{ color: 'rgba(0, 139, 19, 1)', cursor: 'pointer' }}
             onClick={handleClick}
           >
             {part}

@@ -1,17 +1,17 @@
 ---
-title: Sobre el Ayuno (01)
+title: Sobre el Ayuno (03)
 ---
 
-import Content from '@site/docs/san-juan-crisostomo/sobre-el-ayuno-01/iohannes-chrysostomus_de-jejunio-01.json';
+import Content from '@site/docs/san-juan-crisostomo/sobre-el-ayuno/iohannes-chrysostomus_de-jejunio-03.json';
 import BookDisplay, {generateTOC} from '@site/src/components/bookDisplay.js';
 import GreekWordDictionary from '@site/src/components/GreekWordDictionary.js';
-import DictionaryJSON01 from '@site/docs/san-juan-crisostomo/sobre-el-ayuno-01/iohannes-chrysostomus_de-jejunio-01_completed_dictionary.json';
-import DictionaryJSON02 from '@site/docs/san-juan-crisostomo/sobre-el-ayuno-01/iohannes-chrysostomus_de-jejunio-01_lemma_definitions.json';
+import DictionaryJSON01 from '@site/docs/san-juan-crisostomo/sobre-el-ayuno/iohannes-chrysostomus_de-jejunio-03_completed_dictionary.json';
+import DictionaryJSON02 from '@site/docs/san-juan-crisostomo/sobre-el-ayuno/iohannes-chrysostomus_de-jejunio-00_lemma_definitions.json';
 import GreekSearch from '@site/src/components/GreekSearch.js';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-_Iohannes Chrysostomus - De jejunio [1]_
+_Iohannes Chrysostomus - De jejunio [3]_
 
 ## Introducción
 

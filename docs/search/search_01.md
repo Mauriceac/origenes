@@ -1,4 +1,4 @@
-# Buscador por lemmas
+# Buscador por lemas
 
 import MultiGreekSearch from '@site/src/components/GreekSearchMultiple.js';
 import Dict1 from '@site/docs/san-juan-crisostomo/sobre-el-ayuno/iohannes-chrysostomus_de-jejunio-01_completed_dictionary.json';
@@ -9,7 +9,7 @@ import Text2 from '@site/docs/san-juan-crisostomo/sobre-el-ayuno/iohannes-chryso
 import Text3 from '@site/docs/san-juan-crisostomo/sobre-el-ayuno/iohannes-chrysostomus_de-jejunio-03.json';
 
 
-Buscador de lemmas a través de tres textos de [San Juan Crisóstomo sobre el ayuno](/docs/category/sobre-el-ayuno).
+Buscador de lemas a través de tres textos de [San Juan Crisóstomo sobre el ayuno](/docs/category/sobre-el-ayuno).
 
 <MultiGreekSearch
   dictionaries= {[

@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Orígenes Cristianos',
-  tagline: 'Traducción de textos cristianos antiguos',
+  tagline: 'Traducción de textos cristianos antiguos con asistencia de IA y revisión humana',
   favicon: 'img/write.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -156,7 +156,7 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  // plugins: [require.resolve('docusaurus-lunr-search')],
 };
 
 export default config;

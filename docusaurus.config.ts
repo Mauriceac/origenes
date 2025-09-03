@@ -74,6 +74,14 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/write.png',
+    announcementBar: {
+      id: 'demo-banner',
+      content:
+        'Versión demo - Proyecto en desarrollo 🚧',
+      backgroundColor: '#ffdd00ff',
+      textColor: '#091E42',
+      isCloseable: true,
+    },
     docs: {
       sidebar: {
         hideable: true,

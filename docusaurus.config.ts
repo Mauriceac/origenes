@@ -80,7 +80,7 @@ const config: Config = {
       }
     },
     navbar: {
-      title: 'Orígenes Cristianos',
+      title: 'Inicio',
       logo: {
         alt: 'Orígenes Logo',
         src: 'img/write.png',

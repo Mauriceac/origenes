@@ -1,5 +1,5 @@
 ---
-title: Capítulo 0
+title: Proemio
 ---
 
 import Content from '@site/docs/san-maximo-confesor/mystagogia/chapter_0.json';

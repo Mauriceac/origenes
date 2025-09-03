@@ -1,0 +1,375 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 10,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 10,
+                    "chapterSummary": "Sección que aborda la articulación y progresión jerárquica de las órdenes celestiales y su relación con la jerarquía humana, bajo la influencia de la divina iluminación y orden.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "jerarquía",
+                              "iluminación",
+                              "purificación",
+                              "perfección",
+                              "divinidad",
+                              "ángeles",
+                              "jerarquía celestial",
+                              "Dionisio"
+                            ],
+                            "lineNumber": [
+                              822,
+                              823,
+                              824,
+                              825,
+                              826,
+                              827,
+                              828,
+                              829,
+                              830,
+                              831,
+                              832
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"τελεταρχικῆς ἐλλάµψεως\" (teletarchikēs ellampseōs) se refiere a la iluminación que inicia los misterios o ritos sagrados, denotando la fuente divina de toda iniciación y ordenación. \"θεαρχίας φωτοδοσίᾳ\" (thearchias photodosia) puede traducirse como la \"fotodosía teárquica\" o la \"irradiación de luz de la Divinidad gobernante\", enfatizando la procedencia divina y soberana de la luz. \"πρεσβυτάτη τῶν περὶ θεὸν νοῶν διακόσµησις\" (presbytatē tōn peri theon noōn diakosmēsis) hace referencia a la primera y más elevada de las jerarquías angélicas, que está más cercana a Dios. Las tres acciones \"καθαίρεται καὶ φωτίζεται καὶ τελεσιουργεῖται\" (kathairetai kai phōtizetai kai telesiourgeitai) corresponden a las etapas de purificación, iluminación y perfección, que son fundamentales en la teología jerárquica de Dionisio. Finalmente, \"ὑπεράρχιον ἀρχὴν καὶ περάτωσιν\" (hyperarchion archēn kai peratōsin) apunta a Dios como el \"principio super-original\" y la \"consumación\" última de todo orden y ser, trascendente a cualquier comienzo.",
+                              "notesLinguistics": "La sintaxis griega en este pasaje es compleja, con una sola oración principal que abarca múltiples subordinadas y participios, común en el estilo de Dionisio. La estructura \"µὲν... δὲ...\" (men... de...) se utiliza para contrastar la naturaleza \"más velada\" y \"más manifiesta\" de la fotodosía divina, característica de la prosa filosófica griega para articular distinciones matizadas. La repetición de la construcción \"πρὸς ταύτης... πρὸς τῆς δευτέρας... πρὸς τῆς τρίτης\" refuerza la idea de una progresión ordenada y análoga en la transmisión jerárquica. El uso de adjetivos compuestos como \"ἁπλωτικῇ\" (simplificadora) y \"ἑνοποιῷ\" (unificadora) es clave para describir los efectos de la divinidad."
+                            },
+                            "originalText": "Συνῆκται τοίνυν ἡµῖν ὡς ἡ µὲν πρεσβυτάτη τῶν περὶ θεὸν νοῶν διακόσµησις ὑπὸ τῆς τελεταρχικῆς ἐλλάµψεως ἱεραρχουµένη τῷ ἐπ' αὐτὴν ἀµέσως ἀνατείνεσθαι κρυφιωτέρᾳ καὶ φανοτέρᾳ τῆς θεαρχίας φωτοδοσίᾳ καθαίρεται καὶ φωτίζεται καὶ τελεσιουργεῖται, κρυφιωτέρᾳ µὲν ὡς νοητοτέρᾳ καὶ µᾶλλον ἁπλωτικῇ καὶ ἑνοποιῷ, φανοτέρᾳ δὲ ὡς πρωτοδότῳ καὶ πρωτοφανεῖ καὶ ὁλικωτέρᾳ καὶ µᾶλλον εἰς αὐτὴν ὡς διειδῆ κεχυµένῃ, πρὸς ταύτης δὲ πάλιν ἀναλόγως ἡ δευτέρα καὶ πρὸς τῆς δευτέρας ἡ τρίτη καὶ πρὸς τῆς τρίτης ἡ καθ' ἡµᾶς ἱεραρχία κατὰ τὸν αὐτὸν τῆς εὐκόσµου ταξιαρχίας θεσµὸν ἐν ἁρµονίᾳ θείᾳ καὶ ἀναλογίᾳ πρὸς τὴν ἁπάσης εὐκοσµίας ὑπεράρχιον ἀρχὴν καὶ περάτωσιν ἱεραρχικῶς ἀνάγεται.",
+                            "spanishTranslation": "Así pues, hemos comprendido que la más venerable disposición de las inteligencias que están en torno a Dios, siendo jerarquizada por la iluminación teletárquica, es purificada, iluminada y perfeccionada por la fotodosía de la Teogonía, más velada y más manifiesta, que se derrama inmediatamente sobre ella; más velada, en cuanto es más inteligible, más simplificadora y unificadora; y más manifiesta, en cuanto es la primera en dar y la primera en aparecer, más holística y más difundida en ella como en algo diáfano. Y desde esta, a su vez y de forma análoga, la segunda [jerarquía], y desde la segunda la tercera, y desde la tercera nuestra jerarquía [terrestre], según el mismo decreto de la bien ordenada jerarquía, es ascendida jerárquicamente, en divina armonía y analogía, hacia el Principio super-original y la consumación de todo buen orden."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 10,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "ángeles",
+                              "revelación",
+                              "jerarquía"
+                            ],
+                            "lineNumber": [
+                              833
+                            ],
+                            "notes": {
+                              "notesGreek": "El término griego 'Ἐκφαντορικοὶ' (ekphantorikoi) significa 'reveladores' o 'manifestadores', enfatizando la función de los ángeles como transmisores de la luz divina.",
+                              "notesLinguistics": "La construcción 'οἱ µὲν' (hoi men) introduce una cláusula contrastiva, que se completa en la siguiente frase."
+                            },
+                            "originalText": "Ἐκφαντορικοὶ δὲ πάντες εἰσὶ καὶ ἄγγελοι τῶν πρὸ αὐτῶν, οἱ µὲν",
+                            "spanishTranslation": "Todos son reveladores y mensajeros de aquellos que están antes que ellos, unos"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "movimiento",
+                              "jerarquía"
+                            ],
+                            "lineNumber": [
+                              834
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dionisio describe un principio de causalidad y transmisión en la jerarquía, donde los órdenes superiores mueven e iluminan a los inferiores, y Dios es el motor primero."
+                            },
+                            "originalText": "πρεσβύτατοι θεοῦ τοῦ κινοῦντος, ἀναλόγως δὲ οἱ λοιποὶ τῶν ἐκ θεοῦ",
+                            "spanishTranslation": "los más antiguos de Dios que mueve, y de forma análoga los demás de aquellos movidos por Dios."
+                          },
+                          {
+                            "keywords": [
+                              "movidos"
+                            ],
+                            "lineNumber": [
+                              835
+                            ],
+                            "notes": {},
+                            "originalText": "κεκινηµένων.",
+                            "spanishTranslation": "que han sido movidos."
+                          },
+                          {
+                            "keywords": [
+                              "armonía",
+                              "supraesencial",
+                              "orden"
+                            ],
+                            "lineNumber": [
+                              836
+                            ],
+                            "notes": {
+                              "notesGreek": "'ὑπερούσιος ἁρµονία' (hyperousios harmonia) es un concepto clave en la teología de Dionisio, refiriéndose a una armonía que trasciende la existencia misma y organiza todo lo que está por debajo."
+                            },
+                            "originalText": "Τοσοῦτον γὰρ ἡ πάντων ὑπερούσιος ἁρµονία τῆς ἑκάστου",
+                            "spanishTranslation": "Pues la armonía supraesencial de todas las cosas,"
+                          },
+                          {
+                            "keywords": [
+                              "racional",
+                              "intelectivo",
+                              "elevación",
+                              "orden"
+                            ],
+                            "lineNumber": [
+                              837
+                            ],
+                            "notes": {
+                              "notesGreek": "'λογικῶν τε καὶ νοερῶν' (logikon te kai noeron) se refiere a las naturalezas racionales (humanas) e intelectivas (angélicas), una distinción fundamental en la filosofía platónica y neoplatónica. 'ἀναγωγῆς' (anagoges) significa 'elevación' o 'ascenso' hacia lo divino.",
+                              "notesLinguistics": "La frase describe la providencia divina en el establecimiento de un orden sagrado para el ascenso de las criaturas."
+                            },
+                            "originalText": "τῶν λογικῶν τε καὶ νοερῶν ἱερᾶς εὐκοσµίας καὶ τεταγµένης ἀναγωγῆς",
+                            "spanishTranslation": "previó una sagrada buena disposición y una elevación ordenada para cada una de las criaturas racionales e intelectivas,"
+                          },
+                          {
+                            "keywords": [
+                              "jerarquías",
+                              "rangos",
+                              "orden divino"
+                            ],
+                            "lineNumber": [
+                              838
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἱεροπρεπεῖς' (hieroprepeis) denota algo 'adecuado para lo sagrado', 'conforme a lo divino', o 'sagrado y apropiado'."
+                            },
+                            "originalText": "προενόησεν, ὅτι καὶ αὐτῇ τῶν ἱεραρχιῶν ἑκάστῃ τάξεις ἱεροπρεπεῖς ἔθετο·",
+                            "spanishTranslation": "de modo que incluso para cada una de las jerarquías estableció rangos sagrados y apropiados;"
+                          },
+                          {
+                            "keywords": [
+                              "divisiones",
+                              "potencias",
+                              "jerarquía"
+                            ],
+                            "lineNumber": [
+                              839
+                            ],
+                            "notes": {
+                              "notesGeneral": "Aquí se reitera el principio de la estructura triádica (primeras, medias, últimas) que Dionisio aplica a cada jerarquía, reflejando el orden divino."
+                            },
+                            "originalText": "καὶ πᾶσαν ἱεραρχίαν ὁρῶµεν εἰς πρώτας καὶ µέσας καὶ τελευταίας δυνάµεις",
+                            "spanishTranslation": "y vemos toda jerarquía dividida en potencias primeras, medias y últimas,"
+                          },
+                          {
+                            "keywords": [
+                              "disposición",
+                              "armonías"
+                            ],
+                            "lineNumber": [
+                              840
+                            ],
+                            "notes": {
+                              "notesGreek": "'διακόσµησιν' (diakosmesin) puede traducirse como 'ordenamiento', 'disposición' o 'embellecimiento'."
+                            },
+                            "originalText": "διῃρηµένην, ἀλλὰ καὶ αὐτὴν ἑκάστην ἰδικῶς εἰπεῖν διακόσµησιν ταῖς",
+                            "spanishTranslation": "pero también distinguió cada disposición en particular mediante las"
+                          },
+                          {
+                            "keywords": [
+                              "divino",
+                              "armonía"
+                            ],
+                            "lineNumber": [
+                              841
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἐνθέοις ἁρµονίαις' (entheois harmoniais) se refiere a 'armonías divinas' o 'inspiradas por Dios'."
+                            },
+                            "originalText": "αὐταῖς ἐνθέοις ἁρµονίαις διέκρινε.",
+                            "spanishTranslation": "mismas armonías divinas."
+                          },
+                          {
+                            "keywords": [
+                              "Serafines",
+                              "teólogos",
+                              "divino"
+                            ],
+                            "lineNumber": [
+                              842
+                            ],
+                            "notes": {
+                              "notesGreek": "Los 'Σεραφὶµ' (Seraphim) son los ángeles del más alto orden en la tradición bíblica y en la jerarquía dionisiana. 'θειοτάτους' (theiotatous) es el superlativo de 'divino', indicando su máxima proximidad a Dios."
+                            },
+                            "originalText": "∆ιὸ καὶ αὐτοὺς τοὺς θειοτάτους Σεραφὶµ",
+                            "spanishTranslation": "Por eso, incluso los teólogos afirman que los Serafines más divinos"
+                          },
+                          {
+                            "keywords": [
+                              "clamor",
+                              "conocimiento",
+                              "revelación"
+                            ],
+                            "lineNumber": [
+                              843
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta referencia se basa en Isaías 6:3, donde los serafines claman: 'Santo, santo, santo, Jehová de los ejércitos; toda la tierra está llena de su gloria.' Dionisio reinterpreta este acto como una transmisión de conocimiento divino.",
+                              "notesGeneral": "El acto de 'clamar el uno al otro' es interpretado no solo como alabanza, sino como un medio para comunicar y transmitir la iluminación divina entre los órdenes angélicos."
+                            },
+                            "originalText": "οἱ θεολόγοι φασὶν ἕτερον πρὸς τὸν ἕτερον κεκραγέναι, σαφῶς ἐν τούτῳ",
+                            "spanishTranslation": "claman el uno al otro, manifestando claramente en esto, según creo,"
+                          },
+                          {
+                            "keywords": [
+                              "teología",
+                              "conocimiento",
+                              "transmisión"
+                            ],
+                            "lineNumber": [
+                              844
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dionisio utiliza el ejemplo de los Serafines para ilustrar el principio de que el conocimiento teológico se transmite de los superiores a los inferiores dentro de la jerarquía celestial."
+                            },
+                            "originalText": "καθάπερ οἶµαι δηλοῦντες ὅτι τῶν θεολογικῶν γνώσεων οἱ πρῶτοι τοῖς",
+                            "spanishTranslation": "que los primeros transmiten a los segundos de los conocimientos teológicos."
+                          },
+                          {
+                            "keywords": [
+                              "transmisión",
+                              "conocimiento"
+                            ],
+                            "lineNumber": [
+                              845
+                            ],
+                            "notes": {
+                              "notesGreek": "'µεταδιδόασιν' (metadidóasin) significa 'transmiten' o 'comparten', enfatizando la naturaleza comunicativa de la jerarquía divina."
+                            },
+                            "originalText": "δευτέροις µεταδιδόασιν.",
+                            "spanishTranslation": "a los segundos."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 10,
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [
+                              "intelecto celestial",
+                              "intelecto humano",
+                              "órdenes",
+                              "poderes",
+                              "jerarquía",
+                              "iluminaciones",
+                              "elevaciones",
+                              "participación",
+                              "purificación",
+                              "luz",
+                              "perfección"
+                            ],
+                            "lineNumber": [
+                              846,
+                              847,
+                              848,
+                              849,
+                              850,
+                              851,
+                              852
+                            ],
+                            "notes": {
+                              "notesGreek": "El término νοῦς (nous) se refiere al intelecto o la mente, la facultad racional y espiritual capaz de percibir realidades divinas. Las τάξεις τε καὶ δυνάµεις (órdenes y poderes) son elementos clave en la estructura jerárquica dionisiana. Las ἱεραρχικῶν ἐλλάµψεων son las iluminaciones divinas transmitidas jerárquicamente. ἀναγωγὰς son las elevaciones o ascensos espirituales. µετουσίᾳ se refiere a la participación en las cualidades divinas. Las expresiones ὑπεραγνοτάτης καθάρσεως, τοῦ ὑπερπλήρους φωτὸς, τῆς προτελείου τελειώσεως son características del lenguaje dionisiano, utilizando el prefijo \"ὑπερ-\" (super-) y el superlativo para enfatizar la trascendencia. La \"perfección pre-perfecta\" (προτελείου τελειώσεως) es una perfección alcanzada por los seres creados, previa a la Perfección absoluta de Dios.",
+                              "notesLinguistics": "La riqueza del vocabulario de Dionisio se observa en la combinación de prefijos (como \"ὑπερ-\") y sufijos superlativos para crear términos que denotan grados extremos de una cualidad, resaltando la inefabilidad y trascendencia de lo divino y el proceso místico. La construcción de la frase principal con un participio de futuro en `Προσθείην δ' ἂν` y la consecutiva `ὅτι` introduce una afirmación que se expande con varias cláusulas participiales para describir las características de los intelectos. El uso de `καθ' ἃς` (según las cuales) conecta la manifestación de las elevaciones con la participación resultante. La estructura paralela con el genitivo para `καθάρσεως`, `φωτὸς` y `τελειώσεως` refuerza la enumeración de los beneficios de la participación. The term `ἀναλόγως` (análogamente) subraya la naturaleza proporcional de la revelación divina, adaptada a la capacidad de cada receptor. La elección de `ἐκφαινοµένας` (manifestándose) denota una revelación activa y perceptible de las elevaciones. La frase `κατὰ τὸ αὐτῷ θεµιτόν τε καὶ ἐφικτὸν` (según lo que le es lícito y posible) enfatiza la limitación y proporción en la participación divina de los seres creados, reflejando una soteriología gradualista."
+                            },
+                            "originalText": "<Προσθείην δ' ἂν καὶ τοῦτο οὐκ ἀπεικότως ὅτι καὶ καθ' ἑαυτὸν ἕκαστος οὐράνιός τε καὶ ἀνθρώπινος νοῦς ἰδικὰς ἔχει καὶ πρώτας καὶ µέσας καὶ τελευταίας τάξεις τε καὶ δυνάµεις πρὸς τὰς εἰρηµένας τῶν καθ' ἕκαστον ἱεραρχικῶν ἐλλάµψεων οἰκείας ἀναγωγὰς ἀναλόγως ἐκφαινοµένας, καθ' ἃς ἕκαστος ἐν µετουσίᾳ γίνεται κατὰ τὸ αὐτῷ θεµιτόν τε καὶ ἐφικτὸν τῆς ὑπεραγνοτάτης καθάρσεως, τοῦ ὑπερπλήρους φωτὸς, τῆς προτελείου τελειώσεως.",
+                            "spanishTranslation": "No sería inapropiado añadir también esto: que cada intelecto, tanto celestial como humano, por sí mismo, posee sus propias, y primeras, y medias, y últimas órdenes y poderes, manifestando análogamente sus propias elevaciones apropiadas en relación con las mencionadas iluminaciones jerárquicas individuales, mediante las cuales cada uno llega a participar, según lo que le es lícito y posible, de la purificación super-purísima, de la luz super-plena y de la perfección pre-perfecta."
+                          },
+                          {
+                            "keywords": [
+                              "autosuficiente",
+                              "perfección",
+                              "pre-perfecto"
+                            ],
+                            "lineNumber": [
+                              853,
+                              854
+                            ],
+                            "notes": {
+                              "notesGreek": "`αὐτοτελὲς` se traduce como \"autosuficiente\" o \"perfecto en sí mismo\", un atributo exclusivo de la divinidad. `προτέλειον` aquí se refiere a Dios como la fuente primordial y arquetípica de toda perfección, siendo Él mismo la Perfección antes de cualquier manifestación de ella en lo creado.",
+                              "notesLinguistics": "El conector `γὰρ` (pues) introduce una explicación o justificación de la afirmación anterior, estableciendo una base teológica sobre la autosuficiencia divina. La negación `οὐδὲν` (nada) seguida por `εἰ µὴ` (sino/excepto) crea una construcción enfática que reserva la cualidad de \"autosuficiente\" y \"pre-perfecto\" exclusivamente para el Ser divino."
+                            },
+                            "originalText": "Ἔστι γὰρ οὐδὲν αὐτοτελὲς ἢ ἀπροσδεὲς καθόλου τελειότητος εἰ µὴ τὸ ὄντως αὐτοτελὲς καὶ προτέλειον.",
+                            "spanishTranslation": "Pues nada es autosuficiente o carente de perfección en absoluto, sino lo que es verdaderamente autosuficiente y pre-perfecto."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

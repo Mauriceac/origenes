@@ -89,7 +89,20 @@ export default function ChapterDisplay({ data }) {
             <div style={{ fontWeight: 'bold', borderBottom: '1px solid #ddd', paddingBottom: 4 }}>Traducción Española</div>
             <div style={{ fontWeight: 'bold', borderBottom: '1px solid #ddd', paddingBottom: 4 }}>Notas</div>
             {(section.text || []).map((line, idx) => (
-              <React.Fragment key={idx}>
+              <React.Fragment key={idx}>                
+                {/* add full-width row with line numbers */}
+                {line.lineNumber && line.lineNumber.length > 0 && (
+                  <div style={{
+                    gridColumn: '1 / -1',
+                    background: 'var(--text-box)',
+                    padding: '0.5em',
+                    borderRadius: 4,
+                    marginBottom: '0.5em',
+                    fontSize: '0.9em'
+                  }}>
+                    <strong>Líneas:</strong> {line.lineNumber.join(', ')}
+                  </div>
+                )}
                 <div style={{ padding: '0.5em 0', borderBottom: '1px solid #f0f0f0' }}>
                   {/* Try to show originalText, else show nothing */}
                   {line.originalText ? line.originalText : <span style={{ color: '#aaa' }}>—</span>}
@@ -100,6 +113,19 @@ export default function ChapterDisplay({ data }) {
                 <div style={{ padding: '0.5em 0', borderBottom: '1px solid #f0f0f0' }}>
                   <NotesBlock notes={line.notes} />
                 </div>
+                {/* If there are keywords, display them in a full-width row */}
+                {line.keywords && line.keywords.length > 0 && (
+                  <div style={{
+                    gridColumn: '1 / -1',
+                    // background: 'var(--text-box)',
+                    padding: '0.5em',
+                    borderRadius: 4,
+                    marginBottom: '0.5em',
+                    fontSize: '0.9em'
+                  }}>
+                    <strong>Palabras clave:</strong> {line.keywords.join(', ')}
+                  </div>
+                )}
               </React.Fragment>
             ))}
           </div>

@@ -1,0 +1,292 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 11,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 11,
+                    "chapterSummary": "Esta sección explica por qué todas las órdenes angélicas son comúnmente denominadas «potencias celestiales», aunque «Potencias» es un orden específico. Se aclara que, si bien las órdenes superiores imparten gracia a las inferiores, estas últimas no poseen las propiedades holísticas de las más elevadas. El autor subraya que términos como Serafines, Tronos y Dominaciones no son generalizaciones, a diferencia de «potencias celestiales», que se aplica de forma amplia a ángeles, arcángeles, principados y autoridades en el discurso teológico común.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "distinguidas",
+                              "razón"
+                            ],
+                            "lineNumber": [
+                              857
+                            ],
+                            "originalText": "Τούτων δὲ διωρισµένων ἐκεῖνο ἄξιον ἐννοῆσαι, δι' ἣν αἰτίαν ἁπάσας",
+                            "spanishTranslation": "Una vez distinguidas estas cosas, es digno de considerar aquello, por qué razón a todas"
+                          },
+                          {
+                            "keywords": [
+                              "sustancias angélicas",
+                              "potencias celestiales"
+                            ],
+                            "lineNumber": [
+                              858
+                            ],
+                            "notes": {
+                              "notesLinguistics": "El verbo εἰώθαµεν (eiōthamen) es imperfecto y denota una acción habitual en el pasado, traducido como «solíamos llamar» o «acostumbramos a llamar»."
+                            },
+                            "originalText": "ὁµοῦ τὰς ἀγγελικὰς οὐσίας δυνάµεις οὐρανίας καλεῖν εἰώθαµεν.",
+                            "spanishTranslation": "las sustancias angélicas en conjunto solemos llamar \"potencias celestiales\"."
+                          },
+                          {
+                            "keywords": [
+                              "pues no"
+                            ],
+                            "lineNumber": [
+                              859
+                            ],
+                            "originalText": "Οὐ γὰρ",
+                            "spanishTranslation": "Pues no"
+                          },
+                          {
+                            "keywords": [
+                              "última jerarquía",
+                              "disposición"
+                            ],
+                            "lineNumber": [
+                              860
+                            ],
+                            "originalText": "ἔστιν εἰπεῖν ὡς ἐπὶ τῶν ἀγγέλων ὅτι πασῶν ἐστιν ἐσχάτη διακόσµησις",
+                            "spanishTranslation": "es posible decir, como en el caso de los ángeles, que de todas es la última jerarquía"
+                          },
+                          {
+                            "keywords": [
+                              "santas potencias",
+                              "resplandor apropiado"
+                            ],
+                            "lineNumber": [
+                              861
+                            ],
+                            "originalText": "ἡ τῶν ἁγίων δυνάµεων καὶ τῆς µὲν τῶν ἐσχάτων ἁγιοπρεποῦς ἐλλάµψεως",
+                            "spanishTranslation": "la de las santas potencias; y que, por un lado, del resplandor apropiado de los últimos"
+                          },
+                          {
+                            "keywords": [
+                              "sustancias superiores",
+                              "jerarquías"
+                            ],
+                            "lineNumber": [
+                              862
+                            ],
+                            "originalText": "αἱ τῶν ὑπερκειµένων οὐσιῶν διακοσµήσεις µετέχουσιν, αἱ τελευταῖαι δὲ",
+                            "spanishTranslation": "participan las jerarquías de las sustancias superiores, pero las últimas [jerarquías]"
+                          },
+                          {
+                            "keywords": [
+                              "de ninguna manera",
+                              "potencias celestiales"
+                            ],
+                            "lineNumber": [
+                              863
+                            ],
+                            "originalText": "τῶν πρώτων οὐδαµῶς καὶ τούτου χάριν οὐράνιαι µὲν δυνάµεις ἅπαντες",
+                            "spanishTranslation": "de las primeras de ninguna manera; y por esta razón, si bien \"potencias celestiales\" son todas"
+                          },
+                          {
+                            "keywords": [
+                              "inteligencias divinas",
+                              "Serafines",
+                              "Tronos",
+                              "Dominaciones"
+                            ],
+                            "lineNumber": [
+                              864
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dionisio el Areopagita establece aquí una distinción crucial entre la designación general de los seres angélicos como \"potencias celestiales\" y los nombres específicos de órdenes angélicas superiores como Serafines, Tronos y Dominaciones. Esto sugiere que las designaciones de las órdenes superiores no son intercambiables o aplicables a todas las demás, a diferencia del término más amplio \"potencias celestiales\"."
+                            },
+                            "originalText": "οἱ θεῖοι νόες ὀνοµάζονται, Σεραφὶµ δὲ καὶ θρόνοι καὶ κυριότητες οὐδαµῶς.",
+                            "spanishTranslation": "las inteligencias divinas son llamadas, no así Serafines, ni Tronos, ni Dominaciones."
+                          },
+                          {
+                            "keywords": [
+                              "ajenas",
+                              "sin participación",
+                              "propiedades holísticas",
+                              "integrales"
+                            ],
+                            "lineNumber": [
+                              865
+                            ],
+                            "originalText": "Ἀµέθεκτοι γὰρ αἱ τελευταῖαι τῶν ὑπερτάτων εἰσὶν ὁλικῶν ἰδιοτήτων.",
+                            "spanishTranslation": "Pues las últimas son ajenas a las propiedades holísticas de las superiores."
+                          },
+                          {
+                            "keywords": [
+                              "ángeles",
+                              "arcángeles",
+                              "principados",
+                              "potestades"
+                            ],
+                            "lineNumber": [
+                              866
+                            ],
+                            "originalText": "Οἱ γὰρ ἄγγελοι καὶ πρὸ τῶν ἀγγέλων ἀρχάγγελοι καὶ ἀρχαὶ καὶ ἐξουσίαι",
+                            "spanishTranslation": "Pues los ángeles, y antes de los ángeles, los arcángeles, y los principados, y las potestades,"
+                          },
+                          {
+                            "keywords": [
+                              "potencias",
+                              "teología",
+                              "clasificados"
+                            ],
+                            "lineNumber": [
+                              867
+                            ],
+                            "originalText": "µετὰ τὰς δυνάµεις ὑπὸ τῆς θεολογίας ταττόµενοι κατὰ κοινοῦ πολλάκις",
+                            "spanishTranslation": "siendo clasificados por la teología después de las potencias, con frecuencia de manera común"
+                          },
+                          {
+                            "keywords": [
+                              "santas sustancias",
+                              "potencias celestiales"
+                            ],
+                            "lineNumber": [
+                              868,
+                              869
+                            ],
+                            "originalText": "ὑφ' ἡµῶν ὁµοῦ ταῖς ἄλλαις ἁγίαις οὐσίαις οὐράνιαι δυνάµεις ἀποκαλοῦν ται.",
+                            "spanishTranslation": "por nosotros, junto con las otras santas sustancias, son denominadas \"potencias celestiales\"."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 11,
+                    "chapterSummary": "Dionisio aclara que el uso común de términos para las potencias celestiales no implica una confusión de sus propiedades distintivas. Explica que los intelectos divinos se dividen en esencia, potencia y energía, y que al llamarlos \"sustancias\" o \"potencias celestiales\" se hace una referencia perifrástica a una de estas divisiones. Reafirma que las órdenes superiores poseen las propiedades de las inferiores de manera más abundante, pero las inferiores no poseen las totalidades superiores, manteniendo la integridad de la jerarquía angélica y la transmisión mediada de las iluminaciones divinas.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "potencias celestiales",
+                              "intelectos divinos",
+                              "esencia",
+                              "potencia",
+                              "energía",
+                              "perífrasis"
+                            ],
+                            "lineNumber": [
+                              870,
+                              871,
+                              872,
+                              873,
+                              874,
+                              875,
+                              876
+                            ],
+                            "notes": {
+                              "notesGreek": "Las palabras clave \"κοινῶς\" (comúnmente), \"ἐπωνυµίᾳ δυνάµεων\" (denominación de potencias), \"διακοσµήσεως\" (ordenación), \"ἰδιοτήτων\" (propiedades distintivas), \"θεῖοι νόες\" (intelectos divinos), \"οὐσίαν\" (esencia), \"δύναµιν\" (potencia), \"ἐνέργειαν\" (energía/actividad) y \"περιφραστικῶς\" (perifrásticamente) son fundamentales para entender la argumentación de Dionisio sobre la terminología.",
+                              "notesLinguistics": "El autor subraya la distinción entre el uso generalizado de un término y su significado preciso dentro de un sistema jerárquico. La perífrasis se utiliza para denotar aspectos particulares (esencia, potencia, energía) sin anular las categorizaciones más finas. Esto es crucial para la taxonomía angélica dionisiana. "
+                            },
+                            "originalText": "<Φαµὲν δὲ ὅτι κοινῶς ἐπὶ πάσαις κεχρηµένοι τῇ τῶν οὐρανίων ἐπωνυµίᾳ δυνάµεων οὐ σύγχυσίν τινα τῶν ἑκάστης διακοσµήσεως ἰδιοτήτων εἰσάγοµεν, ἀλλ' ἐπειδὴ εἰς τρία διῄρηνται τῷ κατ' αὐτοὺς ὑπερκοσµίῳ λόγῳ πάντες οἱ θεῖοι νόες, εἰς οὐσίαν καὶ δύναµιν καὶ ἐνέργειαν, ὅταν ἅπαντας ἤ τινας αὐτῶν ἀπαρατηρήτως οὐρανίας οὐσίας ἢ οὐρανίας δυνάµεις ἀποκαλοῦµεν, αὐτοὺς περιφραστικῶς τοὺς περὶ ὧν ὁ λόγος ἐµφαίνειν ἡµᾶς οἰητέον ἐκ τῆς καθ' ἕκαστον αὐτῶν οὐσίας ἢ",
+                            "spanishTranslation": "Decimos que, al emplear comúnmente para todas la denominación de \"potencias celestiales\", no introducimos una confusión de las propiedades distintivas de cada ordenación; sino que, puesto que todos los intelectos divinos están divididos en tres según su lógica supramundana: en su esencia, en su potencia y en su energía, cuando a todos o a algunos de ellos los llamamos indistintamente \"sustancias celestiales\" o \"potencias celestiales\", debemos considerar que nosotros nos referimos perifrásticamente a aquellos de quienes hablamos, por la esencia o la potencia propia de cada uno de ellos."
+                          },
+                          {
+                            "keywords": [
+                              "jerarquía",
+                              "órdenes angélicos",
+                              "propiedad superior",
+                              "subordinado",
+                              "inconfusa"
+                            ],
+                            "lineNumber": [
+                              877,
+                              878,
+                              879,
+                              880
+                            ],
+                            "notes": {
+                              "notesGreek": "Los términos \"ὑπερκειµένην ἰδιότητα\" (propiedad superior), \"διακεκριµένων\" (distinguidas), \"ὑφειµέναις\" (subordinadas), \"ἀνατροπῇ\" (trastorno) y \"ἀσυγχύτου ταξιαρχίας\" (jerarquía inconfusa) refuerzan la idea de la estricta organización jerárquica del cosmos angélico.",
+                              "notesLinguistics": "La negación en el texto (\"οὐδὲ γὰρ\") enfatiza que la atribución de propiedades superiores a entidades inferiores sería un error conceptual y una \"ἀνατροπῇ\" (subversión/trastorno) del orden divino, lo cual es inaceptable en el sistema dionisiano. "
+                            },
+                            "originalText": "δυνάµεως· οὐδὲ γὰρ τὴν ὑπερκειµένην ἰδιότητα τῶν ἤδη καλῶς ἡµῖν διακεκριµένων ἁγίων δυνάµεων καὶ ταῖς ὑφειµέναις ὁλικῶς προσάπτειν οὐσίαις ἐπ' ἀνατροπῇ τῆς ἀσυγχύτου τῶν ἀγγελικῶν διακόσµων τα ξιαρχίας.",
+                            "spanishTranslation": "Ni tampoco [pretendemos] atribuir la propiedad superior de las santas potencias que ya hemos distinguido bien, a las esencias completamente subordinadas, con el fin de trastornar la jerarquía inconfusa de los órdenes angélicos."
+                          },
+                          {
+                            "keywords": [
+                              "jerarquía dionisiana",
+                              "iluminaciones divinas",
+                              "propiedades",
+                              "transmisión",
+                              "análogamente"
+                            ],
+                            "lineNumber": [
+                              881,
+                              882,
+                              883,
+                              884,
+                              885
+                            ],
+                            "notes": {
+                              "notesBiblical": "Aunque no hay una cita directa aquí, el concepto de jerarquía y transmisión de la gloria o el conocimiento es central en las epístolas paulinas (p. ej., 1 Co 15:28, Col 1:16, Ef 1:21) y en la descripción de los \"ejércitos celestiales\" en la tradición judeocristiana. Dionisio sistematiza esta tradición de un modo neoplatónico, donde la emanación divina es ordenada y mediada.",
+                              "notesGreek": "\"ὑπερβεβηκυῖαι διακοσµήσεις\" (ordenaciones superiores), \"περισσῶς ἔχουσι\" (poseen en abundancia), \"ὑφειµένων ἱερὰς ἰδιότητας\" (propiedades sagradas de las inferiores), \"τελευταῖαι\" (las últimas/inferiores), \"πρεσβυτέρων ὑπερκειµένας ὁλότητας\" (totalidades superiores de las más antiguas), \"µερικῶς\" (parcialmente), \"πρωτοφανῶν ἐλλάµψεων\" (iluminaciones primordiales), \"διαπορθµευοµένων\" (transmitidas/conducidas) son términos clave para entender la dinámica de la jerarquía.",
+                              "notesLinguistics": "La construcción \"αἱ µὲν... αἱ δὲ...\" (las unas... las otras...) establece un claro contraste entre las propiedades de las jerarquías superiores e inferiores, un recurso retórico común para enfatizar la distinción en la filosofía griega. El adverbio \"ἀναλόγως\" (análogamente) es fundamental para la transmisión de las \"ἐλλάµψεων\" (iluminaciones), indicando una distribución proporcionada y ordenada. "
+                            },
+                            "originalText": "Κατὰ γὰρ τὸν πολλάκις ἡµῖν ὀρθῶς ἀποδοθέντα λόγον αἱ µὲν ὑπερβεβηκυῖαι διακοσµήσεις περισσῶς ἔχουσι καὶ τὰς τῶν ὑφειµένων ἱερὰς ἰδιότητας, αἱ δὲ τελευταῖαι τὰς τῶν πρεσβυτέρων ὑπερκειµένας ὁλότητας οὐκ ἔχουσι µερικῶς εἰς αὐτὰς τῶν πρωτοφανῶν ἐλλάµψεων διὰ τῶν πρώτων ἀναλόγως αὐταῖς διαπορθµευοµένων.",
+                            "spanishTranslation": "Porque, según la razón que muchas veces hemos expuesto correctamente, las ordenaciones superiores poseen en abundancia también las propiedades sagradas de las inferiores; pero las últimas [inferiores] no poseen las totalidades superiores de las más antiguas, pues las iluminaciones primordiales no se transmiten parcialmente a ellas a través de las primeras de manera análoga a ellas."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

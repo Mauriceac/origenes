@@ -1,0 +1,238 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 5,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 5,
+                    "chapterSummary": "Discusión sobre la etimología y el uso específico del término 'ángel' dentro de la jerarquía celestial, diferenciando su aplicación general de su uso para el orden más bajo. Se establece el principio de la transmisión jerárquica de la iluminación divina y se anticipa el análisis de las propiedades distintivas de cada orden.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "causa",
+                              "denominación angélica",
+                              "Escrituras",
+                              "teólogos",
+                              "esencias celestiales",
+                              "ángeles",
+                              "manifestación",
+                              "ordenaciones supramundanas",
+                              "orden angélico",
+                              "órdenes divinos y celestiales",
+                              "ordenaciones arcangélicas"
+                            ],
+                            "lineNumber": [
+                              408,
+                              409,
+                              410,
+                              411,
+                              412,
+                              413
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"λογίοις\" (logiois) se refiere a los oráculos divinos o las Sagradas Escrituras, un uso común en la teología patrística.",
+                              "notesLinguistics": "Dionisio establece una distinción crucial entre el uso general de \"ángel\" para todas las esencias celestiales y su aplicación \"ιδίως\" (idíōs, específicamente) al orden más bajo de la jerarquía, que es el que cumple la función de \"completar\" los mandatos divinos. Este es un punto clave para entender su sistema jerárquico."
+                            },
+                            "originalText": "Αὕτη µὲν οὖν ἐστιν ὡς καθ' ἡµᾶς ἡ αἰτία τῆς ἀγγελικῆς ἐν τοῖς λογίοις ἐπωνυµίας, ἐρευνῆσαι δὲ ὡς οἶµαι χρὴ δι' ἣν αἰτίαν οἱ θεολόγοι πάσας µὲν ἅµα τὰς οὐρανίας οὐσίας ἀγγέλους καλοῦσι, πρὸς δὲ τὴν ἐκφαντορίαν ἐρχόµενοι τῶν ὑπερκοσµίων αὐτῶν διακοσµήσεων τάξιν ἀγγελικὴν ἰδίως ὀνοµάζουσι τὴν συµπληρωτικῶς ἀποπερατοῦσαν τὰ θεῖα καὶ οὐράνια τάγµατα· πρὸ ταύτης δὲ ὑπερκειµένως τάττουσι τοὺς ἀρχαγγελικοὺς",
+                            "spanishTranslation": "Esta es, pues, según nosotros, la causa de la denominación angélica en las Escrituras; pero, como creo, es necesario investigar por qué razón los teólogos llaman simultáneamente a todas las esencias celestiales \"ángeles\", pero al referirse a la manifestación de sus ordenaciones supramundanas, nombran específicamente como \"orden angélico\" a aquel que completa los órdenes divinos y celestiales; y antes de este, de manera superior, colocan las ordenaciones arcangélicas,"
+                          },
+                          {
+                            "keywords": [
+                              "principados",
+                              "potestades",
+                              "fuerzas",
+                              "esencias superiores",
+                              "Escrituras",
+                              "tradiciones manifestativas"
+                            ],
+                            "lineNumber": [
+                              414,
+                              415,
+                              416
+                            ],
+                            "notes": {
+                              "notesBiblical": "La mención de \"ἀρχὰς καὶ τὰς ἐξουσίας καὶ τὰς δυνάµεις\" (principados, potestades y fuerzas) refleja la terminología paulina sobre las jerarquías celestiales, como se encuentra en Efesios 1:21, 3:10, 6:12 y Colosenses 1:16. Dionisio las incorpora y organiza sistemáticamente dentro de su propia estructura jerárquica."
+                            },
+                            "originalText": "διακόσµους, τάς τε ἀρχὰς καὶ τὰς ἐξουσίας καὶ τὰς δυνάµεις ὅσας τε τούτων ὑπερβεβηκυίας οὐσίας αἱ τῶν λογίων ἴσασιν ἐκφαντορικαὶ παραδόσεις.",
+                            "spanishTranslation": "así como los principados, las potestades y las fuerzas, y todas aquellas esencias que los sobrepasan, que las tradiciones manifestativas de las Escrituras conocen."
+                          },
+                          {
+                            "keywords": [
+                              "ordenación sagrada",
+                              "órdenes superiores",
+                              "iluminaciones",
+                              "poderes",
+                              "ordenaciones inferiores",
+                              "no participan",
+                              "superiores"
+                            ],
+                            "lineNumber": [
+                              417,
+                              418,
+                              419
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje es fundamental para comprender la teoría jerárquica de Dionisio: la gracia, la iluminación y el conocimiento fluyen de los órdenes superiores a los inferiores, pero los órdenes inferiores no pueden impartir directamente a los superiores. Es una transmisión unidireccional de la perfección divina."
+                            },
+                            "originalText": "Φαµὲν δὲ ὅτι κατὰ πᾶσαν ἱερὰν διακόσµησιν αἱ µὲν ὑπερβεβηκυῖαι τάξεις ἔχουσι καὶ τὰς τῶν ὑφειµένων διακοσµήσεων ἐλλάµψεις καὶ δυνάµεις, ἀµέθεκτοι δὲ τῶν αὐτὰς ὑπερκειµένων εἰσὶν αἱ τελευταῖαι.",
+                            "spanishTranslation": "Afirmamos que en toda ordenación sagrada, los órdenes superiores poseen también las iluminaciones y poderes de las ordenaciones inferiores, pero los últimos (los inferiores) no participan de aquellos que les son superiores."
+                          },
+                          {
+                            "keywords": [
+                              "órdenes más santos",
+                              "esencias más elevadas",
+                              "ángeles",
+                              "teólogos"
+                            ],
+                            "lineNumber": [
+                              420,
+                              421,
+                              422
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dionisio reitera aquí la idea de que el término \"ángel\" puede aplicarse de manera genérica a todos los rangos celestiales, incluso a los más altos, debido a su función común de ser mensajeros o manifestadores de lo divino, antes de especificar el orden angélico como el más bajo."
+                            },
+                            "originalText": "Τὰ µὲν οὖν ἁγιώτατα τῶν ὑπερτάτων οὐσιῶν τάγµατα καὶ ἀγγέλους καλοῦσιν οἱ θεολόγοι.",
+                            "spanishTranslation": "Los órdenes más santos de las esencias más elevadas también son llamados \"ángeles\" por los teólogos."
+                          },
+                          {
+                            "keywords": [
+                              "manifestativos",
+                              "divina iluminación"
+                            ],
+                            "lineNumber": [
+                              423,
+                              424
+                            ],
+                            "notes": {
+                              "notesGreek": "El adjetivo \"θεαρχικῆς\" (thearchikēs) deriva de \"θεός\" (Dios) y \"ἀρχή\" (principio, gobierno), refiriéndose a la fuente o principio divino supremo. Así, \"θεαρχικῆς ἐλλάµψεως\" es la \"iluminación de la divinidad suprema\" o \"iluminación divina\"."
+                            },
+                            "originalText": "Καὶ γάρ εἰσιν ἐκφαντορικὰ καὶ αὐτὰ τῆς θεαρχικῆς ἐλλάµψεως.",
+                            "spanishTranslation": "Porque también ellos son manifestativos de la divina iluminación."
+                          },
+                          {
+                            "keywords": [
+                              "inteligencias celestiales",
+                              "último orden",
+                              "principados",
+                              "tronos",
+                              "serafines"
+                            ],
+                            "lineNumber": [
+                              425,
+                              426
+                            ],
+                            "notes": {
+                              "notesGeneral": "Aquí Dionisio enfatiza la precisión en la nomenclatura dentro de su sistema jerárquico. Asignar nombres de órdenes superiores (como Serafines, Tronos o Principados) al orden más bajo de las inteligencias celestiales (los Ángeles propiamente dichos) sería conceptualmente incorrecto, ya que cada nombre denota una función y un grado de cercanía a lo divino específicos."
+                            },
+                            "originalText": "Τὴν τάξιν δὲ τὴν τῶν οὐρανίων νοῶν τελευταίαν οὐκ ἔχει λόγον ἀρχὰς ἢ θρόνους ἢ Σεραφὶµ ὀνοµάζειν.",
+                            "spanishTranslation": "No tiene sentido llamar \"principados\", \"tronos\" o \"serafines\" al último orden de las inteligencias celestiales."
+                          },
+                          {
+                            "keywords": [
+                              "participación",
+                              "potencias superiores",
+                              "jerarcas divinamente inspirados",
+                              "esplendores de la teocracia",
+                              "potencias santísimas",
+                              "esencias precedentes",
+                              "elevadoras",
+                              "divino",
+                              "jerarquías angélicas"
+                            ],
+                            "lineNumber": [
+                              427,
+                              428,
+                              429,
+                              430,
+                              431
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"µετουσίᾳ\" (metousía) significa \"participación\" o \"comunión\", un concepto fundamental en la filosofía platónica y neoplatónica que Dionisio adapta a su teología para describir cómo las esencias inferiores participan de la realidad de las superiores. \"Ἀναγωγικαὶ\" (anagogikai) se refiere a la capacidad de elevar o conducir hacia arriba, lo que subraya la función mediadora y ascendente de las jerarquías."
+                            },
+                            "originalText": "Οὐδὲ γάρ ἐστιν ἐν µετουσίᾳ τῶν ὑπερτάτων δυνάµεων, ἀλλ' ὥσπερ αὕτη τοὺς καθ' ἡµᾶς ἐνθέους ἱεράρχας ἀνάγει πρὸς τὰς ἐγνωσµένας αὐτῇ τῆς θεαρχίας αὐγάς, οὕτω καὶ τῶν πρὸ αὐτῆς οὐσιῶν αἱ πανίεροι δυνάµεις ἀναγωγικαὶ πρὸς τὸ θεῖόν εἰσι τῆς ἀποπληρούσης τὰς ἀγγελικὰς ἱεραρχίας διακοσµήσεως",
+                            "spanishTranslation": "Porque tampoco está en participación de las potencias superiores, sino que, así como este (orden inferior) eleva a nuestros jerarcas divinamente inspirados hacia los esplendores de la teocracia que le son conocidos, así también las potencias santísimas de las esencias que le preceden son elevadoras hacia lo divino de la ordenación que completa las jerarquías angélicas."
+                          },
+                          {
+                            "keywords": [
+                              "denominaciones angélicas",
+                              "comunes",
+                              "participación subordinada",
+                              "preeminente",
+                              "potencias celestiales",
+                              "semejanza divina",
+                              "donación de luz",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              432,
+                              433,
+                              434
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Φωτοδοσίαν\" (photodosían) se refiere a la \"donación de luz\" o \"iluminación\", un concepto clave en Dionisio para describir la transmisión de la gracia y el conocimiento divino. El término \"θεοειδὲς\" (theoeidés) significa \"semejante a Dios\" o \"divino en forma\", destacando la aspiración a la divinidad a través de la participación en la luz divina."
+                            },
+                            "originalText": "εἰ µὴ ἄρα τις καὶ τοῦτο φαίη τὸ κοινὰς εἶναι πάσας τὰς ἀγγελικὰς ὀνοµασίας κατὰ τὴν πασῶν τῶν οὐρανίων δυνάµων εἰς τὸ θεοειδὲς καὶ τὴν ἐκ θεοῦ φωτοδοσίαν ὑφειµένην καὶ προὔχουσαν κοινωνίαν.",
+                            "spanishTranslation": "a menos que, quizás, alguien dijera también que todas las denominaciones angélicas son comunes, según la participación subordinada y preeminente de todas las potencias celestiales en la semejanza divina y en la donación de luz que viene de Dios."
+                          },
+                          {
+                            "keywords": [
+                              "discusión",
+                              "aclarada",
+                              "observar con piedad",
+                              "propiedades santas",
+                              "ordenación celestial",
+                              "Escrituras"
+                            ],
+                            "lineNumber": [
+                              435,
+                              436,
+                              437
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La frase \"ἵνα µᾶλλον ἡµῖν ὁ λόγος διευκρινηθείη\" (hina mallon hēmin ho logos dieukrinētheiē) indica el propósito del autor de proceder con una exposición más clara y detallada. El adverbio \"ἱερῶς\" (hierōs, piadosamente, sagradamente) subraya la reverencia con la que debe abordarse el estudio de las realidades celestiales."
+                            },
+                            "originalText": "Ἀλλ' ἵνα µᾶλλον ἡµῖν ὁ λόγος διευκρινηθείη, κατίδωµεν ἱερῶς τὰς ἐν τοῖς λογίοις ἐκπεφασµένας ἁγιοπρεπεῖς ἰδιότητας ἑκάστης οὐρανίας διακοσµήσεως.",
+                            "spanishTranslation": "Pero para que la discusión nos sea más aclarada, observemos con piedad las propiedades santas y apropiadas de cada ordenación celestial, manifestadas en las Escrituras."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

@@ -90,25 +90,31 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'crisostomoSidebar',
           position: 'left',
-          label: 'San Juan Crisóstomo',
+          label: 'Juan Crisóstomo',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'dionisioSidebar',
+          position: 'left',
+          label: 'Dionisio Areopagita',
         },
         {
           type: 'docSidebar',
           sidebarId: 'maximoSidebar',
           position: 'left',
-          label: 'San Máximo Confesor',
+          label: 'Máximo Confesor',
         },
         {
           type: 'docSidebar',
           sidebarId: 'efrenSidebar',
           position: 'left',
-          label: 'San Efrén de Siria',
+          label: 'Efrén de Siria',
         },
         {
           type: 'docSidebar',
           sidebarId: 'searchSidebar',
           position: 'left',
-          label: 'Buscador de Lemmas',
+          label: 'Buscador',
         },
         {
           href: 'https://github.com/Mauriceac/origenes',
@@ -124,11 +130,11 @@ const config: Config = {
           title: 'Contact',
           items: [
             {
-              label: 'Email',
+              label: 'Email: mlalvara@uc.cl',
               to: 'mailto:mlalvara@uc.cl',
             },
             {
-              label: 'LinkedIn',
+              label: 'LinkedIn: Maurice Alvarado',
               to: 'https://www.linkedin.com/in/maurice-alvarado-9751b03a/'
             }
           ],

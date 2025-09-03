@@ -1,0 +1,468 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 8,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 8,
+                    "chapterSummary": "Dionisio describe la jerarquía intermedia (Dominaciones, Virtudes, Potestades) y sus características teoimitativas y su función en la transmisión de la iluminación divina.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "Jerarquía intermedia",
+                              "inteligencias celestiales",
+                              "Dominaciones",
+                              "Potestades",
+                              "Virtudes"
+                            ],
+                            "lineNumber": [
+                              615,
+                              616,
+                              617
+                            ],
+                            "notes": {
+                              "notesGreek": "El texto introduce los tres coros de la jerarquía intermedia: Κυριότητες (Dominaciones), Δυνάµεις (Virtudes) y Ἐξουσίαι (Potestades). Μετιτέον es un adjetivo verbal que denota obligación: 'debemos pasar'.",
+                              "notesLinguistics": "La construcción con el adjetivo verbal en -τέον indica una necesidad o deber impersonal. 'Ὑπερκοσµίοις ὀφθαλµοῖς' subraya la naturaleza trascendente de la percepción de estas entidades celestiales."
+                            },
+                            "originalText": "Μετιτέον δὲ νῦν ἡµῖν ἐπὶ τὴν µέσην τῶν οὐρανίων νοῶν διακόσµησιν τὰς κυριότητας ἐκείνας ὑπερκοσµίοις ὀφθαλµοῖς ὡς ἐφικτὸν ἐποπτεύουσι καὶ τὰ ὄντως δυνατὰ θεάµατα τῶν θείων ἐξουσιῶν καὶ δυνάµεων.",
+                            "spanishTranslation": "Ahora debemos pasar a la disposición intermedia de las inteligencias celestiales, contemplando con ojos supracósmicos, en la medida de lo posible, aquellas Dominaciones, y las visiones verdaderamente poderosas de las divinas Potestades y Virtudes."
+                          },
+                          {
+                            "keywords": [
+                              "designación",
+                              "sustancias",
+                              "imitadoras de Dios",
+                              "semejante a Dios",
+                              "propiedades"
+                            ],
+                            "lineNumber": [
+                              618,
+                              619
+                            ],
+                            "notes": {
+                              "notesGreek": "θεοµιµήτους (teo-mimetos): 'imitador de Dios', término clave en la teología dionisíaca que describe la participación de los seres en las perfecciones divinas. θεοειδοῦς (teo-eidus): 'semejante a Dios', 'divino'.",
+                              "notesLinguistics": "La palabra compuesta θεοµιµήτους resalta la capacidad de estas jerarquías para reflejar la divinidad."
+                            },
+                            "originalText": "Καὶ γὰρ ἑκάστη τῶν ὑπὲρ ἡµᾶς οὐσιῶν ἐπωνυµία τὰς θεοµιµήτους αὐτῶν ἐµφαίνει τοῦ θεοειδοῦς ἰδιότητας.",
+                            "spanishTranslation": "Pues cada designación de las sustancias superiores a nosotros muestra sus propiedades imitadoras de Dios del Ser semejante a Dios."
+                          },
+                          {
+                            "keywords": [
+                              "Dominaciones",
+                              "elevación",
+                              "indómita",
+                              "libre",
+                              "servidumbre",
+                              "sumisión",
+                              "desigualdades tiránicas",
+                              "inflexible"
+                            ],
+                            "lineNumber": [
+                              620,
+                              621,
+                              622,
+                              623,
+                              624,
+                              625
+                            ],
+                            "notes": {
+                              "notesGreek": "ἀδούλωτόν (adoulōton): 'indómita', 'no esclavizada'. ὑποπεζίας (hypopezias): 'baja condición', 'servilismo'. ἀναγωγὴν (anagōgēn): 'elevación', 'ascenso'. τυραννικῶν ἀνοµοιοτήτων: 'desigualdades tiránicas', refiriéndose a cualquier cosa que aleje de la unidad y el orden divino. ἀµείλικτον (ameilikton): 'inflexible', 'implacable'.",
+                              "notesLinguistics": "Dionisio usa un lenguaje muy rico en prefijos negativos (ἀ- o ὑπο-) para enfatizar la pureza y la absoluta libertad de las Dominaciones de cualquier mancha terrenal o subordinación indebida."
+                            },
+                            "originalText": "Τῶν µὲν οὖν ἁγίων κυριοτήτων τὴν ἐκφαντορικὴν ὀνοµασίαν οἶµαι δηλοῦν ἀδούλωτόν τινα καὶ πάσης ὑποπεζίας ὑφέσεως ἐλευθέραν ἀναγωγὴν οὐδεµιᾷ τῶν τυραννικῶν ἀνοµοιοτήτων οὐδενὶ τρόπῳ καθόλου κατακλινοµένην, αὐτὴν ἐλευθεροπρεπῶς ὡς ἀµείλικτον κυριότητα πάσης µειωτικῆς δουλοποιίας ὑπερκειµένην, ἀνένδοτον ὑφέσει πάσῃ καὶ ἐξῃρηµένην ἁπάσης ἀνοµοιότητος,",
+                            "spanishTranslation": "Pues bien, la designación de las santas Dominaciones, creo que manifiesta una elevación indómita y libre de toda servidumbre y sumisión inferior, que de ninguna manera se inclina ante ninguna de las desigualdades tiránicas, sino que libremente, como una dominación inflexible, se eleva por encima de toda servidumbre degradante, que no cede a ninguna sumisión y está exenta de toda desigualdad,"
+                          },
+                          {
+                            "keywords": [
+                              "dominación",
+                              "soberanía",
+                              "semejanza señorial",
+                              "Bien",
+                              "Ser principal",
+                              "semejanza divina",
+                              "participación"
+                            ],
+                            "lineNumber": [
+                              625,
+                              626,
+                              627,
+                              628,
+                              629,
+                              630
+                            ],
+                            "notes": {
+                              "notesGreek": "ἀκαταλήκτως (akatalēktōs): 'incansablemente', 'sin cesar'. κυρίως ὂν: 'el Ser principal', 'el Ser por excelencia', una referencia a Dios. ἀγαθοειδῶς (agathoeidōs): 'benignamente', 'a la manera del Bien', lo cual enfatiza la naturaleza bondadosa de su acción. µετουσίᾳ (metousia): 'participación', concepto fundamental en la filosofía neoplatónica y la teología dionisíaca.",
+                              "notesLinguistics": "La reiteración de 'κυριότης' y 'κυριαρχία' refuerza la idea de autoridad y dominio inherente a este coro angélico."
+                            },
+                            "originalText": "τῆς ὄντως κυριότητος καὶ κυριαρχίας ἀκαταλήκτως ἐφιεµένην καὶ πρὸς τὴν αὐτῆς κυρίαν ἐµφέρειαν ὡς ἐφικτὸν ἑαυτήν τε καὶ τὰ µετ' αὐτὴν ἀγαθοειδῶς διαπλάττουσαν, πρὸς οὐδὲν τῶν εἰκῇ δοκούντων, ἀλλὰ πρὸς τὸ κυρίως ὂν ὁλικῶς ἐπεστραµµένην καὶ κυριαρχικῆς ἀεὶ θεοειδείας ἐν µετουσίᾳ κατὰ τὸ δυνατὸν αὐτῇ γινοµένην·",
+                            "spanishTranslation": "que persigue incansablemente la verdadera dominación y soberanía y, en la medida de lo posible, a su propia semejanza señorial, plasma benignamente tanto a sí misma como a los que están después de ella, no volviéndose hacia nada de lo que parece arbitrario, sino volviéndose por completo hacia el Ser principal, y siempre participando, según le es posible, de la semejanza divina soberana."
+                          },
+                          {
+                            "keywords": [
+                              "Virtudes",
+                              "virilidad",
+                              "valentía",
+                              "inquebrantable",
+                              "operaciones divinas",
+                              "iluminaciones divinas",
+                              "poder",
+                              "supersustancial"
+                            ],
+                            "lineNumber": [
+                              630,
+                              631,
+                              632,
+                              633,
+                              634,
+                              635,
+                              636,
+                              637,
+                              638
+                            ],
+                            "notes": {
+                              "notesGreek": "Δυνάµεις (Dynamis): 'Virtudes' o 'Poderes', el segundo coro de la jerarquía intermedia. ἀρρενωπόν (arrhenōpon): 'viril', 'masculino', connotando fuerza y determinación. ἀκατάσειστον (akatasiston): 'inquebrantable', 'firme'. ἀνανδρίᾳ (anandria): 'falta de virilidad', 'cobardía'. ὑπερούσιον (hyperousion): 'supersustancial', 'trascendente', refiriéndose a Dios como más allá de toda sustancia. ἀρχιδύναµον (archidynamon): 'fuente primordial de poder'.",
+                              "notesLinguistics": "El lenguaje de Dionisio enfatiza la cualidad activa y potente de este coro angélico, en contraste con la autoridad de las Dominaciones."
+                            },
+                            "originalText": "τὴν δὲ τῶν ἁγίων δυνάµεων ἀρρενωπόν τινα καὶ ἀκατάσειστον ἀνδρείαν εἰς πάσας τὰς κατ' αὐτὴν θεοειδεῖς ἐνεργείας, πρὸς µηδεµίαν ὑποδοχὴν τῶν ἐνδιδοµένων αὐτῇ θεαρχικῶν ἐλλάµψεων ἀδρανῶς ἐξασθενοῦσαν, δυνατῶς ἐπὶ τὸ θεοµίµητον ἀναγοµένην οὐκ ἀπολείπουσαν ἑαυτῆς ἀνανδρίᾳ τὴν θεοειδῆ κίνησιν ἀλλ' ἀρρεπῶς ἀφορῶσαν εἰς τὴν ὑπερούσιον καὶ δυναµοποιὸν δύναµιν καὶ ταύτης εἰκόνα δυναµοειδῆ κατὰ τὸ ἐφικτὸν γινοµένην καὶ πρὸς µὲν αὐτὴν ὡς ἀρχιδύναµον δυνατῶς ἐπεστραµµένην, πρὸς δὲ τὰ δεύτερα δυναµοδότως καὶ θεοειδῶς προϊοῦσαν·",
+                            "spanishTranslation": "En cuanto a la de las santas Virtudes, [indica] una virilidad y una valentía inquebrantables en todas sus operaciones divinas, no debilitándose pasivamente ante ninguna recepción de las divinas iluminaciones que le son concedidas, sino siendo llevada poderosamente a imitar a Dios, no abandonando su movimiento divino por falta de virilidad, sino mirando firmemente hacia el poder supersustancial y que da poder, y convirtiéndose, en la medida de lo posible, en una imagen poderosa de este, y volviéndose poderosamente hacia él como la fuente primordial de poder, y procediendo poderosamente y divinamente hacia los órdenes inferiores."
+                          },
+                          {
+                            "keywords": [
+                              "Potestades",
+                              "orden",
+                              "disposición",
+                              "gobierno",
+                              "autoridad",
+                              "soberanía",
+                              "iluminación"
+                            ],
+                            "lineNumber": [
+                              638,
+                              639,
+                              640,
+                              641,
+                              642,
+                              643,
+                              644,
+                              645,
+                              646
+                            ],
+                            "notes": {
+                              "notesGreek": "Ἐξουσίαι (Exousiai): 'Potestades', el tercer coro de la jerarquía intermedia. ὁµοταγῆ (homotagē): 'del mismo orden'. εὔκοσµον (eukosmon): 'bien ordenada', 'decorosa'. ἀσύµφυρτον (asymphyrton): 'sin mezcla', 'sin confusión'. ἐξουσιοποιὸν ἐξουσιαρχίαν: 'la soberanía que otorga autoridad', refiriéndose a Dios como la fuente de toda autoridad. ἀναλαµπούσης (analampousēs): 'iluminando', 'resplandeciendo'.",
+                              "notesLinguistics": "El pasaje enfatiza el 'orden' (εὐταξίαν) y la 'organización' (τεταγµένον) como características clave de las Potestades, que median la autoridad divina de manera no tiránica."
+                            },
+                            "originalText": "τὴν δὲ τῶν ἁγίων ἐξουσιῶν, τὴν ὁµοταγῆ τῶν θείων κυριοτήτων καὶ δυνάµεων, τὴν εὔκοσµον καὶ ἀσύµφυρτον περὶ τὰς θείας ὑποδοχὰς εὐταξίαν καὶ τὸ τεταγµένον τῆς ὑπερκοσµίου καὶ νοερᾶς ἐξουσιότητος οὐ τυραννικῶς ἐπὶ τὰ χείρω ταῖς ἐξουσιαστικαῖς δυνάµεσιν ἀποκεχρηµένης ἀλλ' ἀκρατήτως ἐπὶ τὰ θεῖα µετ' εὐταξίας ἀναγοµένης τε καὶ τὰ µετ' αὐτὴν ἀγαθοειδῶς ἀναγούσης, καὶ πρὸς τὴν ἐξουσιοποιὸν ἐξουσιαρχίαν ὡς θεµιτὸν ἀφοµοιουµένης καὶ ταύτην ὡς δυνατὸν ἀγγέλοις ἀναλαµπούσης ἐν ταῖς κατ' αὐτὴν εὐκόσµοις τάξεσι τῆς ἐξουσιαστικῆς δυνάµεως.",
+                            "spanishTranslation": "En cuanto a la de las santas Potestades, que es del mismo orden que las divinas Dominaciones y Virtudes, [manifiesta] la ordenada y sin confusión disposición en cuanto a las recepciones divinas, y el ordenado gobierno de la potestad supracósmica e intelectual, que no utiliza tiránicamente sus poderes de autoridad para lo inferior, sino que se eleva inconteniblemente hacia lo divino con orden, y eleva benignamente a los que están después de ella, y se asemeja, como es lícito, a la soberanía que otorga autoridad, y, en la medida de lo posible para los ángeles, la ilumina en sus ordenadas jerarquías de poder autoritativo."
+                          },
+                          {
+                            "keywords": [
+                              "Jerarquía intermedia",
+                              "purificación",
+                              "iluminación",
+                              "perfección",
+                              "iluminaciones divinas",
+                              "primera jerarquía",
+                              "transmisión"
+                            ],
+                            "lineNumber": [
+                              647,
+                              648,
+                              649,
+                              650,
+                              651
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este párrafo resume la función de la jerarquía intermedia en la teología de Dionisio: recibir las emanaciones divinas (iluminaciones teárquicas) de la primera jerarquía (Serafines, Querubines, Tronos) y transmitirlas a las jerarquías inferiores, sirviendo como un vínculo en la cadena de la divina procesión y retorno. Las tres etapas (purificación, iluminación, perfección) son centrales en su mística.",
+                              "notesGreek": "θεαρχικῶν ἐλλάµψεων: 'iluminaciones teárquicas' o 'iluminaciones divinas', que proceden directamente de la Divinidad. δευτέρως (deuterōs) y δευτεροφανῶς (deuterophanōs): 'secundariamente', 'manifestadas de forma secundaria', enfatizando que estas jerarquías reciben y transmiten el influjo divino de un modo mediado."
+                            },
+                            "originalText": "Ταύτας ἔχουσα τὰς θεοειδεῖς ἰδιότητας ἡ µέση τῶν οὐρανίων νοῶν διακόσµησις καθαίρεται µὲν καὶ φωτίζεται καὶ τελεσιουργεῖται καθ' ὃν εἴρηται τρόπον ὑπὸ τῶν θεαρχικῶν ἐλλάµψεων ἐνδιδοµένων αὐτῇ δευτέρως διὰ τῆς πρώτης ἱεραρχικῆς διακοσµήσεως καὶ διὰ µέσης ἐκείνης δευτεροφανῶς διαπορθµευοµένων.",
+                            "spanishTranslation": "Teniendo estas propiedades divinas, la disposición intermedia de las inteligencias celestiales es purificada, iluminada y perfeccionada de la manera descrita, por las iluminaciones divinas que le son otorgadas secundariamente a través de la primera disposición jerárquica y que son transmitidas de forma secundaria a través de aquella."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 8,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "jerarquía",
+                              "perfección",
+                              "transmisión",
+                              "ángel"
+                            ],
+                            "lineNumber": [
+                              652,
+                              653,
+                              654
+                            ],
+                            "notes": {
+                              "notesGreek": "La frase 'φοιτᾶν εἰς ἄλλον ἄγγελον ἀκοὴν' subraya la idea de que el conocimiento o la revelación se transmite de un ángel a otro. La expresión 'ἀµυδρουµένης εἰς δευτέρωσιν τελειώσεως' sugiere que la perfección, al ser transmitida jerárquicamente, se vuelve menos nítida o 'más tenue' en su progresión hacia los niveles inferiores."
+                            },
+                            "originalText": "[[2>]] <Ἀµέλει τὴν δι' ἄλλου λεγοµένην φοιτᾶν εἰς ἄλλον ἄγγελον ἀκοὴν σύµβολον ποιησόµεθα τῆς πόρρωθεν ἐπιτελουµένης καὶ διὰ τὴν πρόοδον ἀµυδρουµένης εἰς δευτέρωσιν τελειώσεως.",
+                            "spanishTranslation": "Ciertamente, haremos de la audición que se dice que llega a un ángel a través de otro, un símbolo de la perfección que se realiza desde lejos y que se oscurece en su progresión hacia una segunda posición."
+                          },
+                          {
+                            "keywords": [
+                              "ceremonias sagradas",
+                              "participación divina",
+                              "mediación",
+                              "órdenes angélicos"
+                            ],
+                            "lineNumber": [
+                              655,
+                              656,
+                              657,
+                              658,
+                              659
+                            ],
+                            "notes": {
+                              "notesGreek": "'θεοπτικῶν µεθέξεων' se refiere a participaciones teopáticas, indicando una experiencia o visión directa de lo divino. El contraste entre 'ἄµεσον µετουσίαν' (participación inmediata) y 'διὰ µεσότητος' (a través de mediación) es central en la teología de Dionisio sobre la jerarquía."
+                            },
+                            "originalText": "Ὡς γὰρ οἱ δεινοὶ περὶ τὰς ἱερὰς ἡµῶν τελετάς φασι τὰς αὐτοφανεῖς τῶν θείων ἀποπληρώσεις τῶν δι' ἑτέρων θεοπτικῶν µεθέξεων εἶναι τελεωτέρας, οὕτως οἶµαι καὶ τῶν ἀγγελικῶν τάξεων τὴν ἄµεσον µετουσίαν τῶν πρώτως ἐπὶ θεὸν ἀνατεινοµένων ἐναργεστέραν εἶναι τῶν διὰ µεσότητος ἀποτελουµένων.",
+                            "spanishTranslation": "Pues así como los expertos en nuestras sagradas ceremonias dicen que las realizaciones divinas que se manifiestan por sí mismas son más perfectas que las participaciones teopáticas que se dan a través de otros, así también, creo, la participación inmediata de los órdenes angélicos que se extienden primariamente hacia Dios es más clara que aquellas que se cumplen a través de una mediación."
+                          },
+                          {
+                            "keywords": [
+                              "tradición jerárquica",
+                              "intelectos primeros",
+                              "purificación",
+                              "iluminación",
+                              "perfección",
+                              "superesencial"
+                            ],
+                            "lineNumber": [
+                              660,
+                              661,
+                              662,
+                              663,
+                              664,
+                              665
+                            ],
+                            "notes": {
+                              "notesGreek": "'τελεστικαὶ καὶ φωτουργοὶ καὶ καθαρτικαὶ δυνάµεις' son términos clave en la teología dionisíaca, describiendo los poderes de las jerarquías superiores para perfeccionar, iluminar y purificar. Los 'πρῶτοι νόες' (primeros intelectos) se refieren a los órdenes angélicos más elevados. La 'ὑπερούσιον ἀρχὴν' (principio superesencial) denota a Dios."
+                            },
+                            "originalText": "∆ιὸ καὶ πρὸς τῆς ἡµῶν ἱερατικῆς παραδόσεως τελεστικαὶ καὶ φωτουργοὶ καὶ καθαρτικαὶ δυνάµεις οἱ πρῶτοι νόες ὀνοµάζονται τῶν ὑφειµένων ὡς δι' αὐτῶν ἐπὶ τὴν πάντων ὑπερούσιον ἀρχὴν ἀναγοµένων καὶ τῶν τελεταρχικῶν καθάρσεων καὶ φωτισµῶν καὶ τελειώσεων ἐν µετουσίᾳ κατὰ τὸ αὐτοῖς θεµιτὸν γινοµένων.",
+                            "spanishTranslation": "Por eso, y según nuestra tradición jerárquica, los primeros intelectos son llamados poderes perfeccionadores, iluminadores y purificadores de los inferiores, ya que por medio de ellos son elevados al Principio superesencial de todas las cosas, y participan de las purificaciones, iluminaciones y perfecciones jerárquicas según lo que les es permitido."
+                          },
+                          {
+                            "keywords": [
+                              "ley divina",
+                              "jerarquía divina",
+                              "iluminaciones",
+                              "participación"
+                            ],
+                            "lineNumber": [
+                              666,
+                              667,
+                              668
+                            ],
+                            "notes": {
+                              "notesGreek": "'ταξιαρχίᾳ' significa jerarquía o orden divino. 'θεαρxικῶν ἐλλάµψεων' se refiere a las iluminaciones o resplandores divinos, que son transmitidos de forma escalonada."
+                            },
+                            "originalText": "Τοῦτο γάρ ἐστι καθόλου τῇ θείᾳ ταξιαρχίᾳ θεοπρεπῶς νενοµοθετηµένον τὸ διὰ τῶν πρώτων τὰ δεύτερα τῶν θεαρχικῶν µετέχειν ἐλλάµψεων.",
+                            "spanishTranslation": "Porque esto es lo que está divinamente legislado en la jerarquía divina en general: que los segundos participen de las iluminaciones divinas a través de los primeros."
+                          },
+                          {
+                            "keywords": [
+                              "teólogos",
+                              "revelación"
+                            ],
+                            "lineNumber": [
+                              669,
+                              670
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dionisio a menudo apela a la autoridad de los 'teólogos', refiriéndose a los escritores bíblicos inspirados o a los Padres de la Iglesia que han abordado temas divinos."
+                            },
+                            "originalText": "Εὑρήσεις δὲ τοῦτο καὶ πολλαχοῦ τοῖς θεολόγοις ἐκπεφασµένον.",
+                            "spanishTranslation": "Y encontrarás esto también expresado en muchos lugares por los teólogos."
+                          },
+                          {
+                            "keywords": [
+                              "filantropía divina",
+                              "Israel",
+                              "Zacarías",
+                              "ángel",
+                              "iluminación",
+                              "Jerusalén",
+                              "profecía"
+                            ],
+                            "lineNumber": [
+                              671,
+                              672,
+                              673,
+                              674,
+                              675,
+                              676,
+                              677,
+                              678,
+                              679,
+                              680,
+                              681,
+                              682,
+                              683
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta sección hace referencia al libro del profeta Zacarías, específicamente a un pasaje que describe la restauración de Jerusalén. La cita 'Κατακάρπως κατοικηθήσεται Ἱερουσαλὴµ ἀπὸ πλήθους ἀνθρώπων' es una paráfrasis cercana de Zacarías 2:4 (LXX 2:8), que en las traducciones españolas suele ser: 'Jerusalén será habitada sin muros, a causa de la multitud de hombres y ganado en medio de ella'.",
+                              "notesGreek": "Los 'Παρακλητικοὺς λόγους' son 'discursos consoladores'. La mención de que el nombre angélico es común a todos ('κοινὸν γὰρ ὡς ἔφην ἐστὶ πᾶσι τὸ τῆς ἀγγελικῆς ἐπωνυµίας') es un recordatorio de que 'ángel' significa 'mensajero' y se aplica a diversos niveles."
+                            },
+                            "originalText": "Ἡνίκα γὰρ ἡ θεία καὶ πατρικὴ φιλανθρωπία τὸν Ἰσραὴλ ἐπιστρεπτικῶς ὑπὲρ τῆς ἱερᾶς αὐτοῦ σωτηρίας παιδεύσασα καὶ τιµωροῖς καὶ ἀτιθάσοις ἔθνεσιν εἰς ἐπανόρθωσιν ἐκδεδωκυῖα τῇ παντοίᾳ τῶν προνοουµένων ἐπὶ τὸ κρεῖττον µεταγωγῇ καὶ τῆς αἰχµαλωσίας ἠφίει καὶ πρὸς τὴν προτέραν ἐπιεικῶς ἐπανῆγεν εὐπάθειαν, ὁρᾷ τῶν θεολόγων εἷς ὁ Ζαχαρίας ἕνα τῶν πρώτων ὡς οἶµαι καὶ περὶ θεὸν ἀγγέλων (κοινὸν γὰρ ὡς ἔφην ἐστὶ πᾶσι τὸ τῆς ἀγγελικῆς ἐπωνυµίας) πρὸς αὐτοῦ θεοῦ µαθόντα τοὺς περὶ τούτου «Παρακλητικοὺς» ὡς εἴρηται «λόγους», ἕτερον δὲ τῶν ὑφειµένων ἀγγέλων πρὸς ὑπάντησιν τοῦ πρώτου προπορευόµενον ὡς πρὸς ἐλλάµψεως ὑποδοχὴν καὶ µετάληψιν, εἶτα πρὸς αὐτοῦ τὴν θείαν βουλὴν ὡς πρὸς ἱεράρχου µυούµενον καὶ τὸ µυῆσαι τὸν θεολόγον ἐπιτρεπόµενον ὅτι «Κατακάρπως κατοικηθήσεται Ἱερουσαλὴµ ἀπὸ πλήθους ἀνθρώπων.»",
+                            "spanishTranslation": "Pues cuando la divina y paternal filantropía, habiendo instruido al Israel de manera correctiva para su sagrada salvación, y habiéndolo entregado a naciones punitivas e indómitas para su enmienda, por la providencia multiforme de aquellos que son dirigidos hacia lo mejor, también lo liberó del cautiverio y con clemencia lo restauró a su bienestar anterior; uno de los teólogos, Zacarías, ve a uno de los primeros ángeles, como creo, y cercano a Dios (pues, como dije, el nombre angélico es común a todos), habiendo aprendido de Dios mismo los \"discursos consoladores\" sobre esto, como se ha dicho, y otro de los ángeles inferiores que se adelantaba para encontrarse con el primero para recibir y participar de la iluminación, y luego siendo iniciado por este en la voluntad divina como por un jerarca, y permitiéndosele iniciar al teólogo en que \"Jerusalén será habitada fructíferamente por multitud de hombres\"."
+                          },
+                          {
+                            "keywords": [
+                              "Ezequiel",
+                              "Querubines",
+                              "legislación divina"
+                            ],
+                            "lineNumber": [
+                              684,
+                              685,
+                              686
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se alude al libro del profeta Ezequiel, donde la divinidad se describe a menudo en conexión con los Querubines, como en Ezequiel 1, 9 y 10."
+                            },
+                            "originalText": "Ἕτερος δὲ τῶν θεολόγων Ἰεζεκιὴλ καὶ πρὸς αὐτῆς φησι τοῦτο πανιέρως νενοµοθετῆσθαι τῆς τοῖς Χερουβὶµ ἐπιβεβηκυίας ὑπερενδόξου θεότητος.",
+                            "spanishTranslation": "Otro de los teólogos, Ezequiel, dice que esto fue santísimamente legislado por la gloriosísima divinidad que está sobre los Querubines."
+                          },
+                          {
+                            "keywords": [
+                              "Israel",
+                              "justicia divina",
+                              "ángel ceñido",
+                              "Querubines",
+                              "juicio divino"
+                            ],
+                            "lineNumber": [
+                              687,
+                              688,
+                              689,
+                              690,
+                              691,
+                              692,
+                              693
+                            ],
+                            "notes": {
+                              "notesBiblical": "Este pasaje se refiere al profeta Ezequiel, capítulo 9. El 'que estaba ceñido con zafiro por los lomos' y 'vestía la túnica larga sacerdotal' se asocia con el hombre vestido de lino que lleva el tintero de escribano en Ezequiel 9:2-3. Los 'ángeles que tenían las hachas' son los seis hombres con armas de destrucción mencionados en Ezequiel 9:1.",
+                              "notesGreek": "'τὸν ποδήρη' (podērēs) se refiere a una túnica larga, a menudo de significado sacerdotal en el contexto de la Septuaginta, simbolizando aquí la función jerárquica. 'θεοκρισίαν' significa juicio divino."
+                            },
+                            "originalText": "Τὸν γὰρ Ἰσραὴλ ὡς εἴρηται πατρικῇ φιλανθρωπίᾳ διὰ παιδείας ἐπὶ τὸ κρεῖττον µετάγουσα δικαιοσύνῃ θεοπρεπεῖ τῶν ὑπευθύνων ἀποκρίνεσθαι τοὺς ἀνευθύνους ἐδικαίωσε· τοῦτο µυεῖται πρῶτος µετὰ τὰ Χερουβὶµ ὁ τὴν ὀσφῦν σαπφείρῳ διεζωσµένος ὃς τὸν ποδήρη κατὰ σύµβολον ἱεραρχικὸν ἐνδεδύκει, τοὺς δὲ λοιποὺς ἀγγέλους, οἳ τοὺς πελέκεις εἶχον, ἡ θεία ταξιαρχία κελεύει πρὸς τοῦ προτέρου µυεῖσθαι τὴν περὶ τούτου θεοκρισίαν.",
+                            "spanishTranslation": "Pues la divina y paternal filantropía, como se ha dicho, llevando a Israel a la mejora mediante la disciplina, justificó con divina justicia separar a los inocentes de los culpables. Esto es lo primero que se le revela, después de los Querubines, al que estaba ceñido con zafiro por los lomos, el que vestía la túnica larga sacerdotal como símbolo jerárquico; y a los demás ángeles, que tenían las hachas, la divina jerarquía ordena que sean instruidos por el primero sobre este juicio divino."
+                          },
+                          {
+                            "keywords": [
+                              "Jerusalén",
+                              "señal",
+                              "inocentes",
+                              "juicio",
+                              "matanza"
+                            ],
+                            "lineNumber": [
+                              694,
+                              695,
+                              696,
+                              697,
+                              698
+                            ],
+                            "notes": {
+                              "notesBiblical": "Citas directas de Ezequiel 9. El hombre vestido de lino debía poner una 'señal' (τὸ σηµεῖον) en las frentes de los que gemían y suspiraban (Ezequiel 9:4). A los otros se les ordena: 'Id por la ciudad en pos de él y matad; no perdonéis a vuestros ojos, ni tengáis compasión' (Ezequiel 9:5), y 'a todo aquel sobre quien esté la señal, no os acerquéis' (Ezequiel 9:6)."
+                            },
+                            "originalText": "Τῷ µὲν γὰρ ἔφη µέσην διελθεῖν τὴν Ἱερουσαλὴµ καὶ δοῦναι σηµεῖον εἰς τὰ µέτωπα τῶν ἀνευθύνων ἀνδρῶν, τοῖς ἄλλοις δὲ «Πορεύεσθε εἰς τὴν πόλιν ὀπίσω αὐτοῦ καὶ κόπτετε καὶ µὴ φείδεσθε τοῖς ὀφθαλµοῖς ὑµῶν», «ἐπὶ δὲ πάντας ἐφ' οὕς ἐστι τὸ σηµεῖον µὴ ἐγγίσητε.»",
+                            "spanishTranslation": "Pues le dijo al primero que pasara por en medio de Jerusalén y pusiera una señal en las frentes de los hombres inocentes; y a los otros: \"Id por la ciudad en pos de él y matad; no perdonéis a vuestros ojos\", y \"no toquéis a ninguno sobre quien esté la señal\"."
+                          },
+                          {
+                            "keywords": [
+                              "Daniel",
+                              "Querubines",
+                              "fuego divino",
+                              "Gabriel",
+                              "visión",
+                              "jerarquías celestiales",
+                              "jerarquía humana",
+                              "principios divinos"
+                            ],
+                            "lineNumber": [
+                              699,
+                              700,
+                              701,
+                              702,
+                              703,
+                              704,
+                              705,
+                              706,
+                              707,
+                              708,
+                              709
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se hacen referencias a Daniel 9:23 ('Ἐξῆλθεν ὁ λόγος', 'La palabra ha salido'), Ezequiel 10:2 ('τὸ πῦρ ἐκ µέσου τῶν Χερουβὶµ ἀνειληφότος', 'tomó el fuego de en medio de los Querubines'), y Daniel 8:16 ('Συνέτισον ἐκεῖνον τὴν ὅρασιν', 'Haz que entienda la visión'). Estos ejemplos ilustran la transmisión jerárquica de la revelación y el poder divino.",
+                              "notesGreek": "'θεοειδοῦς εὐκοσµίας' se traduce como 'orden o belleza divina', resaltando la naturaleza ordenada y armoniosa de las jerarquías celestiales. El texto concluye reafirmando que la jerarquía humana debe reflejar y ascender hacia el 'ὑπερούσιον ἁπάσης ἱεραρχίας ταξιαρχίαν' (Principio superesencial de toda jerarquía)."
+                            },
+                            "originalText": "Τί ἄν τις εἴποι περὶ τοῦ φήσαντος ἀγγέλου τῷ ∆ανιὴλ «Ἐξῆλθεν ὁ λόγος» ἢ περὶ αὐτοῦ τοῦ πρώτου τὸ πῦρ ἐκ µέσου τῶν Χερουβὶµ ἀνειληφότος ἢ τὸ τούτου περισσότερον εἰς εὐταξίας ἀγγελικῆς ἀπόδειξιν ὅτι τὰ Χερουβὶµ ἐµβάλλει τὸ πῦρ εἰς τὰς χεῖρας τοῦ τὴν ἁγίαν στολὴν ἐνδεδυκότος ἢ περὶ τοῦ κεκληκότος τὸν θειότατον Γαβριὴλ καὶ φήσαντος αὐτῷ «Συνέτισον ἐκεῖνον τὴν ὅρασιν» ἢ ὅσα ἄλλα πρὸς τῶν ἱερῶν θεολόγων εἴρηται περὶ τῆς τῶν οὐρανίων ἱεραρχιῶν θεοειδοῦς εὐκοσµίας, πρὸς ἣν ἡ τῆς παρ' ἡµῖν ἱεραρχίας εὐταξία κατὰ τὸ δυνατὸν ἀφοµοιουµένη τὴν ἀγγελικὴν εὐπρέπειαν ὡς ἐν εἰκόσιν ἕξει, τυπουµένη δι' αὐτῆς καὶ ἀναγοµένη πρὸς τὴν ὑπερούσιον ἁπάσης ἱεραρχίας ταξιαρχίαν;",
+                            "spanishTranslation": "¿Qué diría uno del ángel que dijo a Daniel: \"La palabra ha salido\" (Daniel 9:23)? O del primero que tomó el fuego de en medio de los Querubines, o, lo que es aún más significativo para demostrar el orden angélico, que los Querubines ponen el fuego en las manos del que viste la vestidura santa; o del que llamó al divinísimo Gabriel y le dijo: \"Haz que entienda la visión\" (Daniel 8:16); o cuántas otras cosas han sido dichas por los santos teólogos acerca del orden divino de las jerarquías celestiales, al cual nuestra jerarquía se asemeja en la medida de lo posible, exhibiendo la belleza angélica como en imágenes, siendo moldeada por ella y elevada al Principio superesencial de toda jerarquía?"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

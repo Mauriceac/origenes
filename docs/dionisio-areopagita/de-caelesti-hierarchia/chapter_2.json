@@ -1,0 +1,1008 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 2,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 2,
+                    "chapterSummary": "Sección introductoria que establece el propósito del tratado, discutiendo la interpretación de las imágenes simbólicas de los seres celestiales en las Escrituras y el método de la teología para conducir la mente humana a una comprensión superior de lo divino.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "Jerarquía",
+                              "propósito",
+                              "beneficio",
+                              "miembros"
+                            ],
+                            "lineNumber": [
+                              60,
+                              61
+                            ],
+                            "notes": {
+                              "notesGreek": "«σκοπόν» (skopon) – propósito, meta. «ἱεραρχίας» (hierarchias) – jerarquía, orden sagrado. «θιασώτας» (thiasotas) – miembros de una asociación o culto, aquí “seguidores” o “miembros”."
+                            },
+                            "originalText": "<Χρὴ τοιγαροῦν ὡς οἶµαι πρῶτον ἐκθέσθαι τίνα µὲν εἶναι σκοπὸν ἁπάσης ἱεραρχίας οἰόµεθα καὶ τί τοὺς αὑτῆς ἑκάστη θιασώτας ὀνίνησιν,",
+                            "spanishTranslation": "Por tanto, como creo, es necesario exponer primero cuál consideramos que es el propósito de toda jerarquía y cómo beneficia a cada uno de sus miembros,"
+                          },
+                          {
+                            "keywords": [
+                              "Jerarquías celestiales",
+                              "Escrituras",
+                              "revelación",
+                              "manifestación"
+                            ],
+                            "lineNumber": [
+                              62,
+                              63
+                            ],
+                            "notes": {
+                              "notesGreek": "«λογίοις» (logiois) – oráculos divinos, aquí refiriéndose a las Escrituras. «ἐκφαντορίαν» (ekphantorian) – manifestación, revelación."
+                            },
+                            "originalText": "ἑξῆς δὲ τὰς οὐρανίας ἱεραρχίας ὑµνῆσαι κατὰ τὴν αὐτῶν ἐν τοῖς λογίοις ἐκφαντορίαν,",
+                            "spanishTranslation": "luego, alabar las jerarquías celestiales según su manifestación en las Escrituras sagradas,"
+                          },
+                          {
+                            "keywords": [
+                              "Jerarquía celestial",
+                              "formas sagradas",
+                              "Escrituras",
+                              "simbolismo"
+                            ],
+                            "lineNumber": [
+                              63,
+                              64
+                            ],
+                            "notes": {
+                              "notesGreek": "«ἱεραῖς µορφώσεσι» (hierais morphōsesi) – formas sagradas. «διακοσµήσεις» (diakosmēseis) – ordenaciones, arreglos. «ἱερογραφίαι» (hierographiai) – escrituras sagradas."
+                            },
+                            "originalText": "ἑποµένως τε τούτοις εἰπεῖν ὁποίαις ἱεραῖς µορφώσεσι τὰς οὐρανίας σχηµατίζουσι διακοσµήσεις αἱ τῶν λογίων ἱερογραφίαι,",
+                            "spanishTranslation": "y, siguiendo esto, decir con qué formas sagradas las sagradas escrituras configuran las ordenaciones celestiales,"
+                          },
+                          {
+                            "keywords": [
+                              "Simplicidad",
+                              "figuras",
+                              "ascensión",
+                              "elevación"
+                            ],
+                            "lineNumber": [
+                              64,
+                              65
+                            ],
+                            "notes": {
+                              "notesGreek": "«πλασµάτων» (plasmatōn) – figuras, representaciones. «ἁπλότητα» (haplotēta) – simplicidad, unicidad."
+                            },
+                            "originalText": "καὶ πρὸς ποίαν ἀναχθῆναι χρὴ διὰ τῶν πλασµάτων ἁπλότητα,",
+                            "spanishTranslation": "y a qué simplicidad debemos ser elevados a través de estas figuras,"
+                          },
+                          {
+                            "keywords": [
+                              "Mentes celestiales",
+                              "divino",
+                              "múltiples pies",
+                              "múltiples rostros",
+                              "bueyes",
+                              "leones",
+                              "águilas",
+                              "aves",
+                              "simbolismo",
+                              "interpretación errónea"
+                            ],
+                            "lineNumber": [
+                              65,
+                              66,
+                              67,
+                              68,
+                              69,
+                              70
+                            ],
+                            "notes": {
+                              "notesBiblical": "El autor se refiere a las descripciones simbólicas de los seres celestiales presentes en las Escrituras, como las visiones de Ezequiel (Ezequiel 1:5-10) y Juan en el Apocalipsis (Apocalipsis 4:7).",
+                              "notesGreek": "«ἀνιέρως» (anierōs) – impíamente, profanamente. «θεοειδεῖς νόας» (theoeideis noas) – mentes divinas, intelectos con forma divina. «πολύποδας» (polypodas) – de muchos pies. «πολυπροσώπους» (polyprosopous) – de muchos rostros. «κτηνωδίαν» (ktēnōdian) – bestialidad (específicamente de bestias de ganado). «θηριοµορφίαν» (thēriomorphian) – forma de bestia salvaje. «ἀγκυλόχειλον» (ankylocheilon) – de pico curvado. «τριχώδη πτεροφυίαν» (trichōdē pterophyian) – alas emplumadas o con plumas como cabello."
+                            },
+                            "originalText": "ὅπως µὴ καὶ ἡµεῖς ὡσαύτως τοῖς πολλοῖς ἀνιέρως οἰώµεθα τοὺς οὐρανίους καὶ θεοειδεῖς νόας πολύποδας εἶναί τινας καὶ πολυπροσώπους καὶ πρὸς βοῶν κτηνωδίαν ἢ πρὸς λεόντων θηριοµορφίαν τετυπωµένους καὶ πρὸς ἀετῶν ἀγκυλόχειλον εἶδος ἢ πρὸς πτηνῶν τριχώδη πτεροφυίαν διαπεπλασµένους",
+                            "spanishTranslation": "para que nosotros tampoco, como muchos, pensemos impíamente que las mentes celestiales y divinas son seres con muchos pies y muchos rostros, formados con la bestialidad de bueyes o con la forma bestial de leones, o con la forma de águilas de pico curvado, o con las alas emplumadas de aves;"
+                          },
+                          {
+                            "keywords": [
+                              "Ruedas de fuego",
+                              "tronos",
+                              "Divinidad",
+                              "reposo",
+                              "simbolismo"
+                            ],
+                            "lineNumber": [
+                              70,
+                              71
+                            ],
+                            "notes": {
+                              "notesBiblical": "Las 'ruedas de fuego' y los 'tronos' son imágenes recurrentes en la literatura apocalíptica y profética. Véase Ezequiel 1:15-21, 10:9-13 para las ruedas, y Daniel 7:9, Apocalipsis 4:2-6 para los tronos.",
+                              "notesGreek": "«πυρώδεις» (pyrōdeis) – de fuego, ígneas. «ὑλαίους» (hylaious) – de madera, materiales (en contraste con lo espiritual). «θεαρχίᾳ» (thearchia) – teocracia, el gobierno o la autoridad de Dios, la Divinidad."
+                            },
+                            "originalText": "καὶ τροχούς τινας πυρώδεις ὑπὲρ τὸν οὐρανὸν φανταζώµεθα καὶ θρόνους ὑλαίους τῇ θεαρχίᾳ πρὸς ἀνάκλισιν ἐπιτηδείους",
+                            "spanishTranslation": "y nos imaginemos ciertas ruedas de fuego por encima del cielo, y tronos de madera aptos para el reposo de la Teocracia,"
+                          },
+                          {
+                            "keywords": [
+                              "Caballos multicolores",
+                              "generales",
+                              "guardianes",
+                              "símbolos",
+                              "Escrituras",
+                              "diversidad",
+                              "manifestación"
+                            ],
+                            "lineNumber": [
+                              71,
+                              72,
+                              73,
+                              74
+                            ],
+                            "notes": {
+                              "notesBiblical": "Las imágenes de 'caballos multicolores' pueden encontrarse en Zacarías 1:8, 6:2-3, y Apocalipsis 6:2-8. Los 'generales que son guardianes' («δορυφόρους ἀρχιστρατήγους») aluden a ángeles o arcángeles de alto rango.",
+                              "notesGreek": "«πολυχρωµάτους» (polychrōmatous) – de muchos colores, multicolores. «δορυφόρους ἀρχιστρατήγους» (doryphorous archistratēgous) – literalmente 'lanceros generales' o 'generales con guardia', refiriéndose a figuras de autoridad militar que son también guardianes o escoltas. Aquí, en un contexto celestial, se refiere a líderes angélicos. «ἱεροπλάστως» (hieroplastōs) – de manera sagrada y figurativa, formando imágenes sagradas. «ἐκφαντορικῶν συµβόλων» (ekphantorikōn symbolōn) – símbolos manifestativos o reveladores."
+                            },
+                            "originalText": "καὶ ἵππους τινὰς πολυχρωµάτους καὶ δορυφόρους ἀρχιστρατήγους καὶ ὅσα ἄλλα πρὸς τῶν λογίων ἡµῖν ἱεροπλάστως ἐν ποικιλίᾳ τῶν ἐκφαντορικῶν συµβόλων παραδέδοται.",
+                            "spanishTranslation": "y ciertos caballos multicolores, y generales que son guardianes, y todas las demás cosas que nos han sido transmitidas en las Escrituras de manera sagrada y figurativa, en la diversidad de símbolos manifestativos."
+                          },
+                          {
+                            "keywords": [
+                              "Teología",
+                              "representaciones poéticas",
+                              "mentes informes",
+                              "mente humana",
+                              "ascensión",
+                              "Escrituras anagógicas",
+                              "simbolismo"
+                            ],
+                            "lineNumber": [
+                              75,
+                              76,
+                              77,
+                              78
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje explica la razón teológica de las representaciones simbólicas de los ángeles. La teología utiliza imágenes poéticas y antropomórficas para describir seres inmateriales, facilitando la comprensión humana y nuestra elevación espiritual hacia lo divino (anagogía).",
+                              "notesGreek": "«ἀτεχνῶς» (atechnōs) – sin artificio, francamente, directamente. «ποιητικαῖς ἱεροπλαστίαις» (poiētikais hieroplastiais) – representaciones sagradas y poéticas, formaciones de imágenes sagradas de manera poética. «ἀσχηµατίστων νοῶν» (aschēmatistōn noōn) – mentes sin forma, informes (refiriéndose a la naturaleza inmaterial de los ángeles o de Dios). «ἀνασκεψαµένη» (anaskepsamenē) – habiendo examinado, considerado. «συµφυοῦς ἀναγωγῆς» (symphyous anagōgēs) – ascensión connatural, inherentemente apropiada. «ἀναπλάσασα» (anaplasasa) – habiendo modelado, formado. «ἀναγωγικὰς ἱερογραφίας» (anagōgikas hierographias) – escrituras o representaciones sagradas que elevan o guían hacia arriba (anagógicas)."
+                            },
+                            "originalText": "Καὶ γὰρ ἀτεχνῶς ἡ θεολογία ταῖς ποιητικαῖς ἱεροπλαστίαις ἐπὶ τῶν ἀσχηµατίστων νοῶν ἐχρήσατο τὸν καθ' ἡµᾶς ὡς εἴρηται νοῦν ἀνασκεψαµένη καὶ τῆς οἰκείας αὐτῷ καὶ συµφυοῦς ἀναγωγῆς προνοήσασα καὶ πρὸς αὐτὸν ἀναπλάσασα τὰς ἀναγωγικὰς ἱερογραφίας.",
+                            "spanishTranslation": "Pues la teología se valió sin artificio de las representaciones sagradas y poéticas al referirse a las mentes informes, considerando, como se ha dicho, nuestra propia mente y proveyendo para su propia y connatural ascensión, y modelando para ella las escrituras anagógicas."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+           {
+          "section": 2,
+          "text": [
+            {
+              "keywords": [
+                "representaciones sagradas",
+                "iconografía",
+                "mentes santas",
+                "angélico",
+                "teólogos",
+                "incorpóreo",
+                "figuras",
+                "sustancias inmateriales"
+              ],
+              "lineNumber": [
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+              ],
+              "notes": {
+                "notesGreek": "ἀποδέχεσθαι συνθέσεις: \"aceptar las composiciones/representaciones\". Dionisio se refiere a las formas simbólicas. ἀπεµφαινούσας: \"inapropiadas\", \"inadecuadas\", \"obscenas\". Es un término clave en este pasaje. ἀπότοµον ταύτην τῶν ἀγγελικῶν ὀνοµάτων σκηνὴν: \"esta abrupta (o brusca/ruda) escenificación de los nombres angélicos\". Se refiere a las descripciones crudas de los ángeles en las Escrituras (e.g., con alas, ojos, etc.). σωµατοποιΐαν ὅλως τῶν ἀσωµάτων: \"corporalización total de lo incorpóreo\". La idea de dar forma corporal a seres sin cuerpo."
+              },
+              "originalText": "Εἰ δέ τῳ δοκεῖ τὰς µὲν ἱερὰς ἀποδέχεσθαι συνθέσεις ὡς τῶν ἁπλῶν ἐφ' ἑαυτῶν ἀγνώστων τε καὶ ἀθεωρήτων ἡµῖν ὑπαρχόντων, ἀπεµφαινούσας δὲ οἴεται τὰς τῶν ἁγίων νοῶν ἐν τοῖς λογίοις εἰκονογραφίας καὶ πᾶσαν ὡς εἰπεῖν τὴν ἀπότοµον ταύτην τῶν ἀγγελικῶν ὀνοµάτων σκηνὴν καὶ χρῆναί φησι τοὺς θεολόγους ἐπὶ σωµατοποιΐαν ὅλως τῶν ἀσωµάτων ἐληλυθότας οἰκείοις αὐτὰ καὶ ὡς δυνατὸν συγγενέσιν ἀναπλάττειν τε καὶ ἐκφαίνειν σχηµατισµοῖς ἐκ τῶν παρ' ἡµῖν τιµιωτάτων καὶ ἀΰλων ποσῶς καὶ ὑπερκειµένων οὐσιῶν",
+              "spanishTranslation": "Pero si a alguien le parece que, aceptando las representaciones sagradas como algo desconocido e ininteligible para nosotros en su simplicidad misma, cree que las iconografías de las mentes santas en las Escrituras y, por así decirlo, toda esta abrupta escenificación de los nombres angélicos son inapropiadas, y dice que los teólogos, al haber recurrido a la corporalización total de lo incorpóreo, deberían plasmarlas y manifestarlas con figuras propias y, en la medida de lo posible, afines, tomadas de las sustancias más honradas y en cierto modo inmateriales y superiores entre nosotros,"
+            },
+            {
+              "keywords": [
+                "polimorfías",
+                "simplicidades celestiales",
+                "teiformes",
+                "insulto",
+                "potencias divinas",
+                "profano",
+                "leonino",
+                "caballar",
+                "animales",
+                "viles",
+                "absurdo",
+                "pasional"
+              ],
+              "lineNumber": [
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96
+              ],
+              "notes": {
+                "notesGreek": "θεοειδέσιν ἁπλότησι: \"simplicidades teiformes\". Se refiere a la naturaleza simple y divina de los seres celestiales. ἀπεµφαινούσας ἀνοµοιότητας: \"similitudes inapropiadas/disímiles\". Continúa el tema de la inadecuación de ciertas representaciones. ἀθέσµως ἐξυβρίζειν: \"insultar ilícitamente\" o \"ultrajat ilícitamente\". Subraya la idea de la blasfemia o la ofensa a lo divino. λεοντείων τινῶν καὶ ἱππείων ἑσµῶν: \"hordas leoninas y caballares\". Referencia a las imágenes animales de las descripciones proféticas (e.g., Ezequiel, Apocalipsis). µυκητικῆς ὑµνολογίας καὶ ὀρνιθείας ἀγελαρχίας: \"himnología mugiente y rebaños de aves\". Ejemplos de representaciones de animales viles."
+              },
+              "originalText": "καὶ µὴ ταῖς οὐρανίαις καὶ θεοειδέσιν ἁπλότησι τὰς ἐπὶ γῆς ἐσχάτας περιτιθέντας πολυµορφίας (τὸ µὲν γὰρ ἡµῶν τε ἀναγωγικώτερον ἔµελλεν εἶναι καὶ τὰς ὑπερκοσµίους ἐκφαντορίας οὐ κατῆγεν εἰς τὰς ἀπεµφαινούσας ἀνοµοιότητας, τὸ δὲ καὶ εἰς τὰς θείας ἀθέσµως ἐξυβρίζειν δυνάµεις καὶ τὸν ἡµέτερον ἴσως ἀποπλανᾶν νοῦν εἰς τὰς ἀνιέρους αὐτὸν ἐνιζάνον συνθέσεις, καὶ τάχα καὶ οἰ»σεται τὰ ὑπερουράνια λεοντείων τινῶν καὶ ἱππείων ἑσµῶν ἀποπεπληρῶσθαι καὶ µυκητικῆς ὑµνολογίας καὶ ὀρνιθείας ἀγελαρχίας καὶ ζῴων ἄλλων καὶ ὑλῶν ἀτιµοτέρων, ὅσα πρὸς τὸ ἄτοπον καὶ νόθον καὶ ἐµπαθὲς ἀποκλιθεῖσαι διαγράφουσιν αἱ κατὰ πᾶν ἀνόµοιοι τῶν δῆθεν ἐκφαντορικῶν λογίων ὁµοιότητες)",
+              "spanishTranslation": "y no atribuyan las últimas polimorfías terrenales a las simplicidades celestiales y teiformes (pues lo primero habría sido más elevador para nosotros y no habría degradado las manifestaciones supramundanas a similitudes inapropiadas; mientras que lo segundo podría incluso insultar ilícitamente las divinas potencias y quizás desviar nuestra mente hacia composiciones profanas que lo arraigan, y tal vez incluso se llevará la impresión de que lo supraterrenal está lleno de hordas leoninas y caballares, y de himnología mugiente, y de rebaños de aves y de otros animales y materiales más viles, todo lo que las similitudes supuestamente reveladoras de las Escrituras, completamente disímiles, representan al inclinarse hacia lo absurdo, lo ilegítimo y lo pasional)."
+            },
+            {
+              "keywords": [
+                "verdad",
+                "sabiduría",
+                "Escrituras",
+                "mentes celestiales",
+                "ultrajar",
+                "potencias divinas",
+                "apego emocional",
+                "bajas representaciones"
+              ],
+              "lineNumber": [
+                96,
+                97,
+                98,
+                99,
+                100
+              ],
+              "notes": {
+                "notesGreek": "λογίων ἱερωτάτην σοφίαν: \"la santísima sabiduría de las Escrituras\". Se refiere a la revelación divina contenida en los textos sagrados. χαµαιζήλους ἡµᾶς ἐµπαθῶς ἐµπαγῆναι τῶν εἰκόνων ταπεινότητας: \"dejarnos apegar emocionalmente a las bajas representaciones de las imágenes\". Explica el segundo peligro de las representaciones: que la mente humana se quede fijada en lo terrenal y no ascienda."
+              },
+              "originalText": "ἀλλ' ἡ τῆς ἀληθείας ὡς οἶµαι ζήτησις ἀποδείκνυσι τὴν τῶν λογίων ἱερωτάτην σοφίαν ἐν ταῖς τῶν οὐρανίων νοῶν µορφώσεσιν ἑκατέρου κοµιδῇ προνοήσασαν ὡς µήτε εἰς τὰς θείας, ὡς ἂν φαίη τις, ἐξυβρίσαι δυνάµεις µήτε µὴν εἰς τὰς χαµαιζήλους ἡµᾶς ἐµπαθῶς ἐµπαγῆναι τῶν εἰκόνων ταπεινότητας.",
+              "spanishTranslation": "Pero la búsqueda de la verdad, según creo, demuestra que la santísima sabiduría de las Escrituras, al dar forma a las mentes celestiales, se ha preocupado sumamente por ambas cosas: ni ultrajar, como diría alguien, las divinas potencias, ni tampoco dejarnos apegar emocionalmente a las bajas representaciones de las imágenes."
+            },
+            {
+              "keywords": [
+                "tipos",
+                "informe",
+                "figuras",
+                "infigurado",
+                "analogía",
+                "contemplaciones inteligibles",
+                "elevaciones",
+                "formas",
+                "sobrenatural",
+                "Escrituras místicas",
+                "enigmas",
+                "inaccesible",
+                "verdad sagrada"
+              ],
+              "lineNumber": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109
+              ],
+              "notes": {
+                "notesGreek": "ἀτυπώτων οἱ τύποι καὶ τὰ σχήµατα τῶν ἀσχηµατίστων: \"tipos para lo informe y figuras para lo infigurado\". Es una paradoja central de la teología apofática: lo que no tiene forma se representa con formas. ἀναγωγιῶν: De `anagoge`, un método de interpretación espiritual que eleva la mente de lo sensible a lo inteligible, de lo terrenal a lo divino. ἀποῤῥήτων καὶ ἱερῶν αἰνιγµάτων: \"enigmas inefables y sagrados\". Subraya la naturaleza velada y misteriosa de la revelación divina, que no es para todos. ἄβατον τοῖς πολλοῖς: \"inaccesible para la mayoría\". Concepto de \"arcana disciplina\" o conocimiento reservado a los iniciados, común en el misticismo antiguo."
+              },
+              "originalText": "Ὅτι µὲν γὰρ εἰκότως προβέβληνται τῶν ἀτυπώτων οἱ τύποι καὶ τὰ σχήµατα τῶν ἀσχηµατίστων, οὐ µόνην αἰτίαν φαίη τις εἶναι τὴν καθ' ἡµᾶς ἀναλογίαν ἀδυνατοῦσαν ἀµέσως ἐπὶ τὰς νοητὰς ἀνατείνεσθαι θεωρίας καὶ δεοµένην οἰκείων καὶ συµφυῶν ἀναγωγιῶν, αἳ τὰς ἐφικτὰς ἡµῖν µορφώσεις προτείνουσι τῶν ἀµορφώτων καὶ ὑπερφυῶν θεαµάτων, ἀλλ' ὅτι καὶ τοῦτο τοῖς µυστικοῖς λογίοις ἐστὶ πρεπωδέστατον τὸ δι' ἀποῤῥήτων καὶ ἱερῶν αἰνιγµάτων ἀποκρύπτεσθαι καὶ ἄβατον τοῖς πολλοῖς τιθέναι τὴν ἱερὰν καὶ κρυφίαν τῶν ὑπερκοσµίων νοῶν ἀλήθειαν.",
+              "spanishTranslation": "Que, en efecto, es razonable que se hayan propuesto tipos para lo informe y figuras para lo infigurado, no diría uno que la única razón sea nuestra analogía, incapaz de elevarse directamente a las contemplaciones inteligibles y necesitada de elevaciones propias y connaturales, las cuales nos ofrecen las formas alcanzables de los espectáculos informes y sobrenaturales; sino que también es sumamente conveniente para las Escrituras místicas que la verdad sagrada y oculta de las mentes supramundanas se oculte mediante enigmas inefables y sagrados, y se haga inaccesible para la mayoría."
+            },
+            {
+              "keywords": [
+                "sagrado",
+                "conocimiento",
+                "Escrituras"
+              ],
+              "lineNumber": [
+                110,
+                111
+              ],
+              "notes": {
+                "notesBiblical": "Posible alusión a pasajes bíblicos que restringen el conocimiento o la santidad, como Mateo 7:6 (\"No deis lo santo a los perros\"), o 1 Corintios 12:8-11 (diferentes dones espirituales). También podría evocar la idea de que la sabiduría divina está oculta a los \"sabios y entendidos\" y revelada a los \"sencillos\" (Mateo 11:25)."
+              },
+              "originalText": "Ἔστι γὰρ οὐ πᾶς ἱερὸς οὐδὲ πάντων, ὡς τὰ λόγιά φησιν, ἡ γνῶσις.",
+              "spanishTranslation": "Pues no todo es sagrado ni el conocimiento es para todos, como dicen las Escrituras."
+            },
+            {
+              "keywords": [
+                "iconografías inapropiadas",
+                "formas feas",
+                "teiformes",
+                "santísimas",
+                "doble naturaleza"
+              ],
+              "lineNumber": [
+                112,
+                113,
+                114
+              ],
+              "notes": {
+                "notesGreek": "ἀπεµφαινούσας εἰκονογραφίας: \"iconografías inapropiadas/indecorosas\". Retoma el término clave del inicio. αἰσχρὰ µορφώµατα: \"formas feas/vergonzosas\". Se refiere a las representaciones más burdas o animalísticas. διττός ἐστι τῆς ἱερᾶς: \"es de doble naturaleza la sagrada [tradición/sabiduría/ley]\". La frase se corta, pero el contexto sugiere que Dionisio argumentará que la Escritura o la tradición sagrada tiene una doble función o forma de manifestación, una para los simples y otra para los avanzados, o una forma literal y otra simbólica profunda."
+              },
+              "originalText": "Εἰ δὲ τὰς ἀπεµφαινούσας εἰκονογραφίας αἰτιάσοιτό τις αἰδεῖσθαι λέγων ἀνατιθέναι τὰ οὕτως αἰσχρὰ µορφώµατα ταῖς θεοειδέσι καὶ ἁγιωτάταις διακοσµήσεσιν, ἀπόχρη πρὸς αὐτὸν εἰπεῖν ὡς διττός ἐστι τῆς ἱερᾶς",
+              "spanishTranslation": "Pero si alguien culpara a las iconografías inapropiadas, diciendo que le avergüenza atribuir formas tan feas a las disposiciones teiformes y santísimas, basta con responderle que la sagrada [tradición] es de doble naturaleza."
+            }
+          ]
+        },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 2,
+                    "chapterSummary": "This chapter discusses the two ways of revealing divine things: through likenesses and through dissimilitude, emphasizing the latter's superiority in elevating the mind.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [
+                              "modo de manifestación",
+                              "imágenes sagradas",
+                              "representaciones disímiles"
+                            ],
+                            "lineNumber": [
+                              115,
+                              116,
+                              117
+                            ],
+                            "notes": {
+                              "notesGreek": "El texto introduce dos métodos de 'ἐκφαντορία' (manifestación): uno a través de 'ὁµοίων' (semejanzas) y otro a través de 'ἀνοµοίων' (desemejanzas). Dionisio favorece el segundo como más revelador de la verdadera trascendencia divina.",
+                              "notesLinguistics": "La construcción 'ὁ µὲν... ὁ δὲ...' establece un contraste entre dos modos de revelación o 'τρόποι' (modos/maneras)."
+                            },
+                            "originalText": "ἐκφαντορίας ὁ τρόπος: ὁ µὲν ὡς εἰκὸς διὰ τῶν ὁµοίων προϊὼν ἱεροτύπων εἰκόνων, ὁ δὲ διὰ τῶν ἀνοµοίων µορφοποιϊῶν εἰς τὸ παντελῶς ἀπεοικὸς καὶ ἀπεµφαῖνον πλαττόµενος.",
+                            "spanishTranslation": "El modo de manifestación: el uno, como es lógico, avanzando a través de las semejanzas de imágenes sagradas, y el otro a través de representaciones disímiles, hacia lo completamente desemejante y desfigurado, siendo modelado."
+                          },
+                          {
+                            "keywords": [
+                              "bienaventuranza",
+                              "jerarquía divina",
+                              "oráculos",
+                              "sabiduría",
+                              "causa",
+                              "luz",
+                              "vida",
+                              "representaciones sagradas"
+                            ],
+                            "lineNumber": [
+                              118,
+                              119,
+                              120,
+                              121,
+                              122,
+                              123,
+                              124,
+                              125,
+                              126,
+                              127
+                            ],
+                            "notes": {
+                              "notesGreek": "'ὑπερουσίου θεαρχίας' se refiere a la Divinidad supraesencial o la jerarquía divina que trasciende todo ser. 'λογιότητα' y 'σοφίαν' son atributos divinos que las tradiciones místicas usan para alabar a Dios.",
+                              "notesLinguistics": "La estructura 'ποτὲ µὲν... ποτὲ δὲ...' (a veces... y a veces...) organiza la exposición de los dos modos de alabanza o manifestación divina: el catafático y el apofático."
+                            },
+                            "originalText": "Ἀµέλει καὶ τὴν σεβασµίαν τῆς ὑπερουσίου θεαρχίας µακαριότητα τῶν ἐκφαντορικῶν λογίων αἱ µυστικαὶ παραδόσεις ποτὲ µὲν ὡς λόγον καὶ νοῦν καὶ οὐσίαν ὑµνοῦσι, τὴν θεοπρεπῆ λογιότητα καὶ σοφίαν αὐτῆς δηλοῦσαι καὶ ὄντως οὖσαν ὕπαρξιν καὶ τῆς τῶν ὄντων ὑπάρξεως αἰτίαν ἀληθινήν, καὶ ὡς φῶς αὐτὴν ἀναπλάττουσι καὶ ζωὴν ἀποκαλοῦσι, τῶν τοιούτων ἱερῶν ἀναπλασµάτων σεµνοτέρων µὲν ὄντων καὶ τῶν προσύλων µορφώσεων ὑπερκεῖσθαί πως δοκούντων, ἀποδεόντων δὲ καὶ οὕτω τῆς θεαρχικῆς πρὸς ἀλήθειαν ἐµφερείας (ἔστι γὰρ ὑπὲρ πᾶσαν οὐσίαν καὶ ζωήν, οὐδενὸς µὲν αὐτὴν φωτὸς χαρακτηρίζοντος παντὸς δὲ λόγου καὶ νοῦ τῆς ὁµοιότητος αὐτῆς ἀσυγκρίτως ἀπολειποµένων),",
+                            "spanishTranslation": "Ciertamente, las místicas tradiciones de los oráculos manifestativos a veces alaban la venerable bienaventuranza de la divina jerarquía supraesencial como Verbo, Mente y Esencia, señalando así su razón y sabiduría divinas, y su existencia verdaderamente real, y como la verdadera causa de la existencia de todas las cosas; y la representan como luz y la llaman vida; siendo tales representaciones sagradas más augustas y, en cierto modo, pareciendo trascender las formas materiales, pero que aun así, se quedan cortas respecto a la verdadera manifestación divina (pues está por encima de toda esencia y vida, y ningún tipo de luz puede caracterizarla, y toda palabra y mente queda incomparablemente corta de su semejanza),"
+                          },
+                          {
+                            "keywords": [
+                              "apofático",
+                              "negaciones",
+                              "invisible",
+                              "infinito",
+                              "incomprensible",
+                              "trascendente",
+                              "ignorancia"
+                            ],
+                            "lineNumber": [
+                              128,
+                              129,
+                              130,
+                              131,
+                              132,
+                              133,
+                              134,
+                              135
+                            ],
+                            "notes": {
+                              "notesGreek": "La 'ἀποφατικαῖς ἐκφαντορίαις' (manifestaciones apofáticas) se refiere a la teología negativa, que describe a Dios por lo que no es, en contraste con la teología catafática que usa afirmaciones.",
+                              "notesLinguistics": "La frase 'οὐ τί ἐστιν, ἀλλὰ τί οὐκ ἔστιν' es la esencia de la teología apofática: no se dice lo que Dios es, sino lo que no es, resaltando su trascendencia y diferencia radical de la creación."
+                            },
+                            "originalText": "ποτὲ δὲ ταῖς ἀποφατικαῖς ἐκφαντορίαις ὑπὸ τῶν αὐτῶν λογίων ὑπερκοσµίως ὑµνεῖται, ἀόρατον αὐτὴν καὶ ἄπειρον καὶ ἀχώρητον ἀποκαλούντων καὶ τὰ <λοιπὰ> ἐξ ὧν οὐ τί ἐστιν, ἀλλὰ τί οὐκ ἔστιν σηµαίνεται. Τοῦτο γὰρ ὡς οἶµαι καὶ κυριώτερόν ἐστιν ἐπ' αὐτῆς, ἐπείπερ, ὡς ἡ κρυφία καὶ ἱερατικὴ παράδοσις ὑφηγήσατο, τὸ µὲν οὐκ εἶναι κατά τι τῶν ὄντων αὐτὴν ἀληθεύοµεν, ἀγνοοῦµεν δὲ τὴν ὑπερούσιον αὐτῆς καὶ ἀνόητον καὶ ἄρρητον ἀοριστίαν.",
+                            "spanishTranslation": "pero a veces es alabada de manera supercósmica por los mismos oráculos a través de manifestaciones apofáticas, la llaman invisible, infinita e incomprensible, y las demás cosas por las que no se indica lo que es, sino lo que no es. Esto, en efecto, creo que es también lo más apropiado respecto a ella, puesto que, como la tradición arcana y jerática ha enseñado, verdaderamente afirmamos que no es según ninguna de las cosas existentes, pero ignoramos su indefinición supraesencial, ininteligible e inefable."
+                          },
+                          {
+                            "keywords": [
+                              "negaciones divinas",
+                              "afirmaciones",
+                              "inefable",
+                              "invisible",
+                              "representaciones disímiles",
+                              "teología apofática"
+                            ],
+                            "lineNumber": [
+                              136,
+                              137,
+                              138,
+                              139
+                            ],
+                            "notes": {
+                              "notesGreek": "Dionisio argumenta que las 'ἀποφάσεις' (negaciones) son más 'ἀληθεῖς' (verdaderas) sobre lo divino que las 'καταφάσεις' (afirmaciones), porque estas últimas son 'ἀνάρµοστοι' (inadecuadas) a la 'κρυφιότητι τῶν ἀποῤῥήτων' (ocultación de lo inefable).",
+                              "notesLinguistics": "La comparación entre negaciones y afirmaciones es central en la teología dionisiana, donde lo apofático se considera superior para captar la trascendencia divina."
+                            },
+                            "originalText": "Εἰ τοίνυν αἱ µὲν ἀποφάσεις ἐπὶ τῶν θείων ἀληθεῖς, αἱ δὲ καταφάσεις ἀνάρµοστοι τῇ κρυφιότητι τῶν ἀποῤῥήτων, οἰκειοτέρα µᾶλλόν ἐστιν ἐπὶ τῶν ἀοράτων ἡ διὰ τῶν ἀνοµοίων ἀναπλάσεων ἐκφαντορία.",
+                            "spanishTranslation": "Así pues, si las negaciones son verdaderas respecto a lo divino, y las afirmaciones son inadecuadas para la ocultación de lo inefable, entonces la manifestación a través de las representaciones disímiles es más apropiada para lo invisible."
+                          },
+                          {
+                            "keywords": [
+                              "jerarquías celestiales",
+                              "oráculos",
+                              "formas disímiles",
+                              "trascendencia",
+                              "mente",
+                              "elevación"
+                            ],
+                            "lineNumber": [
+                              140,
+                              141,
+                              142,
+                              143,
+                              144,
+                              145,
+                              146
+                            ],
+                            "notes": {
+                              "notesGreek": "Las 'ἱερογραφίαι' (sagradas escrituras) usan 'ἀνοµοίοις µορφοποιίαις' (formas disímiles) para describir lo celestial, no por 'αἴσχους' (vergüenza) sino para mostrar su 'ὑπερκοσµίως ἐκβεβηκυίας' (trascendencia supercósmica) de lo material.",
+                              "notesLinguistics": "Dionisio usa la paradoja de que las imágenes más 'desfiguradas' ('ἀπεµφαίνουσαι τῶν ὁµοιοτήτων') son las que 'ἀνάγουσι µᾶλλον' (elevan más) la mente, porque no permiten la identificación literal."
+                            },
+                            "originalText": "Τιµῶσι τοιγαροῦν, οὐκ αἴσχους ἀποπληροῦσι τὰς οὐρανίας διακοσµήσεις αἱ τῶν λογίων ἱερογραφίαι ταῖς ἀνοµοίοις αὐτὰς µορφοποιίαις ἐκφαίνουσαι καὶ διὰ τούτων ἀποδεικνῦσαι τῶν ὑλικῶν ἁπάντων ὑπερκοσµίως ἐκβεβηκυίας. Ὅτι δὲ καὶ τὸν ἡµέτερον νοῦν ἀνάγουσι µᾶλλον αἱ ἀπεµφαίνουσαι τῶν ὁµοιοτήτων, οὐκ οἶµαί τινα τῶν εὐφρονούντων ἀντερεῖν.",
+                            "spanishTranslation": "Por lo tanto, las sagradas escrituras de los oráculos honran, no deshonran, las jerarquías celestiales, al manifestarlas a través de formaciones disímiles y demostrar por medio de estas que trascendieron supercósmicamente todas las cosas materiales. Y que las semejanzas desfiguradas elevan más nuestra mente, no creo que nadie de los sensatos lo contradiga."
+                          },
+                          {
+                            "keywords": [
+                              "representaciones sagradas",
+                              "error",
+                              "sustancias celestiales",
+                              "mentes celestiales",
+                              "teología",
+                              "sabiduría divina"
+                            ],
+                            "lineNumber": [
+                              147,
+                              148,
+                              149,
+                              150,
+                              151
+                            ],
+                            "notes": {
+                              "notesGreek": "'Ἱεροπλαστίας' se refiere a las representaciones sagradas. Dionisio advierte contra el peligro de interpretar literalmente las descripciones 'honorables' de los seres celestiales (como 'χρυσοειδεῖς' - como de oro, 'φωτοειδεῖς' - como de luz) que podrían llevar a una concepción material o antropomórfica errónea.",
+                              "notesLinguistics": "Las enumeraciones de cualidades (doradas, luminosas, hombres resplandecientes, etc.) son ejemplos de las descripciones catafáticas que, aunque bellas, pueden inducir a error."
+                            },
+                            "originalText": "Εἰς µὲν γὰρ τὰς τιµιωτέρας ἱεροπλαστίας εἰκός ἐστι καὶ πλανηθῆναι, χρυσοειδεῖς τινας οἰοµένους εἶναι τὰς οὐρανίας οὐσίας καὶ φωτοειδεῖς τινας ἄνδρας καὶ ἐξαστράπτοντας, εὐπρεπεῖς, ἠµφιεσµένους ἐσθῆτα φανὴν καὶ τὸ πυρῶδες ἀβλαβῶς ἀποστίλβοντας καὶ ὅσοις ἄλλοις ὁµοιοτυπώτοις κάλλεσιν ἡ θεολογία τοὺς οὐρανίους ἐσχηµάτισε νόας.",
+                            "spanishTranslation": "Pues es posible errar al pensar en las representaciones sagradas más honorables, creyendo que las esencias celestiales son de alguna manera como de oro y luminosas, como hombres resplandecientes, bien parecidos, vestidos con ropas brillantes y que irradian el fuego de manera inofensiva, y con todas las demás bellas semejanzas con las que la teología ha configurado las mentes celestiales."
+                          },
+                          {
+                            "keywords": [
+                              "teología apofática",
+                              "sabiduría elevadora",
+                              "desemejanzas",
+                              "símbolos",
+                              "mente material",
+                              "trascendencia",
+                              "divinidad"
+                            ],
+                            "lineNumber": [
+                              152,
+                              153,
+                              154,
+                              155,
+                              156,
+                              157,
+                              158,
+                              159,
+                              160
+                            ],
+                            "notes": {
+                              "notesGreek": "La 'ἀνατατικὴ σοφία' (sabiduría elevadora) de los teólogos sagrados utiliza 'ἀπεµφαινούσας ἀνοµοιότητας' (desemejanzas desfiguradas o unrepresentative) para evitar que la mente 'πρόσυλον' (material o mundana) se estanque en interpretaciones literales. La 'δυσµορφίᾳ τῶν συνθηµάτων' (disformidad de los símbolos) choca con la mente y la obliga a buscar un significado más allá de la apariencia.",
+                              "notesLinguistics": "El uso de imágenes 'feas' o 'desfiguradas' tiene un propósito pedagógico y anagógico: perturbar la mente para que no se contente con lo sensible y eleve su pensamiento hacia lo suprasensible."
+                            },
+                            "originalText": "Ὅπερ ἵνα µὴ πάθοιεν οἱ µηδὲν τῶν φαινοµένων καλῶν ὑψηλότερον ἐννενοηκότες, ἡ τῶν ὁσίων θεολόγων ἀνατατικὴ σοφία καὶ πρὸς τὰς ἀπεµφαινούσας ἀνοµοιότητας ἱερῶς κατάγεται, µὴ συγχωροῦσα τὸ πρόσυλον ἡµῶν εἰς τὰς αἰσχρὰς εἰκόνας ἀποµένον ἐπαναπαύεσθαι, διανιστῶσα δὲ τὸ ἀνωφερὲς τῆς ψυχῆς καὶ ὑπονύττουσα τῇ δυσµορφίᾳ τῶν συνθηµάτων ὡς µήτε θεµιτοῦ µηδὲ ἀληθοῦς δοκοῦντος εἶναι µηδὲ τοῖς ἄγαν προσύλοις, ὅτι τοῖς οὕτως αἰσχροῖς ἐµφερῆ πρὸς ἀλήθειάν ἐστι τὰ ὑπερουράνια καὶ θεῖα θεάµατα.",
+                            "spanishTranslation": "Para que no caigan en esto quienes no han concebido nada más elevado que las bellezas aparentes, la sabiduría elevadora de los santos teólogos desciende sagradamente incluso a las desemejanzas desfiguradas, no permitiendo que nuestro [pensamiento] material descanse en las imágenes vergonzosas, sino despertando la parte superior del alma y aguijoneando con la disformidad de los símbolos, como si no fuera lícito ni verdadero ni siquiera para los más materiales, que los espectáculos celestiales y divinos sean en verdad semejantes a cosas tan feas."
+                          },
+                          {
+                            "keywords": [
+                              "belleza",
+                              "participación",
+                              "existencia",
+                              "oráculos",
+                              "Génesis"
+                            ],
+                            "lineNumber": [
+                              161,
+                              162,
+                              163
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita «Πάντα καλὰ λίαν» (\"Todo es muy bueno\") es una referencia directa a Génesis 1:31, donde se describe la creación de Dios. Dionisio la usa para afirmar que incluso lo que parece 'feo' en un contexto simbólico sigue participando de la belleza divina en su esencia.",
+                              "notesLinguistics": "La frase 'οὐδὲ ἓν τῶν ὄντων' (ninguna de las cosas existentes) resalta la universalidad de la participación en la belleza, un tema platónico-neoplatónico fundamental en Dionisio."
+                            },
+                            "originalText": "Ἄλλως τε καὶ τοῦτο ἐννοῆσαι χρὴ τὸ µηδὲ ἓν τῶν ὄντων εἶναι καθόλου τῆς τοῦ καλοῦ µετουσίας ἐστερηµένον, εἴπερ ὡς ἡ τῶν λογίων ἀλήθειά φησι «Πάντα καλὰ λίαν».",
+                            "spanishTranslation": "Además, hay que entender también esto: que ninguna de las cosas existentes está en absoluto privada de la participación en la belleza, si es que, como dice la verdad de los oráculos: «Todo es muy bueno»."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 4,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 2,
+                    "chapterSummary": "Dionisio el Areopagita explora la naturaleza de las analogías y cómo se usan para describir las realidades celestiales, redefiniendo las pasiones humanas para aplicarlas a las inteligencias angélicas de manera elevada y pura.",
+                    "sections": [
+                      {
+                        "section": 4,
+                        "text": [
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              164,
+                              165,
+                              166,
+                              167
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"θεωρίας\" (theorias) se refiere a contemplaciones o visiones intelectuales, no solo a teorías en el sentido moderno. \"νοητοῖς\" (noētois) designa lo inteligible, lo percibido por la mente; \"νοεροῖς\" (noerois) a lo intelectual o a las inteligencias. \"ὑλαίων\" (hylaiōn) se refiere a lo material."
+                            },
+                            "originalText": "[[4>]] <Ἔστιν οὖν ἐκ πάντων αὐτῶν ἐπινοῆσαι καλὰς θεωρίας καὶ τοῖς νοητοῖς τε καὶ νοεροῖς ἐκ τῶν ὑλαίων ἀναπλάσαι τὰς λεγοµένας ἀνοµοίους ὁµοιότητας, ἑτέρῳ τρόπῳ τῶν νοερῶν ἐχόντων ἃ τοῖς αἰσθητοῖς ἑτεροίως ἀπονενέµηται.",
+                            "spanishTranslation": "Es posible, pues, a partir de todas ellas, idear bellas contemplaciones y reconstruir para lo inteligible y lo intelectual, partiendo de lo material, las llamadas desemejantes semejanzas, poseyendo lo intelectual de un modo diferente aquello que se distribuye de modo distinto entre lo sensible."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              168,
+                              169
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra \"θυµὸς\" (thymos) aquí se traduce como \"ímpetu\" o \"pasión\", abarcando la vehemencia y el coraje, más allá de la simple \"ira\"."
+                            },
+                            "originalText": "Καὶ γὰρ ὁ θυµὸς τοῖς µὲν ἀλόγοις ἐξ ἐµπαθοῦς ὁρµῆς ἐγγίνεται καὶ πάσης ἀλογίας ἐστὶν ἀνάπλεως ἡ θυµοειδὴς αὐτῶν κίνησις,",
+                            "spanishTranslation": "Pues el ímpetu, en los seres irracionales, surge de un impulso pasional y su movimiento impulsivo está lleno de toda irracionalidad,"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              170,
+                              171,
+                              172
+                            ],
+                            "notes": {
+                              "notesFromSource": "Dionisio introduce la analogía anagógica, reinterpretando cualidades humanas como el \"θυµὸς\" (thymos) de manera más noble para los seres superiores o intelectuales.",
+                              "notesGreek": "\"ἀρρενωπὸν λογιότητα\" (arrenōpon logiotēta) significa \"racionalidad viril\", sugiriendo fuerza y firmeza de propósito. \"ἀµείλικτον ἕξιν\" (ameilikton hexin) se refiere a una \"actitud implacable\" o disposición inquebrantable."
+                            },
+                            "originalText": "ἀλλ' ἐπὶ τῶν νοερῶν ἑτέρῳ τρόπῳ χρὴ τὸ θυµικὸν ἐννοῆσαι, δηλοῦν ὡς οἶµαι τὴν ἀρρενωπὸν αὐτῶν λογιότητα καὶ τὴν ἀµείλικτον ἕξιν ἐν ταῖς θεοειδέσι καὶ ἀµεταβόλοις ἱδρύσεσιν.",
+                            "spanishTranslation": "pero en los seres intelectuales, el elemento impulsivo debe entenderse de otra manera, manifestando, como creo, su viril racionalidad y su actitud implacable en las disposiciones divinas e inmutables."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              173,
+                              174,
+                              175,
+                              176,
+                              177
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἐπιθυµίαν\" (epithymian) se refiere al deseo o concupiscencia. Dionisio continúa con una nueva analogía anagógica para este término."
+                            },
+                            "originalText": "Ὡσαύτως ἐπιθυµίαν µὲν εἶναί φαµεν ἐπὶ τῶν ἀλόγων ἀπερίσκεπτόν τινα καὶ πρόσυλον ἐξ ἐµφύτου κινήσεως ἢ συνηθείας ἐν τοῖς ἀλλοιωτοῖς ἀκρατῶς ἐγγινοµένην προσπάθειαν καὶ τὴν ἄλογον τῆς σωµατικῆς ὀρέξεως ἐπικράτειαν ἅπαν τὸ ζῷον ὠθούσης ἐπὶ τὸ κατ' αἴσθησιν ἐπιθυµητόν,",
+                            "spanishTranslation": "Del mismo modo, decimos que el deseo en los seres irracionales es algo irreflexivo y rústico, que surge de un movimiento innato o de la costumbre, una afección desenfrenada que surge en lo cambiante y el predominio irracional del apetito corporal que impulsa a todo ser vivo hacia lo deseable por los sentidos;"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              177,
+                              178,
+                              179,
+                              180,
+                              181,
+                              182
+                            ],
+                            "notes": {
+                              "notesFromSource": "Dionisio reinterpreta la \"ἐπιθυµία\" (deseo) en un sentido elevado para los seres intelectuales, transformándola en un \"ἔρωτα θεῖον\" (amor divino), puro y elevado hacia Dios.",
+                              "notesGreek": "\"ἔρωτα θεῖον\" (erōta theion) significa \"amor divino\" o \"deseo divino\". \"ὑπερουσίως\" (hyperousiōs), \"superesencialmente\", es un adverbio dionisiano que indica trascendencia divina. \"ἀπαθοῦς\" (apathous) significa \"impasible\", libre de pasiones. \"καλλοποιὸν εὐπρέπειαν\" (kallopoion euprepeian) se traduce como \"dignidad que embellece\" o \"gracia que crea belleza\"."
+                            },
+                            "originalText": "ὅταν δὲ τὰς ἀνοµοίους ὁµοιότητας τοῖς νοεροῖς περιτιθέντες ἐπιθυµίαν αὐτοῖς περιπλάσωµεν, ἔρωτα θεῖον αὐτὴν ἐννοῆσαι χρὴ τῆς ὑπὲρ λόγον καὶ νοῦν ἀϋλίας καὶ τὴν ἀκλινῆ καὶ ἀνένδοτον ἔφεσιν τῆς ὑπερουσίως ἁγνῆς καὶ ἀπαθοῦς θεωρίας καὶ τῆς πρὸς ἐκείνην τὴν καθαρὰν καὶ ἀκροτάτην διαύγειαν καὶ τὴν ἀφανῆ καὶ καλλοποιὸν εὐπρέπειαν αἰωνίας ὄντως καὶ νοητῆς κοινωνίας.",
+                            "spanishTranslation": "pero cuando, aplicando las desemejantes semejanzas a los seres intelectuales, les atribuimos el deseo, hay que entenderlo como un divino Eros por la inmaterialidad que trasciende la razón y la mente, y un anhelo inquebrantable e inflexible por la contemplación superesencialmente pura e impasible, y por la hacia aquella pura y altísima diafanidad, y la invisible y embellecedora dignidad de una comunión verdaderamente eterna e inteligible."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              183,
+                              184,
+                              185,
+                              186
+                            ],
+                            "notes": {
+                              "notesFromSource": "Aquí, el término \"ἀκρατὲς\" (akrates), que comúnmente significa \"desenfreno\" o \"incontinencia\", es recontextualizado por Dionisio para denotar una intensidad y constancia inquebrantable en el amor divino, que no puede ser desviada.",
+                              "notesGreek": "\"ἀκρατὲς\" (akrates): \"desenfreno\" o \"incontinencia\"."
+                            },
+                            "originalText": "Καὶ τὸ ἀκρατὲς ἐκλάβοιµεν ἐπὶ τοῦ συντόνου καὶ ἀνεπιστρόφου καὶ πρὸς µηδενὸς ἐγκόπτεσθαι δυναµένου διὰ τὸν ἀµιγῆ καὶ ἀναλλοίωτον τῆς θείας καλ λονῆς ἔρωτα καὶ τὴν ὁλικὴν ἀπόκλισιν ἐπὶ τὸ ὄντως ἐφετόν.",
+                            "spanishTranslation": "Y el desenfreno lo entenderíamos como una tensión y una firmeza que no se vuelve atrás, y que por nada puede ser impedida, debido al amor puro e inmutable por la divina belleza y a la inclinación total hacia lo verdaderamente deseable."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              187,
+                              188,
+                              189
+                            ],
+                            "notes": {
+                              "notesFromSource": "El autor continúa con la reinterpretación anagógica, aplicando un significado elevado a términos que en su uso común tienen una connotación negativa.",
+                              "notesGreek": "\"ἀλογίαν\" (alogian): \"irracionalidad\", y \"ἀναισθησίαν\" (anaisthēsian): \"insensibilidad\"."
+                            },
+                            "originalText": "Ἀλλὰ καὶ αὐτὴν τὴν ἀλογίαν τε καὶ ἀναισθησίαν ἐπὶ µὲν τῶν ἀλόγων ζῴων ἢ τῶν ἀψύχων ὑλῶν στέρησιν λόγου καὶ αἰσθήσεως οἰκείως ἀποκαλοῦµεν, ἐπὶ",
+                            "spanishTranslation": "Pero también la misma irracionalidad e insensibilidad, en los animales irracionales o en las materias inanimadas, la llamamos propiamente privación de razón y de sensación;"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              190,
+                              191,
+                              192
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἀΰλων\" (aylōn): \"inmateriales\". \"ἁγιοπρεπῶς\" (hagioprepōs): \"santamente\", \"reverentemente\", \"de modo apropiado a lo sagrado\". \"ὑπερκοσµίων\" (hyperkosmiōn): \"supracósmicos\", trascendiendo el mundo. \"μεταβατικοῦ\" (metabatikou): \"discursivo\", se refiere a la razón humana que procede de un paso a otro."
+                            },
+                            "originalText": "δὲ τῶν ἀΰλων καὶ νοερῶν οὐσιῶν ἁγιοπρεπῶς τὸ ὑπερέχον αὐτῶν ὡς ὑπερκοσµίων ὁµολογοῦµεν τοῦ καθ' ἡµᾶς µεταβατικοῦ καὶ σωµατικοῦ λόγου καὶ τῆς ὑλαίας καὶ ἀλλοτρίας τῶν ἀσωµάτων νοῶν αἰσθήσεως.",
+                            "spanishTranslation": "pero en las substancias inmateriales e intelectuales, con reverencia, reconocemos su superioridad como seres supracósmicos, por encima de nuestra razón discursiva y corporal y de la sensación material, que es ajena a las inteligencias incorpóreas."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              193,
+                              194,
+                              195,
+                              196,
+                              197,
+                              198,
+                              199
+                            ],
+                            "notes": {
+                              "notesFromSource": "El proceso descrito es la anagogía, el ascenso de lo sensible a lo inteligible, central en la teología dionisiana.",
+                              "notesGreek": "\"ἀνάγεσθαι\" (anagesthai): \"ser elevado\", un término clave en el pensamiento anagógico de Dionisio para describir el ascenso de lo sensible a lo inteligible."
+                            },
+                            "originalText": "Ἔστι τοιγαροῦν οὐκ ἀπᾳδούσας ἀναπλάσαι τοῖς οὐρανίοις µορφὰς κἀκ τῶν ἀτιµωτάτων τῆς ὕλης µερῶν, ἐπεὶ καὶ αὐτὴ πρὸς τοῦ ὄντως καλοῦ τὴν ὕπαρξιν ἐσχηκυῖα κατὰ πᾶσαν αὐτῆς τὴν ὑλαίαν διακόσµησιν ἀπηχήµατά τινα τῆς νοερᾶς εὐπρεπείας ἔχει καὶ δυνατόν ἐστι δι' αὐτῶν ἀνάγεσθαι πρὸς τὰς ἀΰλους ἀρχετυπίας, ἀνοµοίως ὡς εἴρηται τῶν ὁµοιο τήτων ἐκλαµβανοµένων καὶ τῶν αὐτῶν οὐ ταὐτῶς, ἐναρµονίως δὲ καὶ οἰκείως ἐπὶ τῶν νοερῶν τε καὶ αἰσθητῶν ἰδιοτήτων ὁριζοµένων.",
+                            "spanishTranslation": "Es, por tanto, posible reconstruir para los seres celestiales formas no discordantes, incluso a partir de las partes más humildes de la materia, puesto que la materia misma, habiendo recibido su existencia del Verdaderamente Bello, en toda su disposición material, posee ciertos ecos de la dignidad intelectual, y es posible a través de ellos ser elevado a los arquetipos inmateriales, entendiendo las semejanzas de manera desemejante, como se ha dicho, y lo mismo no de la misma manera, sino armónica y propiamente definido en las propiedades de lo intelectual y lo sensible."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 5,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 2,
+                    "chapterSummary": "This section discusses the necessity of dissimilar representations of divine things to elevate the mind beyond material forms, and introduces the concept of hierarchy.",
+                    "sections": [
+                      {
+                        "section": 5,
+                        "text": [
+                          {
+                            "keywords": [
+                              "teólogos místicos",
+                              "expresiones celestiales",
+                              "manifestaciones divinas"
+                            ],
+                            "lineNumber": [
+                              200,
+                              201,
+                              202
+                            ],
+                            "notes": {
+                              "notesGreek": "El término griego \"θεαρχικαῖς\" (thearchikais) se refiere a la fuente divina o a Dios como principio. \"περιπλάττοντας\" (periplattontas) implica modelar o representar, a menudo con connotaciones de adornar o ficcionalizar, pero en este contexto, es la forma en que la teología describe lo divino.",
+                              "notesLinguistics": "La construcción \"οὐ μόναις... ἀλλὰ καὶ\" (ou monais... alla kai) establece una relación de \"no solo... sino también\", indicando una extensión o inclusión de un segundo elemento a la afirmación inicial."
+                            },
+                            "originalText": "Ταῦτα τοὺς µυστικοὺς θεολόγους εὑρήσοµεν οὐ µόναις ταῖς τῶν οὐρανίων διακόσµων ἐκφάνσεσιν ἱερῶς περιπλάττοντας, ἀλλὰ καὶ αὐταῖς ἔσθ' ὅτε ταῖς θεαρχικαῖς ἐκφαντορίαις.",
+                            "spanishTranslation": "Descubriremos que los teólogos místicos representan estas cosas no solo con las sagradas expresiones de las disposiciones celestiales, sino también a veces con las propias manifestaciones divinas."
+                          },
+                          {
+                            "keywords": [
+                              "sol de justicia",
+                              "estrella matutina",
+                              "luz inteligible",
+                              "fuego",
+                              "agua vital",
+                              "ungüento fragante",
+                              "piedra angular",
+                              "simbolismo"
+                            ],
+                            "lineNumber": [
+                              203,
+                              204,
+                              205,
+                              206,
+                              207,
+                              208,
+                              209
+                            ],
+                            "notes": {
+                              "notesBiblical": "La expresión \"ἥλιον δικαιοσύνης\" (helion dikaiosynes) es una clara referencia bíblica (Malaquías 4:2, en la LXX 3:20). \"ἀστέρα τὸν ἑῷον\" (astera ton heōon), la 'estrella matutina', puede aludir a 2 Pedro 1:19 y Apocalipsis 22:16, donde Cristo es identificado con esta imagen. \"λίθον ἀκρογωνιαῖον\" (lithon akrogōniaion), la 'piedra angular', es una metáfora bíblica recurrente para Cristo (Salmos 118:22; Isaías 28:16; Efesios 2:20; 1 Pedro 2:6-7).",
+                              "notesGeneral": "Este pasaje ilustra la riqueza del simbolismo en la teología de Dionisio, mostrando cómo lo divino es alabado a través de imágenes tomadas de lo más elevado (celestial), lo intermedio (elemental) y lo más fundamental (esencial).",
+                              "notesLinguistics": "La repetición de \"ποτὲ µὲν... ποτὲ δὲ... ποτὲ δὲ\" (potè men... potè de... potè de) estructura el pasaje en tres categorías de simbolismo: desde lo superior, lo intermedio y lo inferior, para describir lo divino."
+                            },
+                            "originalText": "Καὶ ποτὲ µὲν αὐτὴν ἀπὸ τῶν φαινοµένων τιµίων ὑµνοῦσιν ὡς ἥλιον δικαιοσύνης, ὡς ἀστέρα τὸν ἑῷον εἰς νοῦν ἱερῶς ἀνατέλλοντα καὶ ὡς φῶς ἀπερικαλύπτως καὶ νοητῶς καταυγάζον, ποτὲ δὲ ἀπὸ τῶν µέσων ὡς πῦρ ἀβλαβῶς φωτίζον ὡς ὕδωρ ζωτικῆς ἀποπληρώσεως χορηγὸν καὶ συµβολικῶς εἰπεῖν εἰς γαστέρα διαδυόµενον καὶ ποταµοὺς ἀναβλύζον ἀσχέτως ἀπορρέοντας, ποτὲ δὲ ἀπὸ τῶν ἐσχάτων ὡς µύρον εὐῶδες ὡς λίθον ἀκρογωνιαῖον.",
+                            "spanishTranslation": "Y a veces la alaban a partir de lo que se manifiesta como venerable, como sol de justicia, como la estrella matutina que asciende santamente en la mente, y como luz que ilumina sin velo y de manera inteligible; a veces, a partir de lo intermedio, como fuego que ilumina inofensivamente, como agua proveedora de plenitud vital y, para hablar simbólicamente, que penetra en el vientre y hace brotar ríos que fluyen sin restricción; y a veces, a partir de lo último, como ungüento fragante, como piedra angular."
+                          },
+                          {
+                            "keywords": [
+                              "formas bestiales",
+                              "león",
+                              "pantera",
+                              "leopardo",
+                              "oso",
+                              "representación divina"
+                            ],
+                            "lineNumber": [
+                              210,
+                              211,
+                              212
+                            ],
+                            "notes": {
+                              "notesBiblical": "Las descripciones de animales feroces como leones, panteras y osos aparecen en las visiones proféticas de Daniel (caps. 7-8) y Apocalipsis (caps. 13), donde a menudo simbolizan poderes mundanos o fuerzas destructivas. Dionisio las reutiliza para mostrar la amplitud de las imágenes empleadas para representar lo divino, incluso en formas que podrían parecer 'indignas' a primera vista.",
+                              "notesGeneral": "Dionisio usa estas imágenes para argumentar que lo divino es tan trascendente que puede ser representado incluso por lo 'feo' o 'terrible', para evitar que la mente se fije en una imagen literal y ascienda a la verdad inefable. \"ἀπορουµένην\" (aporoumenēn) podría sugerir 'perplejo' o 'encontrado sin camino', implicando una representación desconcertante o inusual."
+                            },
+                            "originalText": "Ἀλλὰ καὶ θηριοµορφίαν αὐτῇ περιτιθέασι καὶ λέοντος αὐτῇ καὶ πάνθηρος ἰδιότητα περιάπτουσι καὶ πάρδαλιν αὐτὴν ἔσεσθαί φασι καὶ ἄρκον ἀπορουµένην.",
+                            "spanishTranslation": "Pero también le confieren una forma bestial y le atribuyen la cualidad de león y de pantera, y dicen que será un leopardo y un oso asombrado."
+                          },
+                          {
+                            "keywords": [
+                              "gusano",
+                              "despreciable",
+                              "representación divina",
+                              "humillación"
+                            ],
+                            "lineNumber": [
+                              213,
+                              214,
+                              215
+                            ],
+                            "notes": {
+                              "notesBiblical": "La 'forma de gusano' (\"σκώληκος εἶδος\", skōlēkos eidos) es una poderosa alusión a Salmos 22:6 (21:7 en la Septuaginta): \"Mas yo soy gusano, y no hombre; oprobio de los hombres, y despreciado del pueblo\". Este versículo es a menudo interpretado cristológicamente en referencia a la humillación de Cristo. Dionisio utiliza esta imagen extrema para enfatizar que incluso las representaciones más 'despreciables' pueden servir para elevar la mente a la verdad trascendente de lo divino, precisamente porque su bajeza impide la idolatría de la imagen.",
+                              "notesGeneral": "Esta afirmación radical subraya la tesis de Dionisio sobre la 'semejanza disímil' (ἀνόµοιος ὁµοίωσις), donde las imágenes menos atractivas o más alejadas de una concepción 'noble' de lo divino son, paradójicamente, las más efectivas para señalar la trascendencia de Dios."
+                            },
+                            "originalText": "Προσθήσω δὲ καὶ τὸ πάντων ἀτιµότερον εἶναι καὶ µᾶλλον ἀπεµφαίνειν δοκοῦν ὅτι καὶ σκώληκος εἶδος αὐτὴν ἑαυτῇ περιπλάττουσαν οἱ τὰ θεῖα δεινοὶ παραδεδώκασιν.",
+                            "spanishTranslation": "Y añadiré que, lo que parece ser lo más despreciable de todo y lo que más desfigura, es que los expertos en lo divino la han transmitido representándose a sí misma también con la forma de un gusano."
+                          },
+                          {
+                            "keywords": [
+                              "teósofos",
+                              "profetas",
+                              "Santo de los santos",
+                              "heterogénea figuración sagrada",
+                              "profanos",
+                              "símbolos",
+                              "anagogía"
+                            ],
+                            "lineNumber": [
+                              216,
+                              217,
+                              218,
+                              219,
+                              220,
+                              221,
+                              222
+                            ],
+                            "notes": {
+                              "notesBiblical": "La expresión \"Ἅγια τῶν ἁγίων\" (Hagia tōn hagiōn), 'Santo de los santos', se refiere al lugar más sagrado del Templo de Jerusalén, inaccesible excepto para el Sumo Sacerdote una vez al año. Simboliza la santidad inmaculada y la inaccesibilidad de lo divino a lo profano.",
+                              "notesGeneral": "Este pasaje es fundamental para comprender la teología de las 'semejanzas desemejantes' de Dionisio. Las representaciones 'feas' o 'disímiles' de lo divino son intencionales. Su propósito es doble: primero, proteger lo divino de la profanación por parte de los 'impíos' (\"ἀνιέρων\"); segundo, evitar que los 'amantes de las imágenes divinas' (\"φιλοθεάµονας\") se queden en la forma literal y sean engañados por ellas, forzándolos a trascender la imagen hacia la verdad inefable.",
+                              "notesGreek": "La frase \"ἀνόµοιον ἱεροπλαστίαν\" (anomoion hieroplastian) es un concepto clave de Dionisio, que puede traducirse como 'figuración sagrada desemejante' o 'representación sagrada heterogénea'."
+                            },
+                            "originalText": "Οὕτω πάντες οἱ θεόσοφοι καὶ τῆς κρυφίας ἐπιπνοίας ὑποφῆται τῶν ἀτελέστων καὶ τῶν ἀνιέρων ἀχράντως ἀποδιαστέλλουσι τὰ «Ἅγια τῶν ἁγίων» καὶ τὴν ἀνόµοιον ἱεροπλαστίαν πρεσβεύουσιν, ὡς µήτε τὰ θεῖα τοῖς βεβήλοις εὐχείρωτα εἶναι µήτε τοὺς τῶν θείων ἀγαλµάτων φιλοθεάµονας ὡς ἀληθέσιν ἐναποµεῖναι τοῖς τύποις καὶ ὥστε τὰ θεῖα τιµᾶσθαι ταῖς ἀληθέσιν ἀποφάσεσι καὶ ταῖς πρὸς τὰ ἔσχατα τῶν οἰκείων ἀπηχηµάτων ἑτεροίαις ἀφοµοιώσεσιν.",
+                            "spanishTranslation": "Así, todos los sabios en Dios y los profetas de la inspiración oculta separan inmaculadamente lo \"Santo de los santos\" de los imperfectos e impíos, y abogan por la heterogénea figuración sagrada, de modo que ni lo divino sea fácilmente accesible a los profanos, ni los amantes de las imágenes divinas se detengan en los símbolos como si fueran la verdad, y para que lo divino sea honrado con afirmaciones verdaderas y con las disímiles semejanzas hacia los últimos de sus propios ecos."
+                          },
+                          {
+                            "keywords": [
+                              "sustancias celestiales",
+                              "semejanzas desemejantes",
+                              "razones",
+                              "trascendencia"
+                            ],
+                            "lineNumber": [
+                              223,
+                              224,
+                              225
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje es una recapitulación de la defensa de Dionisio sobre el uso de imágenes desemejantes. Reafirma que no es 'extraño' o ilógico que las realidades celestiales sean representadas de esta manera, dada la finalidad de la anagogía."
+                            },
+                            "originalText": "Οὐδὲν οὖν ἄτοπον, εἰ καὶ τὰς οὐρανίας οὐσίας ἐκ τῶν ἀπεµφαινουσῶν ἀνοµοίων ὁµοιοτήτων ἀναπλάττουσι κατὰ τὰς εἰρηµένας αἰτίας.",
+                            "spanishTranslation": "Por tanto, no es nada extraño si también las sustancias celestiales las modelan a partir de semejanzas desemejantes y desfiguradoras, según las razones mencionadas."
+                          },
+                          {
+                            "keywords": [
+                              "anagogía",
+                              "investigación sagrada",
+                              "formas de ángeles",
+                              "mente",
+                              "afectos materiales",
+                              "elevación supramundana"
+                            ],
+                            "lineNumber": [
+                              226,
+                              227,
+                              228,
+                              229,
+                              230,
+                              231,
+                              232
+                            ],
+                            "notes": {
+                              "notesGeneral": "Aquí Dionisio explica la función pedagógica de las representaciones 'feas' o 'desagradables' de lo divino. Lejos de ser un obstáculo, estas imágenes deliberadamente disonantes (\"δυσειδὲς\", 'feo'; \"ἀπᾳδούσαις µορφοποιίαις\", 'representaciones discordantes') provocan una 'perplejidad' (\"ἀπορίας\") que obliga a la mente a no quedarse en lo literal y a buscar un significado más allá de la apariencia. Esto es el motor de la 'anagogía' (\"ἀναγωγὴν\"), la elevación espiritual hacia las realidades supramundanas (\"ὑπερκοσµίους ἀναγωγάς\")."
+                            },
+                            "originalText": "Οὐ γὰρ ἂν ἴσως οὐδὲ ἡµεῖς εἰς ζήτησιν µὲν ἐξ ἀπορίας, εἰς ἀναγωγὴν δὲ διὰ τῆς ἀκριβοῦς τῶν ἱερῶν ἐρεύνης ἐληλύθειµεν, εἰ µὴ τὸ δυσειδὲς ἡµᾶς ἐξετάραξε τῆς τῶν ἀγγέλων ἐκφαντικῆς ἀναπλάσεως οὐκ ἐῶν ἡµῶν τὸν νοῦν ἐναποµεῖναι ταῖς ἀπᾳδούσαις µορφοποιίαις, ἀλλ' ἐρεθίζον ἀπαναίνεσθαι τὰς ὑλικὰς προσπαθείας καὶ προσεθίζον ἱερῶς ἀνατείνεσθαι διὰ τῶν φαινοµένων ἐπὶ τὰς ὑπερκοσµίους ἀναγωγάς.",
+                            "spanishTranslation": "Pues quizás ni nosotros habríamos llegado a la búsqueda a partir de la perplejidad, y a la anagogía mediante la investigación exacta de las Escrituras sagradas, si lo feo de la representación manifestativa de los ángeles no nos hubiera perturbado, no permitiendo que nuestra mente permaneciera en las representaciones discordantes, sino incitándonos a rechazar las afecciones materiales y acostumbrándonos a elevarnos santamente a través de lo aparente hacia las anagogías supramundanas."
+                          },
+                          {
+                            "keywords": [
+                              "iconografías angelicales",
+                              "jerarquía",
+                              "beneficio"
+                            ],
+                            "lineNumber": [
+                              233,
+                              234,
+                              235,
+                              236
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje marca la transición del argumento sobre la necesidad de las representaciones desemejantes hacia la definición central del tratado: la 'jerarquía' misma y sus beneficios. Es una introducción programática a los capítulos siguientes."
+                            },
+                            "originalText": "Τοσαῦτα µὲν ἡµῖν εἰρήσθω διὰ τὰς ὑλικὰς καὶ ἀπεµφαινούσας τῶν ἱερῶν λογίων ἀγγελοειδεῖς εἰκονογραφίας, ἑξῆς δὲ ἀφορίσασθαι χρὴ τί µὲν αὐτὴν εἶναι τὴν ἱεραρχίαν οἰόµεθα, τί δὲ πρὸς αὐτῆς τῆς ἱεραρχίας ὀνίνασθαι τοὺς ἱεραρχίᾳ κεκληρωµένους.",
+                            "spanishTranslation": "Que esto baste para lo dicho por nosotros acerca de las iconografías angelicales materiales y desfiguradoras de las santas Escrituras. A continuación, es necesario definir qué creemos que es la jerarquía misma, y qué beneficio obtienen de ella quienes han sido asignados a la jerarquía."
+                          },
+                          {
+                            "keywords": [
+                              "Cristo",
+                              "inspiración",
+                              "manifestación jerárquica"
+                            ],
+                            "lineNumber": [
+                              237,
+                              238,
+                              239
+                            ],
+                            "notes": {
+                              "notesGeneral": "Una invocación personal del autor a Cristo, reconociéndolo como la fuente de toda inspiración y guía en la explicación de la jerarquía. La frase \"ὁ ἐµός\" (ho emós), 'mi Cristo', añade un tono de intimidad y devoción personal."
+                            },
+                            "originalText": "Ἡγήσοιτο δὲ τοῦ λόγου Χριστός, εἴπερ ἐµοὶ θέµις εἰπεῖν, ὁ ἐµός, ἡ πάσης ἱεραρχικῆς ἐκφαντορίας ἐπίπνοια.",
+                            "spanishTranslation": "Que Cristo dirija la palabra, si me es lícito decirlo, mi Cristo, la inspiración de toda manifestación jerárquica."
+                          },
+                          {
+                            "keywords": [
+                              "discípulo",
+                              "tradición jerárquica",
+                              "secrecía",
+                              "cosas santas",
+                              "multitud profana"
+                            ],
+                            "lineNumber": [
+                              240,
+                              241,
+                              242,
+                              243
+                            ],
+                            "notes": {
+                              "notesGreek": "La frase \"ἔνθεος ἐνθέων ἐν µυήσει γινόµενος\" (entheos entheōn en myēsei ginomenos) significa 'llegando a ser inspirado entre los inspirados en la iniciación', lo que subraya el carácter esotérico y la necesidad de una preparación espiritual para comprender estas enseñanzas. \"ἑνοειδῆ\" (henoeidē) significa 'unitarias' o 'uniformes', implicando que las verdades divinas deben ser guardadas en su unidad y pureza.",
+                              "notesLinguistics": "La forma imperativa \"ἄκουε\" (akoue, 'escucha') y \"διαφύλαξον\" (diaphylaxon, 'guarda') indican una instrucción directa al destinatario del texto, un 'hijo' o discípulo."
+                            },
+                            "originalText": "Σὺ δέ, ὦ παῖ, κατὰ τὴν ὁσίαν τῆς καθ' ἡµᾶς ἱεραρχικῆς παραδόσεως θεσµοθεσίαν αὐτός τε ἱεροπρεπῶς ἄκουε τῶν ἱερῶς λεγοµένων ἔνθεος ἐνθέων ἐν µυήσει γινόµενος καὶ τῇ κατὰ νοῦν κρυφιότητι τὰ ἅγια περιστείλας ἐκ τῆς ἀνιέρου πληθύος ὡς ἑνοειδῆ διαφύλαξον.",
+                            "spanishTranslation": "Y tú, oh hijo, conforme a la santa institución de nuestra tradición jerárquica, escucha tú mismo con reverencia lo que se dice santamente, llegando a ser inspirado entre los inspirados en la iniciación, y habiendo envuelto las cosas santas en la secrecía de la mente, guárdalas como unitarias de la multitud profana."
+                          },
+                          {
+                            "keywords": [
+                              "perlas inteligibles",
+                              "cerdos",
+                              "escrituras",
+                              "disciplina arcana"
+                            ],
+                            "lineNumber": [
+                              244,
+                              245,
+                              246
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta es una referencia directa a Mateo 7:6: \"No deis lo santo a los perros, ni echéis vuestras perlas delante de los cerdos, no sea que las pisoteen y se vuelvan y os despedacen\". Es un principio de la disciplina arcana, que enfatiza la necesidad de proteger las verdades sagradas de aquellos que no las valoran o podrían profanarlas.",
+                              "notesGeneral": "La 'pureza, luminosidad y belleza creadora de la armonía de las perlas inteligibles' (\"τὴν τῶν νοητῶν µαργαριτῶν ἀµιγῆ καὶ φωτοειδῆ καὶ καλλοποιὸν εὐκοσµίαν\") se refiere a la naturaleza sublime de las verdades místicas que se están exponiendo. No deben ser reveladas indiscriminadamente, sino solo a los iniciados."
+                            },
+                            "originalText": "Οὐ γὰρ θεµιτόν, ὡς τὰ λόγιά φησιν, εἰς ὕας ἀπορρίψαι τὴν τῶν νοητῶν µαργαριτῶν ἀµιγῆ καὶ φωτοειδῆ καὶ καλλοποιὸν εὐκοσµίαν.",
+                            "spanishTranslation": "Pues no es lícito, como dicen las Escrituras, arrojar a los cerdos la pureza, la luminosidad y la belleza creadora de la armonía de las perlas inteligibles."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

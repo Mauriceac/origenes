@@ -1,0 +1,679 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 9,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 9,
+                    "chapterSummary": "Dionisio comienza la exposición de las jerarquías angélicas, enfocándose en la revelación de sus nombres y la función de las Potestades celestiales (Arjai) como reflejo del principio divino y fuente de orden.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "contemplación sagrada",
+                              "jerarquías angélicas",
+                              "arcángeles",
+                              "ángeles"
+                            ],
+                            "lineNumber": [
+                              712,
+                              713,
+                              714
+                            ],
+                            "notes": {
+                              "notesGreek": "El término griego \"διάκοσµος\" (diákosmos) se refiere a un arreglo ordenado o una organización. \"Θεοειδῶν ἀρχῶν\" (theoeidōn archōn) denota principios o autoridades divinas, indicando la naturaleza y fuente de esta organización.",
+                              "notesLinguistics": "La construcción \"ὁ τὰς ἀγγελικὰς συγ- κλείων ἱεραρχίας\" describe la función de este orden como el que 'engloba' o 'reúne' las jerarquías angélicas. La frase \"ὁ πρὸς τῶν θεοειδῶν ἀρχῶν ἀρχαγγέλων τε καὶ ἀγ- γέλων διακοσµούµενος\" indica que esta organización está dispuesta o regulada por las potestades divinas, los arcángeles y ángeles. Esto establece la fuente y la estructura de la jerarquía celestial. "
+                            },
+                            "originalText": "<Λοιπὸς ἡµῖν εἰς θεωρίαν ἱερὰν διάκοσµος ὁ τὰς ἀγγελικὰς συγ κλείων ἱεραρχίας ὁ πρὸς τῶν θεοειδῶν ἀρχῶν ἀρχαγγέλων τε καὶ ἀγ γέλων διακοσµούµενος.",
+                            "spanishTranslation": "Nos queda, para la contemplación sagrada, la organización que abarca las jerarquías angélicas, ordenada por las divinas potestades de los arcángeles y ángeles."
+                          },
+                          {
+                            "keywords": [
+                              "revelaciones",
+                              "denominaciones santas"
+                            ],
+                            "lineNumber": [
+                              715,
+                              716
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἐπωνυµιῶν\" (epōnymiōn) se refiere a los nombres o denominaciones. \"Ἐκφαντορίας\" (ekphantorías) significa revelaciones o manifestaciones, sugiriendo que los nombres no son meras etiquetas, sino que revelan algo esencial sobre la naturaleza y función de estas jerarquías.",
+                              "notesLinguistics": "La expresión \"κατὰ τὸ ἐµοὶ δυνατὸν\" es una fórmula de humildad que significa 'en la medida de lo que me es posible', común en textos filosóficos y teológicos antiguos. Destaca la dificultad de abordar temas tan elevados y la limitación del autor. "
+                            },
+                            "originalText": "Καὶ πρώτας µὲν εἰπεῖν ἀναγκαῖον οἶµαι κατὰ τὸ ἐµοὶ δυνατὸν τὰς τῶν ἁγίων αὐτῶν ἐπωνυµιῶν ἐκφαντορίας.",
+                            "spanishTranslation": "Y creo necesario, en primer lugar, en la medida de lo que me es posible, exponer las revelaciones de sus santas denominaciones."
+                          },
+                          {
+                            "keywords": [
+                              "Potestades celestiales",
+                              "principio divino",
+                              "orden sagrado",
+                              "principio super-originario",
+                              "comandancia trascendente"
+                            ],
+                            "lineNumber": [
+                              717,
+                              718,
+                              719,
+                              720,
+                              721,
+                              722,
+                              723
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Οὐρανίων ἀρχῶν\" (ouraniōn archōn) se refiere a las potestades o principados celestiales, una de las órdenes angélicas. \"Θεοειδῶς ἀρχικὸν καὶ ἡγεµονικὸν\" describe su naturaleza como divinamente originaria y principesco-líder. \"Ὑπεράρχιον ἀρχὴν\" (hyperarchion archēn) se refiere al principio supra-originario, la fuente última de todo ser y orden, que es Dios. \"Ἀρχοποιὸν ἀρχὴν\" (archopoion archēn) es el principio que crea o establece todos los principios, nuevamente refiriéndose a Dios como la causa primera. \"Ταξιαρχίαν\" (taxiarchían) denota el 'mando de un orden' o 'comandancia', resaltando su función de mantener el orden divino.",
+                              "notesLinguistics": "La complejidad de esta oración radica en el uso repetido de la raíz \"ἀρχ-\" (arch-), que significa 'principio', 'comienzo', 'autoridad', 'gobierno'. Dionisio juega con estos significados para describir la relación de las jerarquías con la fuente divina: son 'principales' (ἀρχικαῖς), se vuelven hacia el 'principio supra-originario' (ὑπεράρχιον ἀρχὴν), y revelan el 'principio que origina los principios' (ἀρχοποιὸν ἀρχὴν). La frase \"τὸ πρὸς αὐτὴν ἐκείνην ὡς δυνατὸν ἀποτυποῦσθαι\" indica una imitación o modelado de lo divino, 'imprimiéndose' en la medida de lo posible en el principio mismo. Esto subraya la idea de que las jerarquías angélicas reflejan y participan de la naturaleza y el orden divinos."
+                            },
+                            "originalText": "Ἐκφαίνει γὰρ ἡ µὲν τῶν οὐρανίων ἀρχῶν τὸ θεοειδῶς ἀρχικὸν καὶ ἡγεµονικὸν µετὰ τάξεως ἱερᾶς καὶ ταῖς ἀρχικαῖς πρεπωδεστάτης δυνάµεσι καὶ τὸ πρὸς τὴν ὑπεράρχιον ἀρχὴν αὐτάς τε ὁλικῶς ἐπεστράφθαι καὶ ἑτέρων ἀρχικῶς ἡγεῖσθαι καὶ τὸ πρὸς αὐτὴν ἐκείνην ὡς δυνατὸν ἀποτυποῦσθαι τὴν ἀρχοποιὸν ἀρχὴν ἀναφαίνειν τε τὴν ὑπερούσιον αὐτῆς ταξιαρχίαν τῇ τῶν ἀρχικῶν εὐκοσµίᾳ δυνάµεων.",
+                            "spanishTranslation": "Pues la de las celestiales Potestades (Arjai) revela lo divino-originario y lo principesco, con un orden sagrado sumamente apropiado para las potencias principiales; y que ellas mismas se vuelven holísticamente hacia el principio super-originario y presiden principescamente sobre otros; y que, en la medida de lo posible, se imprimen en aquel mismo principio productor de todo principio (Arjopoios Arjē), y manifiestan su comandancia trascendente por medio del buen orden de las potencias principiales."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 9,
+                    "chapterSummary": "Este apartado detalla la función mediadora y la posición de la orden de los arcángeles dentro de la jerarquía celestial. Se explica que los arcángeles comparten características con los Principados (la orden superior) al recibir directamente las iluminaciones divinas, y con los ángeles (la orden inferior) al transmitir estas revelaciones. Se destaca que la jerarquía de arcángeles y ángeles es una y la misma, pero con los arcángeles actuando como nexo entre los 'extremos' de las jerarquías. Finalmente, el texto subraya cómo esta estructura jerárquica ordenada, que proviene de Dios, se extiende hasta las jerarquías humanas, citando escrituras que asignan a ángeles la custodia de naciones, como Miguel para el pueblo judío.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              724
+                            ],
+                            "originalText": "Ἡ δὲ τῶν ἁγίων ἀρχαγγέλων ὁµοταγὴς µέν ἐστι ταῖς οὐρανίαις",
+                            "spanishTranslation": "La sagrada orden de los arcángeles es del mismo rango que las celestiales"
+                          },
+                          {
+                            "lineNumber": [
+                              725,
+                              726
+                            ],
+                            "originalText": "ἀρχαῖς· ἔστι γὰρ αὐτῶν τε καὶ τῶν ἀγγέλων ὡς ἔφην ἱεραρχία µία καὶ διακόσµησις.",
+                            "spanishTranslation": "Principados; porque de ellos y de los ángeles, como dije, hay una sola jerarquía y disposición (o administración). "
+                          },
+                          {
+                            "lineNumber": [
+                              727,
+                              729
+                            ],
+                            "originalText": "Πλὴν ἐπείπερ οὐκ ἔστιν ἱεραρχία µὴ καὶ πρώτας καὶ µέσας καὶ τελευταίας δυνάµεις ἔχουσα, ἡ τῶν ἀρχαγγέλων ἁγία τάξις κοινω νικῶς τῇ ἱεραρχικῇ µεσότητι τῶν ἄκρων ἀντιλαµβάνεται.",
+                            "spanishTranslation": "Sin embargo, puesto que no hay jerarquía que no tenga también poderes primeros, medios y últimos, la santa orden de los arcángeles participa comunitariamente en la mediación jerárquica de los extremos."
+                          },
+                          {
+                            "lineNumber": [
+                              730,
+                              734
+                            ],
+                            "originalText": "Ταῖς τε γὰρ ἁγιωτάταις ἀρχαῖς κοινωνεῖ καὶ τοῖς ἁγίοις ἀγγέλοις, ταῖς µὲν ὅτι πρὸς τὴν ὑπερούσιον ἀρχὴν ἀρχικῶς ἐπέστραπται καὶ πρὸς αὐτὴν ὡς ἐφικτὸν ἀποτυποῦται καὶ τοὺς ἀγγέλους ἑνοποιεῖ κατὰ τὰς εὐκόσµους αὐτῆς καὶ τεταγµένας καὶ ἀοράτους ἡγεµονίας, τοῖς δὲ ὅτι καὶ τῆς ὑποφητικῆς ἐστι",
+                            "spanishTranslation": "Porque tanto con los santísimos principados se comunica, como con los santos ángeles; con los primeros porque hacia el Principio superesencial se ha vuelto de manera principial, y hacia Él se modela en la medida de lo posible, y unifica a los ángeles según sus bien ordenadas y estructuradas e invisibles hegemonías; con los segundos (los ángeles) porque también es del orden profético (o de la función de anunciar),"
+                          },
+                          {
+                            "lineNumber": [
+                              735,
+                              738
+                            ],
+                            "originalText": "τάξεως, τὰς θεαρχικὰς ἐλλάµψεις ἱεραρχικῶς διὰ τῶν πρώτων δυνάµεων ὑποδεχοµένη καὶ τοῖς ἀγγέλοις αὐτὰς ἀγαθοειδῶς ἀγγέλλουσα καὶ δι' ἀγγέλων ἡµῖν ἀναφαίνουσα κατὰ τὴν ἱερὰν ἑκάστου τῶν θείως ἐλλαµ ποµένων ἀναλογίαν.",
+                            "spanishTranslation": "recibiendo las divinas iluminaciones de manera jerárquica a través de los primeros poderes y anunciándolas bondadosamente a los ángeles, y a través de los ángeles, revelándolas a nosotros, según la sagrada analogía de cada uno de los divinamente iluminados."
+                          },
+                          {
+                            "lineNumber": [
+                              739,
+                              744
+                            ],
+                            "originalText": "Οἱ γὰρ ἄγγελοι, καθὼς ἤδη προειρήκαµεν, συµπληρωτικῶς ἀποπερατοῦσιν τὰς ὅλας τῶν οὐρανίων νοῶν διακοσµή σεις, κατὰ τὸ τελευταῖον ὡς ἐν οὐρανίαις οὐσίαις ἔχοντες τὴν ἀγγελικὴν ἰδιότητα καὶ µᾶλλον πρὸς ἡµῶν ἄγγελοι παρὰ τοὺς προτέρους οἰκειό τερον ὀνοµαζόµενοι ὅσῳ καὶ περὶ τὸ ἐµφανέστερον αὐτοῖς ἐστιν ἡ ἱεραρχία καὶ µᾶλλον περικόσµιος.",
+                            "spanishTranslation": "Porque los ángeles, como ya hemos dicho, de manera completiva finalizan todas las administraciones de las inteligencias celestiales, teniendo su cualidad angélica en lo último, como en las sustancias celestiales, y más propiamente son llamados ángeles por nosotros, a diferencia de los anteriores, tanto más cuanto que la jerarquía les es más manifiesta y más involucrada en el mundo."
+                          },
+                          {
+                            "lineNumber": [
+                              745,
+                              755
+                            ],
+                            "originalText": "Τὴν µὲν γὰρ ὑπερτάτην ὡς εἴρηται διακόσµησιν ὡς τῷ κρυφίῳ πρωτοταγῶς πλησιάζουσαν κρυφιοειδῶς οἰητέον ἱεραρ χεῖν τῆς δευτέρας, τὴν δὲ δευτέραν, ἣ συµπληροῦται πρὸς τῶν ἁγίων κυριοτήτων καὶ δυνάµεων καὶ ἐξουσιῶν, τῆς τῶν ἀρχῶν καὶ ἀρχαγγέλων καὶ ἀγγέλων ἱεραρχίας ἡγεῖσθαι, τῆς πρώτης µὲν ἱεραρχίας ἐµφανέστερον, τῆς δὲ µετ' αὐτὴν κρυφιοειδέστερον, τὴν δὲ τῶν ἀρχῶν καὶ ἀρχαγγέλων καὶ ἀγγέλων ἐκφαντορικὴν διακόσµησιν ταῖς ἀνθρωπίναις ἱεραρχίαις δι' ἀλλήλων ἐπιστατεῖν, ἵν' ᾖ κατὰ τάξιν ἡ πρὸς θεὸν ἀναγωγὴ καὶ ἐπι στροφὴ καὶ κοινωνία καὶ ἕνωσις καὶ µὴν καὶ ἡ παρὰ θεοῦ πάσαις ταῖς ἱεραρχίαις ἀγαθοπρεπῶς ἐνδιδοµένη καὶ κοινωνικῶς ἐπιφοιτῶσα µετ' εὐκοσµίας ἱερωτάτης πρόοδος.",
+                            "spanishTranslation": "Pues la administración suprema, como se ha dicho, debemos considerar que jerarquiza de manera oculta la segunda, al acercarse primariamente a lo oculto; y la segunda, que es completada por las santas Dominaciones, Virtudes y Potestades, que presida la jerarquía de los Principados, Arcángeles y Ángeles; de la primera jerarquía de manera más manifiesta, pero de la que sigue a esta de manera más oculta; y que la administración reveladora de los Principados y Arcángeles y Ángeles supervise las jerarquías humanas a través unos de otros, para que sea ordenada la elevación y el retorno hacia Dios, y la comunión y unión, y ciertamente también la progresión que de Dios a todas las jerarquías es otorgada de manera bondadosa y que llega comunitariamente con la más sagrada armonía."
+                          },
+                          {
+                            "lineNumber": [
+                              756,
+                              758
+                            ],
+                            "originalText": "Ἔνθεν ἡ θεολογία τὴν καθ' ἡµᾶς ἱεραρχίαν ἀγγέλοις ἀπονενέµηκεν, ἄρχοντα τοῦ Ἰουδαίων λαοῦ τὸν Μιχαὴλ ὀνο µάζουσα καὶ ἄλλους ἐθνῶν ἑτέρων.",
+                            "spanishTranslation": "De ahí que la teología haya asignado la jerarquía entre nosotros a los ángeles, nombrando a Miguel como príncipe del pueblo de los judíos y a otros para otras naciones."
+                          },
+                          {
+                            "lineNumber": [
+                              759,
+                              760
+                            ],
+                            "originalText": "«Ἔστησε» γὰρ ὁ ὕψιστος «ὅρια ἐθνῶν κατὰ ἀριθµὸν ἀγγέλων θεοῦ.»",
+                            "spanishTranslation": "Porque el Altísimo «estableció los límites de las naciones según el número de los ángeles de Dios.»"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 9,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              761
+                            ],
+                            "notes": {
+                              "notesGreek": "ἀνήγετο (anégeto) es imperfecto pasivo del verbo ἀνάγω (anágo), que significa \"conducir hacia arriba\", \"llevar\". Aquí se refiere a ser elevado o guiado hacia la divinidad."
+                            },
+                            "originalText": "Εἰ δέ τις φαίη· καὶ πῶς ὁ τῶν Ἑβραίων λαὸς ἀνήγετο µόνος ἐπὶ",
+                            "spanishTranslation": "Si alguien dijera: ¿Y cómo es que solo el pueblo de los hebreos era conducido hacia"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              762
+                            ],
+                            "notes": {
+                              "notesGreek": "θεαρχικὰς ἐλλάµψεις (thearchikás ellámpseis): Iluminaciones de la Archidivinidad o del Principio Divino. ἀποκριτέον (apokritéon) es un adjetivo verbal que indica necesidad, \"hay que responder\"."
+                            },
+                            "originalText": "τὰς θεαρχικὰς ἐλλάµψεις; ἀποκριτέον ὅτι µὴ τὰς τῶν ἀγγέλων εὐθείας",
+                            "spanishTranslation": "las divinas iluminaciones? Hay que responder que no se debe culpar a las directas"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              763
+                            ],
+                            "notes": {
+                              "notesGreek": "ἐπιστασίας (epistasías) se refiere a la supervisión o dirección. χρὴ (chrē) significa \"es necesario\"."
+                            },
+                            "originalText": "ἐπιστασίας αἰτιάσασθαι χρὴ τῆς τῶν ἑτέρων ἐθνῶν ἐπὶ τοὺς οὐκ ὄντας",
+                            "spanishTranslation": "supervisiones de los ángeles por el extravío de otras naciones hacia los que no son"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              764
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La palabra οπαῖς (opais) es un error tipográfico en el texto de Migne; la forma correcta sería ὀπαῖς (opais) o, contextualmente, ῥοπαῖς (rhopais), que significa \"inclinaciones\" o \"tendencias\". Dada la gramática y el sentido, \"pasiones\" o \"tendencias\" parece lo más adecuado. ἀποπεπτωκότας (apopeptōkótas) es un participio perfecto de ἀποπίπτω (apopíptō), \"caer de, desviarse\"."
+                            },
+                            "originalText": "θεοὺς ἀποπλανήσεως, ἀλλ' αὐτοὺς ἐκείνους οἰκείαις middot; οπαῖς ἐκ τῆς ἐπὶ τὸ",
+                            "spanishTranslation": "dioses, sino que ellos mismos, por sus propias pasiones, habiéndose desviado del recto camino hacia lo"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              765
+                            ],
+                            "notes": {
+                              "notesGreek": "φιλαυτίᾳ (philautía): amor propio, egoísmo. αὐθαδείᾳ (authadeía): obstinación, terquedad, arrogancia."
+                            },
+                            "originalText": "θεῖον εὐθείας ἀναγωγῆς ἀποπεπτωκότας τῇ φιλαυτίᾳ καὶ αὐθαδείᾳ καὶ",
+                            "spanishTranslation": "divino, debido al amor propio y a la obstinación, y"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              766
+                            ],
+                            "notes": {
+                              "notesGreek": "θεοπρεπῶν (theoprepōn): lo que es digno de un dios, lo divino. σεβασµιότητι (sebasmiótēti): reverencia, veneración."
+                            },
+                            "originalText": "τῇ τῶν αὐτοῖς δοκούντων θεοπρεπῶν ἀναλόγῳ σεβασµιότητι.",
+                            "spanishTranslation": "a una reverencia proporcional a lo que ellos mismos consideraban divino."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              767
+                            ],
+                            "notes": {},
+                            "originalText": "Τοῦτο",
+                            "spanishTranslation": "Que esto"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              768
+                            ],
+                            "notes": {
+                              "notesGreek": "πεπονθέναι (peponthénai) es un infinitivo perfecto de πάσχω (páschō), \"padecer, sufrir\"."
+                            },
+                            "originalText": "µαρτυρεῖται καὶ αὐτὸς ὁ τῶν Ἑβραίων λαὸς πεπονθέναι.",
+                            "spanishTranslation": "lo ha padecido también el propio pueblo de los hebreos, es atestiguado."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              769
+                            ],
+                            "notes": {
+                              "notesBiblical": "Dionisio alude a un pasaje bíblico, como Oseas 4:6 (\"Mi pueblo fue destruido por falta de conocimiento; por cuanto tú desechaste el conocimiento, yo también te desecharé a ti de mi sacerdocio\") o Isaías 1:3."
+                            },
+                            "originalText": "«Ἐπίγνωσιν»",
+                            "spanishTranslation": "Pues, dice: «El conocimiento de Dios"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              770
+                            ],
+                            "notes": {
+                              "notesBiblical": "La segunda parte \"ὀπίσω τῆς καρδίας σου ἐπορεύθης\" (\"te fuiste tras tu propio corazón\") evoca pasajes como Números 15:39.",
+                              "notesGreek": "ἀπώσω (apōsō) es aoristo medio del verbo ἀπωθέω (apōthéō), \"rechazar, desechar\". ἐπορεύθης (eporeúthēs) es aoristo pasivo de πορεύομαι (poreúomai), \"ir, caminar\"."
+                            },
+                            "originalText": "γὰρ θεοῦ φησιν «ἀπώσω» καὶ ὀπίσω τῆς καρδίας σου ἐπορεύθης.",
+                            "spanishTranslation": "lo desechaste» y te fuiste tras tu propio corazón."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              771
+                            ],
+                            "notes": {},
+                            "originalText": "Οὐδὲ",
+                            "spanishTranslation": "Ni tenemos"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              772
+                            ],
+                            "notes": {
+                              "notesGreek": "ἠναγκασµένην (ēnagkasménēn) es el participio perfecto pasivo de ἀναγκάζω (anagkázō), \"forzar\". αὐτεξουσιότητα (autexousiótēta): libre albedrío, autonomía."
+                            },
+                            "originalText": "γὰρ ἠναγκασµένην ἔχοµεν ζωὴν οὐδὲ διὰ τὴν τῶν προνοουµένων αὐτεξ",
+                            "spanishTranslation": "una vida forzada, ni a causa del libre albedrío de los providenciados"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              773
+                            ],
+                            "notes": {
+                              "notesGreek": "ἀπαµβλύνεται (apamblýnetai) es presente pasivo de ἀπαμβλύνω (apamblýnō), \"embotar, atenuar\"."
+                            },
+                            "originalText": "ουσιότητα τὰ θεῖα φῶτα τῆς προνοητικῆς ἐλλάµψεως ἀπαµβλύνεται,",
+                            "spanishTranslation": "las luces divinas de la iluminación providencial se atenúan,"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              774
+                            ],
+                            "notes": {
+                              "notesGreek": "νοερῶν ὄψεων (noerōn ópseōn): visiones o facultades intelectivas. ἀνοµοιότης (anomoiótēs): disimilitud, desemejanza. ὑπερπλήρη (hyperplērē): super-plena."
+                            },
+                            "originalText": "ἀλλ' ἡ τῶν νοερῶν ὄψεων ἀνοµοιότης τὴν ὑπερπλήρη τῆς πατρικῆς",
+                            "spanishTranslation": "sino que la disimilitud de las visiones intelectivas hace que la plenísima"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              775
+                            ],
+                            "notes": {
+                              "notesGreek": "φωτοδοσίαν (photodosían): donación de luz, fotodavía. ἀµέθεκτον (améthekton): inparticipable. ἀδιάδοτον (adiádoton): intransmisible, inalcanzable."
+                            },
+                            "originalText": "ἀγαθότητος φωτοδοσίαν ἢ παντελῶς ἀµέθεκτον ποιεῖ καὶ πρὸς τὴν",
+                            "spanishTranslation": "fotodavía de la bondad paternal sea o completamente inparticipable e inalcanzable para su"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              776
+                            ],
+                            "notes": {
+                              "notesGreek": "ἀντιτυπίαν (antitypían): oposición, resistencia. µετουσίας (metousías): participaciones."
+                            },
+                            "originalText": "αὐτῶν ἀντιτυπίαν ἀδιάδοτον ἢ τὰς µετουσίας ποιεῖ διαφόρους, µικρὰς",
+                            "spanishTranslation": "propia resistencia, o que las participaciones sean diferentes, pequeñas"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              777
+                            ],
+                            "notes": {
+                              "notesGreek": "ἀµυδρὰς (amydrás): oscuras, tenues. φανὰς (phanás): brillantes, claras. ὡσαύτως ἐχούσης (hōsautōs echousēs): siempre estando de la misma manera."
+                            },
+                            "originalText": "ἢ µεγάλας, ἀµυδρὰς ἢ φανὰς τῆς µιᾶς καὶ ἁπλῆς καὶ ἀεὶ ὡσαύτως ἐχούσης",
+                            "spanishTranslation": "o grandes, oscuras o brillantes, de un solo, simple, y siempre igual"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              778
+                            ],
+                            "notes": {
+                              "notesGreek": "ὑπερηπλωµένης (hyperēplōménēs): sobre-extendido. πηγαίας ἀκτῖνος (pēgaías aktínos): rayo de la fuente, rayo primigenio."
+                            },
+                            "originalText": "καὶ ὑπερηπλωµένης πηγαίας ἀκτῖνος.",
+                            "spanishTranslation": "y extendido rayo primigenio."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              779
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐπεὶ ὅτι γε καὶ τῶν ἑτέρων ἐθνῶν,",
+                            "spanishTranslation": "Porque, que también sobre las otras naciones,"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              780
+                            ],
+                            "notes": {
+                              "notesGreek": "ἀνενεύσαµεν (anenēúsamen) es aoristo de ἀνανεύω (ananeúō), que significa \"asentir hacia arriba\" o, en este contexto, \"elevarse hacia\". ἀναπεπταµένον (anapéptamenon) es participio perfecto pasivo de ἀναπετάννυμι (anapetánnymi), \"extender, abrir\"."
+                            },
+                            "originalText": "ἐξ ὧν καὶ ἡµεῖς ἀνενεύσαµεν ἐπὶ τὸ πᾶσιν ἑτοίµως εἰς µετάδοσιν ἀναπεπ",
+                            "spanishTranslation": "de las cuales también nosotros nos hemos elevado hacia el infinito e inagotable mar de la luz divina,"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              781
+                            ],
+                            "notes": {
+                              "notesGreek": "θεαρχικοῦ φωτὸς (thearchikoû photòs): luz divina. ἄπειρόν (ápeiron): infinito. ἄφθονον (áphthonon): inagotable, abundante. πέλαγος (pélagos): mar."
+                            },
+                            "originalText": "ταµένον τοῦ θεαρχικοῦ φωτὸς ἄπειρόν τε καὶ ἄφθονον πέλαγος, οὐκ",
+                            "spanishTranslation": "que está listo para ser impartido a todos, no"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              782
+                            ],
+                            "notes": {
+                              "notesGreek": "ἔκφυλοι (ékphyloi): extraños, de otra raza. ἐπεστάτουν (epestátoun) es imperfecto de ἐπιστατέω (epistatéō), \"estar a cargo, gobernar\"."
+                            },
+                            "originalText": "ἔκφυλοί τινες ἐπεστάτουν θεοί, µία δὲ πάντων ἀρχὴ καὶ πρὸς ταύτην",
+                            "spanishTranslation": "eran algunos dioses extraños los que los gobernaban, sino que hay un único principio de todo y hacia este"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              783
+                            ],
+                            "notes": {
+                              "notesGreek": "ἀνῆγον (anēgon) es imperfecto de ἀνάγω (anágo), \"conducir hacia arriba\". ἱεραρχοῦντες (hierarchoûntes): jerarquizando, actuando como jerarcas."
+                            },
+                            "originalText": "ἀνῆγον τοὺς ἑποµένους οἱ καθ' ἕκαστον ἔθνος ἱεραρχοῦντες ἄγγελοι, τὸν",
+                            "spanishTranslation": "conducían a sus seguidores los ángeles que jerarquizaban a cada nación,"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              784
+                            ],
+                            "notes": {
+                              "notesGreek": "ἐννοητέον (ennoētéon) es un adjetivo verbal, \"hay que pensar, entender\". φιλοθεώτατον (philotheótaton): superlativo de philótheos, \"muy amante de Dios\"."
+                            },
+                            "originalText": "Μελχισεδὲκ ἐννοητέον ἱεράρχην ὄντα φιλοθεώτατον οὐ τῶν οὐκ ὄντων,",
+                            "spanishTranslation": "hay que entender a Melquisedec, siendo un hierarca muy amante de Dios, no de los que no existen,"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              785
+                            ],
+                            "notes": {
+                              "notesGreek": "ὄντως ὄντος (óntōs óntos): el que verdaderamente es, un concepto platónico-neoplatónico aplicado a Dios. ὑψίστου θεοῦ (hypsístou theoû): Dios Altísimo."
+                            },
+                            "originalText": "ἀλλὰ τοῦ ὄντως ὄντος ὑψίστου θεοῦ.",
+                            "spanishTranslation": "sino del Dios Altísimo que verdaderamente es."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              786
+                            ],
+                            "notes": {
+                              "notesGreek": "θεόσοφοι (theósofoi): sabios en cosas divinas, teósofos."
+                            },
+                            "originalText": "Καὶ γὰρ οὐχ ἁπλῶς τὸν Μελχισεδὲκ",
+                            "spanishTranslation": "Y es que los teósofos no llamaron simplemente a Melquisedec"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              787
+                            ],
+                            "notes": {
+                              "notesGreek": "κεκλήκασιν (keklḗkasin) es perfecto activo de καλέω (kaléō), \"llamar\"."
+                            },
+                            "originalText": "οἱ θεόσοφοι οὐ φιλόθεον µόνον ἀλλὰ καὶ ἱερέα κεκλήκασιν ἢ ἵνα τοῖς",
+                            "spanishTranslation": "no solo amante de Dios, sino también sacerdote, para que a los"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              788
+                            ],
+                            "notes": {
+                              "notesGreek": "ἐχέφροσιν (echéphrosin): a los sensatos, prudentes. ἐναργῶς (enargōs): claramente, manifiestamente. ἐµφαίνωσιν (emphainōsin): subjuntivo aoristo de ἐμφαίνω (emphainō), \"mostrar, manifestar\". ἐπέστραπτο (epéstrapto) es pluscuamperfecto pasivo de ἐπιστρέφω (epistréphō), \"volverse hacia, convertirse\"."
+                            },
+                            "originalText": "ἐχέφροσιν ἐναργῶς ἐµφαίνωσιν ὅτι µὴ µόνον αὐτὸς ἐπὶ τὸν ὄντως ὄντα",
+                            "spanishTranslation": "prudentes se les manifestara claramente que él mismo no solo se había vuelto hacia el Dios que verdaderamente existe,"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              789
+                            ],
+                            "notes": {
+                              "notesGreek": "προσέτι (proséti): además. ἡγεῖτο (hēgeîto) es imperfecto de ἡγέομαι (hēgéomai), \"guiar, liderar\"."
+                            },
+                            "originalText": "θεὸν ἐπέστραπτο, προσέτι δὲ καὶ ἄλλοις ὡς ἱεράρχης ἡγεῖτο τῆς ἐπὶ τὴν",
+                            "spanishTranslation": "sino que además, como hierarca, guiaba a otros en su elevación hacia la"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              790
+                            ],
+                            "notes": {
+                              "notesGreek": "θεαρχίαν (thearchían): teoarquía, el principio o gobierno divino. ἀναγωγῆς (anagōgês): elevación, ascensión."
+                            },
+                            "originalText": "ἀληθῆ καὶ µόνην θεαρχίαν ἀναγωγῆς.",
+                            "spanishTranslation": "verdadera y única teoarquía."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 4,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 9,
+                    "chapterSummary": "This chapter explores the universal providence of God, explaining that while Israel had a special relationship, the divine governance extends to all nations through angels, all ultimately stemming from the one, supreme principle.",
+                    "sections": [
+                      {
+                        "section": 4,
+                        "text": [
+                          {
+                            "keywords": [
+                              "inteligencia jerárquica",
+                              "Faraón",
+                              "ángel",
+                              "egipcios",
+                              "Babilonios",
+                              "providencia",
+                              "señorío",
+                              "visiones"
+                            ],
+                            "lineNumber": [
+                              791,
+                              792,
+                              793,
+                              794,
+                              795,
+                              796,
+                              797,
+                              798
+                            ],
+                            "notes": {
+                              "notesGreek": "La expresión \"ἱεραρχικὴν σύνεσιν\" (hierarchikēn synesis) se refiere a la capacidad de comprender el orden divino y la jerarquía. \"ἐπιστατοῦντος ἀγγέλου\" (epistatoúntos angélou) denota la idea de un ángel que preside o está a cargo de una nación o pueblo. El fragmento \"τοῦ ὄντως <ὄντος> θεοῦ\" (tou ontōs ontos theou) enfatiza la verdadera existencia y divinidad de Dios. Las referencias a Daniel y José son ejemplos bíblicos de revelaciones divinas a través de ángeles, como se ve en los libros de Daniel (e.g., Dn 2, 7, 8, 10) y Génesis (e.g., Gn 40-41) respectivamente. La revelación (\"ἐκφαντορίας\") de las visiones es mediada por ángeles a hombres santos.",
+                              "notesLinguistics": "La construcción de la frase muestra una secuencia de eventos donde la providencia divina es comunicada a los gobernantes paganos a través de ángeles, y luego interpretada por santos cercanos a los ángeles. El uso de \"καὶ\" (kai) al inicio de la línea 791 sirve para introducir una adición o continuación de un pensamiento previo. El término \"διεπορθµεύετο\" (diepqrthmeueto) es un imperfecto pasivo que significa 'era transportado', 'era comunicado'. Se entiende que la preposición 'πρὸς' (pros) con genitivo en 'πρὸς τοῦ τοῖς Αἰγυπτίοις ἐπιστατοῦντος ἀγγέλου' indica la agencia o el origen de la comunicación: 'por parte de'. El término 'κηδεµονικὸν καὶ ἐξουσιαστικὸν' (kēdemoniikon kai exousiastikon) se refiere a la cualidad de cuidado tutelar y autoridad de la providencia divina."
+                            },
+                            "originalText": "Καὶ τοῦτο δὲ τὴν σὴν ἱεραρχικὴν σύνεσιν ὑποµνήσωµεν ὅτι καὶ τῷ Φαραὼ πρὸς τοῦ τοῖς Αἰγυπτίοις ἐπιστατοῦντος ἀγγέλου καὶ τῷ <τῶν> Βαβυλωνίων ἄρχοντι πρὸς τοῦ οἰκείου [καὶ] τὸ τῆς πάντων προνοίας καὶ κυριότητος κηδεµονικὸν καὶ ἐξουσιαστικὸν κατὰ τὰς ὁράσεις διεπορθµεύετο καὶ τοῖς ἔθνεσιν ἐκείνοις οἱ τοῦ ὄντως <ὄντος> θεοῦ θερά ποντες ἡγεµόνες καθίσταντο, τῆς τῶν τυπωθεισῶν ὑπὸ τῶν ἀγγέλων ὁράσεων ἐκφαντορίας τοῖς τῶν ἀγγέλων ἐγγὺς ἱεροῖς ἀνδράσι, τῷ ∆ανιὴλ καὶ τῷ Ἰωσήφ, ἐκ θεοῦ δι' ἀγγέλων ἀποκαλυφθείσης.",
+                            "spanishTranslation": "Y esto recordaremos a tu inteligencia jerárquica: que también a Faraón, por el ángel que presidía a los egipcios, y al príncipe de los babilonios, por el propio [ángel], el cuidado y el poder soberano de la providencia y señorío de todos, era comunicado por medio de visiones, y a aquellas naciones, los siervos del Dios verdaderamente existente eran constituidos como guías, siendo la revelación de las visiones modeladas por los ángeles para los hombres santos cercanos a los ángeles, como Daniel y José, revelada por Dios a través de los ángeles."
+                          },
+                          {
+                            "keywords": [
+                              "principio",
+                              "providencia",
+                              "teocracia",
+                              "judíos",
+                              "naciones",
+                              "ángeles",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              799,
+                              800,
+                              801,
+                              802,
+                              803,
+                              804,
+                              805,
+                              806,
+                              807,
+                              808,
+                              809
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"θεαρχίαν\" (thearchían) se refiere al gobierno divino, la soberanía de Dios. \"ἀποκληρωτικῶς\" (apoklērōtikōs) significa 'por sorteo' o 'exclusivamente asignado', lo que Dionisio niega para la teocracia judía. El pasaje critica la idea de que Dios se haya dividido o asignado de manera exclusiva a una nación, o que haya otros dioses o ángeles de igual rango. La \"µιᾶς ἁπάντων ὑψίστου προνοίας\" (mias hapántōn hypsístou pronoías) subraya la unicidad y supremacía de la providencia divina. La frase \"ἀνατατικαῖς χειραγωγίαις\" (anatatikais cheiragōgíais) describe la función de los ángeles como guías que elevan a los hombres hacia lo divino. \"φωτοδοσίαν καὶ ἐπίγνωσιν\" (photodosían kai epígnōsin) son conceptos clave en la teología dionisíaca, refiriéndose a la iluminación y el conocimiento que conducen a la divinidad.",
+                              "notesLinguistics": "La frase \"οὐδαµῶς οἰητέον\" (oudamōs oiētéon) es una construcción impersonal con un adjetivo verbal que expresa obligación, significando 'de ningún modo debe pensarse'. El contraste entre \"Ἰουδαίων µὲν\" (Ioudaíōn men) y \"ἀγγέλους δὲ\" (angélous de) introduce una distinción, enfatizando la negación de una gobernación separada o exclusiva. El uso del prefijo \"ἐθνα-\" en \"ἐθνάρχην καὶ ἐθναγὸν\" (ethnárchēn kai ethnagón) indica liderazgo sobre una nación o etnia. El adverbio \"σωστικῶς\" (sōstikōs) significa 'de manera salvífica' o 'que conduce a la salvación', expresando el propósito final de la providencia divina. \"σχεδὸν παρὰ πάντας\" (schedòn parà pántas) puede traducirse como 'casi por encima de todos' o 'casi entre todos', destacando la singularidad de Israel en su retorno a la fe."
+                            },
+                            "originalText": "Μία γάρ ἐστιν ἡ πάντων ἀρχὴ καὶ πρόνοια, καὶ οὐδαµῶς οἰητέον Ἰουδαίων µὲν ἀποκληρωτικῶς ἡγεῖσθαι τὴν θεαρχίαν, ἀγγέλους δὲ ἰδίως ἢ ὁµοτίµως ἢ ἀντιθέτως ἢ θεούς τινας ἑτέρους ἐπιστατεῖν τοῖς ἄλλοις ἔθνεσιν, ἀλλὰ καὶ τὸ λόγιον ἐκεῖνο κατὰ τήνδε τὴν ἱερὰν ἔννοιαν ἐκληπτέον οὐχ ὡς µερισαµένου θεοῦ µεθ' ἑτέρων θεῶν ἢ ἀγγέλων τὴν καθ' ἡµᾶς ἡγεµονίαν καὶ τῷ Ἰσραὴλ εἰς ἐθνάρχην καὶ ἐθναγὸν ἀποκληρωθέντος, ἀλλ' ὡς αὐτῆς µὲν τῆς µιᾶς ἁπάντων ὑψίστου προνοίας πάντας ἀνθρώπους σωστικῶς ταῖς τῶν οἰκείων ἀγγέλων ἀνατατικαῖς χειραγωγίαις διανειµάσης, µόνου δὲ σχεδὸν παρὰ πάντας τοῦ Ἰσραὴλ ἐπὶ τὴν τοῦ ὄντως κυρίου φωτο δοσίαν καὶ ἐπίγνωσιν ἐπιστραφέντος.",
+                            "spanishTranslation": "Porque una es la αρχή y providencia de todos, y de ningún modo debe pensarse que la teocracia [la αρχή divina] preside de forma exclusiva solo para los judíos, y que ángeles, de manera particular o igual, o de forma opuesta, o algunos otros dioses, presidan sobre las otras naciones; sino que aquella palabra divina debe entenderse según esta santa concepción, no como si Dios hubiera dividido con otros dioses o ángeles la hegemonía sobre nosotros, y al Israel [hubiera] sido asignado como etnarca y líder nacional, sino como la misma suprema y única providencia de todos distribuyó salvíficamente a todos los hombres a las elevadoras guías de sus propios ángeles, pero [solo] el Israel, casi por encima de todos, se volvió hacia la iluminación del verdadero Señor y al conocimiento."
+                          },
+                          {
+                            "keywords": [
+                              "teología",
+                              "Israel",
+                              "servicio",
+                              "Dios",
+                              "porción del Señor",
+                              "naciones",
+                              "ángeles",
+                              "Miguel",
+                              "providencia"
+                            ],
+                            "lineNumber": [
+                              810,
+                              811,
+                              812,
+                              813,
+                              814,
+                              815,
+                              816,
+                              817,
+                              818,
+                              819
+                            ],
+                            "notes": {
+                              "notesBiblical": "La frase \"«Ἐγενήθη µερὶς κυρίου»\" (Egenēthē meris Kyríou) es una cita del Deuteronomio 32:9 (LXX), que dice: \"Porque la porción del Señor es su pueblo; Jacob es la medida de su herencia\". Dionisio la interpreta en el contexto de la relación única de Israel con Dios. La mención de Miguel (\"τὸν Μιχαὴλ\") como líder del pueblo judío hace referencia a pasajes bíblicos como Daniel 10:13, 21 y 12:1, donde Miguel es presentado como el príncipe o arcángel protector de Israel.",
+                              "notesGreek": "El uso de \"ὄντως <ὄντος> θεοῦ\" (ontōs ontos theou) se repite para enfatizar la realidad y supremacía de Dios. \"θεραπείαν\" (therapeían) aquí significa 'servicio' o 'adoración' a Dios. \"ἀπονεµηθῆναί τινι τῶν ἁγίων ἀγγέλων\" (aponemēthēnai tini tōn hagíōn angélōn) significa 'ser asignado a uno de los santos ángeles', una referencia a la creencia judía y cristiana primitiva de que los ángeles fueron designados para guiar a las diferentes naciones, con Miguel para Israel. La \"πρόνοιαν ἁπασῶν τῶν ἀοράτων καὶ ὁρατῶν δυνάµεων\" (prónoian hapásōn tōn aorátōn kai horatōn dynámeōn) es un concepto clave en Dionisio, refiriéndose a la providencia divina que abarca todas las realidades, visibles e invisibles. El compuesto \"ὑπερουσίως ὑπεριδρυµένην\" (hyperousíōs hyperidrymenēn) utiliza el prefijo \"ὑπερ-\" para expresar la trascendencia de la providencia divina, que está 'superesencialmente sobre-fundamentada' o 'establecida por encima de la esencia'.",
+                              "notesLinguistics": "La estructura \"τὸ µὲν ... τὸ δὲ\" (to men ... to de) es un paralelismo común en griego clásico y koiné para contrastar dos ideas. Aquí, Israel se asigna a sí mismo a Dios por un lado, y por otro, es asignado a un ángel como las demás naciones. \"σαφῶς ἡµᾶς ἐκδιδάσκουσα\" (safōs hēmas ekdidáskousa) significa 'enseñándonos claramente', indicando la intención didáctica del autor. La frase final, \"ἐθελουσίως ὅση δύναµις ἀνατείνοντας\" (ethelousíōs hosē dýnamis anateínontas), es una construcción participial que describe la acción de los ángeles, 'voluntariamente, con toda su fuerza, elevando' a sus seguidores."
+                            },
+                            "originalText": "Ὅθεν ἡ θεολογία τὸ µὲν ἑαυτὸν ἀποκληρῶσαι τὸν Ἰσραὴλ ἐπὶ τὴν τοῦ ὄντως <ὄντος> θεοῦ θεραπείαν ἐµφαίνουσα τὸ «Ἐγενήθη µερὶς κυρίου» φησίν, ἐνδεικνυµένη δὲ τὸ καὶ αὐτὸν ἐν ἴσῳ τοῖς λοιποῖς ἔθνεσιν ἀπονεµηθῆναί τινι τῶν ἁγίων ἀγγέλων εἰς τὸ δι' αὐτοῦ τὴν µίαν ἁπάντων ἀρχὴν ἐπιγνῶναι τὸν Μιχαὴλ ἔφη τοῦ Ἰουδαίων ἡγεῖσθαι λαοῦ, σαφῶς ἡµᾶς ἐκδιδάσκουσα τὸ µίαν εἶναι τῶν ὅλων πρόνοιαν ἁπασῶν τῶν ἀοράτων καὶ ὁρατῶν δυνάµεων ὑπερ ουσίως ὑπεριδρυµένην, πάντας δὲ τοὺς καθ' ἕκαστον ἔθνος ἐπιστατοῦντας ἀγγέλους ἐπ' αὐτὴν ὡς οἰκείαν ἀρχὴν τοὺς ἑποµένους ἐθελουσίως ὅση δύναµις ἀνατείνοντας.",
+                            "spanishTranslation": "De ahí que la teología, al mostrar que Israel se asignó a sí mismo al servicio del Dios verdaderamente existente, dice: \"La porción del Señor llegó a ser\"; y al indicar que también Israel mismo, en igualdad con las demás naciones, fue asignado a uno de los santos ángeles para que a través de él conociera el único principio de todos, dice que Miguel preside sobre el pueblo de los judíos, enseñándonos claramente que hay una única providencia de todas las cosas, que está superesencialmente sobre-fundamentada sobre todas las potencias invisibles y visibles, y que todos los ángeles que presiden sobre cada nación, con toda su fuerza, voluntariamente elevan a sus seguidores hacia ella como su propio principio."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

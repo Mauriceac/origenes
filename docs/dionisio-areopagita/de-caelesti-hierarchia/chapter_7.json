@@ -1,0 +1,1765 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 7,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 7,
+                    "chapterSummary": "Dionisio comienza explicando que cada nombre de las inteligencias celestiales revela una propiedad divina específica. Procede a detallar el significado de los nombres de la primera jerarquía angélica: los Serafines como 'quemadores' o 'calentadores', simbolizando su fervor purificador e iluminador y su incesante movimiento hacia lo divino; los Querubines como 'multitud de conocimiento' o 'efusión de sabiduría', destacando su capacidad contemplativa y su generosa transmisión de sabiduría; y los Tronos, que significan su pureza, elevación supramundana, estabilidad inquebrantable alrededor de Dios y su receptividad impasible a las visitaciones divinas.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "jerarquías",
+                              "orden",
+                              "santas",
+                              "aceptación"
+                            ],
+                            "lineNumber": [
+                              470
+                            ],
+                            "notes": {
+                              "notesGeneral": "Esta frase introduce la exposición de Dionisio sobre la naturaleza y el significado de los nombres de las jerarquías angélicas."
+                            },
+                            "originalText": "Ταύτην ἡµεῖς ἀποδεχόµενοι τὴν τῶν ἁγίων ἱεραρχιῶν τάξιν φαµὲν",
+                            "spanishTranslation": "Nosotros, al aceptar este orden de las santas jerarquías, afirmamos"
+                          },
+                          {
+                            "keywords": [
+                              "inteligencias celestiales",
+                              "denominación",
+                              "manifestación"
+                            ],
+                            "lineNumber": [
+                              471
+                            ],
+                            "notes": {
+                              "notesGreek": "El término 'ἐπωνυµία' (eponymía) significa 'nombre' o 'denominación', implicando que el nombre no es arbitrario sino revelador de la esencia."
+                            },
+                            "originalText": "ὅτι πᾶσα τῶν οὐρανίων νοῶν ἐπωνυµία δήλωσιν ἔχει τῆς ἑκάστου",
+                            "spanishTranslation": "que toda denominación de las inteligencias celestiales tiene una manifestación de la particularidad de cada"
+                          },
+                          {
+                            "keywords": [
+                              "particularidad divina",
+                              "semejante a Dios"
+                            ],
+                            "lineNumber": [
+                              472
+                            ],
+                            "notes": {
+                              "notesGreek": "'θεοειδοῦς' (theoeidous) se forma de 'θεός' (Dios) y 'εἶδος' (forma, semejanza), indicando una cualidad o propiedad semejante a Dios. 'ἰδιότητος' (idiotētos) se refiere a 'propiedad' o 'rasgo distintivo'."
+                            },
+                            "originalText": "θεοειδοῦς ἰδιότητος.",
+                            "spanishTranslation": "una, que es semejante a Dios."
+                          },
+                          {
+                            "keywords": [
+                              "Serafines",
+                              "denominación",
+                              "conocedores del hebreo"
+                            ],
+                            "lineNumber": [
+                              473
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dionisio recurre a la etimología hebrea, probablemente a través de fuentes intermedias cristianas, para explicar el significado simbólico de los nombres de los ángeles."
+                            },
+                            "originalText": "Καὶ τὴν µὲν ἁγίαν τῶν Σεραφὶµ ὀνοµασίαν φασὶν οἱ",
+                            "spanishTranslation": "Y dicen los que conocen el hebreo que la santa denominación de los Serafines"
+                          },
+                          {
+                            "keywords": [
+                              "quemadores",
+                              "calentadores",
+                              "hebreo",
+                              "Serafines"
+                            ],
+                            "lineNumber": [
+                              474
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἐµπρηστάς' (embrēstas) significa 'incendiarios' o 'quemadores', y 'θερµαίνοντας' (thermainontas) 'calentadores', ambas en referencia al fervor y la purificación asociados con los Serafines."
+                            },
+                            "originalText": "τὰ Ἑβραίων εἰδότες ἢ τὸ ἐµπρηστὰς ἐµφαίνειν ἢ τὸ θερµαίνοντας, τὴν",
+                            "spanishTranslation": "manifiesta ser 'quemadores' o 'calentadores',"
+                          },
+                          {
+                            "keywords": [
+                              "Querubines",
+                              "conocimiento",
+                              "sabiduría",
+                              "efusión"
+                            ],
+                            "lineNumber": [
+                              475
+                            ],
+                            "notes": {
+                              "notesGreek": "'πλῆθος γνώσεως' (plēthos gnōseōs) es 'multitud de conocimiento' y 'χύσιν σοφίας' (chysin sophias) 'efusión de sabiduría', atribuciones centrales a los Querubines."
+                            },
+                            "originalText": "δὲ τῶν Χερουβὶµ πλῆθος γνώσεως ἢ χύσιν σοφίας.",
+                            "spanishTranslation": "y la de los Querubines, multitud de conocimiento o efusión de sabiduría."
+                          },
+                          {
+                            "keywords": [
+                              "primera jerarquía",
+                              "orden celestial"
+                            ],
+                            "lineNumber": [
+                              476
+                            ],
+                            "originalText": "Εἰκότως οὖν ἡ πρώτη",
+                            "spanishTranslation": "Así pues, con razón, la primera"
+                          },
+                          {
+                            "keywords": [
+                              "jerarquías celestiales",
+                              "sustancias supremas",
+                              "ministrada"
+                            ],
+                            "lineNumber": [
+                              477
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἱερουργεῖται' (hierourgeitai) significa 'es ministrada' o 'es oficiada', implicando una función sagrada y mediadora."
+                            },
+                            "originalText": "τῶν οὐρανίων ἱεραρχιῶν πρὸς τῶν ὑπερτάτων οὐσιῶν ἱερουργεῖται",
+                            "spanishTranslation": "de las jerarquías celestiales es ministrada por las sustancias supremas,"
+                          },
+                          {
+                            "keywords": [
+                              "rango elevado",
+                              "cercanía a Dios",
+                              "establecimiento"
+                            ],
+                            "lineNumber": [
+                              478
+                            ],
+                            "originalText": "τάξιν ἔχουσα τὴν πασῶν ὑψηλοτέραν τῷ περὶ θεὸν ἀµέσως ἱδρῦσθαι καὶ",
+                            "spanishTranslation": "teniendo un rango el más elevado de todos, al estar inmediatamente establecida alrededor de Dios y"
+                          },
+                          {
+                            "keywords": [
+                              "teofanías",
+                              "perfecciones",
+                              "proximidad divina"
+                            ],
+                            "lineNumber": [
+                              479
+                            ],
+                            "notes": {
+                              "notesGreek": "'πρωτουργοὺς θεοφανείας' (prōtourgous theophaneias) se refiere a las 'primeras manifestaciones divinas'. 'τελειώσεις' (teleiōseis) son 'perfecciones' o 'consumaciones'."
+                            },
+                            "originalText": "τὰς πρωτουργοὺς θεοφανείας καὶ τελειώσεις εἰς αὐτὴν ὡς ἐγγυτάτην",
+                            "spanishTranslation": "que las primeras teofanías y perfecciones sean transmitidas a ella, como la más cercana,"
+                          },
+                          {
+                            "keywords": [
+                              "transmisión divina",
+                              "primordial",
+                              "mediación"
+                            ],
+                            "lineNumber": [
+                              480
+                            ],
+                            "notes": {
+                              "notesGreek": "'διαπορθµεύεσθαι' (diaporthmeuesthai) significa 'ser transmitido' o 'ser transportado', enfatizando su papel como intermediario de lo divino. 'ἀρχικωτέρως' (archikoterōs) significa 'de una manera más fundamental o primordial'."
+                            },
+                            "originalText": "ἀρχικωτέρως διαπορθµεύεσθαι.",
+                            "spanishTranslation": "de una manera más primordial."
+                          },
+                          {
+                            "keywords": [
+                              "Calentadores",
+                              "Tronos",
+                              "nombres angelicales"
+                            ],
+                            "lineNumber": [
+                              481
+                            ],
+                            "originalText": "Θερµαίνοντες γοῦν ὀνοµάζονται καὶ θρό",
+                            "spanishTranslation": "Son llamados, pues, 'Calentadores', y 'Tronos',"
+                          },
+                          {
+                            "keywords": [
+                              "efusión de sabiduría",
+                              "disposiciones divinas",
+                              "nombres",
+                              "revelación"
+                            ],
+                            "lineNumber": [
+                              482
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἐκφαντορικῷ' (ekphantorikō) significa 'que manifiesta' o 'que revela', indicando que los nombres de los ángeles son descriptivos de su naturaleza divina. 'ἕξεων' (hexeōn) se refiere a 'disposiciones' o 'estados habituales'."
+                            },
+                            "originalText": "νοι καὶ χύσις σοφίας ἐκφαντορικῷ τῶν θεοειδῶν αὐτῶν ἕξεων ὀνόµατι.",
+                            "spanishTranslation": "y 'efusión de sabiduría', por un nombre que manifiesta sus disposiciones semejantes a Dios."
+                          },
+                          {
+                            "keywords": [
+                              "movimiento incesante",
+                              "divino",
+                              "fervor",
+                              "Serafines"
+                            ],
+                            "lineNumber": [
+                              483
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἀεικίνητον' (aeikinēton) significa 'siempre en movimiento' o 'incesante'. 'ἀκατάληκτον' (akatalēkton) 'inagotable', 'sin fin'."
+                            },
+                            "originalText": "Τὸ µὲν γὰρ ἀεικίνητον αὐτῶν περὶ τὰ θεῖα καὶ ἀκατάληκτον καὶ τὸ θερµὸν",
+                            "spanishTranslation": "Pues su incesante e inagotable movimiento hacia lo divino, y lo cálido"
+                          },
+                          {
+                            "keywords": [
+                              "agudo",
+                              "superardiente",
+                              "continua actividad",
+                              "infatigable",
+                              "inmutable"
+                            ],
+                            "lineNumber": [
+                              484
+                            ],
+                            "notes": {
+                              "notesGreek": "'ὑπερζέον' (hyperzeon) significa 'superardiente' o 'ferviente en extremo'. 'ἀνενδότου' (anendotou) 'infatigable', 'sin cesar'. 'ἀκλινοῦς' (aklinous) 'invariable', 'inmutable'."
+                            },
+                            "originalText": "καὶ ὀξὺ καὶ ὑπερζέον τῆς προσεχοῦς καὶ ἀνενδότου καὶ ἀκλινοῦς ἀεικινη",
+                            "spanishTranslation": "y agudo y superardiente de la continua, infatigable e inmutable actividad,"
+                          },
+                          {
+                            "keywords": [
+                              "asimilación",
+                              "anagógica",
+                              "activa",
+                              "inferiores"
+                            ],
+                            "lineNumber": [
+                              485
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἀναγωγικῶς' (anagōgikōs) significa 'de manera anagógica', es decir, con un sentido de elevación espiritual. 'δραστηρίως' (drastēriōs) 'activamente', 'eficazmente'."
+                            },
+                            "originalText": "σίας καὶ τὸ τῶν ὑποβεβηκότων ἀναγωγικῶς καὶ δραστηρίως ἀφοµοιω",
+                            "spanishTranslation": "y la capacidad de asimilar activa y anagógicamente a los inferiores,"
+                          },
+                          {
+                            "keywords": [
+                              "reavivar",
+                              "calidez",
+                              "Serafines",
+                              "transformación"
+                            ],
+                            "lineNumber": [
+                              486
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἀναζέον' (anazeon) 'hacer hervir', 'efervescer de nuevo'. 'ἀναζωπυροῦν' (anazōpyroun) 'reavivar', 'volver a encender'."
+                            },
+                            "originalText": "τικὸν ὡς ἀναζέον ἐκεῖνα καὶ ἀναζωπυροῦν ἐπὶ τὴν ὁµοίαν θερµότητα,",
+                            "spanishTranslation": "como quien los hace hervir y los reaviva a la misma calidez,"
+                          },
+                          {
+                            "keywords": [
+                              "purificación",
+                              "torbellino ardiente",
+                              "holocausto",
+                              "Serafines"
+                            ],
+                            "lineNumber": [
+                              487
+                            ],
+                            "notes": {
+                              "notesGreek": "'πρηστηρίως' (prēstēriōs) se relaciona con 'πρηστήρ' (prēstēr), un 'viento ardiente' o 'torbellino', sugiriendo un poder purificador. 'ὁλοκαύτως' (holokautōs) 'como un holocausto', denotando una purificación total e inmolación."
+                            },
+                            "originalText": "καὶ τὸ πρηστηρίως καὶ ὁλοκαύτως καθαρτικὸν καὶ τὴν ἀπερικάλυπτον",
+                            "spanishTranslation": "y la función purificadora como de torbellino ardiente y holocausto, y que posee la inextinguible"
+                          },
+                          {
+                            "keywords": [
+                              "luminosa",
+                              "iluminadora",
+                              "inextinguible",
+                              "Serafines",
+                              "luz divina"
+                            ],
+                            "lineNumber": [
+                              488
+                            ],
+                            "notes": {
+                              "notesGreek": "'φωτοειδῆ' (photoeidē) significa 'luminosa', 'semejante a la luz'. 'φωτιστικὴν' (phōtistikēn) 'iluminadora'."
+                            },
+                            "originalText": "καὶ ἄσβεστον ἔχουσαν ὡσαύτως ἀεὶ φωτοειδῆ καὶ φωτιστικὴν ἰδιότητα,",
+                            "spanishTranslation": "e inagotable, así mismo, una propiedad siempre luminosa y que ilumina,"
+                          },
+                          {
+                            "keywords": [
+                              "oscuridad",
+                              "aniquilación",
+                              "luz"
+                            ],
+                            "lineNumber": [
+                              489
+                            ],
+                            "notes": {
+                              "notesGreek": "'σκοτοποιίας' (skotopoiias) se refiere a 'creación de oscuridad'. 'ἐλάτειραν' (elateiran) 'la que ahuyenta' o 'expulsa'."
+                            },
+                            "originalText": "πάσης ἀλαµποῦς σκοτοποιίας ἐλάτειραν οὖσαν καὶ ἀφανιστικὴν ἡ τῶν",
+                            "spanishTranslation": "siendo la que ahuyenta y aniquila toda oscuridad sin luz, el nombre de los"
+                          },
+                          {
+                            "keywords": [
+                              "Serafines",
+                              "Querubines",
+                              "cognoscitivo",
+                              "nombre",
+                              "enseñanza"
+                            ],
+                            "lineNumber": [
+                              490
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἐκφαντορικῶς' (ekphantorikōs) 'manifiestamente', 'claramente'. 'γνωστικὸν' (gnōstikon) 'cognoscitivo', relacionado con el conocimiento."
+                            },
+                            "originalText": "Σεραφὶµ ἐπωνυµία ἐκφαντορικῶς διδάσκει, ἡ δὲ τῶν Χερουβὶµ τὸ γνωστι",
+                            "spanishTranslation": "Serafines enseña manifiestamente; y el de los Querubines (enseña) lo cognoscitivo de ellos"
+                          },
+                          {
+                            "keywords": [
+                              "Querubines",
+                              "visión divina",
+                              "luz suprema",
+                              "receptivos"
+                            ],
+                            "lineNumber": [
+                              491
+                            ],
+                            "notes": {
+                              "notesGreek": "'θεοπτικὸν' (theoptikon) significa 'capaz de ver a Dios' o 'que contempla lo divino'. 'φωτοδοσίας' (phōtodōsias) 'donación de luz', 'iluminación'."
+                            },
+                            "originalText": "κὸν αὐτῶν καὶ θεοπτικὸν καὶ τῆς ὑπερτάτης φωτοδοσίας δεκτικὸν καὶ",
+                            "spanishTranslation": "y su capacidad de ver a Dios, y de ser receptivos de la luz suprema, y"
+                          },
+                          {
+                            "keywords": [
+                              "teoréticos",
+                              "fuerza primordial",
+                              "belleza divina"
+                            ],
+                            "lineNumber": [
+                              492
+                            ],
+                            "notes": {
+                              "notesGreek": "'θεωρητικὸν' (theōrētikón) 'contemplativo', 'teorético'. 'θεαρχικῆς εὐπρεπείας' (thearchikēs euprepeias) 'belleza divina', 'decoro divino'."
+                            },
+                            "originalText": "θεωρητικὸν ἐν πρωτουργῷ δυνάµει τῆς θεαρχικῆς εὐπρεπείας καὶ τῆς",
+                            "spanishTranslation": "teoréticos en la fuerza primordial de la belleza divina y de la"
+                          },
+                          {
+                            "keywords": [
+                              "sabiduría",
+                              "transmisión",
+                              "generosidad",
+                              "comunicación"
+                            ],
+                            "lineNumber": [
+                              493
+                            ],
+                            "notes": {
+                              "notesGreek": "'σοφοποιοῦ µεταδόσεως' (sophopoioû metadoseōs) 'transmisión que produce sabiduría'. 'ἀφθόνως' (aphthonōs) 'generosamente', 'sin envidia'."
+                            },
+                            "originalText": "σοφοποιοῦ µεταδόσεως ἀναπεπλησµένον καὶ κοινωνικὸν ἀφθόνως πρὸς",
+                            "spanishTranslation": "transmisión de sabiduría, llenos y comunicadores generosos hacia"
+                          },
+                          {
+                            "keywords": [
+                              "sabiduría concedida",
+                              "efusión",
+                              "altísimos",
+                              "Tronos"
+                            ],
+                            "lineNumber": [
+                              494
+                            ],
+                            "originalText": "τὰ δεύτερα τῇ χύσει τῆς δωρηθείσης σοφίας, ἡ δὲ τῶν ὑψηλοτάτων καὶ",
+                            "spanishTranslation": "los segundos (inferiores) por la efusión de la sabiduría concedida; y el de los altísimos y"
+                          },
+                          {
+                            "keywords": [
+                              "Tronos",
+                              "pureza",
+                              "exención",
+                              "caída terrenal"
+                            ],
+                            "lineNumber": [
+                              495
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἀµιγῶς' (amigōs) 'puramente', 'sin mezcla'. 'περιπεζίας ὑφέσεως' (peripezias hypheseōs) es una expresión que sugiere 'caída a lo bajo' o 'descenso a lo terrenal'."
+                            },
+                            "originalText": "ἐπηρµένων θρόνων τὸ πάσης ἀµιγῶς ἐξῃρῆσθαι περιπεζίας ὑφέσεως καὶ",
+                            "spanishTranslation": "elevados Tronos (enseña) que están puramente exentos de toda caída terrenal y"
+                          },
+                          {
+                            "keywords": [
+                              "elevación supramundana",
+                              "superior",
+                              "inquebrantable",
+                              "desapego"
+                            ],
+                            "lineNumber": [
+                              496
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἄναντες' (anantes) 'hacia arriba', 'ascendente'. 'ὑπερκοσµίως' (hyperkosmiōs) 'de manera supramundana'. 'ἀρρεπῶς' (arrepōs) 'sin inclinación', 'inquebrantablemente'."
+                            },
+                            "originalText": "τὸ πρὸς τὸ ἄναντες ὑπερκοσµίως ἀνωφερὲς καὶ πάσης ἐσχατιᾶς ἀρρεπῶς",
+                            "spanishTranslation": "su elevación supramundana hacia lo superior, y que están inquebrantablemente apartados de toda extremidad,"
+                          },
+                          {
+                            "keywords": [
+                              "arraigados",
+                              "Altísimo",
+                              "facultades",
+                              "firmemente",
+                              "estabilidad"
+                            ],
+                            "lineNumber": [
+                              497
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἀνῳκισµένον' (anōkismenon) 'establecido', 'asentado'. 'ἀκατασείστως' (akataspeistōs) 'inquebrantablemente', 'sin ser conmovido'."
+                            },
+                            "originalText": "ἀνῳκισµένον καὶ περὶ τὸν ὄντως ὕψιστον ὁλικαῖς δυνάµεσιν ἀκατασείστως",
+                            "spanishTranslation": "establecidos y firmemente arraigados con todas sus facultades alrededor del verdaderamente Altísimo,"
+                          },
+                          {
+                            "keywords": [
+                              "sólidamente establecidos",
+                              "receptivos",
+                              "visitación divina",
+                              "impasibilidad"
+                            ],
+                            "lineNumber": [
+                              498
+                            ],
+                            "notes": {
+                              "notesGreek": "'εὐσταθῶς' (eustathōs) 'firmemente', 'establemente'. 'ἐπιφοιτήσεως' (epiphoitēseōs) 'visita', 'descenso', 'inspiración divina'. 'ἀπαθείᾳ' (apatheia) 'impasibilidad', 'ausencia de pasiones'."
+                            },
+                            "originalText": "καὶ εὐσταθῶς ἱδρυµένον καὶ τῆς θεαρχικῆς ἐπιφοιτήσεως ἐν ἀπαθείᾳ πάσῃ",
+                            "spanishTranslation": "y que, sólidamente establecidos, son receptivos de la visitación divina con total impasibilidad"
+                          },
+                          {
+                            "keywords": [
+                              "inmaterialidad",
+                              "portadores de Dios",
+                              "curativos",
+                              "recepciones divinas"
+                            ],
+                            "lineNumber": [
+                              499
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἀϋλίᾳ' (aylia) 'inmaterialidad'. 'θεοφόρον' (theophoron) 'portador de Dios'."
+                            },
+                            "originalText": "καὶ ἀϋλίᾳ δεκτικὸν καὶ τὸ θεοφόρον καὶ θεραπευτικῶς ἐπὶ τὰς θείας",
+                            "spanishTranslation": "y a la inmaterialidad; y que son portadores de Dios y, de forma curativa, hacia las divinas"
+                          },
+                          {
+                            "keywords": [
+                              "abiertos",
+                              "recepciones divinas",
+                              "Tronos"
+                            ],
+                            "lineNumber": [
+                              500
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἀναπεπταµένον' (anapestamenon) es el participio perfecto pasivo de 'ἀναπετάννυμι', que significa 'abrir de par en par', 'extender'."
+                            },
+                            "originalText": "ὑποδοχὰς ἀναπεπταµένον.",
+                            "spanishTranslation": "recepciones, están completamente abiertos."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 7,
+                    "chapterSummary": "Esta sección describe la naturaleza de la primera jerarquía celestial, destacando su pureza superior, su capacidad contemplativa directa de la luz divina, y su perfecta comunión con Jesús, siendo jerarquizadas y perfeccionadas directamente por la Teocracia misma, sin mediación de otras esencias.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "nombres",
+                              "manifestación",
+                              "jerarquía"
+                            ],
+                            "lineNumber": [
+                              501
+                            ],
+                            "notes": {
+                              "notesGreek": "El término griego \"ἐκφαντορία\" (ekphantoría) se refiere a la manifestación o explicación. \"καθ' ἡµᾶς\" (kath' hēmas) significa \"según nosotros\" o \"tal como nosotros la entendemos\"."
+                            },
+                            "originalText": "<Αὕτη µὲν ἡ τῶν ὀνοµάτων αὐτῶν ὡς καθ' ἡµᾶς ἐκφαντορία· λεκτέον",
+                            "spanishTranslation": "Esta es, pues, la manifestación de sus nombres tal como nosotros la entendemos; hay que decir"
+                          },
+                          {
+                            "keywords": [
+                              "jerarquía",
+                              "pensamiento"
+                            ],
+                            "lineNumber": [
+                              502
+                            ],
+                            "originalText": "δὲ τίνα τὴν ἱεραρχίαν αὐτῶν οἰόµεθα.",
+                            "spanishTranslation": "qué jerarquía creemos que tienen."
+                          },
+                          {
+                            "keywords": [
+                              "propósito",
+                              "jerarquía"
+                            ],
+                            "lineNumber": [
+                              503
+                            ],
+                            "originalText": "Τὸ µὲν γὰρ ἁπάσης ἱεραρχίας",
+                            "spanishTranslation": "Pues que el propósito de toda jerarquía"
+                          },
+                          {
+                            "keywords": [
+                              "semejanza divina",
+                              "teomimética",
+                              "inalterablemente"
+                            ],
+                            "lineNumber": [
+                              504
+                            ],
+                            "notes": {
+                              "notesGreek": "\"θεοµιµήτου θεοειδείας\" (theomimētou theoeideias) se refiere a la imitación de Dios y la semejanza divina. \"ἀρρεπῶς\" (arreppōs) significa inalterablemente, firmemente."
+                            },
+                            "originalText": "σκοπὸν τῆς θεοµιµήτου θεοειδείας ἐξηρτηµένον ἀρρεπῶς εἶναι καὶ τὸ",
+                            "spanishTranslation": "depende inalterablemente de la semejanza divina teomimética, y que"
+                          },
+                          {
+                            "keywords": [
+                              "actividad jerárquica",
+                              "participación sagrada",
+                              "purificación"
+                            ],
+                            "lineNumber": [
+                              505
+                            ],
+                            "originalText": "διαιρεῖσθαι πᾶσαν ἱεραρχικὴν πραγµατείαν εἰς µετοχὴν ἱερὰν καὶ µετά",
+                            "spanishTranslation": "toda actividad jerárquica se divide en una participación sagrada y en una"
+                          },
+                          {
+                            "keywords": [
+                              "luz divina",
+                              "conocimiento perfectivo"
+                            ],
+                            "lineNumber": [
+                              506
+                            ],
+                            "notes": {
+                              "notesGreek": "\"τελεστικῆς ἐπιστήµης\" (telestikēs epistēmēs) se refiere a un conocimiento que perfecciona o que inicia en los misterios."
+                            },
+                            "originalText": "δοσιν καθάρσεως ἀµιγοῦς καὶ θείου φωτὸς καὶ τελεστικῆς ἐπιστήµης",
+                            "spanishTranslation": "comunicación de pura purificación, de luz divina y de conocimiento perfectivo,"
+                          },
+                          {
+                            "keywords": [
+                              "suficientemente",
+                              "explicado"
+                            ],
+                            "lineNumber": [
+                              507
+                            ],
+                            "originalText": "ἀρκούντως ἤδη πρὸς ἡµῶν εἰρῆσθαι νοµίζω.",
+                            "spanishTranslation": "creo que ya ha sido dicho por nosotros suficientemente."
+                          },
+                          {
+                            "keywords": [
+                              "ruego",
+                              "decir"
+                            ],
+                            "lineNumber": [
+                              508
+                            ],
+                            "originalText": "Νῦν δὲ εἰπεῖν ἀξίως εὔχοµαι",
+                            "spanishTranslation": "Ahora, ruego dignamente decir"
+                          },
+                          {
+                            "keywords": [
+                              "intelectos supremos",
+                              "jerarquía",
+                              "Escrituras"
+                            ],
+                            "lineNumber": [
+                              509
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"λογίων\" (logíon) se refiere a oráculos divinos, usado frecuentemente para las Sagradas Escrituras."
+                            },
+                            "originalText": "τῶν ὑπερτάτων νοῶν πῶς ἡ κατ' αὐτοὺς ἱεραρχία διὰ τῶν λογίων",
+                            "spanishTranslation": "cómo la jerarquía de los intelectos supremos se manifiesta a través de las Escrituras"
+                          },
+                          {
+                            "keywords": [
+                              "manifestación"
+                            ],
+                            "lineNumber": [
+                              510
+                            ],
+                            "originalText": "ἐκφαίνεται.",
+                            "spanishTranslation": ""
+                          },
+                          {
+                            "keywords": [
+                              "primeras esencias",
+                              "teocracia",
+                              "creadora de sustancia"
+                            ],
+                            "lineNumber": [
+                              511
+                            ],
+                            "notes": {
+                              "notesGreek": "\"οὐσιοποιὸν αὐτῶν θεαρχίαν\" (ousiopoion autōn thearchian) se puede traducir como su teocracia creadora de sustancia, o la divinidad que les da ser."
+                            },
+                            "originalText": "Ταῖς πρώταις οὐσίαις, αἳ µετὰ τὴν οὐσιοποιὸν αὐτῶν θεαρχίαν",
+                            "spanishTranslation": "Hay que considerar que a las primeras esencias, que, después de su teocracia creadora de sustancia,"
+                          },
+                          {
+                            "keywords": [
+                              "establecidas",
+                              "vestíbulos",
+                              "potencia creada"
+                            ],
+                            "lineNumber": [
+                              512
+                            ],
+                            "notes": {
+                              "notesGreek": "\"προθύροις\" (prothýrois) significa vestíbulos o umbrales."
+                            },
+                            "originalText": "ἱδρυµέναι καὶ οἷον ἐν προθύροις αὐτῆς τεταγµέναι πάσης εἰσὶν ἀοράτου",
+                            "spanishTranslation": "están establecidas y como dispuestas en sus vestíbulos, y que han superado a toda potencia creada,"
+                          },
+                          {
+                            "keywords": [
+                              "visible",
+                              "invisible",
+                              "jerarquía"
+                            ],
+                            "lineNumber": [
+                              513
+                            ],
+                            "originalText": "καὶ ὁρατῆς ὑπερβεβηκυῖαι γεγονυίας δυνάµεως, οἰκείαν οἰητέον εἶναι καὶ",
+                            "spanishTranslation": "visible e invisible, les es propia y"
+                          },
+                          {
+                            "keywords": [
+                              "homogénea",
+                              "jerarquía"
+                            ],
+                            "lineNumber": [
+                              514
+                            ],
+                            "originalText": "κατὰ πᾶν ὁµοειδῆ τὴν ἱεραρχίαν.",
+                            "spanishTranslation": "en todo semejante la jerarquía."
+                          },
+                          {
+                            "keywords": [
+                              "puras",
+                              "considerar"
+                            ],
+                            "lineNumber": [
+                              515
+                            ],
+                            "originalText": "Καθαρὰς µὲν οὖν αὐτὰς ἡγητέον οὐχ",
+                            "spanishTranslation": "Debemos considerarlas puras, no"
+                          },
+                          {
+                            "keywords": [
+                              "manchas",
+                              "contaminaciones",
+                              "imaginaciones impías"
+                            ],
+                            "lineNumber": [
+                              516
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἀνιέρων\" (anierōn) significa profano, impío. \"κηλίδων\" (kēlidōn) son manchas, y \"µολυσµῶν\" (molysmōn) contaminaciones. \"προσύλων φαντασιῶν\" (prosyloi phantasiōn) se refiere a imaginaciones profanas o mundanas."
+                            },
+                            "originalText": "ὡς ἀνιέρων κηλίδων καὶ µολυσµῶν ἠλευθερωµένας οὐδ' ὡς προσύλων",
+                            "spanishTranslation": "como liberadas de manchas y contaminaciones profanas, ni como incapaces de imaginaciones"
+                          },
+                          {
+                            "keywords": [
+                              "superiores",
+                              "disminución"
+                            ],
+                            "lineNumber": [
+                              517
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ὑφέσεως\" (hypheseōs) significa disminución o rebajamiento."
+                            },
+                            "originalText": "ἀνεπιδέκτους φαντασιῶν, ἀλλ' ὡς πάσης ὑφέσεως ἀµιγῶς ὑψηλοτέρας",
+                            "spanishTranslation": "impías, sino como puramente superiores a toda disminución,"
+                          },
+                          {
+                            "keywords": [
+                              "pureza",
+                              "potencias divinas"
+                            ],
+                            "lineNumber": [
+                              518
+                            ],
+                            "notes": {
+                              "notesGreek": "\"θεοειδεστάταις\" (theoeidostatōi) se refiere a las más divinas o las que poseen la mayor semejanza divina."
+                            },
+                            "originalText": "καὶ παντὸς ὑποβεβηκότος ἱεροῦ κατὰ τὴν ὑπερτάτην ἁγνότητα πάσαις",
+                            "spanishTranslation": "y a todo lo sagrado inferior, estando establecidas por encima de todas las potencias divinas en la más alta pureza"
+                          },
+                          {
+                            "keywords": [
+                              "orden",
+                              "siempre en movimiento"
+                            ],
+                            "lineNumber": [
+                              519
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἀεικινήτου καὶ ταὐτοκινήτου\" (aeikinētou kai tautokinētou) son conceptos filosóficos que significan siempre en movimiento y automovido, respectivamente, indicando una actividad interna y perpetua."
+                            },
+                            "originalText": "ταῖς θεοειδεστάταις δυνάµεσιν ὑπεριδρυµένας καὶ τῆς οἰκείας ἀεικινήτου",
+                            "spanishTranslation": "y sostenidas inalterablemente en su propio orden siempre en movimiento"
+                          },
+                          {
+                            "keywords": [
+                              "automovido",
+                              "amor a Dios",
+                              "inmutable"
+                            ],
+                            "lineNumber": [
+                              520
+                            ],
+                            "notes": {
+                              "notesGreek": "\"φιλοθέως ἄτρεπτον\" (philotheōs atrepton) significa inmutable en su amor a Dios. \"ἀρρεπῶς ἀντεχοµένας\" (arreppōs antechomenas) se traduce como sostenidas inalterablemente."
+                            },
+                            "originalText": "καὶ ταὐτοκινήτου κατὰ τὸ φιλοθέως ἄτρεπτον τάξεως ἀρρεπῶς ἀντ",
+                            "spanishTranslation": "y automovido, inmutable en su amor a Dios, y"
+                          },
+                          {
+                            "keywords": [
+                              "disminución",
+                              "inquebrantable"
+                            ],
+                            "lineNumber": [
+                              521
+                            ],
+                            "originalText": "εχοµένας καὶ τὴν ἐπὶ τὰ χείρω κατά τι µείωσιν οὐδ' ὅλως εἰδυίας ἀλλ'",
+                            "spanishTranslation": "sin conocer en absoluto ninguna disminución hacia lo peor, sino teniendo siempre"
+                          },
+                          {
+                            "keywords": [
+                              "inamovible",
+                              "cualidad divina"
+                            ],
+                            "lineNumber": [
+                              522
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἄπτωτον\" (aptōton) significa inquebrantable, que no cae o está libre de caída."
+                            },
+                            "originalText": "ἄπτωτον ἀεὶ καὶ ἀµετακίνητον ἔχουσας τὴν τῆς οἰκείας θεοειδοῦς ἰδιότη",
+                            "spanishTranslation": "inquebrantable e inamovible el establecimiento más puro de su propia cualidad divina;"
+                          },
+                          {
+                            "keywords": [
+                              "contemplativas",
+                              "símbolos sensibles"
+                            ],
+                            "lineNumber": [
+                              523
+                            ],
+                            "notes": {
+                              "notesGreek": "\"θεωρητικὰς\" (theōrētikas) significa contemplativas. \"αἰσθητῶν συµβόλων ἢ νοερῶν θεωροὺς\" (aisthētōn symvolōn ē noerōn theōrous) se refiere a observadoras de símbolos sensibles o inteligibles."
+                            },
+                            "originalText": "τος ἀµιγεστάτην ἵδρυσιν· θεωρητικὰς δὲ αὖθις οὐχ ὡς αἰσθητῶν συµ",
+                            "spanishTranslation": "y de nuevo, contemplativas, no como observadoras de símbolos sensibles"
+                          },
+                          {
+                            "keywords": [
+                              "hierográfica",
+                              "divino"
+                            ],
+                            "lineNumber": [
+                              524
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἱερογραφικῆς θεωρίας\" (hierographikēs theōrias) se refiere a la contemplación hierográfica o de la escritura sagrada."
+                            },
+                            "originalText": "βόλων ἢ νοερῶν θεωροὺς οὐδὲ ὡς τῇ ποικιλίᾳ τῆς ἱερογραφικῆς θεωρίας",
+                            "spanishTranslation": "o inteligibles, ni como siendo elevadas a lo divino por la variedad de la contemplación hierográfica,"
+                          },
+                          {
+                            "keywords": [
+                              "luz superior",
+                              "conocimiento inmaterial"
+                            ],
+                            "lineNumber": [
+                              525
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἀΰλου γνώσεως\" (aÿlou gnōseōs) significa conocimiento inmaterial."
+                            },
+                            "originalText": "ἐπὶ τὸ θεῖον ἀναγοµένας, ἀλλ' ὡς πάσης ἀΰλου γνώσεως ὑψηλοτέρου",
+                            "spanishTranslation": "sino como llenas de una luz superior a todo conocimiento inmaterial"
+                          },
+                          {
+                            "keywords": [
+                              "belleza creadora",
+                              "contemplación sobreesencial"
+                            ],
+                            "lineNumber": [
+                              526
+                            ],
+                            "notes": {
+                              "notesGreek": "\"καλλοποιοῦ καὶ ἀρχικοῦ κάλλους\" (kallopoiou kai archikou kallous) significa belleza creadora y original."
+                            },
+                            "originalText": "φωτὸς ἀποπληρουµένας καὶ τῆς τοῦ καλλοποιοῦ καὶ ἀρχικοῦ κάλλους",
+                            "spanishTranslation": "y de la contemplación sobreesencial y trifulgente de la belleza creadora y original,"
+                          },
+                          {
+                            "keywords": [
+                              "trifulgente",
+                              "comunión de Jesús"
+                            ],
+                            "lineNumber": [
+                              527
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ὑπερουσίου καὶ τριφανοῦς θεωρίας\" (hyperousiou kai triphanoûs theōrias) se refiere a una contemplación sobreesencial y trifulgente, que se manifiesta de tres maneras o en tres aspectos."
+                            },
+                            "originalText": "ὑπερουσίου καὶ τριφανοῦς θεωρίας ὡς θεµιτὸν ἀναπιµπλαµένας, τῆς δὲ",
+                            "spanishTranslation": "en la medida de lo lícito; y asimismo, dignas de la comunión de Jesús,"
+                          },
+                          {
+                            "keywords": [
+                              "imágenes hieroplásticas",
+                              "semejanza teúrgica"
+                            ],
+                            "lineNumber": [
+                              528
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἱεροπλάστοις\" (hieroplastois) se refiere a quienes forman o modelan lo sagrado. \"θεουργικὴν ὁµοίωσιν\" (theourgikēn homoiōsin) es la semejanza divina o teúrgica."
+                            },
+                            "originalText": "Ἰησοῦ κοινωνίας ὡσαύτως ἠξιωµένας οὐκ ἐν εἰκόσιν ἱεροπλάστοις µορφω",
+                            "spanishTranslation": "no por imágenes hieroplásticas que representan figurativamente la semejanza teúrgica,"
+                          },
+                          {
+                            "keywords": [
+                              "cercanas",
+                              "luces teúrgicas"
+                            ],
+                            "lineNumber": [
+                              529
+                            ],
+                            "originalText": "τικῶς ἀποτυποῦσι τὴν θεουργικὴν ὁµοίωσιν, ἀλλ' ὡς ἀληθῶς αὐτῷ",
+                            "spanishTranslation": "sino como verdaderamente cercanas a Él"
+                          },
+                          {
+                            "keywords": [
+                              "participación",
+                              "conocimiento"
+                            ],
+                            "lineNumber": [
+                              530
+                            ],
+                            "originalText": "πλησιαζούσας ἐν πρώτῃ µετουσίᾳ τῆς γνώσεως τῶν θεουργικῶν αὐτοῦ",
+                            "spanishTranslation": "en la primera participación del conocimiento de sus luces teúrgicas;"
+                          },
+                          {
+                            "keywords": [
+                              "teomimético",
+                              "virtudes teúrgicas"
+                            ],
+                            "lineNumber": [
+                              531
+                            ],
+                            "originalText": "φώτων καὶ µὴν ὅτι τὸ θεοµίµητον αὐταῖς ὑπερτάτως δεδώρηται καὶ",
+                            "spanishTranslation": "y ciertamente, porque lo teomimético les ha sido concedido supremamente, y"
+                          },
+                          {
+                            "keywords": [
+                              "potencia primordial",
+                              "filantrópicas"
+                            ],
+                            "lineNumber": [
+                              532
+                            ],
+                            "notes": {
+                              "notesGreek": "\"πρωτουργῷ δυνάµει\" (prōtourgō dynamēi) significa potencia primordial. \"φιλανθρώποις ἀρεταῖς\" (philanthrōpois aretais) se refiere a virtudes filantrópicas o amantes de la humanidad."
+                            },
+                            "originalText": "κοινωνοῦσι κατὰ τὸ αὐταῖς ἐφικτὸν ἐν πρωτουργῷ δυνάµει ταῖς θεουρ",
+                            "spanishTranslation": "participan, en la medida en que les es posible, en las virtudes teúrgicas"
+                          },
+                          {
+                            "keywords": [
+                              "perfeccionadas",
+                              "conocimiento analítico"
+                            ],
+                            "lineNumber": [
+                              533
+                            ],
+                            "notes": {
+                              "notesGreek": "\"τετελεσµένας\" (tetelesmenas) significa perfeccionadas o iniciadas. \"ἀναλυτικὴν ἐπιστήµην\" (analytikēn epistēmēn) es un conocimiento analítico."
+                            },
+                            "originalText": "γικαῖς αὐτοῦ καὶ φιλανθρώποις ἀρεταῖς· τετελεσµένας δὲ ὡσαύτως οὐχ",
+                            "spanishTranslation": "y filantrópicas de Él, con una potencia primordial; y asimismo, perfeccionadas, no"
+                          },
+                          {
+                            "keywords": [
+                              "deificación",
+                              "obras divinas"
+                            ],
+                            "lineNumber": [
+                              534
+                            ],
+                            "notes": {
+                              "notesGreek": "\"θεώσεως\" (theōseōs) se refiere a la deificación. \"θεουργιῶν\" (theourgiōn) significa obras divinas o teúrgicas."
+                            },
+                            "originalText": "ὡς ποικιλίας ἱερᾶς ἀναλυτικὴν ἐπιστήµην ἐλλαµποµένας, ἀλλ' ὡς πρώτης",
+                            "spanishTranslation": "como iluminadas por un conocimiento analítico de la variedad sagrada, sino como"
+                          },
+                          {
+                            "keywords": [
+                              "ángeles",
+                              "conocimiento elevado"
+                            ],
+                            "lineNumber": [
+                              535
+                            ],
+                            "originalText": "καὶ ὑπερεχούσης θεώσεως ἀποπληρουµένας κατὰ τὴν ὑπερτάτην ὡς ἐν",
+                            "spanishTranslation": "llenas de una primera y excelsa deificación, según el conocimiento más elevado de las obras divinas"
+                          },
+                          {
+                            "keywords": [
+                              "conocimiento",
+                              "obras divinas"
+                            ],
+                            "lineNumber": [
+                              536
+                            ],
+                            "originalText": "ἀγγέλοις τῶν θεουργιῶν ἐπιστήµην.",
+                            "spanishTranslation": "como corresponde a los ángeles."
+                          },
+                          {
+                            "keywords": [
+                              "esencias sagradas"
+                            ],
+                            "lineNumber": [
+                              537
+                            ],
+                            "originalText": "Οὐ γὰρ δι' ἄλλων ἁγίων οὐσιῶν,",
+                            "spanishTranslation": "Pues no son jerarquizadas por medio de otras esencias sagradas,"
+                          },
+                          {
+                            "keywords": [
+                              "Teocracia",
+                              "directamente"
+                            ],
+                            "lineNumber": [
+                              538
+                            ],
+                            "notes": {
+                              "notesGreek": "\"θεαρχίας\" (thearchias) se refiere a la Teocracia, el gobierno o principio divino. \"ἀµέσως ἀνατείνεσθαι\" (amesōs anateinesthai) significa extenderse directamente."
+                            },
+                            "originalText": "ἀλλὰ πρὸς αὐτῆς τῆς θεαρχίας ἱεραρχούµεναι τῷ ἐπ' αὐτὴν ἀµέσως",
+                            "spanishTranslation": "sino por la Teocracia misma, al extenderse directamente hacia Ella"
+                          },
+                          {
+                            "keywords": [
+                              "poder",
+                              "orden"
+                            ],
+                            "lineNumber": [
+                              539
+                            ],
+                            "originalText": "ἀνατείνεσθαι τῇ πάντων ὑπερεχούσῃ δυνάµει καὶ τάξει καὶ πρὸς τὸ",
+                            "spanishTranslation": "en su poder y orden que supera a todo, y son establecidas en lo"
+                          },
+                          {
+                            "keywords": [
+                              "santo",
+                              "inalterable",
+                              "inmaterial"
+                            ],
+                            "lineNumber": [
+                              540
+                            ],
+                            "notes": {
+                              "notesGreek": "\"πάναγνον\" (panagnon) significa completamente santo."
+                            },
+                            "originalText": "πάναγνον καὶ κατὰ πᾶν ἀρρεπὲς ἱδρύονται καὶ πρὸς τὴν ἄϋλον καὶ",
+                            "spanishTranslation": "completamente santo e inalterable en todo, y son conducidas a la contemplación"
+                          },
+                          {
+                            "keywords": [
+                              "belleza inteligible",
+                              "principios científicos"
+                            ],
+                            "lineNumber": [
+                              541
+                            ],
+                            "notes": {
+                              "notesGreek": "\"νοητὴν εὐπρέπειαν\" (noētēn euprepeian) se refiere a la belleza inteligible. \"ἐπιστηµονικοὺς λόγους\" (epistēmonikous logous) son principios científicos o discursos de conocimiento."
+                            },
+                            "originalText": "νοητὴν εὐπρέπειαν ὡς θεµιτὸν εἰς θεωρίαν προσάγονται καὶ τοὺς τῶν",
+                            "spanishTranslation": "de la belleza inmaterial e inteligible, en la medida de lo lícito, y los principios"
+                          },
+                          {
+                            "keywords": [
+                              "obras divinas",
+                              "cerca de Dios",
+                              "iniciadas"
+                            ],
+                            "lineNumber": [
+                              542
+                            ],
+                            "notes": {
+                              "notesGreek": "\"µυοῦνται\" (myountai) significa se inician o aprenden los misterios."
+                            },
+                            "originalText": "θεουργιῶν ἐπιστηµονικοὺς λόγους ὡς πρῶται καὶ περὶ θεὸν οὖσαι µυ",
+                            "spanishTranslation": "científicos de las obras divinas, siendo las primeras y estando cerca de Dios,"
+                          },
+                          {
+                            "keywords": [
+                              "Causa de la perfección",
+                              "jerarquizadas supremamente"
+                            ],
+                            "lineNumber": [
+                              543
+                            ],
+                            "notes": {
+                              "notesGreek": "\"τελεταρχίας\" (teletarchias) significa la Causa de la perfección, el principio de los misterios o de la iniciación."
+                            },
+                            "originalText": "οῦνται πρὸς αὐτῆς τῆς τελεταρχίας ὑπερτάτως ἱεραρχούµεναι.",
+                            "spanishTranslation": "los aprenden de la propia Causa de la perfección, siendo jerarquizadas supremamente por Ella."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 7,
+                    "chapterSummary": "Trata sobre el orden jerárquico y la forma en que las inteligencias celestiales reciben y transmiten la luz divina, siguiendo los principios de purificación, iluminación y perfección.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [
+                              "teólogos",
+                              "jerarquía celestial",
+                              "sustancias celestiales",
+                              "ciencias divinas",
+                              "iniciaciones",
+                              "Divina Jerarquía"
+                            ],
+                            "lineNumber": [
+                              544,
+                              545,
+                              546,
+                              547
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje introduce la enseñanza fundamental de Dionisio sobre la transmisión jerárquica del conocimiento y la gracia divina, donde las órdenes inferiores son instruidas por las superiores y las más altas directamente por la Divina Jerarquía."
+                            },
+                            "originalText": "Τοῦτο γοῦν οἱ θεολόγοι σαφῶς δηλοῦσι τὸ τὰς µὲν ὑφειµένας τῶν οὐρανίων οὐσιῶν διακοσµήσεις πρὸς τῶν ὑπερβεβηκυιῶν εὐκόσµως ἐκ διδάσκεσθαι τὰς θεουργικὰς ἐπιστήµας, τὰς δὲ πασῶν ὑψηλοτέρας ὑπ' αὐτῆς τῆς θεαρχίας ὡς θεµιτὸν τὰς µυήσεις ἐλλάµπεσθαι.",
+                            "spanishTranslation": "Pues esto es lo que los teólogos manifiestan claramente: que las órdenes inferiores de las sustancias celestiales son debidamente instruidas en las ciencias divinas por las superiores; y que las más elevadas de todas son iluminadas en sus iniciaciones por la Divina Jerarquía misma, según lo permitido."
+                          },
+                          {
+                            "keywords": [
+                              "teólogos",
+                              "iniciaciones",
+                              "potencias celestiales",
+                              "Rey de la gloria",
+                              "Jesús",
+                              "divina obra",
+                              "filantropía divina"
+                            ],
+                            "lineNumber": [
+                              548,
+                              549,
+                              550,
+                              551,
+                              552,
+                              553,
+                              554
+                            ],
+                            "notes": {
+                              "notesBiblical": "Las expresiones «Κύριον εἶναι τῶν οὐρανίων δυνάµεων» y «Βασιλέα τῆς δόξης» se refieren al Salmo 24 (23 LXX), versículos 9-10, donde se describe al Rey de la gloria entrando en los cielos. Esto conecta la ascensión de Cristo con su señorío sobre las potencias celestiales.",
+                              "notesGreek": "ἀνθρωποπρεπῶς (antropoprepios) – 'de manera apropiada a su humanidad', enfatiza la naturaleza humana de Cristo en su ascensión. θεουργίας (theourgias) – 'obra divina', 'teúrgica', se refiere a la acción salvífica y divina de Cristo. φιλάνθρωπον ἀγαθουργίαν (filánthropon agathourgían) – 'benéfica obra de amor por la humanidad' o 'filantrópica bondad', destacando la misericordia de Dios hacia los hombres."
+                            },
+                            "originalText": "Τινὰς µὲν γὰρ αὐτῶν εἰσάγουσι πρὸς τῶν προτέρων ἱερῶς µυουµένας τὸ «Κύριον εἶναι τῶν οὐρανίων δυνάµεων» καὶ «Βασιλέα τῆς δόξης» τὸν εἰς οὐρανοὺς ἀνθρωποπρεπῶς ἀναληφθέντα, τινὰς δὲ πρὸς αὐτὸν Ἰησοῦν διαπορούσας καὶ τῆς ὑπὲρ ἡµῶν αὐτοῦ θεουργίας τὴν ἐπιστήµην µαθητιώσας καὶ ταύτας αὐτὸν Ἰησοῦν ἀµέσως µυοῦντα καὶ πρωτοδότως αὐταῖς ἐκφαί νοντα τὴν αὐτοῦ φιλάνθρωπον ἀγαθουργίαν.",
+                            "spanishTranslation": "En efecto, a algunas de ellas las introducen los teólogos siendo santamente iniciadas por las precedentes en que aquel que fue elevado a los cielos de manera apropiada a su humanidad es «Señor de las potencias celestiales» y «Rey de la gloria»; a otras, en cambio, las representan interrogando al mismo Jesús y deseosas de aprender la ciencia de su divina obra a favor nuestro, y a estas las inicia directamente el mismo Jesús, revelándoles primariamente su benéfica obra de amor por la humanidad."
+                          },
+                          {
+                            "keywords": [
+                              "justicia",
+                              "juicio salvífico"
+                            ],
+                            "lineNumber": [
+                              555,
+                              556
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta cita es una alusión a Isaías 63:1: «¿Quién es este que viene de Edom, con vestidos rojos de Bosra? ¿Este hermoso en su vestidura, que marcha en la grandeza de su poder? —Yo, el que hablo en justicia, grande para salvar.» Dionisio lo adapta para resaltar la naturaleza de la revelación de Cristo.",
+                              "notesGeneral": "Aquí Dionisio refuerza la idea de que la revelación de Jesús a las jerarquías celestiales incluye aspectos de su misión de justicia y salvación."
+                            },
+                            "originalText": "«Ἐγὼ» γάρ φησι «δια λέγοµαι δικαιοσύνην καὶ κρίσιν σωτηρίου.».",
+                            "spanishTranslation": "Pues Él dice: «Yo hablo de justicia y de juicio salvífico»."
+                          },
+                          {
+                            "keywords": [
+                              "sustancias supraterrenales",
+                              "iluminaciones divinas",
+                              "reverencia",
+                              "humildad"
+                            ],
+                            "lineNumber": [
+                              557,
+                              558,
+                              559
+                            ],
+                            "notes": {
+                              "notesGreek": "ὑπερουρανίων (hyperouranion) – 'supraterrenales', 'por encima del cielo'. µεσοπετεῖς (mesopeteis) – 'intermedias', 'que caen en medio'; Dionisio usa este término para indicar que incluso las jerarquías más elevadas se consideran a sí mismas en una posición receptiva y humilde frente a las iluminaciones directas de la Divinidad, a pesar de su alta posición.",
+                              "notesLinguistics": "La construcción 'como si fueran intermedias' subraya la humildad y la conciencia de la distancia infinita entre la criatura más excelsa y la fuente divina, lo que les impulsa a buscar reverentemente las iluminaciones."
+                            },
+                            "originalText": "Ἄγαµαι δὲ ὅτι καὶ τῶν ὑπερουρανίων οὐσιῶν αἱ πρῶται καὶ τόσον ἁπάσας ὑπερκείµεναι τῶν θεαρχικῶν ἐλλάµψεων ὡς µεσοπετεῖς εὐλαβῶς ἐφίενται.",
+                            "spanishTranslation": "Y me maravilla que incluso las primeras de las sustancias supraterrenales, y que sobrepasan a todas las demás, anhelen reverentemente las iluminaciones divinas como si fueran intermedias."
+                          },
+                          {
+                            "keywords": [
+                              "vestidos rojos",
+                              "conocimiento divino",
+                              "progresión divina",
+                              "orden jerárquico",
+                              "humildad"
+                            ],
+                            "lineNumber": [
+                              560,
+                              561,
+                              562,
+                              563,
+                              564
+                            ],
+                            "notes": {
+                              "notesBiblical": "La pregunta «∆ιὰ τί σου ἐρυθρὰ τὰ ἱµάτια;» es una cita directa de Isaías 63:2. Dionisio la interpreta como un ejemplo de la reverencia y el orden jerárquico, donde incluso las inteligencias celestiales más altas esperan la debida revelación en lugar de precipitarse con preguntas directas, primero deliberando entre ellas.",
+                              "notesGreek": "µαθητιῶσι (mathētiōsi) – 'desean aprender', 'quieren ser discípulos'. προπηδῶσαι (propēdōsai) – 'saltar adelante', 'precipitarse', destacando la importancia de respetar el orden divino en la adquisición del conocimiento."
+                            },
+                            "originalText": "Καὶ γὰρ οὐκ αὐτόθεν ἐρωτῶσι «∆ιὰ τί σου ἐρυθρὰ τὰ ἱµάτια;», πρὸς ἑαυτὰς δὲ διαποροῦσι πρότερον, ἐνδεικνύµεναι µὲν ὅτι µαθητιῶσι καὶ τῆς θεουργικῆς γνώσεως ἐφίενται, µὴ προπηδῶσαι δὲ τῆς κατὰ θείαν πρόοδον ἐνδιδοµένης ἐλλάµψεως.",
+                            "spanishTranslation": "Pues no preguntan directamente: «¿Por qué son rojos tus vestidos?», sino que primero se interrogan entre sí, mostrando que desean aprender y anhelan el conocimiento divino, pero sin adelantarse a la iluminación que se les concede según la progresión divina."
+                          },
+                          {
+                            "keywords": [
+                              "jerarquía celestial",
+                              "inteligencias celestiales",
+                              "Fuente de consagración",
+                              "purificación",
+                              "luz inagotable",
+                              "perfección",
+                              "conocimiento primigenio"
+                            ],
+                            "lineNumber": [
+                              565,
+                              566,
+                              567,
+                              568,
+                              569,
+                              570
+                            ],
+                            "notes": {
+                              "notesGreek": "τελεταρχίας (teletarchías) – 'Fuente de toda consagración', 'Principio de la perfección/iniciación'. Es un término clave para Dionisio, refiriéndose a Dios como el origen de todo orden y santidad. ἀπλέτου φωτὸς (aplétou photós) – 'luz inagotable', 'luz ilimitada', que subraya la plenitud y la infinitud de la luz divina. πρωτοδότου (protodótou) – 'primigenio', 'que da primero', indicando que Dios es la fuente original y primaria de todo conocimiento.",
+                              "notesLinguistics": "Este pasaje está cargado de terminología técnica dionisiana que describe el proceso de la theosis o divinización a través de la jerarquía: καθαίρεται (kathairetai - es purificada), φωτίζεται (phōtizetai - es iluminada), τελεσιουργεῖται (telesiourgeitai - es perfeccionada). Estas acciones son las etapas del camino espiritual en su sistema."
+                            },
+                            "originalText": "Οὐκοῦν ἡ πρώτη τῶν οὐρανίων νοῶν ἱεραρχία πρὸς αὐτῆς τῆς τελεταρχίας ἱεραρχουµένη τῷ ἐπ' αὐτὴν ἀµέσως ἀνατεί νεσθαι τῆς παναγεστάτης καθάρσεως τοῦ ἀπλέτου φωτὸς τῆς προτελείου τελεσιουργίας ἀναλόγως αὐτῇ πληρουµένη καθαίρεται καὶ φωτίζεται καὶ τελεσιουργεῖται, πάσης µὲν ὑφέσεως ἀµιγὴς πρώτου δὲ φωτὸς πλήρης καὶ πρωτοδότου γνώσεως καὶ ἐπιστήµης µέτοχος ἀποτελουµένη.",
+                            "spanishTranslation": "Así pues, la primera jerarquía de las inteligencias celestiales, jerarquizada por la misma Fuente de toda consagración al elevarse inmediatamente hacia ella la purificación santísima de la luz inagotable de la perfección inicial, es purificada, iluminada y perfeccionada, siendo colmada en proporción a ella misma, quedando libre de toda deficiencia y llena de la primera luz y haciéndose partícipe del conocimiento y la ciencia primigenios."
+                          },
+                          {
+                            "keywords": [
+                              "purificación",
+                              "iluminación",
+                              "perfección",
+                              "conocimiento divino",
+                              "ignorancia",
+                              "iniciaciones",
+                              "contemplación",
+                              "ciencia"
+                            ],
+                            "lineNumber": [
+                              571,
+                              572,
+                              573,
+                              574,
+                              575,
+                              576,
+                              577,
+                              578
+                            ],
+                            "notes": {
+                              "notesGreek": "κάθαρσις (kátharsis), φωτισµός (phōtismós), τελείωσις (teleíōsis) – Estos son los tres pasos clásicos del camino místico y jerárquico en la teología dionisiana: purificación, iluminación y perfección (o unión). Son el núcleo de su enseñanza sobre la ascensión espiritual. θεαρχικῆς ἐπιστήµης (thearchikēs epistēmēs) – 'conocimiento divino' o 'ciencia de la Divina Jerarquía', enfatizando la naturaleza de este conocimiento como directamente derivado de la Divinidad.",
+                              "notesLinguistics": "Dionisio define cada etapa del proceso místico-jerárquico: la purificación elimina la ignorancia mediante el conocimiento ordenado, la iluminación hace que se contemple lo que antes era oculto, y la perfección arraiga este conocimiento en una ciencia constante (ἕξις epistēmē)."
+                            },
+                            "originalText": "Συνελὼν δὲ καὶ τοῦτο φαίην ἂν οὐκ ἀπεικότως ὅτι καὶ κάθαρσίς ἐστι καὶ φωτισµὸς καὶ τελείωσις ἡ τῆς θεαρχικῆς ἐπιστήµης µετάληψις, ἀγνοίας µὲν οἷον ἀποκαθαίρουσα τῇ κατὰ τάξιν ἐνδιδοµένῃ γνώσει τῶν τελεω τέρων µυήσεων, φωτίζουσα δὲ αὐτῇ τῇ θείᾳ γνώσει δι' ἧς καὶ καθαίρει τὴν οὐ πρότερον ἐποπτεύσασαν ὅσα νῦν ἐκφαίνεται διὰ τῆς ὑψηλοτέρας ἐλλάµψεως, καὶ τελειοῦσα πάλιν αὐτῷ τῷ φωτὶ τῇ καθ' ἕξιν ἐπιστήµῃ τῶν φανοτάτων µυήσεων.",
+                            "spanishTranslation": "En resumen, diría no sin razón que la participación en el conocimiento divino es purificación, iluminación y perfección: purificando, por así decirlo, de la ignorancia por el conocimiento de las iniciaciones más perfectas que se concede en orden; iluminando por el mismo conocimiento divino, por el cual también purifica al que antes no había contemplado lo que ahora se manifiesta a través de la iluminación superior; y perfeccionando, de nuevo, por la misma luz en la posesión de la ciencia de las iniciaciones más manifiestas."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 4,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 7,
+                    "chapterSummary": "Dionisio describe la primera jerarquía celestial (Serafines, Querubines y Tronos), su proximidad a Dios, su constante movimiento alrededor de la sabiduría divina, su iluminación y participación en la divinidad, y cómo esta jerarquía transmite el conocimiento a las subsiguientes. También cita himnos bíblicos asociados a estas jerarquías.",
+                    "sections": [
+                      {
+                        "section": 4,
+                        "text": [
+                          {
+                            "keywords": [
+                              "primera jerarquía",
+                              "esencias celestiales"
+                            ],
+                            "lineNumber": [
+                              579
+                            ],
+                            "notes": {},
+                            "originalText": "Αὕτη µὲν οὖν ἐστιν ὡς κατ' ἐµὴν ἐπιστήµην ἡ πρώτη τῶν",
+                            "spanishTranslation": "Esta, pues, es, según mi entendimiento, la primera de las"
+                          },
+                          {
+                            "keywords": [
+                              "ordenación",
+                              "Alrededor de Dios",
+                              "proximidad"
+                            ],
+                            "lineNumber": [
+                              580
+                            ],
+                            "notes": {
+                              "notesGeneral": "Se refiere a la primera jerarquía celestial (Serafines, Querubines, Tronos) que están en la máxima proximidad a Dios.",
+                              "notesGreek": "«Κύκλῳ θεοῦ» (Kýklō Theou) significa 'Alrededor de Dios' o 'en círculo alrededor de Dios', indicando una cercanía y movimiento constante en torno a la divinidad."
+                            },
+                            "originalText": "οὐρανίων οὐσιῶν διακόσµησις ἡ «Κύκλῳ θεοῦ» καὶ περὶ θεὸν ἀµέσως",
+                            "spanishTranslation": "celestiales esencias, la ordenación que está «Alrededor de Dios» y que, inmediatamente, cerca de Dios,"
+                          },
+                          {
+                            "keywords": [
+                              "danza eterna",
+                              "sabiduría divina"
+                            ],
+                            "lineNumber": [
+                              581
+                            ],
+                            "notes": {},
+                            "originalText": "ἑστηκυῖα καὶ ἁπλῶς καὶ ἀκαταλήκτως περιχορεύουσα τὴν αἰώνιον αὐτοῦ",
+                            "spanishTranslation": "está establecida y simple e incesantemente danza alrededor de Su eterna"
+                          },
+                          {
+                            "keywords": [
+                              "fundación angélica",
+                              "siempre-movible"
+                            ],
+                            "lineNumber": [
+                              582
+                            ],
+                            "notes": {
+                              "notesGreek": "«ἀεικίνητον ἵδρυσιν» (aeikinēton hidrysīn) denota una 'fundación siempre en movimiento' o 'establecimiento constantemente activo', sugiriendo su dinamismo y permanencia a la vez."
+                            },
+                            "originalText": "γνῶσιν κατὰ τὴν ὑπερτάτην ὡς ἐν ἀγγέλοις ἀεικίνητον ἵδρυσιν, πολλὰς",
+                            "spanishTranslation": "sabiduría, según la altísima y, entre los ángeles, siempre-movible fundación; viendo muchas"
+                          },
+                          {
+                            "keywords": [
+                              "contemplaciones",
+                              "destellos divinos"
+                            ],
+                            "lineNumber": [
+                              583
+                            ],
+                            "notes": {
+                              "notesGeneral": "Las «θεωρίας» (theōrías) se refieren a visiones o contemplaciones divinas y puras."
+                            },
+                            "originalText": "µὲν καὶ µακαρίας ὁρῶσα καθαρῶς θεωρίας, ἁπλᾶς δὲ καὶ ἀµέσους µαρ",
+                            "spanishTranslation": "y bienaventuradas contemplaciones puramente, e iluminada por simples e inmediatos destellos,"
+                          },
+                          {
+                            "keywords": [
+                              "alimento divino"
+                            ],
+                            "lineNumber": [
+                              584
+                            ],
+                            "notes": {},
+                            "originalText": "µαρυγὰς ἐλλαµποµένη, καὶ θείας τροφῆς ἀποπληρουµένη πολλῆς µὲν τῇ",
+                            "spanishTranslation": "y siendo colmada de un abundante alimento divino por el"
+                          },
+                          {
+                            "keywords": [
+                              "unidad teárquica",
+                              "indivisible"
+                            ],
+                            "lineNumber": [
+                              585
+                            ],
+                            "notes": {
+                              "notesGreek": "«θεαρχικῆς» (thearchikēs) se refiere a la 'divina' o 'teárquica', la autoridad y principio de Dios."
+                            },
+                            "originalText": "πρωτοδότῳ χύσει µιᾶς δὲ τῇ ἀποικίλτῳ καὶ ἑνοποιῷ τῆς θεαρχικῆς",
+                            "spanishTranslation": "derramamiento original, pero uno en la indivisible y unificadora unidad de la"
+                          },
+                          {
+                            "keywords": [
+                              "comunión divina",
+                              "cooperación"
+                            ],
+                            "lineNumber": [
+                              586
+                            ],
+                            "notes": {
+                              "notesGeneral": "La «ἑστίασις» (hestíasis) puede entenderse como una 'festividad' o 'banquete', una metáfora para la participación en la gracia divina."
+                            },
+                            "originalText": "ἑστιάσεως ἑνότητι, πολλῆς δὲ κοινωνίας θεοῦ καὶ συνεργίας ἠξιωµένη τῇ",
+                            "spanishTranslation": "festividad teárquica; y siendo digna de mucha comunión con Dios y cooperación por la"
+                          },
+                          {
+                            "keywords": [
+                              "asimilación",
+                              "disposiciones"
+                            ],
+                            "lineNumber": [
+                              587
+                            ],
+                            "notes": {
+                              "notesGreek": "«ἀφοµοίωσις» (aphomoiōsis) significa 'asimilación' o 'semejanza', un concepto clave en la teología de Dionisio para describir la unión con lo divino."
+                            },
+                            "originalText": "πρὸς αὐτὸν ὡς ἐφικτὸν ἀφοµοιώσει τῶν καλῶν ἕξεών τε καὶ ἐνεργειῶν,",
+                            "spanishTranslation": "tan posible como la asimilación a Él en las buenas disposiciones y actividades,"
+                          },
+                          {
+                            "keywords": [
+                              "conocimiento trascendente",
+                              "ciencia teárquica"
+                            ],
+                            "lineNumber": [
+                              588
+                            ],
+                            "notes": {},
+                            "originalText": "πολλὰ δὲ τῶν θείων ὑπερκειµένως γινώσκουσα καὶ θεαρχικῆς ἐπιστήµης",
+                            "spanishTranslation": "conociendo muchas cosas divinas de manera trascendente y siendo partícipe de la ciencia teárquica"
+                          },
+                          {
+                            "keywords": [
+                              "participación",
+                              "conocimiento"
+                            ],
+                            "lineNumber": [
+                              589
+                            ],
+                            "notes": {
+                              "notesGreek": "«µετουσία» (metousía) significa 'participación' o 'comunión', un término filosófico central para Dionisio."
+                            },
+                            "originalText": "καὶ γνώσεως ἐν µετουσίᾳ κατὰ τὸ θεµιτὸν γινοµένη.",
+                            "spanishTranslation": "y el conocimiento en la participación según lo permitido."
+                          },
+                          {
+                            "keywords": [
+                              "himnos",
+                              "teología"
+                            ],
+                            "lineNumber": [
+                              590
+                            ],
+                            "notes": {},
+                            "originalText": "∆ιὸ καὶ ὕµνους αὐτῆς",
+                            "spanishTranslation": "Por eso también la teología ha transmitido a los de la tierra sus himnos,"
+                          },
+                          {
+                            "keywords": [
+                              "iluminación",
+                              "excelencia"
+                            ],
+                            "lineNumber": [
+                              591
+                            ],
+                            "notes": {},
+                            "originalText": "ἡ θεολογία τοῖς ἐπὶ γῆς παραδέδωκεν ἐν οἷς ἱερῶς ἀναφαίνεται τὸ τῆς",
+                            "spanishTranslation": "en los cuales se manifiesta sagradamente la excelencia de su"
+                          },
+                          {
+                            "keywords": [
+                              "altísima iluminación"
+                            ],
+                            "lineNumber": [
+                              592
+                            ],
+                            "notes": {},
+                            "originalText": "ὑπερτάτης αὐτῆς ἐλλάµψεως ὑπερέχον.",
+                            "spanishTranslation": "altísima iluminación."
+                          },
+                          {
+                            "keywords": [
+                              "alabanzas",
+                              "sensiblemente"
+                            ],
+                            "lineNumber": [
+                              593
+                            ],
+                            "notes": {},
+                            "originalText": "Οἱ µὲν γὰρ αὐτῆς αἰσθητῶς εἰπεῖν",
+                            "spanishTranslation": "Algunos de ellos, por ejemplo, sensiblemente,"
+                          },
+                          {
+                            "keywords": [
+                              "voz de aguas",
+                              "gloria del Señor"
+                            ],
+                            "lineNumber": [
+                              594
+                            ],
+                            "notes": {
+                              "notesBiblical": "La frase «Ὡς φωνὴ ὑδάτων» (Hōs phōnē hydatōn) se refiere a Apocalipsis 1:15 o 14:2, donde la voz de Dios o de los ángeles es descrita como el sonido de muchas aguas. La cita «Εὐλογηµένη ἡ δόξα κυρίου ἐκ τοῦ τόπου αὐτοῦ» (Eulogēmenē hē doxa Kyriou ek tou topou autou) es una referencia a Ezequiel 3:12 (LXX), «Bendita sea la gloria del Señor desde su lugar»."
+                            },
+                            "originalText": "«Ὡς φωνὴ ὑδάτων» ἀναβοῶσιν «Εὐλογηµένη ἡ δόξα κυρίου ἐκ τοῦ",
+                            "spanishTranslation": "claman «¡Como voz de muchas aguas!» «¡Bendita sea la gloria del Señor desde su"
+                          },
+                          {
+                            "keywords": [
+                              "himno",
+                              "venerable teología"
+                            ],
+                            "lineNumber": [
+                              595
+                            ],
+                            "notes": {},
+                            "originalText": "τόπου αὐτοῦ», οἱ δὲ τὴν πολυύµνητον ἐκείνην καὶ σεβασµιωτάτην",
+                            "spanishTranslation": "lugar». Otros, por su parte, proclaman aquella muy celebrada y venerable"
+                          },
+                          {
+                            "keywords": [
+                              "Santo, santo, santo",
+                              "Señor Sabaoth"
+                            ],
+                            "lineNumber": [
+                              596
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita «Ἅγιος ἅγιος ἅγιος κύριος Σαβαώθ, πλήρης πᾶσα ἡ γῆ τῆς δόξης αὐτοῦ» (Hagios hagios hagios Kyrios Sabaōth, plērēs pasa hē gē tēs doxēs autou) es el Sanctus, tomado de Isaías 6:3, un himno serafín. «Sabaώth» (Σαβαώθ) es una transliteración griega del hebreo 'ejércitos', refiriéndose al 'Señor de los Ejércitos'."
+                            },
+                            "originalText": "ἀνακράζουσι θεολογίαν «Ἅγιος ἅγιος ἅγιος κύριος Σαβαώθ, πλήρης",
+                            "spanishTranslation": "teología: «¡Santo, santo, santo es el Señor Sabaoth, la tierra toda está llena"
+                          },
+                          {
+                            "keywords": [
+                              "gloria divina"
+                            ],
+                            "lineNumber": [
+                              597
+                            ],
+                            "notes": {},
+                            "originalText": "πᾶσα ἡ γῆ τῆς δόξης αὐτοῦ».",
+                            "spanishTranslation": "de su gloria!»."
+                          },
+                          {
+                            "keywords": [
+                              "alabanzas",
+                              "intelectos supracelestiales"
+                            ],
+                            "lineNumber": [
+                              598
+                            ],
+                            "notes": {},
+                            "originalText": "Ταύτας δὲ τὰς ὑπερτάτας τῶν ὑπερου",
+                            "spanishTranslation": "Estas altísimas alabanzas de los intelectos sobrecelestiales"
+                          },
+                          {
+                            "keywords": [
+                              "himnos divinos"
+                            ],
+                            "lineNumber": [
+                              599
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dionisio se refiere aquí a obras anteriores suyas, implícitamente sugiriendo una coherencia en su corpus."
+                            },
+                            "originalText": "ρανίων νοῶν ὑµνολογίας ἤδη µὲν ἐν τοῖς περὶ τῶν θείων ὕµνων ὡς",
+                            "spanishTranslation": "ya las hemos desarrollado, en la medida de lo posible, en nuestros tratados sobre los himnos divinos,"
+                          },
+                          {
+                            "keywords": [
+                              "desarrollo",
+                              "suficiente"
+                            ],
+                            "lineNumber": [
+                              600
+                            ],
+                            "notes": {},
+                            "originalText": "ἐφικτὸν ἀνεπτύξαµεν καὶ εἴρηται περὶ τούτων ἐν ἐκείνοις ὡς καθ' ἡµᾶς",
+                            "spanishTranslation": "y en ellos se ha dicho sobre estas cosas suficientemente, según nuestra capacidad."
+                          },
+                          {
+                            "keywords": [
+                              "recordatorio",
+                              "momento presente"
+                            ],
+                            "lineNumber": [
+                              601
+                            ],
+                            "notes": {},
+                            "originalText": "ἱκανῶς, ἀφ' ὧν εἰς ὑπόµνησιν ἀρκεῖ φάναι τοσοῦτον κατὰ τὸν παρόντα",
+                            "spanishTranslation": "De estas, para recordarlas, basta decir tanto en el presente"
+                          },
+                          {
+                            "keywords": [
+                              "ciencia teológica",
+                              "primera ordenación"
+                            ],
+                            "lineNumber": [
+                              602
+                            ],
+                            "notes": {},
+                            "originalText": "καιρὸν ὅτι τὴν θεολογικὴν ἐπιστήµην ἡ πρώτη διακόσµησις ὡς θεµιτὸν",
+                            "spanishTranslation": "momento que la primera ordenación, habiendo sido iluminada con la ciencia teológica, según lo permitido,"
+                          },
+                          {
+                            "keywords": [
+                              "bondad teárquica",
+                              "jerarquía buena"
+                            ],
+                            "lineNumber": [
+                              603
+                            ],
+                            "notes": {},
+                            "originalText": "ἐλλαµφθεῖσα πρὸς τῆς θεαρχικῆς ἀγαθότητος, ταύτης ὡς ἀγαθοειδὴς",
+                            "spanishTranslation": "por la bondad teárquica, como jerarquía de naturaleza buena,"
+                          },
+                          {
+                            "keywords": [
+                              "transmisión",
+                              "jerarquías subsiguientes"
+                            ],
+                            "lineNumber": [
+                              604
+                            ],
+                            "notes": {},
+                            "originalText": "ἱεραρχία καὶ τοῖς µετ' αὐτὴν ἑξῆς µεταδέδωκεν, ἐκεῖνο κατ' ἐπιτοµὴν εἰπεῖν",
+                            "spanishTranslation": "ha transmitido a las subsiguientes jerarquías lo siguiente, para decirlo en resumen:"
+                          },
+                          {
+                            "keywords": [
+                              "Tearquía",
+                              "venerable",
+                              "alabada"
+                            ],
+                            "lineNumber": [
+                              605
+                            ],
+                            "notes": {},
+                            "originalText": "ὑφηγουµένη τὸ τὴν σεβασµίαν αὐτὴν καὶ ὑπερεύφηµον καὶ πανεύφηµον",
+                            "spanishTranslation": "enseñando que es apropiado y razonable que la venerable, supremamente alabada y universalmente alabada"
+                          },
+                          {
+                            "keywords": [
+                              "conocimiento divino",
+                              "intelectos receptores de Dios"
+                            ],
+                            "lineNumber": [
+                              606
+                            ],
+                            "notes": {
+                              "notesGreek": "«θεοδόχων νοῶν» (theodochōn noōn) se refiere a los 'intelectos receptores de Dios', es decir, las jerarquías celestiales superiores que reciben directamente la iluminación divina."
+                            },
+                            "originalText": "θεαρχίαν θεµιτὸν εὐλόγως εἶναι πρὸς τῶν θεοδόχων ὡς ἐφικτὸν γινώ",
+                            "spanishTranslation": "Tearquía sea conocida y alabada, en la medida de lo posible, por los intelectos receptores de Dios"
+                          },
+                          {
+                            "keywords": [
+                              "lugares divinos",
+                              "descanso teárquico"
+                            ],
+                            "lineNumber": [
+                              607
+                            ],
+                            "notes": {
+                              "notesGeneral": "La expresión «θεῖοι «Τόποι» (theioi Tópoi) o 'lugares divinos' se refiere a una noción platónica y neoplatónica de la mente como el 'lugar' donde reside lo divino."
+                            },
+                            "originalText": "σκεσθαι καὶ ὑµνεῖσθαι νοῶν (οὗτοι γάρ εἰσιν ὡς θεοειδεῖς οἱ θεῖοι «Τόποι»",
+                            "spanishTranslation": "(pues estos son, como divinos 'lugares', los divinos"
+                          },
+                          {
+                            "keywords": [
+                              "Mónada",
+                              "Unidad trisupostática"
+                            ],
+                            "lineNumber": [
+                              608
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia a «καταπαύσεως» (katapauseōs), 'descanso' o 'reposo', probablemente alude a pasajes bíblicos sobre el reposo de Dios o el reposo sabático, sugiriendo la paz y estabilidad inherentes a la divinidad.",
+                              "notesGreek": "«Μονάς» (Monás) significa 'unidad' o 'mónada', un concepto filosófico que denota una entidad única e indivisible, en este contexto, la singularidad de Dios."
+                            },
+                            "originalText": "τῆς θεαρχικῆς ὡς τὰ λόγιά φησι «καταπαύσεως») καὶ µὴν ὅτι µονάς ἐστι",
+                            "spanishTranslation": "de la 'descansos' teárquicos, como dicen las Escrituras); y además, que es una Mónada"
+                          },
+                          {
+                            "keywords": [
+                              "esencias supracelestiales",
+                              "Trinidad"
+                            ],
+                            "lineNumber": [
+                              609
+                            ],
+                            "notes": {
+                              "notesGreek": "«τρισυπόστατος» (trisyphypostatos) significa 'trisupostático' o 'con tres hipóstasis', un término teológico clave para describir la Trinidad (Padre, Hijo, Espíritu Santo)."
+                            },
+                            "originalText": "καὶ ἑνὰς τρισυπόστατος ἀπὸ τῶν ὑπερουρανίων οὐσιῶν ἄχρι τῶν ἐσ",
+                            "spanishTranslation": "y una Unidad trisupostática que, desde las esencias supracelestiales hasta los confines"
+                          },
+                          {
+                            "keywords": [
+                              "providencia divina",
+                              "seres"
+                            ],
+                            "lineNumber": [
+                              610
+                            ],
+                            "notes": {},
+                            "originalText": "χάτων τῆς γῆς διεῖσα τὴν ἀγαθωτάτην αὐτῆς ἐπὶ πάντα τὰ ὄντα",
+                            "spanishTranslation": "de la tierra, extiende su bondadosísima providencia sobre todos los seres,"
+                          },
+                          {
+                            "keywords": [
+                              "principio super-originario",
+                              "causa de sustancia"
+                            ],
+                            "lineNumber": [
+                              611
+                            ],
+                            "notes": {
+                              "notesGreek": "«ὑπεράρχιος» (hyperarchios) significa 'super-originaria' o 'por encima de todo principio', enfatizando la trascendencia de Dios como la fuente última de todo."
+                            },
+                            "originalText": "πρόνοιαν ὡς πάσης οὐσίας ὑπεράρχιος ἀρχὴ καὶ αἰτία καὶ πάντων",
+                            "spanishTranslation": "como principio y causa super-originaria de toda sustancia, y que a todos"
+                          },
+                          {
+                            "keywords": [
+                              "vínculo incondicionado",
+                              "supraesencial"
+                            ],
+                            "lineNumber": [
+                              612
+                            ],
+                            "notes": {
+                              "notesGreek": "«ὑπερουσίως ἀσχέτῳ συνοχῇ» (hyperousiōs aschetō synochē) se refiere a una 'conexión o unión incondicionada y supraesencial', describiendo la forma en que Dios trasciende y, al mismo tiempo, sostiene todo lo existente."
+                            },
+                            "originalText": "ὑπερουσίως ἀσχέτῳ συνοχῇ περιδεδραγµένη.",
+                            "spanishTranslation": "los abarca con un vínculo incondicionado y supraesencial."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 12,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 12,
+                    "chapterSummary": "Investigación sobre la denominación de los jerarcas humanos como 'ángeles del Señor' y la cuestión de la participación de los órdenes inferiores en los superiores, un tema central en la teología jerárquica.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "oráculos inteligibles",
+                              "contemplación",
+                              "sin participación",
+                              "totalidades superiores",
+                              "jerarca",
+                              "ángel del Señor Todopoderoso",
+                              "mediación"
+                            ],
+                            "lineNumber": [
+                              888,
+                              889,
+                              890,
+                              891
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia a 'Ángel del Señor Todopoderoso' (Ἄγγελος κυρίου παντοκράτορος) evoca pasajes bíblicos donde figuras humanas, como profetas o sacerdotes, son designadas como 'mensajeros' o 'ángeles' de Dios. Un ejemplo claro se encuentra en Malaquías 2:7, donde se dice del sacerdote: 'Porque los labios del sacerdote han de guardar la sabiduría, y de su boca buscarán la ley; porque es mensajero de Jehová de los ejércitos.' Dionisio explora la implicación de tal denominación para un jerarca humano.",
+                              "notesGeneral": "Este fragmento plantea una pregunta fundamental dentro del sistema jerárquico de Dionisio: ¿Cómo pueden las 'últimas' o más bajas órdenes (τὰ τελευταῖα) estar 'sin participación' (ἀµέθεκτα) de las 'totalidades superiores' (τῶν ὑπερτέρων ὁλοτήτων), y aun así un jerarca terrenal ser llamado 'ángel del Señor'? Esto abre la discusión sobre los modos de mediación y la extensión de la influencia divina a través de la jerarquía.",
+                              "notesGreek": "El término 'νοητῶν λογίων' (noētōn logiōn) se refiere a 'oráculos inteligibles' o 'revelaciones divinas que se perciben con la mente o el intelecto', no con los sentidos. 'Φιλοθεάµοσιν' (philotheámosin) describe a aquellos que son 'amantes de la contemplación divina'. 'Ἀµέθεκτα' (amethekta) es crucial y significa 'sin participación', 'no participante' o 'excluido de la comunión'. 'Ἱεράρχης' (hierarchēs) denota un 'líder sagrado', en este contexto, un obispo o un sacerdote que preside la jerarquía eclesiástica terrenal y actúa como mediador."
+                            },
+                            "originalText": "Ζητεῖται δὲ καὶ τοῦτο τοῖς τῶν νοητῶν λογίων φιλοθεάµοσιν· εἰ γὰρ ἀµέθεκτα τῶν ὑπερτέρων ὁλοτήτων εἰσὶ τὰ τελευταῖα, δι' ἣν αἰτίαν ὁ καθ' ἡµᾶς ἱεράρχης «Ἄγγελος κυρίου παντοκράτορος» ὑπὸ τῶν λογίων ὠνόµασται.",
+                            "spanishTranslation": "Y esto también es investigado por aquellos amantes de la contemplación de los oráculos inteligibles: si, en efecto, las últimas [jerarquías o órdenes] son sin participación de las totalidades superiores, ¿por qué razón nuestro jerarca es nombrado por los oráculos 'Ángel del Señor Todopoderoso'?"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 12,
+                    "chapterSummary": "El autor explica cómo las jerarquías inferiores participan de las superiores de manera análoga y subordinada, y justifica la denominación de los jerarcas humanos como 'ángeles' debido a su función mediadora y manifestadora de lo divino.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "argumento",
+                              "coherencia",
+                              "previo"
+                            ],
+                            "lineNumber": [
+                              892
+                            ],
+                            "notes": {
+                              "notesGeneral": "El autor busca asegurar al lector que el argumento actual no contradice lo expuesto anteriormente, un recurso común en la argumentación filosófica y teológica para mantener la coherencia.",
+                              "notesGreek": "'προδιωρισµένοις' (prodiōrisménois) se refiere a 'lo previamente definido' o 'lo establecido de antemano'."
+                            },
+                            "originalText": "Ἔστι δὲ οὐκ ἐναντίος ὁ λόγος ὡς οἶµαι τοῖς προδιωρισµένοις.",
+                            "spanishTranslation": "Y no es la razón, según creo, contraria a lo que se ha establecido previamente."
+                          },
+                          {
+                            "keywords": [
+                              "jerarquía",
+                              "participación",
+                              "subordinación",
+                              "comunión"
+                            ],
+                            "lineNumber": [
+                              893,
+                              894,
+                              895
+                            ],
+                            "notes": {
+                              "notesGeneral": "Aquí se explica la participación diferenciada en el poder divino. Las entidades 'últimas' (de menor rango jerárquico) no tienen la plenitud del poder de las 'primeras' (de mayor rango), pero participan de él de forma 'parcial y análoga', manteniendo una 'comunión' armoniosa.",
+                              "notesGreek": "'ἀποδέουσιν' (apodéousin) significa 'carecen', 'están desprovistos' o 'son inferiores'. 'διακόσµων' (diakosmōn) se refiere a las 'órdenes' o 'jerarquías'. 'συνδετικὴν κοινωνίαν' (syndetikin koinōnian) se traduce como 'comunión vinculante' o 'unidad cohesionada'."
+                            },
+                            "originalText": "Φαµὲν γὰρ ὅτι τῆς ὁλικῆς καὶ ὑπερκειµένης τῶν πρεσβυτέρων διακόσµων δυνάµεως ἀποδέουσιν οἱ τελευταῖοι· τῆς γὰρ µερικῆς καὶ ἀναλόγου µετέχουσι κατὰ τὴν µίαν ἁπάντων ἐναρµόνιον καὶ συνδετικὴν κοινωνίαν.",
+                            "spanishTranslation": "Porque decimos que los últimos están privados de la potencia total y superior de las jerarquías más antiguas; ya que participan de una manera parcial y análoga, conforme a la única comunión armoniosa y vinculante de todos."
+                          },
+                          {
+                            "keywords": [
+                              "Querubines",
+                              "sabiduría",
+                              "conocimiento",
+                              "jerarquía angélica"
+                            ],
+                            "lineNumber": [
+                              896,
+                              897
+                            ],
+                            "notes": {
+                              "notesBiblical": "Los Querubines son ángeles de alta jerarquía mencionados en la Biblia (Génesis 3:24, Ezequiel 10, Hebreos 9:5). En la jerarquía dionisiana, ocupan el segundo coro del primer orden. Su nombre se asocia con el conocimiento y la sabiduría.",
+                              "notesGreek": "'τάξις' (taxis) significa 'orden' o 'rango'. 'ὑψηλοτέρας' (hypsēloteras) es el comparativo de 'alto', significando 'más elevado'."
+                            },
+                            "originalText": "Οἷον ἡ τῶν ἁγίων Χερουβὶµ τάξις µετέχει σοφίας καὶ γνώσεως ὑψηλοτέρας, αἱ δὲ τῶν ὑπ' αὐτοὺς οὐσιῶν διακοσµήσεις µετέχουσι µὲν καὶ αὐταὶ",
+                            "spanishTranslation": "Por ejemplo, la orden de los santos Querubines participa de una sabiduría y un conocimiento más elevados, mientras que las jerarquías de las esencias que están por debajo de ellos también participan de"
+                          },
+                          {
+                            "keywords": [
+                              "sabiduría",
+                              "conocimiento",
+                              "participación",
+                              "proporción",
+                              "intelecto divino"
+                            ],
+                            "lineNumber": [
+                              898,
+                              899,
+                              900,
+                              901,
+                              902
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje detalla la gradación de la participación. Todos los seres 'intelectivos' (νοερῶν) participan de la sabiduría divina, pero la forma de participación (primaria, secundaria, subordinada) depende de su lugar en la jerarquía, según su 'propia proporción' o capacidad (ἀναλογίας).",
+                              "notesGreek": "'µερικῆς' (merikēs) significa 'parcial'. 'ὑφειµένης' (hypheiménēs) significa 'subordinada' o 'inferior'. 'µετουσίᾳ' (metousia) es 'participación'. 'θεοειδέσι τῶν νοερῶν' (theoeidesi tōn noerōn) se refiere a 'los seres intelectivos semejantes a Dios' o 'divinos por naturaleza intelectual'. 'προσεχῶς καὶ πρώτως' (prosechōs kai prōtōs) es 'inmediatamente y primariamente'. 'δευτέρως καὶ ὑφειµένως' (deuterōs kai hypheiménōs) es 'secundariamente y subordinadamente'. 'ἀναλογίας' (analogias) es 'proporción' o 'capacidad'."
+                            },
+                            "originalText": "σοφίας καὶ γνώσεως, µερικῆς δὲ ὅµως ὡς πρὸς ἐκείνους καὶ ὑφειµένης, καὶ τὸ µὲν ὅλως ἐν µετουσίᾳ σοφίας εἶναι καὶ γνώσεως κοινόν ἐστι πᾶσι τοῖς θεοειδέσι τῶν νοερῶν, τὸ δὲ προσεχῶς καὶ πρώτως ἢ δευτέρως καὶ ὑφειµένως οὐκέτι κοινόν, ἀλλ' ὡς ἑκάστῳ πρὸς τῆς οἰκείας ἀναλογίας ὥρισται.",
+                            "spanishTranslation": "sabiduría y conocimiento, pero de manera parcial y subordinada en comparación con ellos; y si bien el estar en participación de la sabiduría y el conocimiento es común a todos los seres intelectivos semejantes a Dios, el participar de forma inmediata y primaria, o de forma secundaria y subordinada, ya no es común, sino que está determinado según la propia proporción de cada uno."
+                          },
+                          {
+                            "keywords": [
+                              "inteligencias divinas",
+                              "propiedades",
+                              "subordinación",
+                              "analogía"
+                            ],
+                            "lineNumber": [
+                              903,
+                              904,
+                              905,
+                              906
+                            ],
+                            "notes": {
+                              "notesGeneral": "El autor generaliza el principio: las jerarquías superiores poseen en plenitud las virtudes de las inferiores (y más), y las inferiores poseen las de las superiores, pero de forma limitada o subordinada. Esto refuerza la idea de una cadena ininterrumpida de participación divina.",
+                              "notesGreek": "'θείων νοῶν' (theiōn noōn) se refiere a 'inteligencias divinas' o 'mentes divinas'. 'ἡµαρτηµένως' (hēmartēmenōs) significa 'erróneamente'. 'περισσῶς' (perissōs) es 'en abundancia', 'excesivamente'. 'ἁγιοπρεπεῖς ἰδιότητας' (hagioprepeis idiotētas) son 'propiedades sagradas' o 'características propias de lo santo'."
+                            },
+                            "originalText": "Τοῦτο δὲ καὶ περὶ πάντων τῶν θείων νοῶν οὐκ ἄν τις ἡµαρτηµένως ὁρίσαιτο· καὶ γὰρ ὥσπερ οἱ πρῶτοι περισσῶς ἔχουσι τὰς τῶν ὑφειµένων ἁγιοπρεπεῖς ἰδιότητας, οὕτως ἔχουσιν οἱ τελευταῖοι τὰς τῶν προτέρων, οὐ µὴν ὁµοίως, ἀλλ' ὑφειµένως.",
+                            "spanishTranslation": "Y nadie podría definir esto erróneamente con respecto a todas las inteligencias divinas; porque así como los primeros poseen en abundancia las propiedades sagradas de los subordinados, de la misma manera los últimos poseen las de los primeros, pero no de la misma forma, sino subordinadamente."
+                          },
+                          {
+                            "keywords": [
+                              "jerarca",
+                              "ángel",
+                              "teología",
+                              "manifestación divina",
+                              "obispo"
+                            ],
+                            "lineNumber": [
+                              907,
+                              908,
+                              909,
+                              910
+                            ],
+                            "notes": {
+                              "notesGeneral": "La conclusión es audaz: si las jerarquías inferiores participan de las superiores, entonces no es inapropiado que un jerarca humano sea llamado 'ángel' por la teología. Esto se debe a que el jerarca humano participa de la función angélica de 'manifestar' lo divino, en la medida que su naturaleza humana lo permite. Es una justificación de la autoridad y el rol mediador del obispo en la jerarquía eclesiástica.",
+                              "notesGreek": "'ἄτοπον' (atopon) significa 'absurdo', 'inapropiado'. 'καθ' ἡµᾶς ἱεράρχην' (kath' hēmas hierarchēn) se refiere a 'nuestro jerarca' o 'el jerarca entre nosotros', generalmente interpretado como el obispo. 'ὑποφητικῆς ἰδιότητος' (hypophētikēs idiotētos) se refiere a la 'propiedad profética' o 'función de anunciar'. 'ἐκφαντορικὴν ὁµοίωσιν' (ekphantorikēn homoiōsin) es 'semejanza manifestadora' o 'función reveladora'. 'ὡς ἐφικτὸν ἀνθρώποις' (hōs ephikton anthrōpois) significa 'en la medida en que es posible para los hombres'."
+                            },
+                            "originalText": "Οὐδὲν οὖν ὡς οἶµαι τὸ ἄτοπον, εἰ καὶ τὸν καθ' ἡµᾶς ἱεράρχην ἄγγελον ἡ θεολογία καλεῖ τὸν κατὰ δύναµιν οἰκείαν µετέχοντα τῆς τῶν ἀγγέλων ὑποφητικῆς ἰδιότητος καὶ πρὸς τὴν ἐκφαντορικὴν αὐτῶν ὁµοίωσιν ὡς ἐφικτὸν ἀνθρώποις ἀνατεινόµενον.",
+                            "spanishTranslation": "Por lo tanto, no hay nada absurdo, según creo, si la teología llama ángel incluso a nuestro propio jerarca, el que participa según su propia capacidad de la propiedad profética de los ángeles y se eleva hacia su semejanza manifestadora en la medida en que es posible para los hombres."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 12,
+                    "chapterSummary": "Dionisio explora la aplicación de la terminología divina a las jerarquías celestiales y a los hombres santos, contrastándola con la trascendencia inefable de Dios y explicando cómo, a través de la imitación y la participación, las criaturas pueden ser llamadas 'dioses' por homonimia.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [
+                              "teología",
+                              "dioses",
+                              "celestiales",
+                              "esencias",
+                              "hombres",
+                              "piadosos",
+                              "sagrados"
+                            ],
+                            "lineNumber": [
+                              911,
+                              912
+                            ],
+                            "notes": {
+                              "notesGreek": "φιλοθεωτάτους (philotheotatous): El superlativo de 'amantes de Dios' o 'los más divinamente observadores', que puede interpretarse como 'los más piadosos' o 'devotos'."
+                            },
+                            "originalText": "Εὑρήσεις δὲ ὅτι καὶ θεοὺς ἡ θεολογία καλεῖ τάς τε οὐρανίας καὶ ὑπὲρ ἡµᾶς οὐσίας καὶ τοὺς παρ' ἡµῖν φιλοθεωτάτους καὶ ἱεροὺς ἄνδρας",
+                            "spanishTranslation": "Y encontrarás que la teología llama 'dioses' tanto a las esencias celestiales y superiores a nosotros, como a los hombres más amantes de Dios y sagrados entre nosotros,"
+                          },
+                          {
+                            "keywords": [
+                              "divinidad",
+                              "misterio",
+                              "supraesencial",
+                              "excluida",
+                              "establecida",
+                              "semejante",
+                              "propia",
+                              "totalidad"
+                            ],
+                            "lineNumber": [
+                              913,
+                              914,
+                              915
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje subraya la trascendencia inefable de la Divinidad, una característica central de la teología apofática de Dionisio, donde se enfatiza lo que Dios no es, más que lo que es.",
+                              "notesGreek": "θεαρχικῆς (thearchikēs): Relativo a la autoridad divina o al principio divino. κρυφιότητος (kryptiotētos): Misterio, ocultamiento. ὑπερουσίως (hyperousiōs): Supraesencialmente, más allá de la esencia. ὑπεριδρυµένης (hyperidrymenēs): Supra-establecida o fundada más allá. ἐµφεροῦς (empherous): Semejante, parecido."
+                            },
+                            "originalText": "καίτοι τῆς θεαρχικῆς κρυφιότητος ὑπερουσίως ἁπάντων ἐξῃρηµένης τε καὶ ὑπεριδρυµένης καὶ µηδενὸς αὐτῇ τῶν ὄντων ἐµφεροῦς ὀνοµάζεσθαι κυρίως καὶ ὁλικῶς δυναµένου.",
+                            "spanishTranslation": "a pesar de que la misteriosa y divina autoridad está, supraesencialmente, excluida y supra-establecida por encima de todas las cosas, y que nada de lo existente puede ser nombrado como semejante a ella de manera propia y en su totalidad."
+                          },
+                          {
+                            "keywords": [
+                              "intelectivos",
+                              "racionales",
+                              "unión",
+                              "divinas",
+                              "iluminaciones",
+                              "imitación",
+                              "dios",
+                              "homonimia"
+                            ],
+                            "lineNumber": [
+                              916,
+                              917,
+                              918,
+                              919
+                            ],
+                            "notes": {
+                              "notesGeneral": "Aquí se introduce la distinción clave entre la inefabilidad absoluta de Dios y la capacidad de las criaturas racionales e intelectivas de participar de lo divino por gracia, a través de la 'imitación de Dios' (theomimēsia) y de recibir una 'homonimia divina', es decir, ser llamados 'dioses' de manera análoga, no idéntica.",
+                              "notesGreek": "ἐλλάµψεις (ellampsis): Iluminaciones, destellos divinos. ἀκαταλήκτως (akataleiktōs): Incesantemente, sin interrupción. θεοµιµησίᾳ (theomimēsia): Imitación de Dios. ὁµωνυµίας (homonymias): Homonimia, compartir un nombre. El concepto de 'homonimia divina' en Dionisio es clave para entender cómo las criaturas pueden ser llamadas 'dioses' sin infringir la trascendencia de Dios."
+                            },
+                            "originalText": "Πλὴν ὅσα τῶν νοερῶν τε καὶ λογικῶν πρὸς τὴν ἕνωσιν αὐτῆς ὅση δύναµις ὁλικῶς ἐπέστραπται καὶ πρὸς τὰς θείας αὐτῆς ἐλλάµψεις ὡς ἐφικτὸν ἀκαταλήκτως ἀνατείνεται, τῇ κατὰ δύναµιν εἰ θέµις εἰπεῖν θεοµιµησίᾳ καὶ τῆς θεϊκῆς ὁµωνυµίας ἠξίωται.",
+                            "spanishTranslation": "Excepto aquellas cosas, tanto intelectivas como racionales, que, con toda la fuerza posible, se han vuelto totalmente hacia su unión, y hacia sus divinas iluminaciones se extienden incesantemente en la medida de lo posible, por su imitación de Dios según la capacidad –si cabe decirlo–, y han sido consideradas dignas de la homonimia divina."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

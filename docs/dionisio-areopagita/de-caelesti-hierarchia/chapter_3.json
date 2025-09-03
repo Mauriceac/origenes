@@ -1,0 +1,919 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 3,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 3,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "jerarquía",
+                              "orden",
+                              "ciencia",
+                              "actividad"
+                            ],
+                            "lineNumber": [
+                              249
+                            ],
+                            "notes": {
+                              "notesGreek": "El autor define 'jerarquía' no solo como una estructura, sino como un proceso dinámico: 'τάξις' (orden), 'ἐπιστήµη' (conocimiento o ciencia), y 'ἐνέργεια' (actividad o energía). Esta concepción va más allá de una mera clasificación, implicando un camino hacia la divinidad."
+                            },
+                            "originalText": "Ἔστι µὲν ἱεραρχία κατ' ἐµὲ τάξις ἱερὰ καὶ ἐπιστήµη καὶ ἐνέργεια",
+                            "spanishTranslation": "Según yo, la jerarquía es un orden sagrado, una ciencia y una actividad"
+                          },
+                          {
+                            "keywords": [
+                              "divino",
+                              "semejanza",
+                              "iluminaciones"
+                            ],
+                            "lineNumber": [
+                              250
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La palabra 'θεοειδὲς' (theoeides) significa 'semejante a Dios' o 'divino'. El participio 'ἀφοµοιουµένη' (aphomoioumenē) indica una acción continua de 'ser asimilado' o 'hacerse semejante'."
+                            },
+                            "originalText": "πρὸς τὸ θεοειδὲς ὡς ἐφικτὸν ἀφοµοιουµένη καὶ πρὸς τὰς ἐνδιδοµένας αὐτῇ",
+                            "spanishTranslation": "que se asimila a lo divino en la medida de lo posible, y se dirige hacia las iluminaciones que le son dadas por Dios"
+                          },
+                          {
+                            "keywords": [
+                              "divino",
+                              "iluminaciones",
+                              "imitación"
+                            ],
+                            "lineNumber": [
+                              251
+                            ],
+                            "notes": {
+                              "notesGreek": "'θεόθεν' (theothen) significa 'de Dios' o 'procedente de Dios'. 'ἐλλάµψεις' (ellampseis) son 'iluminaciones' o 'resplandores'. 'θεοµίµητον' (theomimēton) significa 'imitador de Dios' o 'lo que imita a Dios'."
+                            },
+                            "originalText": "θεόθεν ἐλλάµψεις ἀναλόγως ἐπὶ τὸ θεοµίµητον ἀναγοµένη, τὸ δὲ θεοπρε",
+                            "spanishTranslation": "proporcionalmente, elevándose a la imitación de Dios; la belleza divina"
+                          },
+                          {
+                            "keywords": [
+                              "belleza",
+                              "divina",
+                              "simple",
+                              "bueno",
+                              "origen",
+                              "misterios",
+                              "sin mezcla"
+                            ],
+                            "lineNumber": [
+                              252
+                            ],
+                            "notes": {
+                              "notesGreek": "'θεοπρεπὲς κάλλος' (theoprepes kallos) se refiere a la 'belleza divina' o 'belleza apropiada para Dios'. 'ἁπλοῦν' (haploun) es 'simple'. 'ἀγαθὸν' (agathon) es 'bueno'. 'τελεταρχικὸν' (teletarchikon) significa 'que inicia los ritos sagrados' o 'principio de los misterios'.",
+                              "notesLinguistics": "La estructura 'ὡς ... ὡς ... ὡς' introduce una serie de características de la belleza divina."
+                            },
+                            "originalText": "πὲς κάλλος ὡς ἁπλοῦν ὡς ἀγαθὸν ὡς τελεταρχικὸν ἀµιγὲς µέν ἐστι",
+                            "spanishTranslation": "apropiada para Dios, siendo simple, buena y principio de los misterios, está exenta de toda"
+                          },
+                          {
+                            "keywords": [
+                              "desemejanza",
+                              "comunicativo",
+                              "digno",
+                              "luz"
+                            ],
+                            "lineNumber": [
+                              253
+                            ],
+                            "notes": {},
+                            "originalText": "καθόλου πάσης ἀνοµοιότητος, µεταδοτικὸν δὲ κατ' ἀξίαν ἑκάστῳ τοῦ",
+                            "spanishTranslation": "desemejanza, y es comunicativa para cada uno, según su dignidad, de su propia"
+                          },
+                          {
+                            "keywords": [
+                              "luz",
+                              "perfectivo",
+                              "rito",
+                              "divino",
+                              "armonía"
+                            ],
+                            "lineNumber": [
+                              254
+                            ],
+                            "notes": {
+                              "notesGreek": "'οἰκείου φωτὸς' (oikeiou photos) significa 'luz propia'. 'τελειωτικὸν' (teleiotikon) es 'perfectivo' o 'consumador'. 'ἐν τελετῇ θειοτάτῃ' (en teletē theiotatē) se refiere a un 'rito o iniciación divinísima'."
+                            },
+                            "originalText": "οἰκείου φωτὸς καὶ τελειωτικὸν ἐν τελετῇ θειοτάτῃ κατὰ τὴν πρὸς ἑαυτὸ",
+                            "spanishTranslation": "luz, y perfectiva en un rito divinísimo, según la armoniosa e inalterable configuración"
+                          },
+                          {
+                            "keywords": [
+                              "configuración",
+                              "armonía",
+                              "inalterable"
+                            ],
+                            "lineNumber": [
+                              255
+                            ],
+                            "notes": {
+                              "notesGeneral": "El concepto de 'τελουµένων' (teloumenōn) se refiere a aquellos que están siendo iniciados o perfeccionados en los misterios divinos, lo que subraya el carácter sacramental y transformador de la jerarquía según Dionisio.",
+                              "notesLinguistics": "'ἐναρµονίως' (enarmonios) significa 'en armonía' o 'armoniosamente'. 'ἀπαράλλακτον µόρφωσιν' (aparallakton morphōsin) se traduce como 'configuración inalterable' o 'forma inmutable'."
+                            },
+                            "originalText": "τῶν τελουµένων ἐναρµονίως ἀπαράλλακτον µόρφωσιν.",
+                            "spanishTranslation": "de los que son iniciados hacia ella."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 3,
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "propósito",
+                              "jerarquía",
+                              "Dios",
+                              "asimilación"
+                            ],
+                            "lineNumber": [
+                              256
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Σκοπός\" (skopos) significa \"meta\" o \"propósito\". \"Ἀφοµοίωσις\" (afomoíosis) se refiere a la \"asimilación\" o \"conformidad\", un concepto platónico y neoplatónico fundamental en el pensamiento de Dionisio, que implica la semejanza con lo divino."
+                            },
+                            "originalText": "Σκοπὸς οὖν ἱεραρχίας ἐστὶν ἡ πρὸς θεὸν ὡς ἐφικτὸν ἀφοµοίωσίς",
+                            "spanishTranslation": "El propósito, pues, de la jerarquía es la asimilación a Dios en la medida de lo posible,"
+                          },
+                          {
+                            "keywords": [
+                              "unión",
+                              "guía",
+                              "conocimiento sagrado",
+                              "actividad"
+                            ],
+                            "lineNumber": [
+                              257
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἕνωσις\" (hénosis) significa \"unión\", otro término clave en la mística y teología dionisiana, refiriéndose a la unión mística con Dios."
+                            },
+                            "originalText": "τε καὶ ἕνωσις αὐτὸν ἔχουσα πάσης ἱερᾶς ἐπιστήµης τε καὶ ἐνεργείας",
+                            "spanishTranslation": "y la unión con Él, teniéndolo como guía de todo conocimiento sagrado y de toda actividad,"
+                          },
+                          {
+                            "keywords": [
+                              "divina belleza",
+                              "inquebrantable",
+                              "observar"
+                            ],
+                            "lineNumber": [
+                              258
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Εὐπρέπεια\" (euprepeia) significa \"belleza\", \"decoro\" o \"gracia\". \"Ἀκλινῶς\" (aklinos) significa \"inquebrantablemente\", \"firmemente\"."
+                            },
+                            "originalText": "καθηγεµόνα καὶ πρὸς τὴν αὐτοῦ θειοτάτην εὐπρέπειαν ἀκλινῶς µὲν ὁρῶν",
+                            "spanishTranslation": "y observando inquebrantablemente su divinísima belleza,"
+                          },
+                          {
+                            "keywords": [
+                              "conformación",
+                              "seguidores",
+                              "imágenes divinas"
+                            ],
+                            "lineNumber": [
+                              259
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἀποτυπούµενος\" (apotypoúmenos) participio medio de \"ἀποτυπόω\" significa \"imprimir\", \"representar\", \"conformar\". \"Θιασώτας\" (thasotas) son los \"iniciados\" o \"seguidores\" en un culto o cofradía. \"Ἀγάλµατα\" (agalmata) son \"imágenes\" o \"estatuas (divinas)\"."
+                            },
+                            "originalText": "ὡς δυνατὸν δὲ ἀποτυπούµενος καὶ τοὺς ἑαυτοῦ θιασώτας ἀγάλµατα θεῖα",
+                            "spanishTranslation": "y conformándose a ella en la medida de lo posible, y haciendo de sus propios seguidores imágenes divinas,"
+                          },
+                          {
+                            "keywords": [
+                              "espejos",
+                              "diáfanos",
+                              "inmaculados",
+                              "luz primordial"
+                            ],
+                            "lineNumber": [
+                              260
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἔσοπτρα\" (esoptra) son \"espejos\". \"Διειδέστατα\" (dieidéstata) superlativo de \"διειδής\" significa \"más transparente\", \"más diáfano\". \"Ἀκηλίδωτα\" (akelídata) significa \"inmaculados\", \"sin mancha\". \"Ἀρχιφώτου\" (archifótou) compuesto de \"ἀρχή\" (principio) y \"φῶς\" (luz), \"luz primordial\"."
+                            },
+                            "originalText": "τελῶν ἔσοπτρα διειδέστατα καὶ ἀκηλίδωτα, δεκτικὰ τῆς ἀρχιφώτου καὶ",
+                            "spanishTranslation": "espejos diáfanos e inmaculados, receptivos del rayo de luz primordial y divina,"
+                          },
+                          {
+                            "keywords": [
+                              "rayo divino",
+                              "resplandor",
+                              "llenarse"
+                            ],
+                            "lineNumber": [
+                              261
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Θεαρχικῆς\" (thearchikés) se refiere a \"la causa divina\", \"divina\". \"Ἀκτῖνος\" (aktínos) es \"rayo\" o \"haz de luz\". \"Αἴγλης\" (aigles) significa \"resplandor\", \"esplendor\". \"Ἀποπληρούµενα\" (apoplerúmena) participio medio-pasivo de \"ἀποπληρόω\" que significa \"llenar completamente\"."
+                            },
+                            "originalText": "θεαρχικῆς ἀκτῖνος καὶ τῆς µὲν ἐνδιδοµένης αἴγλης ἱερῶς ἀποπληρούµενα,",
+                            "spanishTranslation": "y llenándose sagradamente del resplandor que se les concede,"
+                          },
+                          {
+                            "keywords": [
+                              "reflejar",
+                              "sin envidia",
+                              "leyes divinas"
+                            ],
+                            "lineNumber": [
+                              262
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἀφθόνως\" (afthónos) significa \"sin envidia\", \"abundantemente\". \"Ἀναλάµποντα\" (analámponta) participio de \"ἀναλάµπω\" que significa \"volver a brillar\", \"reflejar\". \"Θεαρχικοὺς θεσµούς\" (thearchikous thesmoús) significa \"leyes divinas\" o \"decretos divinos\"."
+                            },
+                            "originalText": "ταύτην δὲ αὖθις ἀφθόνως εἰς τὰ ἑξῆς ἀναλάµποντα κατὰ τοὺς θεαρχικοὺς",
+                            "spanishTranslation": "y a su vez, haciendo que este resplandezca sin envidia en los siguientes, según las leyes divinas."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              263
+                            ],
+                            "notes": {
+                              "notesLinguistics": "Esta palabra completa la frase de la línea anterior. Se ha incluido en la traducción de la línea 262."
+                            },
+                            "originalText": "θεσµούς.",
+                            "spanishTranslation": "(Parte de la oración anterior)"
+                          },
+                          {
+                            "keywords": [
+                              "lícito",
+                              "ritos sagrados",
+                              "iniciados"
+                            ],
+                            "lineNumber": [
+                              264
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Θεµιτόν\" (themitón) significa \"lícito\", \"permitido\". \"Τελεταῖς\" (teletaís) aquí se refiere a los \"ritos\" o \"misterios\", pero en dativo plural puede referirse a \"los que presiden los ritos\" o \"a los ritos\". Por el contexto, se refiere a los que están a cargo de los ritos."
+                            },
+                            "originalText": "Οὐ γὰρ θεµιτόν ἐστι τοῖς τῶν ἱερῶν τελεταῖς ἢ τοῖς ἱερῶς",
+                            "spanishTranslation": "Porque no es lícito que los que presiden los ritos sagrados, o los que son sagradamente iniciados,"
+                          },
+                          {
+                            "keywords": [
+                              "actuar",
+                              "disposiciones",
+                              "dirección de ritos"
+                            ],
+                            "lineNumber": [
+                              265
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Τελουµένοις\" (telouménois) participio pasivo de \"τελέω\" (realizar, iniciar), \"los que están siendo iniciados\". \"Ἐνεργῆσαί\" (energēsai) infinitivo aoristo de \"ἐνεργέω\" (actuar, obrar). \"Τελεταρχίας\" (teletarchías) se refiere a la \"dirección de los ritos\" o la \"presidencia de los misterios\". \"Διατάξεις\" (diatáxeis) significa \"disposiciones\", \"reglamentos\"."
+                            },
+                            "originalText": "τελουµένοις ἐνεργῆσαί τι καθόλου παρὰ τὰς τῆς οἰκείας τελεταρχίας ἱερὰς",
+                            "spanishTranslation": "hagan absolutamente nada en contra de las sagradas disposiciones de su propia dirección de los ritos,"
+                          },
+                          {
+                            "keywords": [
+                              "existir",
+                              "gloria contemplativa"
+                            ],
+                            "lineNumber": [
+                              266
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ὑπάρχειν\" (hypárchein) significa \"existir\", \"ser\". \"Θεωτικῆς ἀγλαΐας\" (theōtikēs aglaías) \"gloria contemplativa\". \"Ἀγλαΐα\" (aglaía) significa \"esplendor\", \"gloria\"."
+                            },
+                            "originalText": "διατάξεις ἀλλ' οὐδὲ ὑπάρχειν ἑτέρως, εἰ τῆς θεωτικῆς αὐτῆς ἀγλαΐας",
+                            "spanishTranslation": "ni siquiera existan de otro modo, si anhelan su propia gloria contemplativa"
+                          },
+                          {
+                            "keywords": [
+                              "anhelar",
+                              "mirar",
+                              "conformarse"
+                            ],
+                            "lineNumber": [
+                              267
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἐφίενται\" (ephíentai) de \"ἐφίεμαι\" significa \"anhelar\", \"desear\". \"Ἱεροπρεπῶς\" (hieroprepōs) adverbio, \"de manera sagrada\", \"con decoro sagrado\". \"Ἀποσκοποῦσι\" (aposkopoúsi) de \"ἀποσκοπέω\" significa \"mirar fijamente\", \"contemplar\"."
+                            },
+                            "originalText": "ἐφίενται καὶ πρὸς αὐτὴν ἱεροπρεπῶς ἀποσκοποῦσι καὶ ἀποτυποῦνται",
+                            "spanishTranslation": "y miran hacia ella de manera sagrada y se conforman a ella"
+                          },
+                          {
+                            "keywords": [
+                              "proporción",
+                              "inteligencias sagradas"
+                            ],
+                            "lineNumber": [
+                              268
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Νοῶν\" (noōn) genitivo plural de \"νοῦς\" (nous), que significa \"mente\", \"inteligencia\", \"intelecto\". \"Ἀναλογίαν\" (analogían) significa \"proporción\", \"analogía\"."
+                            },
+                            "originalText": "κατὰ τὴν ἑκάστου τῶν ἱερῶν νοῶν ἀναλογίαν.",
+                            "spanishTranslation": "según la proporción de cada una de las inteligencias sagradas."
+                          },
+                          {
+                            "keywords": [
+                              "jerarquía"
+                            ],
+                            "lineNumber": [
+                              269
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Οὐκοῦν\" (oukoun) significa \"así pues\", \"por consiguiente\"."
+                            },
+                            "originalText": "Οὐκοῦν ἱεραρχίαν ὁ λέγων",
+                            "spanishTranslation": "Así pues, el que habla de jerarquía"
+                          },
+                          {
+                            "keywords": [
+                              "disposición sagrada",
+                              "imagen",
+                              "divina belleza"
+                            ],
+                            "lineNumber": [
+                              270
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Διακόσµησιν\" (diakósmēsin) significa \"disposición\", \"ordenamiento\", \"organización\". \"Ὡραιότητος\" (horaiótētos) significa \"belleza\", \"hermosura\"."
+                            },
+                            "originalText": "ἱεράν τινα καθόλου δηλοῖ διακόσµησιν, εἰκόνα τῆς θεαρχικῆς ὡραιότητος,",
+                            "spanishTranslation": "indica una disposición sagrada en general, una imagen de la divina belleza,"
+                          },
+                          {
+                            "keywords": [
+                              "órdenes",
+                              "conocimientos jerárquicos",
+                              "iluminación"
+                            ],
+                            "lineNumber": [
+                              271
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἐπιστήµαις\" (epistēmais) dativo plural de \"ἐπιστήμη\" (conocimiento). \"Ἱερουργοῦσαν\" (hierourgoúsan) participio de \"ἱερουργέω\" (realizar ritos sagrados, celebrar misterios)."
+                            },
+                            "originalText": "ἐν τάξεσι καὶ ἐπιστήµαις ἱεραρχικαῖς τὰ τῆς οἰκείας ἐλλάµψεως ἱερουρ",
+                            "spanishTranslation": "que en órdenes y conocimientos jerárquicos celebra los misterios de su propia iluminación"
+                          },
+                          {
+                            "keywords": [
+                              "misterios",
+                              "principio divino",
+                              "asemejarse"
+                            ],
+                            "lineNumber": [
+                              272
+                            ],
+                            "notes": {
+                              "notesLinguistics": "Esta palabra completa la frase de la línea anterior. \"Μυστήρια\" (mysteria) \"misterios\". \"Ἀρχὴν\" (archēn) \"principio\", \"origen\"."
+                            },
+                            "originalText": "γοῦσαν µυστήρια καὶ πρὸς τὴν οἰκείαν ἀρχὴν ὡς θεµιτὸν ἀφοµοιουµένην·",
+                            "spanishTranslation": "y se asemeja a su propio principio divino en la medida de lo permitido."
+                          },
+                          {
+                            "keywords": [
+                              "perfección",
+                              "imitación de Dios"
+                            ],
+                            "lineNumber": [
+                              273
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Κεκληρωµένων\" (keklēroménōn) participio perfecto pasivo de \"κληρόω\" (sortear, asignar por suerte), aquí \"los que han sido asignados\" o \"participan\". \"Τελείωσις\" (teleíōsis) significa \"perfección\", \"consumación\"."
+                            },
+                            "originalText": "ἔστι γὰρ ἑκάστῳ τῶν ἱεραρχίᾳ κεκληρωµένων ἡ τελείωσις τὸ κατ' οἰκείαν",
+                            "spanishTranslation": "Porque para cada uno de los que participan en la jerarquía, la perfección es ser elevado a la imitación de Dios"
+                          },
+                          {
+                            "keywords": [
+                              "proporción",
+                              "divino",
+                              "Escrituras"
+                            ],
+                            "lineNumber": [
+                              274
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Θεοµίµητον\" (theomímēton) \"imitación de Dios\", \"semejante a Dios\". \"Ἀναχθῆναι\" (anachthēnai) infinitivo aoristo pasivo de \"ἀνάγω\" (llevar arriba, elevar)."
+                            },
+                            "originalText": "ἀναλογίαν ἐπὶ τὸ θεοµίµητον ἀναχθῆναι καὶ τὸ δὴ πάντων θειότερον ὡς",
+                            "spanishTranslation": "según su propia proporción, y lo más divino de todo, como dicen las Escrituras,"
+                          },
+                          {
+                            "keywords": [
+                              "colaborador de Dios",
+                              "actividad divina"
+                            ],
+                            "lineNumber": [
+                              275
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita «Θεοῦ συνεργὸν» (Theoú synergòn) \"colaborador de Dios\" es una referencia bíblica, específicamente a 1 Corintios 3:9, donde Pablo se refiere a sí mismo y a Apolos como \"συvεργοὶ Θεοῦ\" (synergoi Theoú)."
+                            },
+                            "originalText": "τὰ λόγιά φησι «Θεοῦ συνεργὸν» γενέσθαι καὶ δεῖξαι τὴν θείαν ἐνέργειαν",
+                            "spanishTranslation": "es llegar a ser \"colaborador de Dios\" y mostrar la actividad divina"
+                          },
+                          {
+                            "keywords": [
+                              "manifestada",
+                              "posible"
+                            ],
+                            "lineNumber": [
+                              276
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἀναφαινοµένην\" (anaphainoménēn) participio de \"ἀναφαίνω\" (mostrar, manifestar)."
+                            },
+                            "originalText": "ἐν ἑαυτῷ κατὰ τὸ δυνατὸν ἀναφαινοµένην.",
+                            "spanishTranslation": "manifestada en sí mismo en la medida de lo posible."
+                          },
+                          {
+                            "keywords": [
+                              "orden",
+                              "jerarquía"
+                            ],
+                            "lineNumber": [
+                              277
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Οἷον\" (oion) \"como\", \"por ejemplo\". \"Ἐπειδὴ\" (epeidē) \"ya que\", \"puesto que\"."
+                            },
+                            "originalText": "Οἷον ἐπειδὴ τάξις ἱεραρχίας",
+                            "spanishTranslation": "Por ejemplo, ya que es el orden de la jerarquía"
+                          },
+                          {
+                            "keywords": [
+                              "purificación",
+                              "purificar",
+                              "iluminación"
+                            ],
+                            "lineNumber": [
+                              278
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Καθαίρεσθαι\" (kathaíresthai) infinitivo pasivo de \"καθαίρω\" (purificar). \"Καθαίρειν\" (kathaírein) infinitivo activo de \"καθαίρω\" (purificar). \"Φωτίζεσθαι\" (phōtízesthai) infinitivo pasivo de \"φωτίζω\" (iluminar)."
+                            },
+                            "originalText": "ἐστὶ τὸ τοὺς µὲν καθαίρεσθαι, τοὺς δὲ καθαίρειν καὶ τοὺς µὲν φωτίζεσθαι,",
+                            "spanishTranslation": "que algunos sean purificados y otros purifiquen, y que algunos sean iluminados"
+                          },
+                          {
+                            "keywords": [
+                              "iluminar",
+                              "perfeccionar"
+                            ],
+                            "lineNumber": [
+                              279
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Φωτίζειν\" (phōtízein) infinitivo activo de \"φωτίζω\" (iluminar). \"Τελεῖσθαι\" (teleīsthai) infinitivo pasivo de \"τελέω\" (perfeccionar, iniciar). \"Τελεσιουργεῖν\" (telesiourgein) infinitivo activo de \"τελεσιουργέω\" (perfeccionar, consumar). Estos tres pares (purificar/ser purificado, iluminar/ser iluminado, perfeccionar/ser perfeccionado) son las tres acciones jerárquicas fundamentales en Dionisio."
+                            },
+                            "originalText": "τοὺς δὲ φωτίζειν καὶ τοὺς µὲν τελεῖσθαι, τοὺς δὲ τελεσιουργεῖν, ἑκάστῳ",
+                            "spanishTranslation": "y otros iluminen, y que algunos sean perfeccionados y otros perfeccionen; a cada uno"
+                          },
+                          {
+                            "keywords": [
+                              "imitación de Dios",
+                              "divina bienaventuranza"
+                            ],
+                            "lineNumber": [
+                              280
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἁρµόσει\" (harmósei) futuro de \"ἁρμόζω\" (ajustar, convenir). \"Μακαριότης\" (makariótēs) \"bienaventuranza\", \"felicidad\"."
+                            },
+                            "originalText": "τὸ θεοµίµητον ἁρµόσει κατὰ τόνδε τὸν τρόπον· ἡ θεία µακαριότης ὡς ἐν",
+                            "spanishTranslation": "le corresponderá la imitación de Dios de este modo: la divina bienaventuranza, por decirlo así entre los hombres,"
+                          },
+                          {
+                            "keywords": [
+                              "libre de desemejanza",
+                              "luz eterna"
+                            ],
+                            "lineNumber": [
+                              281
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἀµιγὴς\" (amigēs) \"sin mezcla\", \"puro\", \"libre de\". \"Ἀνοµοιότητος\" (anomoíotētos) \"desemejanza\", \"disimilitud\"."
+                            },
+                            "originalText": "ἀνθρώποις εἰπεῖν ἀµιγὴς µέν ἐστιν ἁπάσης ἀνοµοιότητος, πλήρης δὲ",
+                            "spanishTranslation": "está libre de toda desemejanza y llena de luz eterna,"
+                          },
+                          {
+                            "keywords": [
+                              "perfecta",
+                              "sin carencia",
+                              "purificadora"
+                            ],
+                            "lineNumber": [
+                              282
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἀϊδίου\" (aidíou) \"eterno\", \"perpetuo\". \"Ἀνενδεὴς\" (anendeēs) \"sin carencia\", \"autosuficiente\"."
+                            },
+                            "originalText": "φωτὸς ἀϊδίου, τελεία καὶ ἀνενδεὴς ἁπάσης τελειότητος, καθαίρουσα καὶ",
+                            "spanishTranslation": "perfecta y sin carencia de toda perfección, purificadora e"
+                          },
+                          {
+                            "keywords": [
+                              "iluminadora",
+                              "perfeccionadora",
+                              "purificación",
+                              "iluminación"
+                            ],
+                            "lineNumber": [
+                              283
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Κάθαρσις\" (kátharsis) \"purificación\". \"Φωτισµὸς\" (phōtismós) \"iluminación\"."
+                            },
+                            "originalText": "φωτίζουσα καὶ τελεσιουργοῦσα, µᾶλλον δὲ κάθαρσις αὐτὴ καὶ φωτισµὸς",
+                            "spanishTranslation": "iluminadora y perfeccionadora; más aún, ella misma es purificación e iluminación"
+                          },
+                          {
+                            "keywords": [
+                              "perfección",
+                              "pre-perfecta",
+                              "auto-presidencia de ritos"
+                            ],
+                            "lineNumber": [
+                              284
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Τελείωσις\" (teleíōsis) \"perfección\". \"Ὑπὲρ\" (hyper) \"más allá de\", \"superior a\". \"Προτέλειος\" (protéleios) \"pre-perfecta\". \"Αὐτοτελεταρχία\" (autoteletarchía) compuesto de \"αὐτός\" (él mismo) y \"τελεταρχία\" (presidencia de los ritos), indicando que es la fuente y principio de la perfección en sí misma."
+                            },
+                            "originalText": "καὶ τελείωσις, ὑπὲρ κάθαρσιν ὑπὲρ φῶς προτέλειος αὐτοτελεταρχία καὶ",
+                            "spanishTranslation": "y perfección, es pre-perfecta, auto-presidencia de los ritos, superior a la purificación, superior a la luz,"
+                          },
+                          {
+                            "keywords": [
+                              "causa",
+                              "jerarquía",
+                              "elevada",
+                              "excelencia"
+                            ],
+                            "lineNumber": [
+                              285
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Αἰτία\" (aitía) \"causa\". \"Ἐξῃρηµένη\" (exēirēménē) participio perfecto pasivo de \"ἐξαιρέω\" (sacar, apartar), aquí \"elevada por encima\", \"excepcional\". \"Ὑπερέχον\" (hyperéchon) \"lo que excede\", \"excelencia\"."
+                            },
+                            "originalText": "πάσης µὲν ἱεραρχίας αἰτία, παντὸς δὲ ἱεροῦ κατὰ τὸ ὑπερέχον ἐξῃρηµένη.",
+                            "spanishTranslation": "y causa de toda jerarquía, y elevada por encima de todo lo sagrado por su excelencia."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 3,
+                    "chapterSummary": "Este extracto del Capítulo 3, Sección 3, de 'La Jerarquía Celestial' detalla las funciones de los distintos órdenes jerárquicos: aquellos que son purificados se vuelven inmaculados; los iluminados se llenan de luz divina para la contemplación; y los perfeccionados alcanzan la ciencia de lo sagrado. Asimismo, describe a los agentes activos de estos procesos: los purificadores transmiten pureza, los iluminadores canalizan la luz divina y los perfeccionadores realizan la iniciación sagrada. En última instancia, todas estas órdenes cooperan divinamente, imitando y manifestando, según su capacidad, los atributos naturales y supra-esenciales de la Thearquía.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [
+                              "purificación",
+                              "inmaculado"
+                            ],
+                            "lineNumber": [
+                              286
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Χρὴ\" (chrē) significa \"es necesario\", indicando obligación o conveniencia. \"τοιγαροῦν\" (toigaroun) es un conector que significa \"por consiguiente\", \"por tanto\". \"καθαιροµένους\" (kathairomenous) es un participio presente pasivo de \"καθαίρω\" (kathaírō), \"purificar\", \"limpiar\". \"ἀµιγεῖς\" (amigeis) significa \"sin mezcla\", \"puro\", \"inmaculado\"."
+                            },
+                            "originalText": "Χρὴ τοιγαροῦν ὡς οἶµαι τοὺς µὲν καθαιροµένους ἀµιγεῖς ἀποτελεῖσθαι",
+                            "spanishTranslation": "Es necesario, por consiguiente, según creo, que aquellos que son purificados se tornen inmaculados"
+                          },
+                          {
+                            "keywords": [
+                              "liberación",
+                              "mezcla heterogénea"
+                            ],
+                            "lineNumber": [
+                              287
+                            ],
+                            "notes": {
+                              "notesGreek": "\"καθόλου\" (katholou) significa \"en general\", \"en absoluto\". \"ἠλευθερῶσθαι\" (ēleutherōsthai) es un infinitivo perfecto pasivo de \"ἐλευθερόω\" (eleutheróō), \"liberar\". \"ἀνοµοίου\" (anomoíou) significa \"desigual\", \"disímil\", \"heterogénea\". \"συµφύρσεως\" (symphýrseōs) se refiere a \"mezcla\", \"confusión\"."
+                            },
+                            "originalText": "καθόλου καὶ πάσης ἠλευθερῶσθαι τῆς ἀνοµοίου συµφύρσεως, τοὺς δὲ",
+                            "spanishTranslation": "en absoluto y sean liberados de toda mezcla heterogénea;"
+                          },
+                          {
+                            "keywords": [
+                              "iluminación",
+                              "luz divina",
+                              "contemplación"
+                            ],
+                            "lineNumber": [
+                              288
+                            ],
+                            "notes": {
+                              "notesGreek": "\"φωτιζοµένους\" (phōtizomenous) es un participio presente pasivo de \"φωτίζω\" (phōtízō), \"iluminar\". \"ἀποπληροῦσθαι\" (apoplērousthai) es un infinitivo presente pasivo de \"ἀποπληρόω\" (apoplēróō), \"llenar completamente\". \"θείου φωτὸς\" (theíou phōtos) significa \"luz divina\". \"θεωρητικὴν ἕξιν\" (theōrētikēn héxin) se traduce como \"estado contemplativo\", refiriéndose a una disposición o hábito para la contemplación."
+                            },
+                            "originalText": "φωτιζοµένους ἀποπληροῦσθαι τοῦ θείου φωτὸς πρὸς θεωρητικὴν ἕξιν",
+                            "spanishTranslation": "que aquellos que son iluminados sean llenados de la luz divina hacia un estado contemplativo"
+                          },
+                          {
+                            "keywords": [
+                              "mente pura",
+                              "elevación",
+                              "poder"
+                            ],
+                            "lineNumber": [
+                              289
+                            ],
+                            "notes": {
+                              "notesGreek": "\"πανáγνοις νοὸς ὀφθαλµοῖς\" (panágnois noòs ophthalmoîs) significa \"ojos de la mente totalmente puros\". \"ἀναγοµένους\" (anagomenous) es un participio presente pasivo de \"ἀνάγω\" (anágō), \"elevar\", \"llevar hacia arriba\"."
+                            },
+                            "originalText": "καὶ δύναµιν ἐν πανάγνοις νοὸς ὀφθαλµοῖς ἀναγοµένους, τοὺς δὲ τελειου",
+                            "spanishTranslation": "y poder, siendo elevados con ojos de la mente totalmente puros;"
+                          },
+                          {
+                            "keywords": [
+                              "perfección",
+                              "participación",
+                              "transición"
+                            ],
+                            "lineNumber": [
+                              290
+                            ],
+                            "notes": {
+                              "notesGreek": "\"τελειουµένους\" (teleioumenous) es un participio presente pasivo de \"τελειόω\" (teleióō), \"perfeccionar\". \"ἀτελοῦς\" (ateloûs) significa \"imperfecto\", \"incompleto\". \"µεταταττοµένους\" (metatattomenous) es un participio presente pasivo de \"µετατάσσω\" (metatássō), \"cambiar de posición\", \"trasladar\". \"µετόχους γίνεσθαι\" (metókhous gínesthai) significa \"hacerse partícipes\"."
+                            },
+                            "originalText": "µένους ἐκ τοῦ ἀτελοῦς µεταταττοµένους µετόχους γίνεσθαι τῆς τῶν",
+                            "spanishTranslation": "y que aquellos que son perfeccionados, siendo trasladados de lo imperfecto, se hagan partícipes de la"
+                          },
+                          {
+                            "keywords": [
+                              "ciencia sagrada",
+                              "perfección",
+                              "contemplación"
+                            ],
+                            "lineNumber": [
+                              291
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἐποπτευθέντων ἱερῶν\" (epopteuthentōn hierōn) se refiere a \"cosas sagradas que han sido contempladas\" o \"los ritos sagrados observados\". El verbo \"ἐποπτεύω\" (epopteúō) connota una visión mística o iniciática, propia de los misterios. \"τελειωτικῆς ἐπιστήµης\" (teleiōtikês epistḗmēs) significa \"ciencia perfectiva\". \"καθαρτικοὺς\" (kathartikoùs) se refiere a \"purificadores\", es decir, aquellos que tienen la función de purificar."
+                            },
+                            "originalText": "ἐποπτευθέντων ἱερῶν τελειωτικῆς ἐπιστήµης, τοὺς δὲ καθαρτικοὺς πε",
+                            "spanishTranslation": "ciencia perfectiva de las cosas sagradas que han sido contempladas;"
+                          },
+                          {
+                            "keywords": [
+                              "purificadores",
+                              "abundancia",
+                              "pureza",
+                              "comunicación"
+                            ],
+                            "lineNumber": [
+                              292
+                            ],
+                            "notes": {
+                              "notesGreek": "\"περιουσίᾳ καθάρσεως\" (periousíā kathárséōs) significa \"por la abundancia de purificación\". \"µεταδιδόναι\" (metadidónai) significa \"compartir\", \"comunicar\". \"οἰκείας ἁγνότητος\" (oikeías hagnótētos) significa \"propia pureza\"."
+                            },
+                            "originalText": "ριουσίᾳ καθάρσεως ἑτέροις µεταδιδόναι τῆς οἰκείας ἁγνότητος, τοὺς δὲ",
+                            "spanishTranslation": "que los purificadores, por la abundancia de su purificación, comuniquen su propia pureza a otros;"
+                          },
+                          {
+                            "keywords": [
+                              "iluminadores",
+                              "intelecto",
+                              "perspicacia",
+                              "transmisión de luz"
+                            ],
+                            "lineNumber": [
+                              293
+                            ],
+                            "notes": {
+                              "notesGreek": "\"φωτιστικοὺς\" (phōtistikoús) se refiere a los \"iluminadores\". \"διειδεστέρους νόας\" (dieidestérous nóas) significa \"intelectos más perspicaces\" o \"más transparentes\". \"πρὸς µετοχὴν φωτὸς καὶ µετάδοσιν\" (pros metokhèn phōtòs kaì metádosin) se traduce como \"para la participación de la luz y su transmisión\"."
+                            },
+                            "originalText": "φωτιστικοὺς ὡς διειδεστέρους νόας καὶ πρὸς µετοχὴν φωτὸς καὶ µετάδοσιν",
+                            "spanishTranslation": "que los iluminadores, como intelectos más perspicaces y aptos para la participación de la luz y su transmisión,"
+                          },
+                          {
+                            "keywords": [
+                              "sagrada luz",
+                              "bienaventuranza"
+                            ],
+                            "lineNumber": [
+                              294
+                            ],
+                            "notes": {
+                              "notesGreek": "\"οἰκείως ἔχοντας\" (oikeíōs ékhontas) significa \"teniendo de manera apropiada\" o \"estando bien dispuestos\". \"πανολβίως\" (panolbíōs) significa \"muy felizmente\", \"bienaventuradamente\". \"ἱερᾶς ἀποπληρουµένους αἴγλης\" (hierâs apoplēroumenoús aíglēs) se traduce como \"siendo llenados de la sagrada luz/esplendor\"."
+                            },
+                            "originalText": "οἰκείως ἔχοντας καὶ πανολβίως τῆς ἱερᾶς ἀποπληρουµένους αἴγλης τὸ",
+                            "spanishTranslation": "y siendo llenados bienaventuradamente de la sagrada luz,"
+                          },
+                          {
+                            "keywords": [
+                              "canalizar luz",
+                              "dignos de luz",
+                              "luz desbordante"
+                            ],
+                            "lineNumber": [
+                              295
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ὑπερχεόµενον φῶς\" (hyperkheómenon phōs) significa \"luz que se desborda\". \"ἐποχετεύειν\" (epokheteúein) significa \"canalizar\", \"conducir\" (originalmente referido al agua, aquí usado metafóricamente para la luz)."
+                            },
+                            "originalText": "κατὰ πᾶν αὐτῶν ὑπερχεόµενον φῶς εἰς τοὺς ἀξίους φωτὸς ἐποχετεύειν,",
+                            "spanishTranslation": "canalicen hacia los dignos de luz la luz que se derrama sobre ellos por completo;"
+                          },
+                          {
+                            "keywords": [
+                              "perfeccionadores",
+                              "expertos",
+                              "transmisión perfectiva"
+                            ],
+                            "lineNumber": [
+                              296
+                            ],
+                            "notes": {
+                              "notesGreek": "\"τελεσιουργοὺς\" (telesiourgoús) se refiere a los \"perfeccionadores\", \"consumadores\". \"ἐπιστηµονικοὺς τῆς τελεστικῆς µεταδόσεως\" (epistēmonikoùs tês telestikês metadóseōs) significa \"expertos/científicos en la transmisión perfectiva\". \"τελεστικός\" (telestikós) se refiere a algo \"capaz de perfeccionar\" o \"relativo a la iniciación/perfección\"."
+                            },
+                            "originalText": "τοὺς δὲ τελεσιουργοὺς ὡς ἐπιστηµονικοὺς τῆς τελεστικῆς µεταδόσεως",
+                            "spanishTranslation": "y que los perfeccionadores, como expertos en la transmisión perfectiva,"
+                          },
+                          {
+                            "keywords": [
+                              "santísima iniciación",
+                              "ciencia sagrada",
+                              "perfeccionamiento"
+                            ],
+                            "lineNumber": [
+                              297
+                            ],
+                            "notes": {
+                              "notesGreek": "\"τελεῖν τοὺς τελουµένους\" (teleîn toùs telouménous) significa \"perfeccionar a los que son perfeccionados\". \"πανιέρῳ µυήσει\" (paniérō myḗsei) se traduce como \"santísima iniciación\". El término \"µύησις\" (mýēsis) alude a los ritos de iniciación en los misterios antiguos."
+                            },
+                            "originalText": "τελεῖν τοὺς τελουµένους τῇ πανιέρῳ µυήσει τῆς τῶν ἐποπτευθέντων",
+                            "spanishTranslation": "perfeccionen a los que son perfeccionados mediante la santísima iniciación en la ciencia de las cosas sagradas que han sido contempladas."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              298
+                            ],
+                            "originalText": "ἱερῶν ἐπιστήµης.",
+                            "spanishTranslation": ""
+                          },
+                          {
+                            "keywords": [
+                              "orden jerárquico",
+                              "disposición divina"
+                            ],
+                            "lineNumber": [
+                              299
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Οὐκοῦν\" (Oukoun) significa \"Por lo tanto\", \"Así pues\". \"ἱεραρχικῆς διακοσµήσεως\" (hierarchikês diakosmēseōs) se refiere a la \"disposición jerárquica\" o \"organización jerárquica\"."
+                            },
+                            "originalText": "Οὐκοῦν ἑκάστη τῆς ἱεραρχικῆς διακοσµήσεως τάξις",
+                            "spanishTranslation": "Por lo tanto, cada orden de la disposición jerárquica"
+                          },
+                          {
+                            "keywords": [
+                              "divina cooperación",
+                              "proporción",
+                              "elevación"
+                            ],
+                            "lineNumber": [
+                              300
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἀνάγεται πρὸς τὴν θείαν συνεργίαν\" (anágétai pros tēn theían synergían) significa \"es elevada hacia la divina cooperación\"."
+                            },
+                            "originalText": "κατὰ τὴν οἰκείαν ἀναλογίαν ἀνάγεται πρὸς τὴν θείαν συνεργίαν, ἐκεῖνα",
+                            "spanishTranslation": "es elevada, según su propia proporción, hacia la divina cooperación,"
+                          },
+                          {
+                            "keywords": [
+                              "gracia",
+                              "poder divino",
+                              "Thearquía"
+                            ],
+                            "lineNumber": [
+                              301
+                            ],
+                            "notes": {
+                              "notesGreek": "\"τελοῦσα\" (teloûsa) es un participio presente activo de \"τελέω\" (teléō), \"realizar\", \"llevar a cabo\". \"θεοσδότῳ δυνάµει\" (theosdótō dynámei) significa \"por un poder dado por Dios\". \"θεαρχίᾳ\" (thearkhía) es un término que designa la \"Thearquía\", el gobierno o principio divino."
+                            },
+                            "originalText": "τελοῦσα χάριτι καὶ θεοσδότῳ δυνάµει τὰ τῇ θεαρχίᾳ φυσικῶς καὶ ὑπερ",
+                            "spanishTranslation": "realizando por gracia y poder dado por Dios aquellas cosas que natural y sobrenaturalmente"
+                          },
+                          {
+                            "keywords": [
+                              "supra-esencial",
+                              "Thearquía",
+                              "realización divina"
+                            ],
+                            "lineNumber": [
+                              302
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἐνόντα\" (enónta) es un participio presente de \"ἔνειμι\" (éneimi), que significa \"estar dentro\", \"estar presente\". \"ὑπερουσίως\" (hyperousíōs) significa \"supra-esencialmente\", \"más allá de la esencia\". \"δρώµενα\" (drōmena) es un participio presente pasivo de \"δράω\" (dráō), \"hacer\", \"realizar\"."
+                            },
+                            "originalText": "φυῶς ἐνόντα καὶ πρὸς αὐτῆς ὑπερουσίως δρώµενα καὶ πρὸς τὴν ἐφικτὴν",
+                            "spanishTranslation": "están presentes en la Thearquía, y que son realizadas por ella de manera supra-esencial,"
+                          },
+                          {
+                            "keywords": [
+                              "imitación divina",
+                              "mentes piadosas",
+                              "manifestación jerárquica"
+                            ],
+                            "lineNumber": [
+                              303
+                            ],
+                            "notes": {
+                              "notesGreek": "\"φιλοθέων νοῶν\" (philothéōn noôn) significa \"mentes que aman a Dios\", \"mentes piadosas\". \"µίµησιν\" (mímēsin) significa \"imitación\". \"ἐκφαινόµενα\" (ekphainómena) es un participio presente pasivo de \"ἐκφαίνω\" (ekphaínō), \"manifestar\", \"revelar\"."
+                            },
+                            "originalText": "τῶν φιλοθέων νοῶν µίµησιν ἱεραρχικῶς ἐκφαινόµενα.",
+                            "spanishTranslation": "y son manifestadas jerárquicamente para la imitación posible de las mentes que aman a Dios."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

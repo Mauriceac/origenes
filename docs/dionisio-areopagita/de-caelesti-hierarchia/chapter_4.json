@@ -1,0 +1,650 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 4,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 4,
+                    "chapterSummary": "Dionisio comienza el capítulo 4 reflexionando sobre la definición de la jerarquía. Luego, se adentra en la jerarquía angelical, destacando la bondad de la Deidad como causa de toda existencia y cómo los seres participan de ella en distintos grados: los inanimados en el ser, los vivientes en la fuerza vital y los racionales/intelectuales en la sabiduría divina. Subraya que la cercanía a Dios se mide por la multiplicidad de formas de participación.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "jerarquía",
+                              "angelical",
+                              "contemplación",
+                              "simplicidad",
+                              "misterios"
+                            ],
+                            "lineNumber": [
+                              306,
+                              307,
+                              308,
+                              309,
+                              310,
+                              311
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"ἱεραρχίας\" (hierarchías) es fundamental para Dionisio, combinando \"ἱερός\" (sagrado) y \"ἀρχή\" (principio o gobierno). \"λογίοις\" (logiois) se refiere a las Sagradas Escrituras o a los oráculos divinos. \"µορφοποιίας\" (morphopoiías) se refiere a las 'formaciones' o 'representaciones' simbólicas de lo divino. \"ὑπερκοσµίοις ὀφθαλµοῖς\" (hyperkosmiois ophthalmois) denota una visión espiritual, trascendente de lo mundano. La \"θεοειδεστάτην ἁπλότητα\" (theoeidestatēn haplotēta) apunta a la simplicidad divina como meta de la ascensión. \"τελεταρχικαῖς εὐχαριστίαις\" (teletarchikais eucharistiais) implica un contexto litúrgico o de iniciación sagrada.",
+                              "notesLinguistics": "La construcción de infinitivos predicativos y dativos instrumentales es común en el griego clásico y bizantino para expresar propósito y medio, como en \"ὑµνητέον\" (debe ser alabado) y \"ἐποπτευτέον\" (debe ser contemplado), que son adjetivos verbales que indican necesidad u obligación. La frase \"ὡς οἶµαι\" (como creo) es un inciso común para expresar la opinión del autor."
+                            },
+                            "originalText": "Τῆς τοίνυν ἱεραρχίας αὐτῆς ὅ τί ποτέ ἐστιν, ὡς οἶµαι, καλῶς ἡµῖν ὁρισθείσης, τὴν ἀγγελικὴν ἱεραρχίαν ἑξῆς ὑµνητέον καὶ τὰς ἱερὰς αὐτῆς ἐν τοῖς λογίοις µορφοποιίας ὑπερκοσµίοις ὀφθαλµοῖς ἐποπτευτέον, ὅπως ἀναχθῶµεν ἐπὶ τὴν θεοειδεστάτην αὐτῶν ἁπλότητα διὰ τῶν µυστικῶν ἀναπλάσεων, καὶ τὴν ἁπάσης ἱεραρχικῆς ἐπιστήµης ἀρχὴν ὑµνήσωµεν ἐν θεοπρεπεῖ σεβασµιότητι καὶ τελεταρχικαῖς εὐχαριστίαις.",
+                            "spanishTranslation": "Habiendo sido bien definida por nosotros, creo, qué es la jerarquía misma, a continuación debemos alabar la jerarquía angélica y contemplar sus sagradas representaciones en las Escrituras con ojos supermundanos, para que seamos conducidos a su simplicidad más divina a través de las místicas recreaciones, y alabemos el principio de toda ciencia jerárquica con reverencia digna de Dios y con eucaristías iniciáticas."
+                          },
+                          {
+                            "keywords": [
+                              "Deidad",
+                              "bondad",
+                              "creación",
+                              "ser",
+                              "sustancias"
+                            ],
+                            "lineNumber": [
+                              312,
+                              313,
+                              314
+                            ],
+                            "notes": {
+                              "notesGreek": "La \"ὑπερούσιος θεαρχία\" (hyperousios thearchía) es una expresión clave dionisiana que significa la Deidad «supraesencial» o «más allá de la esencia», enfatizando la trascendencia de Dios. \"ἀγαθότητι\" (agathotēti), 'por su bondad', señala el motivo primario de la creación. La conjunción de \"ὑποστήσασα\" (hupostḗsasas, 'habiendo hecho subsistir') y \"παρήγαγεν\" (parḗgagen, 'habiendo producido') enfatiza tanto el origen como el sostenimiento de la existencia por parte de Dios."
+                            },
+                            "originalText": "Πρῶτον δ' ἁπάντων ἐκεῖνο εἰπεῖν ἀληθές, ὡς ἀγαθότητι πάσας ἡ ὑπερούσιος θεαρχία τὰς τῶν ὄντων οὐσίας ὑποστήσασα πρὸς τὸ εἶναι παρήγαγεν.",
+                            "spanishTranslation": "En primer lugar, es verdad decir aquello: que la Deidad supraesencial, por su bondad, produjo y dio subsistencia a todas las substancias de los seres para que existieran."
+                          },
+                          {
+                            "keywords": [
+                              "Causa Primera",
+                              "participación",
+                              "proporción",
+                              "bondad"
+                            ],
+                            "lineNumber": [
+                              315,
+                              316,
+                              317
+                            ],
+                            "notes": {
+                              "notesGreek": "La \"κοινωνίαν ἑαυτῆς\" (koinōnían heautēs) se refiere a la participación en Dios, un concepto fundamental en el neoplatonismo y la teología dionisiana. La frase \"ὥρισται πρὸς τῆς οἰκείας ἀναλογίας\" (hóristai pros tēs oikeías analogías) subraya la idea de que cada ser participa de la divinidad según su propia capacidad o naturaleza, estableciendo una jerarquía en la participación.",
+                              "notesLinguistics": "El uso de \"ἴδιον τὸ... καλεῖν\" (ídion to... kalein) es una construcción de predicado nominal con infinitivo que significa 'es propio de... llamar'."
+                            },
+                            "originalText": "Ἔστι γὰρ τοῦτο τῆς πάντων αἰτίας καὶ ὑπὲρ πάντα ἀγαθότητος ἴδιον τὸ πρὸς κοινωνίαν ἑαυτῆς τὰ ὄντα καλεῖν, ὡς ἑκάστῳ τῶν ὄντων ὥρισται πρὸς τῆς οἰκείας ἀναλογίας.",
+                            "spanishTranslation": "Pues esto es propio de la Causa de todas las cosas y de la Bondad que está sobre todas las cosas: el llamar a los seres a participar de Sí misma, según lo que está determinado para cada uno de los seres conforme a su propia proporción."
+                          },
+                          {
+                            "keywords": [
+                              "providencia",
+                              "Deidad",
+                              "esencia",
+                              "principio",
+                              "participación"
+                            ],
+                            "lineNumber": [
+                              318,
+                              319,
+                              320
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Προνοίας\" (pronoías) se refiere a la Providencia divina. La \"παναιτίου θεότητος\" (panaitíou theótētos) es la 'Deidad omnicausal', resaltando que Dios es la fuente de todo. El verbo \"ἐκβλυζοµένης\" (ekblyzomenēs) sugiere un desbordamiento o emanación de la divinidad, como de una fuente inagotable. La afirmación \"οὐ γὰρ ἂν ἦν, εἰ µὴ τῆς τῶν ὄντων οὐσίας καὶ ἀρχῆς µετειλήφει\" reitera la necesidad de participación en la esencia y principio divinos para la existencia misma."
+                            },
+                            "originalText": "Πάντα µὲν οὖν τὰ ὄντα µετέχει προνοίας ἐκ τῆς ὑπερουσίου καὶ παναιτίου θεότητος ἐκβλυζοµένης· οὐ γὰρ ἂν ἦν, εἰ µὴ τῆς τῶν ὄντων οὐσίας καὶ ἀρχῆς µετειλήφει.",
+                            "spanishTranslation": "Todas las cosas existentes, por tanto, participan de la providencia que brota de la Deidad supraesencial y omnicausal; pues no serían, si no hubieran participado de la esencia y del principio de los seres."
+                          },
+                          {
+                            "keywords": [
+                              "inanimado",
+                              "viviente",
+                              "racional",
+                              "intelectual",
+                              "sabiduría",
+                              "poder",
+                              "ser"
+                            ],
+                            "lineNumber": [
+                              321,
+                              322,
+                              323,
+                              324
+                            ],
+                            "notes": {
+                              "notesGreek": "Este pasaje describe la jerarquía de la participación. Los \"ἄζωα\" (ázōa, 'inanimados') participan \"τῷ εἶναι\" (tō eînai, 'en el ser'). Los \"ζῶντα\" (zōnta, 'vivientes') participan en el \"ζωοποιοῦ δυνάµεως\" (zōopoiou dynámeōs, 'fuerza vivificante'). Los \"λογικὰ καὶ νοερὰ\" (logiká kai noerá, 'racionales e intelectuales') participan en la \"αὐτοτελοῦς καὶ προτελείου σοφίας\" (autoteloûs kai proteleíou sophías, 'sabiduría autoperfecta y preperfecta'). Los epítetos \"ὑπὲρ τὸ εἶναι\", \"ὑπὲρ πᾶσαν ζωὴν\", \"ὑπὲρ πάντα καὶ λόγον καὶ νοῦν\" enfatizan la trascendencia de la Deidad como fuente de cada nivel de existencia, vida, razón e intelecto.",
+                              "notesLinguistics": "El uso del genitivo con \"µετέχει\" (metéchei) indica 'participar de algo'. La estructura paralela de los tres ejemplos (\"Τὰ µὲν οὖν... τὰ δὲ... τὰ δὲ...\") es una técnica retórica para clasificar y comparar."
+                            },
+                            "originalText": "Τὰ µὲν οὖν ἄζωα πάντα τῷ εἶναι αὐτῆς µετέχει (τὸ γὰρ εἶναι πάντων ἐστὶν ἡ ὑπὲρ τὸ εἶναι θεότης), τὰ δὲ ζῶντα τῆς αὐτῆς ὑπὲρ πᾶσαν ζωὴν ζωοποιοῦ δυνάµεως, τὰ δὲ λογικὰ καὶ νοερὰ τῆς αὐτῆς ὑπὲρ πάντα καὶ λόγον καὶ νοῦν αὐτοτελοῦς καὶ προτελείου σοφίας.",
+                            "spanishTranslation": "Así pues, todas las cosas inanimadas participan de su ser (pues el ser de todas las cosas es la Deidad que está sobre el ser); y las cosas vivientes, de su misma fuerza vivificante que está sobre toda vida; y las cosas racionales e intelectuales, de su misma sabiduría autoperfecta y preperfecta que está sobre toda razón y todo intelecto."
+                          },
+                          {
+                            "keywords": [
+                              "sustancias",
+                              "participación",
+                              "proximidad"
+                            ],
+                            "lineNumber": [
+                              325,
+                              326
+                            ],
+                            "notes": {
+                              "notesGreek": "La frase \"περὶ αὐτὴν\" (peri autēn, 'alrededor de ella' o 'cerca de ella') sugiere una proximidad o un estatus más elevado para aquellas \"οὐσιῶν\" (ousiōn, 'sustancias') que han participado en la Deidad \"πολλαχῶς\" (pollachōs, 'de muchas maneras'), reforzando la idea de grados de participación y jerarquía."
+                            },
+                            "originalText": "∆ῆλον δὲ ὅτι περὶ αὐτὴν ἐκεῖναι τῶν οὐσιῶν εἰσιν ὅσαι πολλαχῶς αὐτῆς µετειλήφασιν.",
+                            "spanishTranslation": "Y es claro que cerca de ella están aquellas substancias que han participado de ella de muchas maneras."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 4,
+                    "chapterSummary": "This chapter describes the nature and function of the celestial hierarchies.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "jerarquía celestial",
+                              "esencias celestiales",
+                              "participación divina",
+                              "dispensación divina"
+                            ],
+                            "lineNumber": [
+                              327,
+                              328,
+                              329
+                            ],
+                            "notes": {
+                              "notesGreek": "•  διακοσμήσεις: Se refiere a las 'jerarquías' o 'disposiciones ordenadas'. En el contexto dionisiano, 'jerarquías' es el término más apropiado para describir los órdenes celestiales. •  μετουσίᾳ: Significa 'participación' o 'comunión', un concepto central en la teología de Dionisio sobre la relación entre Dios y la creación. •  θεαρχικῆς μεταδόσεως: 'Transmisión divina' o 'dispensación divina'. El adjetivo 'θεαρχικῆς' (teárquico) subraya que la fuente de esta transmisión es la Divinidad misma.",
+                              "notesLinguistics": "La construcción 'ὑπὲρ τὰ μόνον ὄντα καὶ ἀλόγως ζῶντα καὶ τὰ καθ' ἡμᾶς λογικὰ' establece una comparación clara, indicando que la participación de las jerarquías celestiales es superior a la de los seres puramente existentes, los seres vivos irracionales y los seres racionales como nosotros."
+                            },
+                            "originalText": "Αἱ γοῦν ἅγιαι τῶν οὐρανίων οὐσιῶν διακοσµήσεις ὑπὲρ τὰ µόνον ὄντα καὶ ἀλόγως ζῶντα καὶ τὰ καθ' ἡµᾶς λογικὰ τῆς θεαρχικῆς µεταδόσεως ἐν µετουσίᾳ γεγόνασιν.",
+                            "spanishTranslation": "Así pues, las santas jerarquías de las esencias celestiales han llegado a participar de la dispensación divina en mayor medida que los meros entes, que los seres vivos irracionales y que los seres racionales como nosotros."
+                          },
+                          {
+                            "keywords": [
+                              "imitación divina",
+                              "semejanza divina",
+                              "amor divino",
+                              "iluminaciones",
+                              "vida intelectiva",
+                              "supracósmico"
+                            ],
+                            "lineNumber": [
+                              330,
+                              331,
+                              332,
+                              333,
+                              334,
+                              335,
+                              336
+                            ],
+                            "notes": {
+                              "notesGreek": "•  θεομίμητον: 'Imitación de Dios' o 'divinamente imitativo'. Un concepto clave en la teología de la participación. •  θεαρχικὴν ἐμφέρειαν: 'Semejanza divina', enfatizando la procedencia divina. •  νοερὸν αὐτῶν εἶδος: 'Su forma intelectiva' o 'su naturaleza intelectual', refiriéndose a su modo de ser. •  ὑπερκοσμίως: 'De forma supracósmica', es decir, más allá del ámbito mundano. •  ἀκλινοῦς ἔρωτος: 'Amor inquebrantable' o 'amor inconmovible'. El concepto del Eros divino es fundamental en Dionisio. •  ἀρχικὰς ἐλλάμψεις: 'Iluminaciones originales' o 'primeras iluminaciones', que provienen directamente de la Divinidad. •  ἀΰλως καὶ ἀμιγῶς: 'Inmaterialmente y puramente', sin ninguna mezcla o corrupción.",
+                              "notesLinguistics": "La larga oración describe múltiples acciones y características de las jerarquías celestiales a través de participios, como 'ἀποτυποῦσαι' (modelándose), 'ὁρῶσαι' (mirando), 'ἐφιέμεναι' (esforzándose), 'οὖσαι' (estando), 'ἀνατεινόμεναι' (tendiendo), 'εἰσδεχόμεναι' (recibiendo), 'ταττόμεναι' (ordenándose) y 'ἔχουσαι' (teniendo), lo que crea una descripción muy detallada y fluida."
+                            },
+                            "originalText": "Νοητῶς γὰρ ἐπὶ τὸ θεοµίµητον ἑαυτὰς ἀποτυποῦσαι καὶ πρὸς τὴν θεαρχικὴν ἐµφέρειαν ὑπερκοσµίως ὁρῶσαι καὶ µορφοῦν ἐφιέµεναι τὸ νοερὸν αὐτῶν εἶδος, ἀφθονωτέρας εἰκότως ἔχουσι τὰς πρὸς αὐτὴν κοινωνίας, προσεχεῖς µὲν οὖσαι καὶ ἀεὶ πρὸς τὸ ἄναντες ὡς θεµιτὸν ἐν συντονίᾳ τοῦ θείου καὶ ἀκλινοῦς ἔρωτος ἀνατεινόµεναι καὶ τὰς ἀρχικὰς ἐλλάµψεις ἀΰλως καὶ ἀµιγῶς εἰσδεχόµεναι καὶ πρὸς αὐτὰς ταττόµεναι καὶ νοερὰν ἔχουσαι τὴν πᾶσαν ζωήν.",
+                            "spanishTranslation": "Pues, al modelarse inteligiblemente a sí mismas a la imitación divina y al mirar de forma supracósmica hacia la semejanza divina, y al esforzarse por moldear su forma intelectiva, tienen, con razón, comuniones más abundantes con Ella, estando cercanas y siempre tendiendo hacia lo alto, como es lícito, con la tensión del amor divino e inquebrantable, recibiendo las iluminaciones originales de manera inmaterial y pura, ordenándose a ellas y teniendo toda su vida de forma intelectiva."
+                          },
+                          {
+                            "keywords": [
+                              "manifestación divina",
+                              "misterio divino",
+                              "primordial",
+                              "revelación"
+                            ],
+                            "lineNumber": [
+                              337,
+                              338,
+                              339
+                            ],
+                            "notes": {
+                              "notesGreek": "•  ἐκφαντορικαὶ: 'Manifestativas' o 'reveladoras', indicando la función de las jerarquías celestiales como vehículos de la revelación divina. •  θεαρχικῆς κρυφιότητος: 'El misterio divino' o 'la ocultación divina', es decir, la realidad incomprensible de Dios que, sin embargo, se manifiesta a través de sus criaturas.",
+                              "notesLinguistics": "La repetición de 'πρώτως καὶ πολλαχῶς' ('de forma primordial y en múltiples maneras') enfatiza la primacía y la riqueza de la participación y manifestación divina a través de estas jerarquías."
+                            },
+                            "originalText": "Αὗται γοῦν εἰσιν αἱ πρώτως καὶ πολλαχῶς ἐν µετουσίᾳ τοῦ θείου γινόµεναι καὶ πρώτως καὶ πολλαχῶς ἐκφαντορικαὶ τῆς θεαρχικῆς κρυφιότητος, διὸ καὶ",
+                            "spanishTranslation": "Estas, pues, son las que, de forma primordial y en múltiples maneras, llegan a participar de lo divino y, de forma primordial y en múltiples maneras, manifiestan el misterio divino; por eso también"
+                          },
+                          {
+                            "keywords": [
+                              "denominación angélica",
+                              "iluminación divina",
+                              "revelaciones supracelestiales",
+                              "transmisión"
+                            ],
+                            "lineNumber": [
+                              340,
+                              341,
+                              342
+                            ],
+                            "notes": {
+                              "notesGreek": "•  ἀγγελικῆς ἐπωνυμίας: 'Denominación angélica' o 'nombre de ángel'. Los ángeles son, por definición, 'mensajeros'. •  ἐκκρίτως: 'Eminentemente' o 'de manera excepcional', destacando su posición única. •  διαπορθμεύεσθαι: 'Ser transmitido' o 'ser transportado', refiriéndose al papel mediador de los ángeles. •  ὑπὲρ ἡμᾶς ἐκφαντορίας: 'Revelaciones que están por encima de nosotros' o 'revelaciones trascendentes/supracelestiales'.",
+                              "notesLinguistics": "El uso de 'διὰ τὸ πρώτως... καὶ δι’ αὐτῶν...' estructura la explicación de la razón por la cual reciben la denominación angélica, mostrando una secuencia causal y mediadora."
+                            },
+                            "originalText": "παρὰ πάντα τῆς ἀγγελικῆς ἐπωνυµίας ἐκκρίτως ἠξίωνται διὰ τὸ πρώτως εἰς αὐτὰς ἐγγίνεσθαι τὴν θεαρχικὴν ἔλλαµψιν καὶ δι' αὐτῶν εἰς ἡµᾶς διαπορθµεύεσθαι τὰς ὑπὲρ ἡµᾶς ἐκφαντορίας.",
+                            "spanishTranslation": "ellas han sido consideradas dignas, de forma eminente sobre todo lo demás, de la denominación angélica, porque la iluminación divina se origina primeramente en ellas y, a través de ellas, se nos transmiten a nosotros las revelaciones supracelestiales."
+                          },
+                          {
+                            "keywords": [
+                              "Ley",
+                              "ángeles",
+                              "padres",
+                              "revelaciones",
+                              "misterios supracósmicos",
+                              "profecía",
+                              "verdad",
+                              "error",
+                              "vida impía"
+                            ],
+                            "lineNumber": [
+                              343,
+                              344,
+                              345,
+                              346,
+                              347,
+                              348
+                            ],
+                            "notes": {
+                              "notesBiblical": "•  'ὁ νόμος, ὡς ἡ θεολογία φησί, δι' ἀγγέλων ἡμῖν ἐδωρήθη': Esta frase hace una clara referencia a pasajes bíblicos que afirman que la Ley fue dada por medio de ángeles. Ver Hechos 7:53 ('recibisteis la ley por disposición de ángeles y no la guardasteis'), Gálatas 3:19 ('¿Para qué, pues, sirve la ley? Fue añadida a causa de las transgresiones, hasta que viniese la simiente a quien fue hecha la promesa; y fue ordenada por medio de ángeles en mano de un mediador') y Hebreos 2:2 ('Porque si la palabra dicha por los ángeles fue firme, y toda transgresión y desobediencia recibió justa retribución').",
+                              "notesGreek": "•  κλεινοὺς πατέρας: 'Ilustres padres' o 'padres gloriosos', refiriéndose a las figuras patriarcales del Antiguo Testamento. •  τὸ πρακτέον εἰσηγούμενοι: 'Instruyéndoles sobre lo que debían hacer' o 'mostrándoles el deber'. •  ζωῆς ἀνιέρου: 'Vida impía' o 'vida no santa', en contraste con el camino de la verdad. •  μυστηρίων ὑπερκοσμίων κρυφίας ὁράσεις: 'Visiones ocultas de misterios supracósmicos', destacando la naturaleza trascendente de estas revelaciones. •  ὑποφητικῶς ἀναφαίνοντες: 'Revelando proféticamente' o 'manifestando como un profeta', subrayando la función de los ángeles como heraldos de la voluntad divina.",
+                              "notesLinguistics": "La construcción con 'ἢ... ἢ... ἢ...' ('ya sea... o... o...') enumera las diferentes maneras en que los ángeles guiaron a los padres, mostrando la diversidad de su ministerio mediador."
+                            },
+                            "originalText": "Οὕτω γοῦν ὁ νόµος, ὡς ἡ θεολογία φησί, δι' ἀγγέλων ἡµῖν ἐδωρήθη καὶ τοὺς κλεινοὺς γὲ πρὸ νόµου καὶ µετὰ νόµον ἡµῶν πατέρας ἄγγελοι πρὸς τὸ θεῖον ἀνῆγον ἢ τὸ πρακτέον εἰσηγούµενοι καὶ πρὸς εὐθεῖαν ἀληθείας ὁδὸν ἐκ πλάνης καὶ ζωῆς ἀνιέρου µετάγοντες ἢ τάξεις ἱερὰς ἢ µυστηρίων ὑπερκοσµίων κρυφίας ὁράσεις ἢ θείας τινὰς προαναρρήσεις ὑποφητικῶς ἀναφαίνοντες.",
+                            "spanishTranslation": "Así pues, la Ley, como dice la teología, nos fue dada por medio de ángeles; y a nuestros ilustres padres, tanto antes de la Ley como después de la Ley, los ángeles los elevaban hacia lo divino, ya sea instruyéndolos sobre lo que debían hacer y llevándolos desde el error y la vida impía hacia el recto camino de la verdad, o revelándoles proféticamente órdenes sagradas, visiones ocultas de misterios supracósmicos, o ciertas proclamaciones divinas."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 4,
+                    "chapterSummary": "Este pasaje explora la naturaleza mediada de las teofanías y la transmisión jerárquica del conocimiento divino. Argumenta que, si bien las revelaciones divinas ocurren a los santos, estas son siempre a través de manifestaciones apropiadas y análogas, y no como una visión directa de la esencia oculta de Dios. Se enfatiza que incluso la Ley dada a Moisés, aunque de origen divino, fue transmitida a través de ángeles, ilustrando el principio teonómico de que lo inferior es elevado a lo divino a través de lo superior en toda jerarquía.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [
+                              "teofanías",
+                              "santos",
+                              "revelación"
+                            ],
+                            "lineNumber": [
+                              349,
+                              350
+                            ],
+                            "notes": {
+                              "notesGreek": "El término griego 'θεοφανείας' (theophaneias) se refiere a las manifestaciones o apariciones de Dios, no a una visión directa de su esencia. La frase 'αὐτόθεν ἀμέσως' (autóthen amésos) enfatiza la idea de una revelación inmediata y sin intermediarios, que el autor refutará.",
+                              "notesLinguistics": "La construcción 'Εἰ δέ τις φαίη... μανθανέτω' (ei dé tis phaíe... manthanétō) es una estructura condicional que introduce una objeción o una premisa para luego refutarla o calificarla con una enseñanza. Se traduce como 'Si alguien dijera... que aprenda'."
+                            },
+                            "originalText": "Εἰ δέ τις φαίη καὶ αὐτόθεν ἀµέσως ἐγγενέσθαι τισὶ τῶν ἁγίων θεοφανείας, µανθανέτω καὶ τοῦτο σαφῶς ἐκ τῶν ἱερωτάτων λογίων ὡς",
+                            "spanishTranslation": "Si alguien dijera que a algunos de los santos les ocurren teofanías de manera inmediata y sin intermediarios, que aprenda esto también claramente de los oráculos más sagrados, que:"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "esencia",
+                              "visión",
+                              "teofanías",
+                              "santos",
+                              "revelación"
+                            ],
+                            "lineNumber": [
+                              351,
+                              352,
+                              353
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita \"Οὐδεὶς ἑώρακεν\" (Oudeis heórakin) hace referencia a pasajes bíblicos como Juan 1:18 (\"A Dios nadie le vio jamás\") o Éxodo 33:20 (\"No podrás ver mi rostro; porque no me verá hombre, y vivirá\"), que subrayan la inaccesibilidad de la esencia divina a la percepción humana directa.",
+                              "notesGreek": "'Κρύφιον' (krýphion) se refiere a lo oculto o secreto de Dios, su esencia incomprensible. 'Ἐκφαντορίας' (ekphantorías) denota las manifestaciones o revelaciones del divino, siempre en formas que son \"análogas a quienes las ven\" ('τοῖς ὁρῶσιν ἀναλόγων ὁράσεων')."
+                            },
+                            "originalText": "αὐτὸ µὲν ὅ τί ποτέ ἐστι τὸ τοῦ θεοῦ κρύφιον «Οὐδεὶς ἑώρακεν» οὐδὲ ὄψεται, θεοφάνειαι δὲ τοῖς ὁσίοις γεγόνασι κατὰ τὰς πρέπουσας θεῷ διὰ δή τινων ἱερῶν καὶ τοῖς ὁρῶσιν ἀναλόγων ὁράσεων ἐκφαντορίας.",
+                            "spanishTranslation": "lo que en sí mismo sea el misterio de Dios, «Nadie lo ha visto» ni lo verá; pero las teofanías han ocurrido a los piadosos según las manifestaciones apropiadas a Dios, por medio de ciertas visiones sagradas y análogas a quienes las contemplan."
+                          },
+                          {
+                            "keywords": [
+                              "teología",
+                              "visión",
+                              "divina",
+                              "analogía",
+                              "iluminación",
+                              "iniciación"
+                            ],
+                            "lineNumber": [
+                              354,
+                              355,
+                              356,
+                              357,
+                              358,
+                              359
+                            ],
+                            "notes": {
+                              "notesGreek": "El término 'ἀναγωγῆς' (anagogés) aquí implica una elevación o ascenso del observador hacia lo divino, un proceso de interpretación que permite la percepción de lo inmaterial a través de lo material. 'Μυουµένων' (myouménōn) se refiere a ser iniciado en misterios sagrados, indicando un conocimiento no trivial sino profundo y revelado.",
+                              "notesLinguistics": "La descripción \"como en la formación de la semejanza de lo informe\" ('ὡς ἐν µορφώσει τῶν ἀµορφώτων ὁµοίωσιν') destaca la naturaleza simbólica y mediada de estas visiones, donde lo divino inmaterial se presenta en una forma comprensible para el ser humano."
+                            },
+                            "originalText": "Ἡ πάνσοφος δὲ θεολογία τὴν ὅρασιν ἐκείνην, ἥτις ἐν ἑαυτῇ διαγεγραµµένην ἀνέφαινε τὴν θείαν ὡς ἐν µορφώσει τῶν ἀµορφώτων ὁµοίωσιν, ἐκ τῆς τῶν ὁρώντων ἐπὶ τὸ θεῖον ἀναγωγῆς εἰκότως καλεῖ θεοφάνειαν ὡς δι' αὐτῆς τοῖς ὁρῶσι θείας ἐγγινοµένης ἐλλάµψεως καί τι τῶν θείων αὐτῶν ἱερῶς µυουµένων.",
+                            "spanishTranslation": "Y la sapientísima teología llama justamente teofanía a aquella visión que, delineada en sí misma, manifestaba la semejanza divina como en una formación de lo informe, a partir de la elevación de quienes la contemplan hacia lo divino; pues por medio de ella se produce a los que ven una iluminación divina y son sagradamente iniciados en algunas de las realidades divinas mismas."
+                          },
+                          {
+                            "keywords": [
+                              "padres",
+                              "visiones divinas",
+                              "jerarquía celestial"
+                            ],
+                            "lineNumber": [
+                              360,
+                              361
+                            ],
+                            "notes": {
+                              "notesGreek": "'Κλεινοὶ πατέρες' (kleinoì patéres) se traduce como \"ilustres padres\" o \"gloriosos padres\", refiriéndose a figuras veneradas en la tradición cristiana que experimentaron estas visiones. 'Οὐρανίων δυνάµεων' (ouraníōn dynámeōn) alude a los poderes celestiales, como los ángeles, que actúan como intermediarios divinos."
+                            },
+                            "originalText": "Ταύτας δὲ τὰς θείας ὁράσεις οἱ κλεινοὶ πατέρες ἡµῶν ἐµυοῦντο διὰ µέσων τῶν οὐρανίων δυνάµεων.",
+                            "spanishTranslation": "Y nuestros ilustres padres eran iniciados en estas visiones divinas por medio de las potencias celestiales."
+                          },
+                          {
+                            "keywords": [
+                              "Ley",
+                              "Moisés",
+                              "ángeles",
+                              "jerarquía",
+                              "mediación divina"
+                            ],
+                            "lineNumber": [
+                              362,
+                              363,
+                              364,
+                              365,
+                              366,
+                              367,
+                              368
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia a la Ley dada a Moisés \"por medio de ángeles\" se encuentra en pasajes bíblicos como Gálatas 3:19 (\"ordenada por medio de ángeles\") y Hechos 7:53 (\"recibisteis la ley por disposición de ángeles\"). Esto subraya el principio de mediación angélica incluso en la revelación más fundamental del Antiguo Testamento.",
+                              "notesGreek": "'Θεσµοθεσίαν' (thesmothesían) se refiere al establecimiento de leyes o instituciones, en este caso, la institución de la Ley. 'Ὑποτύπωσιν' (hypotýpōsin) significa un modelo, patrón o arquetipo, indicando que la Ley es una \"representación sagrada y divina\" de realidades superiores. 'Θεονοµικῆς τάξεως' (theonomikēs táxeōs) se refiere al orden divino de la ley o gobierno, es decir, el principio de la jerarquía establecida por Dios."
+                            },
+                            "originalText": "Ἢ οὐχὶ καὶ τὴν ἱερὰν τοῦ νόµου θεσµοθεσίαν ἡ τῶν λογίων παράδοσις ὡς αὐτόθεν µέν φησιν ἐκ θεοῦ τῷ Μωϋσῇ δεδωρηµένην, ὅπως ἂν ἡµᾶς ἀληθῶς µυήσῃ τὸ θείας αὐτὴν εἶναι καὶ ἱερᾶς ὑποτύπωσιν, διδάσκει δὲ καὶ τοῦτο σαφῶς ἡ θεολογία τὸ δι' ἀγγέλων αὐτὴν εἰς ἡµᾶς προελθεῖν ὡς τῆς θεονοµικῆς τάξεως ἐκεῖνο θεσµοθετούσης τὸ διὰ τῶν πρώτων τὰ δεύτερα πρὸς τὸ θεῖον ἀνάγεσθαι;",
+                            "spanishTranslation": "¿O acaso la tradición de los oráculos, si bien dice que la institución sagrada de la Ley fue dada directamente por Dios a Moisés para que nos iniciara verdaderamente en su ser un patrón divino y sagrado, no enseña también claramente la teología que ella llegó a nosotros por medio de ángeles, pues el orden teonómico establece que lo segundo sea elevado a lo divino por medio de lo primero?"
+                          },
+                          {
+                            "keywords": [
+                              "jerarquía",
+                              "intelectos",
+                              "orden divino",
+                              "iniciadores",
+                              "guías",
+                              "iluminación"
+                            ],
+                            "lineNumber": [
+                              368,
+                              369,
+                              370,
+                              371,
+                              372,
+                              373
+                            ],
+                            "notes": {
+                              "notesGreek": "'Ὑπερουσίου ταξιαρχίας' (hyperousíou taxiarchías) se refiere a un principio de ordenación que está \"más allá de la esencia\" o \"supra-esencial\", indicando una fuente de orden universal y trascendente para todas las jerarquías. 'Μύστας' (mystas) e 'χειραγωγοὺς' (cheiragōgoús) describen el papel de los superiores como iniciadores y guías, respectivamente, para llevar a los inferiores hacia la divinidad.",
+                              "notesLinguistics": "La repetición de \"primeras y medias y últimas\" ('πρώτας καὶ µέσας καὶ τελευταίας') subraya la omnipresencia de la estructura jerárquica en todos los niveles, desde lo más elevado hasta lo más humilde."
+                            },
+                            "originalText": "Καὶ γὰρ οὐ µόνον ἐπὶ τῶν ὑπερκειµένων τε καὶ ὑφειµένων νοῶν, ἀλλὰ κἀν τοῖς ὁµοταγέσιν οὗτος ὁ θεσµὸς ὥρισται παρὰ τῆς πάντων ὑπερουσίου ταξιαρχίας τὸ καθ' ἑκάστην ἱεραρχίαν πρώτας καὶ µέσας καὶ τελευταίας εἶναι τάξεις τε καὶ δυνάµεις καὶ τῶν ἡττόνων εἶναι τοὺς θειοτέρους µύστας καὶ χειραγωγοὺς ἐπὶ τὴν θείαν προσαγωγὴν καὶ ἔλλαµψιν καὶ κοινωνίαν.",
+                            "spanishTranslation": "Pues este ordenamiento no solo ha sido establecido por la taquiarquía supraesencial de todo para los intelectos superiores e inferiores, sino también entre los de igual rango: que en cada jerarquía haya órdenes y potencias primeras, medias y últimas, y que los más divinos sean los iniciadores y guías de los menores para la aproximación, la iluminación y la comunión divina."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 4,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 4,
+                    "chapterSummary": "Este capítulo explora el papel esencial de los ángeles como mediadores de la revelación divina, destacando su intervención en eventos clave de la encarnación y vida de Jesús, como los anuncios a Zacarías, María, José y los pastores. También se subraya que Jesús mismo, en su función salvadora, cumple un rol 'angélico' al transmitir la voluntad del Padre, siendo llamado el 'Ángel del gran consejo'.",
+                    "sections": [
+                      {
+                        "section": 4,
+                        "text": [
+                          {
+                            "keywords": [
+                              "filantropía",
+                              "misterio",
+                              "ángeles",
+                              "conocimiento",
+                              "gracia"
+                            ],
+                            "lineNumber": [
+                              374,
+                              375,
+                              376
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dionisio aquí establece una mediación jerárquica para la revelación divina, donde los ángeles actúan como transmisores del conocimiento divino a los humanos.",
+                              "notesGreek": "φιλανθρωπίας (philanthropías): Significa 'amor a la humanidad', 'benevolencia divina'. Es un término clave en la teología de Dionisio para describir la acción de Dios hacia los hombres."
+                            },
+                            "originalText": "Ὁρῶ δὲ ὅτι καὶ τὸ θεῖον τῆς Ἰησοῦ φιλανθρωπίας µυστήριον ἄγγελοι πρῶτον ἐµυήθησαν, εἶτα δι' αὐτῶν εἰς ἡµᾶς ἡ τῆς γνώσεως χάρις διέβαινεν.",
+                            "spanishTranslation": "Veo, además, que el misterio divino de la filantropía de Jesús fue primero revelado a los ángeles, y luego, a través de ellos, la gracia del conocimiento llegó hasta nosotros."
+                          },
+                          {
+                            "keywords": [
+                              "Gabriel",
+                              "Zacarías",
+                              "profeta",
+                              "gracia divina",
+                              "teurgia",
+                              "María",
+                              "misterio",
+                              "inefable creación divina"
+                            ],
+                            "lineNumber": [
+                              377,
+                              378,
+                              379,
+                              380,
+                              381,
+                              382
+                            ],
+                            "notes": {
+                              "notesBiblical": "Hace referencia a las narrativas de la anunciación a Zacarías (Lucas 1:5-25) y a María (Lucas 1:26-38), donde el arcángel Gabriel actúa como mensajero divino.",
+                              "notesGreek": "ἐµυσταγώγει (emystagōgei): 'Inició en los misterios', 'instruyó en cosas sagradas'. Subraya la función angélica como guía en la revelación divina. θεουργίας (theourgías): 'Teurgia', la obra divina de Jesús. ἀφθέγκτου θεοπλαστίας (aphthenktou theoplastías): 'Inefable creación divina'. Enfatiza el carácter incomprensible y milagroso de la encarnación."
+                            },
+                            "originalText": "Οὕτω γοῦν ὁ θειότατος Γαβριὴλ Ζαχαρίαν µὲν τὸν ἱεράρχην ἐµυσταγώγει τὸ προφήτην ἔσεσθαι τὸν ἐξ αὐτοῦ παρ' ἐλπίδα χάριτι θείᾳ γενησόµενον παῖδα τῆς ἀγαθοπρεπῶς καὶ σωτηρίως τῷ κόσµῳ ἐπιφανησοµένης ἀνδρικῆς τοῦ Ἰησοῦ θεουργίας, τὴν δὲ Μαριὰµ ὅπως ἐν αὐτῇ γενήσεται τὸ θεαρχικὸν τῆς ἀφθέγκτου θεοπλαστίας µυστήριον.",
+                            "spanishTranslation": "Así, el divinísimo Gabriel instruyó a Zacarías el sacerdote sobre el niño que nacería de él contra toda esperanza por gracia divina, y que sería profeta de la teurgia viril de Jesús, que se manifestaría en el mundo de manera apropiada a la bondad y salvadora; y a María, sobre cómo en ella se realizaría el misterio teárquico de la inefable creación divina."
+                          },
+                          {
+                            "keywords": [
+                              "ángeles",
+                              "José",
+                              "David",
+                              "pastores",
+                              "ejército celestial",
+                              "doxología",
+                              "promesas divinas"
+                            ],
+                            "lineNumber": [
+                              383,
+                              384,
+                              385,
+                              386,
+                              387
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a la aparición del ángel a José (Mateo 1:20-21) para confirmar el origen divino del niño, y a la anunciación a los pastores (Lucas 2:8-14), incluyendo la mención del 'ejército celestial' (Lucas 2:13).",
+                              "notesGeneral": "La referencia a los pastores purificados por su apartamiento y quietud subraya un tema ascético y monástico, indicando que la receptividad a la revelación divina a menudo requiere una disposición de humildad y retiro.",
+                              "notesGreek": "ἐξεπαίδευεν (exepaideuen): 'Educaba completamente', 'instruía a fondo'. Resalta la exhaustividad de la enseñanza angélica. εὐηγγελίζετο (euēggelízeto): 'Anunció buenas nuevas', 'evangelizó'. La raíz de 'evangelio'."
+                            },
+                            "originalText": "Ἕτερος δὲ τῶν ἀγγέλων τὸν Ἰωσὴφ ἐξεπαίδευεν ὅπως ἀληθῶς ἐκπεπλήρωται τὰ θειωδῶς ἐπηγγελµένα τῷ προγόνῳ ∆αυίδ, ἄλλος δὲ τοὺς ποιµένας ὡς τῇ τῶν πολλῶν ἀναχωρήσει καὶ ἡσυχίᾳ κεκαθαρµένους εὐηγγελίζετο, καὶ σὺν αὐτῷ «Πλῆθος στρατιᾶς οὐρανίου» τὴν πολυύµνητον ἐκείνην παρεδίδου τοῖς ἐπὶ γῆς δοξολογίαν.",
+                            "spanishTranslation": "Otro de los ángeles instruyó a José sobre cómo se habían cumplido verdaderamente las promesas divinas a su antepasado David; y otro evangelizó a los pastores, purificados por su apartamiento y quietud de las multitudes, y junto a él una \"Multitud del ejército celestial\" entregó aquella muy alabada doxología a los que estaban sobre la tierra."
+                          },
+                          {
+                            "keywords": [
+                              "Escrituras",
+                              "manifestaciones luminosas",
+                              "revelación"
+                            ],
+                            "lineNumber": [
+                              388,
+                              389
+                            ],
+                            "notes": {
+                              "notesGreek": "Ἀνανεύσω (Ananeúsō): 'Levantaré la mirada', 'me remontaré'. λογίων (logíōn): 'Oráculos', 'dichos divinos', comúnmente usado para referirse a las Escrituras. φωτοφανείας (photophaneías): 'Manifestaciones luminosas', 'revelaciones de luz'."
+                            },
+                            "originalText": "Ἀνανεύσω δὲ καὶ πρὸς τὰς ὑπερτάτας τῶν λογίων φωτοφανείας.",
+                            "spanishTranslation": "Y también me remontaré a las supremas manifestaciones luminosas de las Escrituras."
+                          },
+                          {
+                            "keywords": [
+                              "Jesús",
+                              "causa superesencial",
+                              "inmutable",
+                              "orden",
+                              "obediencia",
+                              "ángeles",
+                              "José",
+                              "Egipto",
+                              "Judea",
+                              "prescripciones divinas"
+                            ],
+                            "lineNumber": [
+                              390,
+                              391,
+                              392,
+                              393,
+                              394,
+                              395,
+                              396,
+                              397,
+                              398
+                            ],
+                            "notes": {
+                              "notesBiblical": "Alude a los episodios de la huida a Egipto y el regreso, guiados por ángeles, según se narra en Mateo 2:13-23.",
+                              "notesGeneral": "Dionisio subraya aquí la humildad de Jesús y su obediencia a la jerarquía divina, incluso en su encarnación. Jesús, aunque supremo, se somete a las disposiciones divinas mediadas por los ángeles, reforzando la tesis de la jerarquía celestial.",
+                              "notesGreek": "ὑπερούσιος αἰτία (hyperousios aitía): 'Causa superesencial', un concepto clave en Dionisio para describir la trascendencia divina de Jesús. ἀµεταβόλως (ametabólōs): 'Inmutablemente', enfatizando la naturaleza inmutable de Cristo. ἀνθρωποπρεποῦς εὐταξίας (anthrōpoprepoûs eutaxías): 'Orden apropiado a los hombres', 'decencia humana', refiriéndose a la manera ordenada y humilde de la encarnación y vida de Jesús. διατυπώσεσιν (diatypōsesin): 'Disposiciones', 'ordenanzas'."
+                            },
+                            "originalText": "Ὁρῶ γὰρ ὅτι καὶ αὐτὸς Ἰησοῦς ἡ τῶν ὑπερουρανίων οὐσιῶν ὑπερούσιος αἰτία πρὸς τὸ καθ' ἡµᾶς ἀµεταβόλως ἐληλυθὼς οὐκ ἀποπηδᾷ τῆς ὑπ' αὐτοῦ ταχθείσης τε καὶ αἱρεθείσης ἀνθρωποπρεποῦς εὐταξίας, ἀλλ' εὐπειθῶς ὑποτάττεται ταῖς τοῦ πατρὸς καὶ θεοῦ δι' ἀγγέλων διατυπώσεσιν, καὶ διὰ µέσων αὐτῶν ἀγγέλλεται τῷ Ἰωσὴφ ἡ πρὸς τοῦ πατρὸς οἰκονοµηθεῖσα τοῦ υἱοῦ πρὸς Αἴγυπτον ἀναχώρησις καὶ αὖθις ἡ πρὸς τὴν Ἰουδαίαν ἐξ Αἰγύπτου µεταγωγή, καὶ δι' ἀγγέλων αὐτὸν ὁρῶµεν ὑπὸ ταῖς πατρικαῖς θεσµοθεσίαις ταττόµενον.",
+                            "spanishTranslation": "Pues veo que el mismo Jesús, la causa superesencial de las sustancias supracelestiales, habiendo venido a nosotros inmutablemente, no se aparta del orden apropiado a los hombres que Él mismo ha establecido y elegido, sino que se somete obedientemente a las disposiciones del Padre y Dios a través de los ángeles; y a través de ellos le es anunciado a José el retiro del Hijo a Egipto, dispuesto por el Padre, y de nuevo su regreso de Egipto a Judea; y por medio de los ángeles lo vemos siendo ordenado bajo las prescripciones paternas."
+                          },
+                          {
+                            "keywords": [
+                              "tradiciones",
+                              "ángel",
+                              "Jesús",
+                              "fortalecimiento",
+                              "Ángel del gran consejo",
+                              "salvación"
+                            ],
+                            "lineNumber": [
+                              399,
+                              400,
+                              401,
+                              402,
+                              403
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia al 'ángel que fortaleció a Jesús' alude a Lucas 22:43 durante la agonía en Getsemaní. La frase 'Ángel del gran consejo' (Ἄγγελος µεγάλης βουλῆς) es una traducción de la Septuaginta de Isaías 9:6, aplicada cristológicamente, donde en el texto hebreo se lee 'Admirable Consejero, Dios Fuerte'.",
+                              "notesGreek": "ἐκφαντορικὴν ἐληλυθὼς τάξιν (ekphantorikēn elēlythōs táxin): 'Habiendo venido a un orden manifestador' o 'que revela'. Subraya el papel de Jesús como revelador de la voluntad divina. ἀνηγόρευται (anēgoreutai): 'Es proclamado', 'es nombrado'."
+                            },
+                            "originalText": "Ἐῶ γὰρ εἰπεῖν ὡς εἰδότι τὰ ταῖς ἱερατικαῖς ἡµῶν παραδόσεσιν ἐκπεφασµένα καὶ περὶ τοῦ ἀγγέλου τοῦ τὸν Ἰησοῦν ἐνισχύσαντος ἢ ὅτι καὶ αὐτὸς Ἰησοῦς κατὰ τὴν ἡµῶν σωστικὴν ἀγαθουργίαν εἰς ἐκφαντορικὴν ἐληλυθὼς τάξιν «Ἄγγελος µεγάλης βουλῆς» ἀνηγόρευται.",
+                            "spanishTranslation": "Pues dejo de mencionar, como a quien ya las conoce, las cosas manifestadas en nuestras tradiciones jerárquicas, tanto acerca del ángel que fortaleció a Jesús, como que el mismo Jesús, según su acción benéfica salvadora para nosotros, habiendo venido a un orden manifestador, es llamado \"Ángel del gran consejo\"."
+                          },
+                          {
+                            "keywords": [
+                              "Jesús",
+                              "Padre",
+                              "anunciar",
+                              "angélico"
+                            ],
+                            "lineNumber": [
+                              404,
+                              405
+                            ],
+                            "notes": {
+                              "notesBiblical": "Refiere a las palabras de Jesús que indican que Él solo comunica lo que ha oído del Padre (Juan 8:26, 8:28, 12:49-50, 15:15).",
+                              "notesGeneral": "Esta afirmación refuerza el concepto de Jesús como el 'Ángel del gran consejo' y el mediador supremo de la revelación divina, alineándose con la función angélica de transmisión.",
+                              "notesGreek": "ἀγγελοπρεπῶς (angeloprepōs): 'De manera angélica', es decir, como un mensajero divino, que es la función etimológica de 'ángel' (ἄγγελος - aggelos)."
+                            },
+                            "originalText": "Καὶ γὰρ ὡς αὐτὸς ἀγγελοπρεπῶς φησιν, ὅσα ἤκουσε παρὰ τοῦ πατρὸς ἀνήγγειλεν ἡµῖν.",
+                            "spanishTranslation": "Pues, como Él mismo dice de manera angélica, todo lo que oyó del Padre nos lo anunció."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

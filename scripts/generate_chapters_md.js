@@ -6,7 +6,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Directory containing JSON files
-const jsonDir = path.join(__dirname, '../docs/san-maximo-confesor/mystagogia');
+const relativePath = 'docs/dionisio-areopagita/de-caelesti-hierarchia';
+const jsonDir = path.join(__dirname, '../', relativePath);
 // Output directory for markdown files
 const mdDir = jsonDir;
 
@@ -14,7 +15,7 @@ const mdDir = jsonDir;
 function generateMarkdown(jsonFilename) {
   const baseName = path.basename(jsonFilename, '.json');
   const title = baseName.replace(/chapter_/, 'Capítulo ');
-  return `---\ntitle: ${title}\n---\n\nimport Content from '@site/docs/san-maximo-confesor/mystagogia/${baseName}.json';\nimport Display, {generateTOC} from '@site/src/components/ChapterDisplay.js';\n\n<Display data={Content} />\n\nexport const toc = [\n  ...generateTOC(Content)\n]\n`;
+  return `---\ntitle: ${title}\n---\n\nimport Content from '@site/${relativePath}/${baseName}.json';\nimport Display, {generateTOC} from '@site/src/components/ChapterDisplay.js';\n\n<Display data={Content} />\n\nexport const toc = [\n  ...generateTOC(Content)\n]\n`;
 }
 
 fs.readdirSync(jsonDir)

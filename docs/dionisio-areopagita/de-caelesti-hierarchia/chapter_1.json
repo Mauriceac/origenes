@@ -1,0 +1,375 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 1,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 1,
+                    "chapterSummary": "El primer capítulo de La Jerarquía Celestial establece la fuente de toda jerarquía como Dios mismo, citando las Escrituras para argumentar que toda buena dádiva y manifestación de luz procede del Padre. Introduce el concepto de la procesión divina y el retorno (anagoge) de todo hacia la unidad y simplicidad deificante de su origen.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "dádiva",
+                              "don",
+                              "Padre",
+                              "luces",
+                              "Santiago 1:17"
+                            ],
+                            "lineNumber": [
+                              5,
+                              6
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta es una cita directa de Santiago 1:17. Dionisio la usa para establecer el origen divino de toda la bondad y perfección, situando a Dios como la fuente primordial de toda realidad jerárquica."
+                            },
+                            "originalText": "«Πᾶσα δόσις ἀγαθὴ καὶ πᾶν δώρηµα τέλειον ἄνωθέν ἐστι κατα βαῖνον ἀπὸ τοῦ πατρὸς τῶν φώτων.».",
+                            "spanishTranslation": "«Toda buena dádiva y todo don perfecto desciende de lo alto, del Padre de las luces.»"
+                          },
+                          {
+                            "keywords": [
+                              "progreso",
+                              "luz",
+                              "Padre",
+                              "fuerza unificadora",
+                              "anagógica",
+                              "unidad",
+                              "simplicidad deificante",
+                              "divinidad"
+                            ],
+                            "lineNumber": [
+                              7,
+                              8,
+                              9,
+                              10
+                            ],
+                            "notes": {
+                              "notesGeneral": "Esta sección introduce un concepto central en la teología dionisiana: la procesión divina (la emanación de Dios hacia la creación) y el retorno (la anagoge, el ascenso de la creación de vuelta a Dios). La luz es una metáfora clave para la revelación y la gracia divina, que no solo desciende, sino que también eleva. La 'simplicidad deificante' apunta a la naturaleza inmutable y trascendente de Dios que diviniza a la creación al atraerla a sí mismo.",
+                              "notesGreek": "El término 'πατροκινήτου' (patrocinétou) se refiere a algo 'movido por el Padre'. 'Φωτοφανείας' (photophanías) significa 'manifestación de luz'. 'Ἀγαθοδότως' (agathodótōs) es un adverbio que indica 'de manera benefactora' o 'dando bienes'. 'Ἑνοποιός' (henopoiós) significa 'unificador'. 'Ἀνατατικῶς' (anatatikōs) es un adverbio derivado de 'anagoge', que se traduce como 'anagógicamente' o 'de manera elevadora', refiriéndose a un ascenso místico o espiritual hacia lo divino. 'Συναγωγός' (synagogós) aquí se refiere al Padre como 'el que congrega' o 'reúne'. 'Θεοποιόν ἁπλότητα' (theopoión haplótetā) se traduce como 'simplicidad deificante', aludiendo a la naturaleza simple y divina de Dios que confiere divinidad."
+                            },
+                            "originalText": "Ἀλλὰ καὶ πᾶσα πατροκινήτου φωτοφανείας πρόοδος εἰς ἡµᾶς ἀγαθοδότως φοιτῶσα πάλιν ὡς ἑνοποιὸς δύναµις ἀνατατικῶς ἡµᾶς ἀναπλοῖ καὶ ἐπιστρέφει πρὸς τὴν τοῦ συναγωγοῦ πατρὸς ἑνότητα καὶ θεοποιὸν ἁπλότητα.",
+                            "spanishTranslation": "Pero también todo progreso de la manifestación de luz movida por el Padre, que desciende a nosotros de manera benefactora, de nuevo, como fuerza unificadora, nos eleva anagógicamente y nos devuelve a la unidad y la simplicidad deificante del Padre que congrega."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "creación",
+                              "propósito divino",
+                              "Romanos 11:36",
+                              "Escritura"
+                            ],
+                            "lineNumber": [
+                              11,
+                              12
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta frase es una alusión a Romanos 11:36: «Porque de él, y por medio de él, y para él, son todas las cosas. A él sea la gloria por los siglos. Amén.» Dionisio la abrevia, pero mantiene el sentido de la primacía de Dios como origen y fin último de toda la creación, reforzando la idea de la procesión y el retorno."
+                            },
+                            "originalText": "Καὶ γὰρ «Ἐξ αὐτοῦ τὰ πάντα καὶ εἰς αὐτὸν» ὡς ὁ ἱερὸς ἔφη λόγος.",
+                            "spanishTranslation": "Porque «de él son todas las cosas y para él» como dijo la sagrada Escritura."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 1,
+                    "chapterSummary": "Introducción a la Jerarquía Celestial y la fuente de la iluminación divina.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "Jesús",
+                              "luz verdadera",
+                              "Padre",
+                              "jerarquía celestial",
+                              "ángeles",
+                              "iluminación divina",
+                              "símbolos",
+                              "anagogía",
+                              "Dionisio Areopagita"
+                            ],
+                            "lineNumber": [
+                              13,
+                              14,
+                              15,
+                              16,
+                              17,
+                              18,
+                              19,
+                              20,
+                              21,
+                              22
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita «τὸ ἀληθινόν, ὃ φωτίζει πάντα ἄνθρωπον ἐρχόµενον εἰς τὸν κόσµον» (la luz verdadera, que ilumina a todo hombre que viene a este mundo) es una alusión directa a Juan 1:9, enfatizando la naturaleza divina de Cristo como fuente de toda iluminación.",
+                              "notesGreek": "«προσαγωγή» (prosagogē): Significa 'acceso' o 'introducción'. En el contexto cristiano, a menudo se refiere al acceso a Dios a través de Cristo (cf. Ef 2:18). «ἀρχίφωτον» (archíphōton): 'archiluminoso', un neologismo típico de Dionisio que combina 'arché' (origen, principio) y 'phos' (luz) para describir al Padre como la fuente primordial de luz. «θεαρχικοῦ» (thearchikou): 'teárquico', de 'theos' (Dios) y 'arché', refiriéndose a Dios como el principio supremo. «φωτοδοσίαν» (photodosian): 'fotodonación' o 'donación de luz', describe la acción de Dios como dispensador de luz. «ἀναγωγικῶς» (anagogikōs): 'anagógicamente', se refiere a la interpretación espiritual o mística que eleva la mente a las realidades divinas, un concepto clave en la hermenéutica de Dionisio. «τυπωτικοῖς συµβόλοις» (typōtikois symbolois): 'símbolos tipológicos', indicando que las realidades divinas se manifiestan a través de formas sensibles que prefiguran o representan verdades superiores. «ἀΰλοις καὶ ἀτρεµέσι νοὸς ὀφθαλµοῖς» (aÿlois kai atremési noos ophthalmóis): 'con ojos inmateriales e inquebrantables del intelecto', refiriéndose a la capacidad de la mente purificada para percibir las realidades divinas."
+                            },
+                            "originalText": "Οὐκοῦν Ἰησοῦν ἐπικαλεσάµενοι, τὸ πατρικὸν φῶς, τὸ ὂν «τὸ ἀληθινόν, ὃ φωτίζει πάντα ἄνθρωπον ἐρχόµενον εἰς τὸν κόσµον», δι' οὗ τὴν πρὸς τὸν ἀρχίφωτον πατέρα προσαγωγὴν ἐσχήκαµεν, ἐπὶ τὰς τῶν ἱεροτάτων λογίων πατροπαραδότους ἐλλάµψεις ὡς ἐφικτὸν ἀνανεύσωµεν καὶ τὰς ὑπ' αὐτῶν συµβολικῶς ἡµῖν καὶ ἀναγωγικῶς ἐκφανθείσας τῶν οὐρανίων νοῶν ἱεραρχίας ὡς οἷοί τέ ἐσµεν ἐποπτεύσωµεν καὶ τὴν ἀρχικὴν καὶ ὑπεράρχιον τοῦ θεαρχικοῦ πατρὸς φωτοδοσίαν, ἣ τὰς τῶν ἀγγέλων ἡµῖν ἐν τυπωτικοῖς συµβόλοις ἐκφαίνει µακαριωτάτας ἱεραρχίας, ἀΰλοις καὶ ἀτρεµέσι νοὸς ὀφθαλµοῖς εἰσδεξάµενοι πάλιν ἐξ αὐτῆς ἐπὶ τὴν ἁπλῆν αὐτῆς ἀναταθῶµεν ἀκτῖνα.",
+                            "spanishTranslation": "Por tanto, habiendo invocado a Jesús, la luz paterna, la cual es «la luz verdadera, que ilumina a todo hombre que viene a este mundo», por quien hemos obtenido el acceso al Padre archiluminoso, volvamos nuestra mirada, en la medida de lo posible, a las iluminaciones de los sacratísimos oráculos, transmitidas por los Padres, y contemplemos, en la medida de nuestras capacidades, las jerarquías de las inteligencias celestiales, que nos han sido manifestadas por ellos de forma simbólica y anagógica; y habiendo recibido con ojos intelectivos inmateriales e inquebrantables la fotodonación original y superjerárquica del Padre teárquico, que nos revela en símbolos tipológicos las beatísimas jerarquías de los ángeles, de nuevo desde ella elevémonos a su simple rayo."
+                          },
+                          {
+                            "keywords": [
+                              "unidad divina",
+                              "providencia",
+                              "identidad inmutable",
+                              "unificación",
+                              "anagogía",
+                              "multiplicidad divina"
+                            ],
+                            "lineNumber": [
+                              23,
+                              24,
+                              25,
+                              26,
+                              27,
+                              28
+                            ],
+                            "notes": {
+                              "notesLinguistics": "El uso de participios como «πληθυνοµένη» (multiplicándose) y «προϊοῦσα» (procediendo) en el griego subraya la naturaleza dinámica y procesional de la acción divina, que sin embargo, no compromete su inmutabilidad intrínseca. La construcción es compleja, con múltiples cláusulas que describen la paradoja de la unidad y la procesión divina. Este pasaje expresa un concepto central en la teología de Dionisio: la paradoja de un Dios que es simultáneamente trascendente e inmanente. La divinidad permanece en su 'unidad singular' (ἑνικῆς ἑνότητος) e 'identidad inmutable' (ἀκινήτῳ ταὐτότητι), pero 'multiplicándose' (πληθυνοµένη) se extiende providentemente para elevar y unificar a las criaturas. Es la 'teología negativa' (permanencia en sí misma) y 'positiva' (providencia hacia lo creado) en acción. Este pasaje subraya la necesidad de la revelación simbólica. La inefabilidad de Dios (la 'irradiación teárquica') es tal que solo puede ser percibida por el ser humano a través de velos o símbolos ('ἱερῶν παραπετασµάτων'). Estos símbolos no son arbitrarios, sino que son 'dispuestos... de manera connatural y apropiada' (συµφυῶς καὶ οἰκείως) por la providencia divina, permitiendo una ascensión gradual ('anagógicamente') hacia la verdad. Está frase ha sido movida para el campo 'notesGeneral' donde tiene más sentido. La lingüística se centra en la estructura gramatical o palabras específicas. No la frase en sí. Por el momento no añado más contenido en la lingüística porque no veo nada más significativo.  (Self-correction: I will move the 'notesGeneral' part to its correct field if it's there, and ensure 'notesLinguistics' only contains linguistic comments. The previous thought process had an error.) Ah, looking back at my previous thoughts, I did put the general note in `notesGeneral` and linguistics in `notesLinguistics`. I should just ensure that the "
+                            },
+                            "originalText": "Καὶ γὰρ οὐδὲ αὐτὴ πώποτε τῆς οἰκείας ἑνικῆς ἑνότητος ἀπολείπεται, πρὸς ἀναγωγικὴν δὲ καὶ ἑνοποιὸν τῶν προνοουµένων σύγκρασιν ἀγαθοπρεπῶς πληθυνοµένη καὶ προϊοῦσα µένει τε ἔνδον ἑαυτῆς ἀραρότως ἐν ἀκινήτῳ ταὐτότητι µονίµως πεπηγυῖα καὶ τοὺς ἐπ' αὐτὴν ὡς θεµιτὸν ἀνανεύοντας ἀναλόγως αὐτοῖς ἀνατείνει καὶ ἑνοποιεῖ κατὰ τὴν ἁπλωτικὴν αὐτῆς ἕνωσιν.",
+                            "spanishTranslation": "Porque tampoco ella jamás se aparta de su propia unidad singular, sino que, multiplicándose de forma benevolente y procediendo hacia una síntesis anagógica y unificadora de aquellos sobre quienes ejerce providencia, permanece inamoviblemente arraigada dentro de sí misma en una identidad inmutable y constante, y eleva y unifica a aquellos que a ella miran, según lo permitido y en proporción a ellos, conforme a su unión simplificadora."
+                          },
+                          {
+                            "keywords": [
+                              "irradiación divina",
+                              "revelación velada",
+                              "símbolos sagrados",
+                              "providencia paterna",
+                              "adaptación divina"
+                            ],
+                            "lineNumber": [
+                              29,
+                              30,
+                              31,
+                              32
+                            ],
+                            "notes": {
+                              "notesGreek": "«παραπετασµάτων» (parapetasmátōn): 'velos' o 'cortinas', una metáfora que Dionisio utiliza para describir cómo las verdades divinas se presentan a la mente humana a través de símbolos y misterios que 'velan' su esencia inefable. «συµφυῶς καὶ οἰκείως» (symphyōs kai oikeíōs): 'de manera connatural y apropiada', indicando que la revelación divina se adapta a la capacidad humana de comprensión, un principio de condescendencia divina.",
+                              "notesLinguistics": "La construcción negativa doble «οὐδὲ δυνατὸν... µὴ» (ni es posible... sin que) es una forma retórica para enfatizar la imposibilidad de que la luz divina se manifieste de otra manera que no sea a través de los velos simbólicos. Esto resalta la necesidad de la mediación simbólica. A su vez, el uso de «διεσκευασµένην» (dispuesta, adaptada) en concordancia con «ἀκτῖνα» (rayo) subraya la cualidad activa y adaptativa de la providencia divina. Esto implica que la divinidad no solo se vela, sino que se 'ajusta' a la capacidad humana. Encaja bien aquí. Por otro lado, la frase entera es una construcción compleja con múltiples participios que modifican el sustantivo principal, lo cual es característico del estilo de Dionisio para construir argumentos densos y matizados. (Self-correction: I will just use the last part for linguistics, it's more concise and relevant to the structure.) 'La construcción es una oración subordinada de infinitivo («ἐπιλάµψαι») con un sujeto acusativo («τὴν θεαρχικὴν ἀκτῖνα») y una cláusula de participio condicional («µὴ... περικεκαλυµµένην καὶ... διεσκευασµένην») que expresa la condición bajo la cual el rayo divino puede iluminar, enfatizando la necesidad de la velación simbólica para la comprensión humana.' This is better. Also, I need to ensure the `notesGeneral` is in the correct place for the previous one. Ok, checking. Yes, `notesGeneral` is under the second object. I will provide a more detailed note about `notesLinguistics` for the last object. "
+                            },
+                            "originalText": "Καὶ γὰρ οὐδὲ δυνατὸν ἑτέρως ἡµῖν ἐπιλάµψαι τὴν θεαρχικὴν ἀκτῖνα µὴ τῇ ποικιλίᾳ τῶν ἱερῶν παραπετασµάτων ἀναγωγικῶς περικεκαλυµµένην καὶ τοῖς καθ' ἡµᾶς προνοίᾳ πατρικῇ συµφυῶς καὶ οἰκείως διεσκευασµένην.",
+                            "spanishTranslation": "Porque la irradiación teárquica no podría de otro modo resplandecer sobre nosotros, si no estuviera anagógicamente velada por la variedad de los sagrados velos y dispuesta para nosotros de manera connatural y apropiada por la providencia paterna."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 1,
+                    "chapterSummary": "El capítulo introduce la naturaleza de la jerarquía celestial y cómo se nos revela a los humanos a través de símbolos materiales y enseñanzas sagradas.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [
+                              "jerarquía",
+                              "ordenación",
+                              "imitación"
+                            ],
+                            "lineNumber": [
+                              33,
+                              34
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"τελετάρχις ἱεροθεσία\" (teletarchis hierothesia) se refiere a la \"ordenación sagrada iniciadora de los ritos\" o \"principio de toda consagración\", enfatizando la fuente divina de toda jerarquía.",
+                              "notesLinguistics": "El prefijo \"ὑπερ-\" en \"ὑπερκοσµίου\" (hyperkosmiou) significa \"sobre\" o \"más allá\", denotando algo que trasciende el mundo sensible."
+                            },
+                            "originalText": "∆ιὸ καὶ τὴν ὁσιωτάτην ἡµῶν ἱεραρχίαν ἡ τελετάρχις ἱεροθεσία τῆς τῶν οὐρανίων ἱεραρχιῶν ὑπερκοσµίου µιµήσεως ἀξιώσασα",
+                            "spanishTranslation": "Por eso, la divinísima ordenación sagrada, que es iniciadora de los ritos, ha considerado digna a nuestra santísima jerarquía de la imitación supracósmica de las jerarquías celestiales,"
+                          },
+                          {
+                            "keywords": [
+                              "jerarquías inmateriales",
+                              "formas materiales",
+                              "transmisión"
+                            ],
+                            "lineNumber": [
+                              34,
+                              35,
+                              36
+                            ],
+                            "notes": {
+                              "notesGreek": "Los términos \"ἀΰλους\" (aüylous - inmateriales) y \"ὑλαίοις σχήµασι\" (hylaiois schēmasi - formas materiales) destacan la paradoja central de la teología de Dionisio: cómo lo inmaterial se manifiesta a través de lo material para nuestra comprensión."
+                            },
+                            "originalText": "καὶ τὰς εἰρηµένας ἀΰλους ἱεραρχίας ὑλαίοις σχήµασι καὶ µορφωτικαῖς συνθέσεσι διαποικίλασα παραδέδωκεν,",
+                            "spanishTranslation": "y habiendo adornado las mencionadas jerarquías inmateriales con figuras materiales y composiciones que les dan forma, las ha transmitido,"
+                          },
+                          {
+                            "keywords": [
+                              "analogía",
+                              "asimilación",
+                              "formas simples"
+                            ],
+                            "lineNumber": [
+                              36,
+                              37,
+                              38
+                            ],
+                            "notes": {
+                              "notesGeneral": "La 'análoga elevación' es un concepto clave en Dionisio, donde las cosas materiales y las formaciones sagradas sirven como escalones para ascender a la comprensión de realidades más elevadas e inmateriales. Las 'formas simples e informes' se refieren a la naturaleza pura y sin atributos de la divinidad y las realidades celestiales antes de ser simbolizadas."
+                            },
+                            "originalText": "ὅπως ἀναλόγως ἡµῖν αὐτοῖς ἀπὸ τῶν ἱερωτάτων πλάσεων ἐπὶ τὰς ἁπλᾶς καὶ ἀτυπώτους ἀναχθῶµεν ἀναγωγὰς καὶ ἀφοµοιώσεις,",
+                            "spanishTranslation": "para que, de manera análoga a nosotros mismos, seamos elevados desde las santísimas formaciones hacia las analogías y asimilaciones simples e informes,"
+                          },
+                          {
+                            "keywords": [
+                              "mente",
+                              "inmaterial",
+                              "contemplación"
+                            ],
+                            "lineNumber": [
+                              38,
+                              39,
+                              40,
+                              41,
+                              42
+                            ],
+                            "notes": {
+                              "notesGreek": "El texto griego aquí se interrumpe con \"νο\" (no) en la línea 38, que claramente se refiere a \"νοῦς\" (nous), es decir, la mente o el intelecto. La sintaxis del griego es fluida, y el texto original continúa de la línea 38 a la 40, omitiendo el final de la palabra. La traducción refleja la construcción completa esperada."
+                            },
+                            "originalText": "ἐπεὶ µηδὲ δυνατόν ἐστι τῷ καθ' ἡµᾶς νοπρὸς τὴν ἄϋλον ἐκείνην ἀναταθῆναι τῶν οὐρανίων ἱεραρχιῶν µίµησίν τε καὶ θεωρίαν,",
+                            "spanishTranslation": "puesto que no es posible que nuestra mente se eleve hacia aquella imitación y contemplación inmaterial de las jerarquías celestiales,"
+                          },
+                          {
+                            "keywords": [
+                              "guía material",
+                              "bellezas visibles",
+                              "fragancias",
+                              "luces materiales",
+                              "eucaristía",
+                              "simbólico"
+                            ],
+                            "lineNumber": [
+                              42,
+                              43,
+                              44,
+                              45,
+                              46,
+                              47,
+                              48,
+                              49
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje detalla la naturaleza simbólica de la revelación divina. Dionisio explica cómo las realidades sensibles (bellezas, fragancias, luces, enseñanzas, órdenes, Eucaristía) sirven como 'guía material' (ὑλαίᾳ χειραγωγίᾳ) para comprender las realidades espirituales e inmateriales. La Eucaristía se presenta como la participación en la comunión con Jesús, un medio divino-humano de asimilación.",
+                              "notesGreek": "La \"χειραγωγίᾳ\" (cheiragōgia) significa literalmente 'conducción de la mano' o 'guía'. \"Μετάληψιν\" (metalēpsin) se refiere a la 'participación' o 'comunión', particularmente en el contexto de la Eucaristía."
+                            },
+                            "originalText": "εἰ µὴ τῇ κατ' αὐτὸν ὑλαίᾳ χειραγωγίᾳ χρήσαιτο τὰ µὲν φαινόµενα κάλλη τῆς ἀφανοῦς εὐπρεπείας ἀπεικονίσµατα λογιζόµενος καὶ τὰς αἰσθητὰς εὐωδίας ἐκτυπώµατα τῆς νοητῆς διαδόσεως καὶ τῆς ἀΰλου φωτοδοσίας εἰκόνα τὰ ὑλικὰ φῶτα καὶ τῆς κατὰ νοῦν θεωρητικῆς ἀποπληρώσεως τὰς διεξοδικὰς ἱερὰς µαθητείας καὶ τῆς ἐναρµονίου πρὸς τὰ θεῖα καὶ τεταγµένης ἕξεως τὰς τῶν ἐνθάδε διακοσµήσεων τάξεις καὶ τῆς Ἰησοῦ µετουσίας τὴν τῆς θειοτάτης εὐχαριστίας µετάληψιν, καὶ ὅσα ἄλλα ταῖς οὐρανίαις µὲν οὐσίαις ὑπερκοσµίως, ἡµῖν δὲ συµβολικῶς παραδέδοται.",
+                            "spanishTranslation": "a menos que se sirva de la guía material adecuada a ella, considerando las bellezas visibles como imágenes de la belleza oculta; y las fragancias sensibles como representaciones de la difusión inteligible; y las luces materiales como imagen de la dispensación de luz inmaterial; y las exhaustivas enseñanzas sagradas como cumplimiento contemplativo de la mente; y las órdenes de las decoraciones terrenales como una disposición armónica y ordenada hacia lo divino; y la participación en la divinísima eucaristía como la comunión de Jesús, y todo lo demás que, para las esencias celestiales, se ha transmitido de manera supracósmica, pero para nosotros, de forma simbólica."
+                          },
+                          {
+                            "keywords": [
+                              "deificación",
+                              "jerarquías celestiales",
+                              "imágenes sensibles",
+                              "Escrituras"
+                            ],
+                            "lineNumber": [
+                              50,
+                              51,
+                              52,
+                              53,
+                              54
+                            ],
+                            "notes": {
+                              "notesGeneral": "La \"teletarchia filanthropos\" (iniciadora de los ritos que ama a la humanidad) se refiere a la Divinidad misma, que en su benevolencia se revela para nuestra deificación (θεώσεως). Las \"composiciones sagradas de los oráculos\" (ἱερογραφικαῖς τῶν λογίων συνθέσεσιν) se refiere a las Escrituras bíblicas, donde se describen las realidades celestiales en un lenguaje y con imágenes que los humanos pueden comprender."
+                            },
+                            "originalText": "Ταύτης οὖν ἕνεκα τῆς ἡµῶν ἀναλόγου θεώσεως ἡ φιλάνθρωπος τελεταρχία καὶ τὰς οὐρανίας ἱεραρχίας ἡµῖν ἀναφαίνουσα καὶ συλλειτουργὸν αὐτῶν τελοῦσα τὴν καθ' ἡµᾶς ἱεραρχίαν τῇ πρὸς δύναµιν ἡµῶν ἀφοµοιώσει τῆς θεοειδοῦς αὐτῶν ἱερώσεως αἰσθηταῖς εἰκόσι τοὺς ὑπερουρανίους ἀνεγράψατο νόας ἐν ταῖς ἱερογραφικαῖς τῶν λογίων συνθέσεσιν,",
+                            "spanishTranslation": "Por tanto, para nuestra análoga deificación, la iniciadora de los ritos, que ama a la humanidad, revelándonos las jerarquías celestiales y haciendo que nuestra jerarquía sea co-servidora de ellas mediante una asimilación, según nuestra capacidad, a su sacralidad divino-semejante, ha descrito las inteligencias supra-celestiales con imágenes sensibles en las composiciones sagradas de las Escrituras,"
+                          },
+                          {
+                            "keywords": [
+                              "sensible",
+                              "inteligible",
+                              "símbolos",
+                              "cumbres"
+                            ],
+                            "lineNumber": [
+                              55,
+                              56,
+                              57
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje concluye la idea de la 'anagogía' o elevación. El propósito de la revelación divina a través de símbolos materiales es llevarnos de lo que podemos percibir con los sentidos a lo que solo puede ser comprendido por el intelecto (lo inteligible), y desde los símbolos sagrados a las realidades simples y puras de las jerarquías celestiales."
+                            },
+                            "originalText": "ὅπως ἂν ἡµᾶς ἀναγάγοι διὰ τῶν αἰσθητῶν ἐπὶ τὰ νοητὰ κἀκ τῶν ἱεροπλάστων συµβόλων ἐπὶ τὰς ἁπλᾶς τῶν οὐρανίων ἱεραρχιῶν ἀκρότητας.",
+                            "spanishTranslation": "para que nos eleve, a través de lo sensible, a lo inteligible y, desde los símbolos que forman lo sagrado, a las cumbres simples de las jerarquías celestiales."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

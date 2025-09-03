@@ -1,0 +1,331 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Dionysius Areopagita",
+      "authorSpanish": "Dionisio el Areopagita",
+      "originalTitle": "De Caelesti Hierarchia",
+      "titleSpanish": "La Jerarquía Celestial",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 6,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 6,
+                    "chapterSummary": "Este capítulo aborda la naturaleza y el orden de las sustancias celestiales, afirmando que el conocimiento exacto de estas jerarquías y sus funciones reside únicamente en su 'teletarquía contemplativa' y en las propias inteligencias celestiales. Dionisio subraya la imposibilidad humana de comprender plenamente estos misterios y perfecciones, a menos que la Divinidad misma nos instruya a través de ellos. Por lo tanto, el autor se compromete a exponer solo aquello que los 'sagrados teólogos' han contemplado y que le ha sido revelado.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "órdenes",
+                              "sustancias celestiales",
+                              "disposición"
+                            ],
+                            "lineNumber": [
+                              440
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"διάκοσµοι\" (diákosmoi) se refiere a las 'disposiciones' o 'órdenes' en un sentido estructural y jerárquico dentro del cosmos o, en este caso, del ámbito supracelestial."
+                            },
+                            "originalText": "Ὅσοι µέν εἰσι καὶ οἷοι τῶν ὑπερουρανίων οὐσιῶν οἱ διάκοσµοι",
+                            "spanishTranslation": "Cuántos y cuáles son los órdenes de las sustancias celestiales,"
+                          },
+                          {
+                            "keywords": [
+                              "jerarquías",
+                              "realización",
+                              "conocimiento"
+                            ],
+                            "lineNumber": [
+                              441
+                            ],
+                            "notes": {},
+                            "originalText": "καὶ ὅπως αἱ κατ' αὐτοὺς ἱεραρχίαι τελοῦνται, µόνην ἀκριβῶς εἰδέναι φηµὶ",
+                            "spanishTranslation": "y cómo se realizan las jerarquías según ellos, solo una cosa digo conocer con exactitud:"
+                          },
+                          {
+                            "keywords": [
+                              "teletarquía",
+                              "contemplación",
+                              "potencias"
+                            ],
+                            "lineNumber": [
+                              442
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Τελεταρχίαν\" (teletarchían) es un neologismo dionisiano que denota el principio supremo o la causa primera de los ritos o misterios divinos, implicando una autoridad iniciática. \"θεωτικὴν\" (theōtikēn) hace referencia a la contemplación o visión de lo divino."
+                            },
+                            "originalText": "τὴν θεωτικὴν αὐτῶν τελεταρχίαν, προσέτι καὶ αὐτοὺς ἐγνωκέναι τὰς",
+                            "spanishTranslation": "la teletarquía contemplativa de ellos mismos, y además que ellos mismos han conocido sus"
+                          },
+                          {
+                            "keywords": [
+                              "iluminaciones",
+                              "sagrado",
+                              "supracósmico"
+                            ],
+                            "lineNumber": [
+                              443
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Ἐλλάµψεις\" (ellámpseis) se traduce como 'iluminaciones' o 'resplandores divinos', un concepto central en la teología dionisiana que describe la difusión de la luz y el conocimiento de Dios a través de las jerarquías."
+                            },
+                            "originalText": "οἰκείας δυνάµεις τε καὶ ἐλλάµψεις καὶ τὴν ἑαυτῶν ἱερὰν καὶ ὑπερκόσµιον",
+                            "spanishTranslation": "propias potencias e iluminaciones, y su sagrado y supracósmico"
+                          },
+                          {
+                            "keywords": [
+                              "orden",
+                              "armonía"
+                            ],
+                            "lineNumber": [
+                              444
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Εὐταξίαν\" (eutaxían) significa 'buen orden', 'disciplina' o 'armonía', fundamental para la estructura jerárquica que Dionisio describe."
+                            },
+                            "originalText": "εὐταξίαν.",
+                            "spanishTranslation": "buen orden."
+                          },
+                          {
+                            "keywords": [
+                              "imposible",
+                              "misterios",
+                              "inteligencias celestiales"
+                            ],
+                            "lineNumber": [
+                              445
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dionisio subraya la limitación de la razón humana para aprehender directamente las realidades divinas y angélicas, enfatizando la necesidad de una revelación o iniciación divina."
+                            },
+                            "originalText": "Ἀδύνατον γὰρ ἡµᾶς εἰδέναι τὰ τῶν ὑπερουρανίων νοῶν µυστή",
+                            "spanishTranslation": "Pues es imposible para nosotros conocer los misterios de las inteligencias celestiales"
+                          },
+                          {
+                            "keywords": [
+                              "perfecciones",
+                              "revelación",
+                              "divinidad"
+                            ],
+                            "lineNumber": [
+                              446
+                            ],
+                            "notes": {},
+                            "originalText": "ρια καὶ τὰς ἁγιωτάτας αὐτῶν τελειώσεις, εἰ µή που φαίη τις ὅσα δι'",
+                            "spanishTranslation": "y sus santísimas perfecciones, a no ser que alguien diga que todo lo que, a través de ellos,"
+                          },
+                          {
+                            "keywords": [
+                              "Te-arquía",
+                              "mistagogía",
+                              "conocimiento"
+                            ],
+                            "lineNumber": [
+                              447
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Θεαρχία\" (thearchía) es un término acuñado por Dionisio, refiriéndose al 'Principio Divino' o 'Gobierno Divino', la fuente y origen de todo. \"µεµυσταγώγηκεν\" (memystagōgēken), del verbo \"µυσταγωγέω\" (mystagōgeō), significa 'introducir en los misterios', 'instruir en ritos sagrados', destacando el papel iniciador de la divinidad en el conocimiento espiritual."
+                            },
+                            "originalText": "αὐτῶν ἡµᾶς ὡς τὰ οἰκεῖα καλῶς εἰδότων ἡ θεαρχία µεµυσταγώγηκεν.",
+                            "spanishTranslation": "la Te-arquía nos ha mistagogizado, como conociendo bien las cosas propias."
+                          },
+                          {
+                            "keywords": [
+                              "iniciativa propia",
+                              "visiones angélicas",
+                              "teólogos"
+                            ],
+                            "lineNumber": [
+                              448
+                            ],
+                            "notes": {
+                              "notesLinguistics": "\"Αὐτοκινήτως\" (autokinētōs) significa 'por sí mismo', 'espontáneamente' o 'por propia iniciativa'. Aquí resalta la pasividad del intelecto humano frente a la revelación divina."
+                            },
+                            "originalText": "Οὐκοῦν ἡµεῖς µὲν οὐδὲν αὐτοκινήτως ἐροῦµεν· ὅσα δὲ τῶν ἀγγελικῶν",
+                            "spanishTranslation": "Por lo tanto, nosotros no diremos nada por iniciativa propia; sino que, cuantas visiones angélicas"
+                          },
+                          {
+                            "keywords": [
+                              "contemplación",
+                              "iniciación",
+                              "revelación"
+                            ],
+                            "lineNumber": [
+                              449
+                            ],
+                            "notes": {
+                              "notesBiblical": "Los \"sagrados teólogos\" a los que se refiere Dionisio son los autores inspirados de las Escrituras o los Padres de la Iglesia que tuvieron revelaciones o visiones sobre el mundo angélico, como los profetas del Antiguo Testamento o el Apóstol Juan. \"Μυηθέντες\" (myēthentes), del verbo \"µυέω\" (myéō), 'iniciar en los misterios', implica una recepción pasiva del conocimiento divino."
+                            },
+                            "originalText": "θεαµάτων ὑπὸ τῶν ἱερῶν θεολόγων ἐθεωρήθη, ταῦτα µυηθέντες ἡµεῖς ὡς",
+                            "spanishTranslation": "fueron contempladas por los sagrados teólogos, estas cosas, habiendo sido iniciados nosotros,"
+                          },
+                          {
+                            "keywords": [
+                              "exposición",
+                              "posibilidad"
+                            ],
+                            "lineNumber": [
+                              450
+                            ],
+                            "notes": {},
+                            "originalText": "οἷοί τέ ἐσµεν ἐκθησόµεθα.",
+                            "spanishTranslation": "las expondremos como nos sea posible."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Dionysius Areopagita",
+                  "authorSpanish": "Dionisio el Areopagita",
+                  "originalTitle": "De Caelesti Hierarchia",
+                  "titleSpanish": "La Jerarquía Celestial",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 6,
+                    "chapterSummary": "Este capítulo profundiza en la estructura de las jerarquías celestiales, explicando su división en tres órdenes triádicos. Se describe la primera jerarquía como la más cercana a Dios, la segunda compuesta por Potestades, Dominaciones y Virtudes, y la tercera por Ángeles, Arcángeles y Principados.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "teología",
+                              "esencias celestiales",
+                              "nueve",
+                              "nombres reveladores",
+                              "hierotélico",
+                              "divisiones triádicas"
+                            ],
+                            "lineNumber": [
+                              451,
+                              452,
+                              453
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"ἐκφαντορικαῖς ἐπωνυµίαις\" (ekfantorikais eponymiais) se refiere a nombres que son manifestativos o reveladores, indicando que los nombres de las esencias celestiales no son meras denominaciones, sino que revelan algo de su naturaleza o función. \"ἱεροτελεστὴς\" (hierotelestēs) significa 'sacro celebrante' o 'hierotélico', a menudo usado por Dionisio para referirse a un maestro espiritual o a un escritor sagrado, implícitamente a San Pablo o a la tradición inspirada que interpreta.",
+                              "notesLinguistics": "La construcción \"Πάσας... κέκληκεν\" muestra el uso del participio femenino plural para \"todas\" (las esencias) en concordancia con el objeto directo, y el verbo \"ha llamado\" en perfecto, indicando una acción completada con resultados continuos en el presente."
+                            },
+                            "originalText": "[[2>]] <Πάσας ἡ θεολογία τὰς οὐρανίας οὐσίας ἐννέα κέκληκεν ἐκφαντορικαῖς ἐπωνυµίαις· ταύτας ὁ θεῖος ἡµῶν ἱεροτελεστὴς εἰς τρεῖς ἀφορίζει τριαδικὰς διακοσµήσεις.",
+                            "spanishTranslation": "La teología ha llamado a todas las esencias celestiales nueve con nombres reveladores; a estas, nuestro divino hierotélico las divide en tres disposiciones triádicas."
+                          },
+                          {
+                            "keywords": [
+                              "primera jerarquía",
+                              "alrededor de Dios",
+                              "unida inmediatamente",
+                              "antes de las otras"
+                            ],
+                            "lineNumber": [
+                              454,
+                              455,
+                              456
+                            ],
+                            "notes": {
+                              "notesGreek": "\"προσεχῶς\" (prosechōs) significa 'cercanamente' o 'inmediatamente', y \"ἀµέσως\" (amesōs) también refuerza la idea de una unión sin intermediarios. La frase \"περὶ θεὸν οὖσαν\" (peri theon ousan) indica una existencia en torno a Dios, una cercanía ontológica y funcional.",
+                              "notesLinguistics": "El uso del participio \"οὖσαν\" (siendo) y \"ἡνῶσθαι\" (estar unida) en infinitivo perfecto pasivo, ambos dependientes de \"εἶναί φησι\" (dice que es), construyen la descripción de la primera jerarquía."
+                            },
+                            "originalText": "Καὶ πρώτην µὲν εἶναί φησι τὴν περὶ θεὸν οὖσαν ἀεὶ καὶ προσεχῶς αὐτῷ καὶ πρὸ τῶν ἄλλων ἀµέσως ἡνῶσθαι παραδε δοµένην.",
+                            "spanishTranslation": "Y dice que la primera es aquella que está siempre alrededor de Dios y unida a Él de manera inmediata y cercana, y antes que las otras, según lo transmitido."
+                          },
+                          {
+                            "keywords": [
+                              "Tronos",
+                              "Querubines",
+                              "Serafines",
+                              "multitud de ojos",
+                              "multitud de alas",
+                              "hebreo",
+                              "cercanía a Dios",
+                              "oráculos sagrados"
+                            ],
+                            "lineNumber": [
+                              457,
+                              458,
+                              459,
+                              460
+                            ],
+                            "notes": {
+                              "notesBiblical": "Los Querubines (Χερουβὶµ, del hebreo כְּרוּבִים) y Serafines (Σεραφὶµ, del hebreo שְׂרָפִים) son seres celestiales mencionados en las Escrituras. Los Querubines con sus múltiples ojos y alas aparecen en las visiones de Ezequiel (Ez 1, 10), y los Serafines con seis alas en la visión de Isaías (Is 6,2). Los Tronos también son parte de las descripciones paulinas de las jerarquías celestiales (Col 1,16).",
+                              "notesGreek": "\"πολυόµµατα\" (polyommata) significa 'de muchos ojos', y \"πολύπτερα\" (polyptera) 'de muchas alas', atributos que Dionisio toma de descripciones bíblicas. \"ἱδρῦσθαί\" (hidrūsthai) significa 'estar establecido', 'fundado', indicando su posición fija y directa alrededor de Dios.",
+                              "notesLinguistics": "La frase \"Ἑβραίων φωνῇ\" (hebraiōn phōnē) significa 'en lengua hebrea', especificando el origen de los nombres de los Querubines y Serafines."
+                            },
+                            "originalText": "Τούς τε γὰρ ἁγιωτάτους θρόνους καὶ τὰ πολυόµµατα καὶ πολύπτερα τάγµατα Χερουβὶµ Ἑβραίων φωνῇ καὶ Σεραφὶµ ὠνοµασµένα κατὰ τὴν πάντων ὑπερκειµένην ἐγγύτητα περὶ θεὸν ἀµέσως ἱδρῦσθαί φησι παραδιδόναι τὴν τῶν ἱερῶν λογίων ἐκφαντορίαν.",
+                            "spanishTranslation": "Pues dice que la revelación de los sagrados oráculos transmite que los santísimos Tronos y los órdenes de muchos ojos y muchas alas, llamados Querubines y Serafines en lengua hebrea, están establecidos inmediatamente alrededor de Dios, según su cercanía que trasciende a todos."
+                          },
+                          {
+                            "keywords": [
+                              "líder",
+                              "primera jerarquía",
+                              "teoide",
+                              "teoarquía",
+                              "segunda jerarquía",
+                              "Potestades",
+                              "Dominaciones",
+                              "Virtudes",
+                              "tercera jerarquía",
+                              "Ángeles",
+                              "Arcángeles",
+                              "Principados"
+                            ],
+                            "lineNumber": [
+                              461,
+                              462,
+                              463,
+                              464,
+                              465,
+                              466,
+                              467
+                            ],
+                            "notes": {
+                              "notesGreek": "\"θεοειδεστέρα\" (theoeidestera) significa 'más semejante a Dios' o 'más divina'. \"θεαρχίας\" (thearchias) se refiere a la 'teoarquía', el gobierno o principio divino, la fuente de todo ser y de las iluminaciones divinas. \"κλεινὸς ἡµῶν καθηγεµών\" (kleinos hēmōn kathēgemōn) 'nuestro insigne/ilustre guía/maestro', es una referencia recurrente en Dionisio, a menudo interpretada como San Pablo o algún otro Padre apostólico.",
+                              "notesLinguistics": "Dionisio aquí recapitula y organiza los órdenes angélicos, citando al 'guía' y estructurando las tres jerarquías con sus respectivas enumeraciones de coros angélicos, siguiendo la tradición paulina (Col 1,16, Ef 1,21) e integrando nombres del Antiguo Testamento."
+                            },
+                            "originalText": "Τὸν τριαδικὸν οὖν τοῦτον διάκοσµον ὡς ἕνα καὶ ὁµοταγῆ καὶ ὄντως πρώτην ἱεραρχίαν ὁ κλεινὸς ἡµῶν ἔφη καθηγεµών, ἧς οὐκ ἔστιν ἑτέρα θεοειδεστέρα καὶ ταῖς πρωτουργοῖς τῆς θεαρχίας ἐλλάµψεσιν ἀµέσως προσεχεστέρα, δευτέραν δ' εἶναί φησιν τὴν ὑπὸ τῶν ἐξουσιῶν καὶ κυριοτήτων καὶ δυνάµεων συµπληρουµένην καὶ τρίτην ἐπ' ἐσχάτων τῶν οὐρανίων ἱεραρχιῶν τὴν τῶν ἀγγέλων τε καὶ ἀρχαγγέλων καὶ ἀρχῶν διακόσµησιν.",
+                            "spanishTranslation": "Así pues, nuestro insigne guía dijo que esta disposición triádica es una y del mismo orden y, verdaderamente, la primera jerarquía, de la cual no hay otra más teoide y más inmediatamente cercana a las primordiales iluminaciones de la Teoarquía; y dice que la segunda es la que está completada por las Potestades, Dominaciones y Virtudes; y la tercera, al final de las jerarquías celestiales, la disposición de los Ángeles, Arcángeles y Principados."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

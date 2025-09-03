@@ -12,10 +12,13 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 _Iohannes Chrysostomus - De jejunio [1]_
+- **Fuente**: https://www.documentacatholicaomnia.eu/02g/0345-0407,_Iohannes_Chrysostomus,_De_jejunio_[2],_MGR.pdf
 
 ## Introducción
 
-San Juan Crisóstomo, uno de los más grandes padres de la Iglesia, aborda en esta obra la importancia espiritual y moral del ayuno. A través de sus enseñanzas, destaca el valor del ayuno no solo como práctica ascética, sino como medio para fortalecer la voluntad, purificar el corazón y acercarse a Dios. Sus reflexiones invitan a comprender el ayuno como un acto de humildad y caridad, orientado al crecimiento interior y al servicio de los demás.
+Esta extensa homilía de San Juan Crisóstomo profundiza en el significado teológico y práctico del ayuno, presentándolo como un "tiempo de expiaciones" y "revocación de pecados". El orador argumenta que el ayuno es un "freno hermoso" y un "remedio" que cura el alma de la maldad, comparable a la incisión de un médico para sanar. A lo largo de la disertación, se exploran ejemplos bíblicos cruciales: desde el pecado de Adán como acto de intemperancia hasta la redención posible a través del ayuno, pasando por la venta de la primogenitura de Esaú, el ayuno de Moisés para recibir la Ley (y la subsecuente intercesión para el perdón de Israel), y el ayuno de Cristo en el desierto como fundamento de la Nueva Alianza.
+
+Crisóstomo también examina el poder del ayuno a través de las historias de Daniel en el foso de los leones y el profeta de Judá desobediente, para quien la transgresión del mandato de abstinencia tuvo consecuencias fatales. Particularmente notable es la consideración del ayuno de Nínive, que revocó una sentencia divina de destrucción, y la discusión sobre la presciencia divina y el libre albedrío, utilizando los casos de Adán y Judas para defender la justicia y el amor de Dios. La homilía detalla los múltiples beneficios del ayuno –que van desde la serenidad y el control de las pasiones hasta la purificación física y moral– y lo eleva a una "imitación de los ángeles" y un "deleite espiritual". Finalmente, el Crisóstomo vincula el ayuno con la pasión de Cristo, presentándolo como una "pequeña muerte" que permite participar en los sufrimientos del Señor y alcanzar la gloria.
 
 <Tabs>
 <TabItem value="text" label="Texto" default>

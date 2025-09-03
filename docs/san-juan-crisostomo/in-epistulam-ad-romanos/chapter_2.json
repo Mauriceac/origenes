@@ -1,0 +1,2722 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Iohannes Chrysostomus",
+      "authorSpanish": "San Juan Cristóstomo",
+      "originalTitle": "In Epistulam ad Romanos",
+      "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 2,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 2,
+                    "chapterSummary": "Inicio de la Homilía II, donde San Pablo expresa gratitud por la fe de los Romanos, citando Romanos 1:8.",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "homilía",
+                              "número",
+                              "segunda"
+                            ],
+                            "lineNumber": [
+                              357
+                            ],
+                            "notes": {},
+                            "originalText": "ΟΜΙΛΙΑ Βʹ.",
+                            "spanishTranslation": "HOMILÍA II."
+                          },
+                          {
+                            "keywords": [
+                              "gracias",
+                              "Dios",
+                              "Jesucristo",
+                              "fe",
+                              "mundo",
+                              "Romanos 1:8"
+                            ],
+                            "lineNumber": [
+                              358
+                            ],
+                            "notes": {
+                              "notesBiblical": "Este versículo es una cita directa de Romanos 1:8, donde el apóstol Pablo inicia su epístola con una expresión de gratitud por la fe de los creyentes en Roma, cuya fama ha trascendido fronteras.",
+                              "notesGreek": "La frase 'εὐχαριστῶ τῷ Θεῷ µου' (eucharistō tō Theō mou) significa 'doy gracias a mi Dios'. El verbo 'εὐχαριστῶ' es clave en la expresión de gratitud. 'κατ αγγέλλεται' (katangélletai) se traduce como 'se anuncia' o 'es proclamada', implicando una difusión pública y generalizada. La preposición 'διὰ' (dia) con genitivo ('διὰ Ἰησοῦ Χριστοῦ') indica el medio o instrumento por el cual se da la acción de gracias.",
+                              "notesLinguistics": "La construcción 'Πρῶτον µὲν... ὅτι...' ('Primeramente... porque...') establece una causa para la gratitud expresada por el apóstol. El 'µὲν' postpositivo en 'Πρῶτον µὲν' es un marcador discursivo que indica el inicio de una serie o la primera de varias consideraciones."
+                            },
+                            "originalText": "Πρῶτον µὲν εὐχαριστῶ τῷ Θεῷ µου διὰ Ἰησοῦ Χρι στοῦ ὑπὲρ πάντων ὑµῶν, ὅτι ἡ πίστις ὑµῶν κατ αγγέλλεται ἐν ὅλῳ τῷ κόσµῳ.",
+                            "spanishTranslation": "Primeramente, doy gracias a mi Dios por Jesucristo por todos vosotros, porque vuestra fe se anuncia en todo el mundo."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 2,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              359
+                            ],
+                            "notes": {},
+                            "originalText": "αʹ.",
+                            "spanishTranslation": "Primero."
+                          },
+                          {
+                            "keywords": [
+                              "προοίµιον",
+                              "εὐχαριστεῖν",
+                              "κατορθωµάτων",
+                              "φθόνου",
+                              "βασκανίας"
+                            ],
+                            "lineNumber": [
+                              360
+                            ],
+                            "notes": {
+                              "notesGreek": "Προοίµιον (prooímion) se refiere a la introducción o el prólogo. Κατορθώµατα (katorthómata) son los logros o éxitos."
+                            },
+                            "originalText": "Πρέπον τῇ µακαρίᾳ ψυχῇ τὸ προοίµιον, καὶ ἱκανὸν ἅπαντας παιδεῦσαι καὶ ἔργων καὶ λόγων ἀγαθῶν ἀπάρχεσθαι τῷ Θεῷ, καὶ µὴ µόνον ὑπὲρ τῶν οἰκείων, ἀλλὰ καὶ ὑπὲρ τῶν ἀλλοτρίων εὐχαριστεῖν κατορθωµάτων, ὃ καὶ φθόνου καὶ βασκανίας καθαρὰν ποιεῖ τὴν ψυχὴν, καὶ τὸν Θεὸν ἐπισπᾶται µειζόνως πρὸς τὴν τῶν εὐχαριστούντων εὔνοιαν.",
+                            "spanishTranslation": "El prefacio es apropiado para el alma bienaventurada, y capaz de enseñar a todos a ofrecer a Dios las primicias de las buenas obras y palabras, y a dar gracias no solo por los propios logros, sino también por los ajenos, lo cual hace al alma pura de envidia y malicia, y atrae a Dios más grandemente hacia el favor de los que dan gracias."
+                          },
+                          {
+                            "keywords": [
+                              "ἀλλαχοῦ",
+                              "φησιν"
+                            ],
+                            "lineNumber": [
+                              361
+                            ],
+                            "notes": {},
+                            "originalText": "∆ιὸ καὶ ἀλλαχοῦ φησιν·",
+                            "spanishTranslation": "Por lo cual también dice en otro lugar:"
+                          },
+                          {
+                            "keywords": [
+                              "Εὐλογητὸς",
+                              "Πατὴρ",
+                              "Κυρίου",
+                              "εὐλογήσας",
+                              "εὐλογίᾳ",
+                              "πνευµατικῇ"
+                            ],
+                            "lineNumber": [
+                              362
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta es una cita directa de Efesios 1:3: \"Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos bendijo con toda bendición espiritual en los lugares celestiales en Cristo\"."
+                            },
+                            "originalText": "Εὐλογητὸς ὁ Θεὸς καὶ Πατὴρ τοῦ Κυρίου ἡµῶν Ἰησοῦ Χριστοῦ, ὁ εὐλογήσας ἡµᾶς ἐν πάσῃ εὐλογίᾳ πνευµατικῇ.",
+                            "spanishTranslation": "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, el que nos bendijo con toda bendición espiritual."
+                          },
+                          {
+                            "keywords": [
+                              "Εὐχαριστεῖν",
+                              "πλουτοῦντας",
+                              "πενοµένους",
+                              "ὑγιαίνοντας",
+                              "νοσοῦντας",
+                              "εὐηµεροῦντας",
+                              "τἀναντία ὑποµένοντας"
+                            ],
+                            "lineNumber": [
+                              363
+                            ],
+                            "notes": {},
+                            "originalText": "Εὐχαριστεῖν δὲ δεῖ οὐχὶ πλουτοῦντας µόνον, ἀλλὰ καὶ πενοµένους, οὐχ ὑγιαίνοντας, ἀλλὰ καὶ νοσοῦντας, οὐκ εὐηµεροῦντας, ἀλλὰ καὶ τἀναντία ὑποµένοντας·",
+                            "spanishTranslation": "Pero hay que dar gracias no solo cuando se es rico, sino también cuando se es pobre; no cuando se está sano, sino también cuando se está enfermo; no cuando se prospera, sino también cuando se soporta lo contrario;"
+                          },
+                          {
+                            "keywords": [
+                              "οὐρίας",
+                              "φεροµένων",
+                              "θαυµαστὸν οὐδέν"
+                            ],
+                            "lineNumber": [
+                              364
+                            ],
+                            "notes": {
+                              "notesGreek": "Οὐρίας (ourías) significa \"viento favorable\", una metáfora para circunstancias propicias."
+                            },
+                            "originalText": "τὸ µὲν γὰρ ἐξ οὐρίας τῶν πραγµάτων φεροµένων εὐχαριστεῖν, θαυµαστὸν οὐδέν·",
+                            "spanishTranslation": "pues dar gracias cuando las cosas van con viento a favor, no tiene nada de admirable;"
+                          },
+                          {
+                            "keywords": [
+                              "κλυδώνιον",
+                              "σκάφος",
+                              "περιτρέπηται",
+                              "κινδυνεύῃ",
+                              "ὑποµονῆς",
+                              "εὐγνωµοσύνης",
+                              "ἐπίδειξις"
+                            ],
+                            "lineNumber": [
+                              365
+                            ],
+                            "notes": {
+                              "notesGreek": "Κλυδώνιον (klydṓnion) se refiere a la agitación de las olas, una tormenta. Εὐγνωµοσύνης (eugnōmosýnēs) denota gratitud o buen juicio."
+                            },
+                            "originalText": "ὅταν δὲ πολὺ τὸ κλυδώνιον ᾖ, καὶ τὸ σκάφος περιτρέπηται καὶ κινδυνεύῃ, τότε ἐστὶν ἡ πολλὴ τῆς ὑποµονῆς καὶ τῆς εὐγνωµοσύνης ἐπίδειξις.",
+                            "spanishTranslation": "pero cuando la agitación es grande, y la nave se vuelca y está en peligro, entonces es la gran demostración de paciencia y gratitud."
+                          },
+                          {
+                            "keywords": [
+                              "Ἰὼβ",
+                              "ἐστεφανοῦτο",
+                              "ἀναίσχυντον",
+                              "διαβόλου",
+                              "στόµα",
+                              "ἐνέφραττε",
+                              "εὐηµερῶν",
+                              "χρήµατα",
+                              "εὐχάριστος",
+                              "ἀγάπην"
+                            ],
+                            "lineNumber": [
+                              366
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia al libro de Job, que soportó grandes sufrimientos y mantuvo su fe, silenciando así las acusaciones de Satanás."
+                            },
+                            "originalText": "∆ιὰ δὴ τοῦτο καὶ ὁ Ἰὼβ ἐντεῦθεν ἐστεφανοῦτο, καὶ τὸ ἀναίσχυντον τοῦ διαβόλου στόµα ἐνέφραττε, καὶ ἐδείκνυ σαφῶς, ὅτι οὐδὲ ἡνίκα εὐηµερῶν ἦν, διὰ τὰ χρήµατα εὐχάριστος ἦν, ἀλλὰ διὰ τὴν πολλὴν περὶ τὸν Θεὸν ἀγάπην.",
+                            "spanishTranslation": "Por esta razón, Job fue coronado por esto, y detuvo la boca desvergonzada del diablo, y mostró claramente que ni siquiera cuando prosperaba era agradecido por sus riquezas, sino por su gran amor hacia Dios."
+                          },
+                          {
+                            "keywords": [
+                              "Ὅρα",
+                              "εὐχαριστεῖ"
+                            ],
+                            "lineNumber": [
+                              367
+                            ],
+                            "notes": {},
+                            "originalText": "Ὅρα δὲ καὶ ἐπὶ τίσιν εὐχαριστεῖ·",
+                            "spanishTranslation": "Y mira por qué cosas da gracias:"
+                          },
+                          {
+                            "keywords": [
+                              "γηΐνοις",
+                              "ἀπολλυµένοις",
+                              "ἀρχῇ",
+                              "δυναστείᾳ",
+                              "δόξῃ",
+                              "οὐδενὸς ἄξια λόγου",
+                              "ὄντως ἀγαθοῖς",
+                              "πίστει",
+                              "παῤῥησίᾳ"
+                            ],
+                            "lineNumber": [
+                              368
+                            ],
+                            "notes": {
+                              "notesGreek": "Παῤῥησίᾳ (parrēsía) significa \"franqueza\", \"confianza\" o \"audacia\"."
+                            },
+                            "originalText": "οὐκ ἐπὶ τοῖς γηΐνοις καὶ ἀπολλυµένοις, οἷον ἐπὶ ἀρχῇ καὶ δυναστείᾳ καὶ δόξῃ (ταῦτα γὰρ οὐδενὸς ἄξια λόγου), ἀλλ' ἐπὶ τοῖς ὄντως ἀγαθοῖς, τῇ πίστει καὶ τῇ παῤῥησίᾳ·",
+                            "spanishTranslation": "no por las cosas terrenales y perecederas, como el poder, el dominio y la gloria (pues estas no son dignas de mención alguna), sino por los bienes verdaderamente buenos, la fe y la audacia."
+                          },
+                          {
+                            "keywords": [
+                              "εὐχαριστεῖ",
+                              "διαθέσεως"
+                            ],
+                            "lineNumber": [
+                              369
+                            ],
+                            "notes": {},
+                            "originalText": "καὶ µεθ' ὅσης εὐχαριστεῖ διαθέσεως·",
+                            "spanishTranslation": "¡Y con cuánta disposición da gracias!"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              370
+                            ],
+                            "notes": {
+                              "notesGeneral": "La posesión de \"mi Dios\" subraya una relación personal profunda, no solo una referencia a la deidad universal."
+                            },
+                            "originalText": "οὐ γὰρ εἶπε, Τῷ Θεῷ, ἀλλὰ, Τῷ Θεῷ µου·",
+                            "spanishTranslation": "Porque no dijo: 'A Dios', sino: 'A mi Dios'."
+                          },
+                          {
+                            "keywords": [
+                              "προφῆται",
+                              "κοινὸν",
+                              "ἰδιοποιούµενοι"
+                            ],
+                            "lineNumber": [
+                              371,
+                              372
+                            ],
+                            "notes": {},
+                            "originalText": "ὃ καὶ οἱ προφῆται ποιοῦσι· τὸ κοινὸν ἰδιοποιούµενοι.",
+                            "spanishTranslation": "lo cual también hacen los profetas, haciendo suyo lo común."
+                          },
+                          {
+                            "keywords": [
+                              "θαυµαστὸν",
+                              "προφῆται",
+                              "Θεὸς",
+                              "δούλων",
+                              "Ἀβραὰµ",
+                              "Ἰσαὰκ",
+                              "Ἰακὼβ",
+                              "ἰδιαζόντως"
+                            ],
+                            "lineNumber": [
+                              373,
+                              374
+                            ],
+                            "notes": {
+                              "notesBiblical": "Dios se presenta en el Antiguo Testamento como el \"Dios de Abraham, Isaac y Jacob\" (Éxodo 3:6), enfatizando Su pacto y relación personal con ellos."
+                            },
+                            "originalText": "Καὶ τί θαυµαστὸν, εἰ οἱ προφῆται; Αὐτὸς γὰρ αὐτὸ συνεχῶς ὁ Θεὸς φαίνεται ποιῶν ἐπὶ τῶν δούλων, Θεὸν Ἀβραὰµ, καὶ Ἰσαὰκ, καὶ Ἰακὼβ ἰδιαζόντωςλέγων ἑαυτόν.",
+                            "spanishTranslation": "¿Y qué hay de sorprendente si los profetas lo hacen? Porque Dios mismo continuamente parece hacer esto con sus siervos, llamándose de una manera especial el Dios de Abraham, Isaac y Jacob."
+                          },
+                          {
+                            "keywords": [
+                              "πίστις",
+                              "καταγγέλλεται",
+                              "κόσµῳ"
+                            ],
+                            "lineNumber": [
+                              375
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 1:8, versículo que Crisóstomo está explicando."
+                            },
+                            "originalText": "Ὅτι ἡ πίστις ὑµῶν καταγγέλλεται ἐν ὅλῳ τῷ κόσµῳ.",
+                            "spanishTranslation": "Porque vuestra fe es proclamada en todo el mundo."
+                          },
+                          {
+                            "keywords": [
+                              "γῆ",
+                              "πίστιν",
+                              "Ῥωµαίων"
+                            ],
+                            "lineNumber": [
+                              376,
+                              377
+                            ],
+                            "notes": {},
+                            "originalText": "Τί οὖν; πᾶσα ἡ γῆ τὴν πίστιν ἤκουσε τῶν Ῥωµαίων;",
+                            "spanishTranslation": "¿Qué entonces? ¿Toda la tierra escuchó la fe de los romanos?"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              378,
+                              379
+                            ],
+                            "notes": {},
+                            "originalText": "Πᾶσα ἐξ ἐκείνου· καὶ οὐδὲν ἀπεικός·",
+                            "spanishTranslation": "Toda desde entonces; y nada es improbable;"
+                          },
+                          {
+                            "keywords": [
+                              "ἄσηµος",
+                              "πόλις",
+                              "κορυφῆς",
+                              "κειµένη",
+                              "κατάδηλος"
+                            ],
+                            "lineNumber": [
+                              380
+                            ],
+                            "notes": {},
+                            "originalText": "οὐ γὰρ ἄσηµος ἡ πόλις ἦν, ἀλλ' ὥσπερ ἐπί τινος κορυφῆς κειµένη, διὰ πάντα κατάδηλος ἦν.",
+                            "spanishTranslation": "pues la ciudad no era insignificante, sino que, como si estuviera situada en alguna cumbre, era manifiesta para todos."
+                          },
+                          {
+                            "keywords": [
+                              "κηρύγµατος",
+                              "δύναµιν",
+                              "χρόνῳ βραχεῖ",
+                              "τελωνῶν",
+                              "ἁλιέων",
+                              "κορυφῆς",
+                              "Σύροι",
+                              "διδάσκαλοι",
+                              "καθηγηταί"
+                            ],
+                            "lineNumber": [
+                              381
+                            ],
+                            "notes": {},
+                            "originalText": "Σὺ δέ µοι σκόπει τοῦ κηρύγµατος τὴν δύναµιν, πῶς ἐν χρόνῳ βραχεῖ διὰ τελωνῶν καὶ ἁλιέων αὐτῆς τῆς τῶν πόλεων ἐπελάβετο κορυφῆς, καὶ ἄνδρες Σύροι Ῥωµαίων ἐγένοντο διδάσκαλοι καὶ καθηγηταί.",
+                            "spanishTranslation": "Pero considera el poder de la proclamación, cómo en un corto tiempo, a través de publicanos y pescadores, se apoderó de la propia capital de las ciudades, y hombres sirios se convirtieron en maestros y guías de los romanos."
+                          },
+                          {
+                            "keywords": [
+                              "µαρτυρεῖ",
+                              "κατορθώµατα",
+                              "ἐπίστευον",
+                              "παῤῥησίας",
+                              "καταλαβεῖν",
+                              "φήµην"
+                            ],
+                            "lineNumber": [
+                              382,
+                              383
+                            ],
+                            "notes": {
+                              "notesGreek": "Παῤῥησίας (parrēsías) de nuevo enfatiza la audacia y la libertad de expresión, crucial para la expansión del evangelio."
+                            },
+                            "originalText": "∆ύο τοίνυν αὐτοῖς µαρτυρεῖ κατορθώµατα· καὶ ὅτι ἐπίστευον, καὶ ὅτι µετὰ παῤῥησίας ἐπίστευον, καὶ τοσαύτης ὡς πᾶσαν τὴν γῆν καταλαβεῖν τὴν ὑπὲρ αὐτῶν φήµην.",
+                            "spanishTranslation": "Por lo tanto, les atestigua dos logros: que creyeron, y que creyeron con tal audacia que su fama alcanzó toda la tierra."
+                          },
+                          {
+                            "keywords": [
+                              "πίστις",
+                              "καταγγέλλεται",
+                              "κόσµῳ"
+                            ],
+                            "lineNumber": [
+                              384
+                            ],
+                            "notes": {
+                              "notesBiblical": "Reiteración del versículo de Romanos 1:8."
+                            },
+                            "originalText": "Ἡ πίστις γὰρ ὑµῶν, φησὶ, καταγγέλλεται ἐν ὅλῳ τῷ κόσµῳ·",
+                            "spanishTranslation": "Pues vuestra fe, dice, es proclamada en todo el mundo."
+                          },
+                          {
+                            "keywords": [
+                              "πίστις",
+                              "λογοµαχίαι",
+                              "συζητήσεις",
+                              "συλλογισµοί"
+                            ],
+                            "lineNumber": [
+                              385
+                            ],
+                            "notes": {
+                              "notesGreek": "Λογοµαχίαι (logomachíai) son disputas sobre palabras; συζητήσεις (syzētḗseis) son debates; συλλογισµοί (syllogismoí) son razonamientos lógicos. Crisóstomo contrasta la fe sencilla con la complejidad retórica o filosófica."
+                            },
+                            "originalText": "ἡ πίστις, οὐχ αἱ λογοµαχίαι οὐδὲ αἱ συζητήσεις οὐδὲ οἱ συλλογισµοί·",
+                            "spanishTranslation": "la fe, no las disputas de palabras ni los debates ni los silogismos;"
+                          },
+                          {
+                            "keywords": [
+                              "κωλύµατα",
+                              "διδασκαλίας"
+                            ],
+                            "lineNumber": [
+                              386
+                            ],
+                            "notes": {},
+                            "originalText": "καίτοι πολλὰ ἦν ἐκεῖ τὰ κωλύµατα τῆς διδασκαλίας.",
+                            "spanishTranslation": "aunque había allí muchos obstáculos para la enseñanza."
+                          },
+                          {
+                            "keywords": [
+                              "οἰκουµένης",
+                              "ἀρχὴν",
+                              "ἐφρόνουν",
+                              "πλούτῳ",
+                              "τρυφῇ",
+                              "κήρυγµα",
+                              "ἁλιεῖς",
+                              "Ἰουδαῖοι",
+                              "µεµισηµένου",
+                              "βδελυκτοῦ",
+                              "ἐσταυρωµένον",
+                              "προσκυνεῖν",
+                              "τραφέντα"
+                            ],
+                            "lineNumber": [
+                              387
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje describe el contraste entre la grandeza del Imperio Romano (orgulloso, rico, amante del lujo) y la humildad del mensaje cristiano y sus mensajeros (pescadores judíos, un mesías crucificado de una nación despreciada)."
+                            },
+                            "originalText": "Καὶ γὰρ ἄρτι τῆς οἰκουµένης δεξάµενοι τὴν ἀρχὴν µέγα ἐφρόνουν, καὶ πλούτῳ καὶ τρυφῇ συνέζων, καὶ τὸ κήρυγµα ἁλιεῖς ἐκόµιζον, Ἰουδαῖοι καὶ ἐξ Ἰουδαίων, ἔθνους µεµισηµένου καὶ παρὰ πᾶσι βδελυκτοῦ, καὶ τὸν ἐσταυρωµένον προσκυνεῖν ἐκελεύοντο, τὸν ἐν Ἰουδαίᾳ τραφέντα·",
+                            "spanishTranslation": "Pues habiendo recibido recientemente el gobierno del mundo, eran muy orgullosos, y vivían con riqueza y lujo, y la proclamación la traían pescadores, judíos y de judíos, de una nación aborrecida y abominable para todos, y se les ordenaba adorar al crucificado, al que había sido criado en Judea;"
+                          },
+                          {
+                            "keywords": [
+                              "δόγµατος",
+                              "βίον αὐστηρὸν",
+                              "κατήγγελλον",
+                              "διδάσκαλοι",
+                              "τρυφᾷν µεµελετηκόσι",
+                              "παρόντα",
+                              "ἐπτοηµένοις"
+                            ],
+                            "lineNumber": [
+                              388
+                            ],
+                            "notes": {},
+                            "originalText": "καὶ µετὰ τοῦ δόγµατος καὶ βίον αὐστηρὸν κατήγγελλον οἱ διδάσκαλοι ἀνθρώποις τρυφᾷν µεµελετηκόσι, καὶ πρὸς τὰ παρόντα ἐπτοηµένοις.",
+                            "spanishTranslation": "y junto con el dogma, los maestros proclamaban una vida austera a personas acostumbradas al lujo y apegadas a las cosas presentes."
+                          },
+                          {
+                            "keywords": [
+                              "καταγγέλλοντες",
+                              "πένητες",
+                              "ἰδιῶται",
+                              "ἀγεννεῖς",
+                              "ἐξ ἀγεννῶν"
+                            ],
+                            "lineNumber": [
+                              389
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ οἱ καταγγέλλοντες ἦσαν πένητες καὶ ἰδιῶται, ἀγεννεῖς καὶ ἐξ ἀγεννῶν.",
+                            "spanishTranslation": "Y los que proclamaban eran pobres e ignorantes, de baja cuna y de familias de baja cuna."
+                          },
+                          {
+                            "keywords": [
+                              "δρόµον",
+                              "ἐκώλυσε",
+                              "σταυρωθέντος",
+                              "δύναµις",
+                              "πανταχοῦ",
+                              "περιάγειν"
+                            ],
+                            "lineNumber": [
+                              390,
+                              391
+                            ],
+                            "notes": {},
+                            "originalText": "Ἀλλ' οὐδὲν τούτων τοῦ λόγου τὸν δρόµον ἐκώλυσε· τοσαύτη τοῦ σταυρωθέντος ἡ δύναµις ἦν, ὡς πανταχοῦ περιάγειν τὸν λόγον.",
+                            "spanishTranslation": "Pero nada de esto impidió el curso de la palabra; tan grande era el poder del crucificado, que llevó la palabra por todas partes."
+                          },
+                          {
+                            "keywords": [
+                              "Καταγγέλλεται",
+                              "κόσµῳ"
+                            ],
+                            "lineNumber": [
+                              392
+                            ],
+                            "notes": {
+                              "notesBiblical": "Una vez más, se refiere a Romanos 1:8, enfatizando la naturaleza de la proclamación."
+                            },
+                            "originalText": "Καταγγέλλεται γὰρ, φησὶν, ἐν ὅλῳ τῷ κόσµῳ.",
+                            "spanishTranslation": "Porque es proclamada, dice, en todo el mundo."
+                          },
+                          {
+                            "keywords": [
+                              "∆ηλοῦται",
+                              "Καταγγέλλεται",
+                              "στόµασιν"
+                            ],
+                            "lineNumber": [
+                              393
+                            ],
+                            "notes": {
+                              "notesLinguistics": "Crisóstomo distingue entre δηλοῦται (deloútai, 'es manifestado' o 'mostrado') y καταγγέλλεται (kataggélletai, 'es proclamado' o 'anunciado públicamente'), destacando que la fe de los romanos no era solo conocida, sino activamente difundida y hablada por todos."
+                            },
+                            "originalText": "Καὶ οὐκ εἶπε, ∆ηλοῦται, ἀλλὰ, Καταγγέλλεται, ὡς πάντων ἐν στόµασιν αὐτοὺς ἐχόντων.",
+                            "spanishTranslation": "Y no dijo: 'Es manifestado', sino: 'Es proclamado', como si todos los tuvieran en sus bocas."
+                          },
+                          {
+                            "keywords": [
+                              "Θεσσαλονικεῦσι",
+                              "µαρτυρῶν",
+                              "προστίθησιν"
+                            ],
+                            "lineNumber": [
+                              394
+                            ],
+                            "notes": {},
+                            "originalText": "Θεσσαλονικεῦσι µὲν οὖν τοῦτο µαρτυρῶν, καὶ ἕτερον προστίθησιν·",
+                            "spanishTranslation": "Así pues, al dar testimonio de esto a los Tesalonicenses, añade también otra cosa;"
+                          },
+                          {
+                            "keywords": [
+                              "ἐξήχηται",
+                              "λόγος τοῦ Θεοῦ",
+                              "χρείαν",
+                              "λαλεῖν"
+                            ],
+                            "lineNumber": [
+                              395
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a 1 Tesalonicenses 1:8: 'Porque partiendo de vosotros ha sido divulgada la palabra del Señor, no sólo en Macedonia y Acaya, sino que también vuestra fe en Dios se ha extendido a todo lugar, de modo que no tenemos necesidad de hablar nada'."
+                            },
+                            "originalText": "εἰπὼν γὰρ, Ἀφ' ὑµῶν ἐξήχηται ὁ λόγος τοῦ Θεοῦ, ἐπήγαγεν, Ὥστε µὴ χρείαν ἔχειν ἡµᾶς λαλεῖν τι.",
+                            "spanishTranslation": "pues habiendo dicho: 'De vosotros ha resonado la palabra de Dios', añadió: 'De modo que no tenemos necesidad de decir nada'."
+                          },
+                          {
+                            "keywords": [
+                              "µαθηταὶ",
+                              "τάξει",
+                              "διδασκάλων",
+                              "κατέστησαν",
+                              "παῤῥησίας",
+                              "παιδεύοντες",
+                              "ἐφελκόµενοι"
+                            ],
+                            "lineNumber": [
+                              396
+                            ],
+                            "notes": {},
+                            "originalText": "Οἱ γὰρ µαθηταὶ ἐν τάξει διδασκάλων κατέστησαν, διὰ τῆς παῤῥησίας αὐτῶν πάντας παιδεύοντες, καὶ πρὸς ἑαυτοὺς ἐφελκόµενοι.",
+                            "spanishTranslation": "Porque los discípulos fueron establecidos en el rango de maestros, enseñando a todos mediante su audacia y atrayéndolos hacia sí."
+                          },
+                          {
+                            "keywords": [
+                              "ἵστατό",
+                              "κήρυγµα",
+                              "πυρὸς σφοδρότερον",
+                              "ἐπῄει",
+                              "οἰκουµένην"
+                            ],
+                            "lineNumber": [
+                              397
+                            ],
+                            "notes": {},
+                            "originalText": "Οὐ γὰρ ἵστατό που τὸ κήρυγµα, ἀλλὰ πυρὸς σφοδρότερον πᾶσαν ἐπῄει τὴν οἰκουµένην.",
+                            "spanishTranslation": "Pues la proclamación no se detuvo en ningún lugar, sino que, más vehementemente que el fuego, se extendió por todo el mundo habitado."
+                          },
+                          {
+                            "keywords": [
+                              "Καταγγέλλεται"
+                            ],
+                            "lineNumber": [
+                              398
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐνταῦθα δὲ τοσοῦτον µόνον, ὅτι Καταγγέλλεται.",
+                            "spanishTranslation": "Pero aquí solo esto: 'Es proclamado'."
+                          },
+                          {
+                            "keywords": [
+                              "Καταγγέλλεται",
+                              "δεικνὺς",
+                              "προσθεῖναι",
+                              "ἀφελεῖν",
+                              "ἀγγέλου",
+                              "ἔργον",
+                              "διακοµίζειν"
+                            ],
+                            "lineNumber": [
+                              399,
+                              400
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo usa la analogía del ángel (mensajero) para enfatizar la fidelidad con la que el Evangelio debe ser transmitido, sin añadir ni quitar nada."
+                            },
+                            "originalText": "Καλῶς εἶπεν, ὅτι Καταγγέλλεται, δεικνὺς ὅτι οὐδὲν ἔδει προσθεῖναι τοῖς εἰρηµένοις οὐδὲ ἀφελεῖν· ἀγγέλου γὰρ τοῦτο ἔργον ἐστὶ, τὸ µόνα τὰ λεγόµενα διακοµίζειν.",
+                            "spanishTranslation": "Bien dijo, 'Es proclamado', mostrando que nada había que añadir ni quitar a lo dicho; pues esta es la obra de un ángel, transmitir solamente lo dicho."
+                          },
+                          {
+                            "keywords": [
+                              "ἱερεὺς",
+                              "ἄγγελος",
+                              "καλεῖται",
+                              "πέµποντος",
+                              "ἀναγγέλλει"
+                            ],
+                            "lineNumber": [
+                              401
+                            ],
+                            "notes": {
+                              "notesBiblical": "Malaquías 2:7 menciona al sacerdote como 'mensajero de Jehová de los ejércitos', estableciendo este paralelismo en la tradición judeocristiana."
+                            },
+                            "originalText": "∆ιὰ τοῦτο καὶ ὁ ἱερεὺς ἄγγελος καλεῖται, ὅτι οὐ τὰ ἑαυτοῦ, ἀλλὰ τὰ τοῦ πέµποντος ἀναγγέλλει.",
+                            "spanishTranslation": "Por esta razón, el sacerdote también es llamado ángel, porque anuncia no sus propias cosas, sino las de Aquel que lo envió."
+                          },
+                          {
+                            "keywords": [
+                              "Πέτρος",
+                              "ἐκήρυξεν",
+                              "ἑαυτοῦ",
+                              "ἡγεῖται",
+                              "ἔφθην εἰπὼν",
+                              "ὑπερβολῆς",
+                              "βασκανίας",
+                              "καθαρός"
+                            ],
+                            "lineNumber": [
+                              402,
+                              403
+                            ],
+                            "notes": {
+                              "notesGreek": "Βασκανίας (baskanías) se refiere a la malicia o envidia, a menudo asociada con el 'mal de ojo' o una mirada envidiosa."
+                            },
+                            "originalText": "Καίτοι γε Πέτρος ἐκήρυξεν ἐκεῖ, ἀλλὰ καὶ τὰ ἐκείνου ἑαυτοῦ ἡγεῖται· οὕτως, ὅπερ ἔφθην εἰπὼν, µεθ' ὑπερβολῆς ἁπάσης βασκανίας ἦν καθαρός.",
+                            "spanishTranslation": "Y aunque Pedro predicó allí, él (Pablo) considera también los logros de aquel como propios; así, como dije antes, estaba libre de toda envidia en exceso."
+                          },
+                          {
+                            "keywords": [
+                              "Μάρτυς",
+                              "Θεὸς",
+                              "λατρεύω",
+                              "πνεύµατί",
+                              "Εὐαγγελίῳ",
+                              "Υἱοῦ"
+                            ],
+                            "lineNumber": [
+                              404
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 1:9: 'Porque testigo me es Dios, a quien sirvo en mi espíritu en el evangelio de su Hijo, de que sin cesar hago mención de vosotros'."
+                            },
+                            "originalText": "Μάρτυς γάρ µού ἐστιν ὁ Θεὸς, ᾧ λατρεύω ἐν τῷ πνεύµατί µου, ἐν τῷ Εὐαγγελίῳ τοῦ Υἱοῦ αὐτοῦ.",
+                            "spanishTranslation": "Porque testigo me es Dios, a quien sirvo con mi espíritu en el Evangelio de su Hijo."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 2,
+                    "chapterSummary": "Crisóstomo reflexiona sobre el amor apostólico de Pablo por los romanos, su compromiso con el evangelio como su forma de servicio a Dios, y la superioridad de la adoración cristiana sobre las prácticas paganas y judías, destacando la unidad entre Padre e Hijo en el Evangelio.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              405,
+                              406
+                            ],
+                            "originalText": "βʹ. Ἀποστολικῶν σπλάγχνων τὰ ῥήµατα, πατρικῆς κηδεµονίας ἡ ἀπόφασις.",
+                            "spanishTranslation": "2. Palabras de entrañas apostólicas, una decisión de cuidado paternal."
+                          },
+                          {
+                            "lineNumber": [
+                              407,
+                              408
+                            ],
+                            "originalText": "Τί δέ ἐστιν ὅ φησι, καὶ τίνος ἕνεκεν τὸν Θεὸν µάρτυρα καλεῖ; Περὶ διαθέσεως ὁ λόγος ἦν αὐτῷ.",
+                            "spanishTranslation": "¿Pero qué es lo que dice y por qué llama a Dios por testigo? Su discurso era sobre su disposición."
+                          },
+                          {
+                            "lineNumber": [
+                              409
+                            ],
+                            "originalText": "Ἐπεὶ οὖν οὐδέπω ἦν αὐτοὺς ἑωρακὼς, διά τοι τοῦτο ἀνθρώπων µὲν οὐδένα, τὸν δὲ ἐµβατεύοντα ταῖς καρδίαις, τοῦτον ἐκάλεσε µάρτυρα.",
+                            "spanishTranslation": "Como todavía no los había visto, por eso no llamó a ningún hombre, sino a Aquel que escudriña los corazones, a Él llamó por testigo."
+                          },
+                          {
+                            "lineNumber": [
+                              410
+                            ],
+                            "originalText": "Ἐπειδὴ γὰρ ἔλεγεν, ὅτι Ἀγαπῶ ὑµᾶς, καὶ σηµεῖον ἐποιεῖτο τὸ διηνεκῶς εὔχεσθαι, καὶ τὸ βούλεσθαι ἐλθεῖν πρὸς αὐτοὺς, καὶ οὐδὲ τοῦτο δῆλον ἦν, ἐπὶ τὴν ἀξιόπιστον καταφεύγει µαρτυρίαν.",
+                            "spanishTranslation": "Pues como decía: 'Os amo', y se hacía señal el orar continuamente y el querer ir a ellos, y ni siquiera esto era evidente, recurre al testimonio fidedigno."
+                          },
+                          {
+                            "lineNumber": [
+                              411,
+                              412
+                            ],
+                            "originalText": "Ἆρα δυνήσεταί τις ἡµῶν καυχήσασθαι, ὅτι µέµνηται ἐπὶ τῆς οἰκίας εὐχόµενος τοῦ τῆς Ἐκκλησίας πληρώµατος; Οὐκ οἶµαι.",
+                            "spanishTranslation": "¿Acaso alguno de nosotros podrá jactarse de que se acuerda de orar en su casa por la plenitud de la Iglesia? No lo creo."
+                          },
+                          {
+                            "lineNumber": [
+                              413,
+                              414
+                            ],
+                            "originalText": "Ἀλλ' ὁ Παῦλος οὐχ ὑπὲρ πόλεως µιᾶς, ἀλλ' ὑπὲρ τῆς οἰκουµένης ἁπάσης προσῄει τῷ Θεῷ, καὶ τοῦτο οὐχ ἅπαξ οὐδὲ δεύτερον οὐδὲ τρίτον, ἀλλὰ διηνεκῶς.",
+                            "spanishTranslation": "Pero Pablo no se acercaba a Dios por una sola ciudad, sino por toda la tierra habitada, y esto no una, ni dos, ni tres veces, sino continuamente."
+                          },
+                          {
+                            "lineNumber": [
+                              415,
+                              416
+                            ],
+                            "originalText": "Εἰ δὲ τὸ διηνεκῶς ἐν µνήµῃ τινὰ περιφέρειν, οὐκ ἂν γένοιτο, εἰ µὴ ἀπὸ ἀγάπης πολλῆς· τὸ ἐν εὐχαῖς ἔχειν καὶ ἀδιαλείπτως ἔχειν, ἐννόησον πόσης ἐστὶ διαθέσεως καὶ φιλίας.",
+                            "spanishTranslation": "Si el llevar a alguien continuamente en la memoria no podría suceder si no es por mucho amor, el tenerlo en oraciones y tenerlo incesantemente, considera de cuánta disposición y amistad es."
+                          },
+                          {
+                            "lineNumber": [
+                              417,
+                              418
+                            ],
+                            "originalText": "Ὅταν δὲ εἴπῃ, Ὧ λατρεύω ἐν τῷ πνεύµατί µου, ἐν τῷ Εὐαγγελίῳ τοῦ Υἱοῦ αὐτοῦ, ὁµοῦ µὲν τὴν τοῦ Θεοῦ χάριν, ὁµοῦ δὲ τὴν αὐτοῦ ταπεινοφροσύνην ἐνδείκνυται ἡµῖν· τὴν µὲν τοῦ Θεοῦ χάριν, ὅτι τοσοῦτον αὐτῷ πρᾶγµα ἐπέτρεψε, τὴν δὲ αὑτοῦ ταπεινοφροσύνην, ὅτι οὐχὶ τῇ ἑαυτοῦ σπουδῇ, ἀλλὰ τῇ τοῦ Πνεύµατος βοηθείᾳ τὸ πᾶν λογίζεται.",
+                            "spanishTranslation": "Y cuando dice: 'A quien sirvo en mi espíritu, en el Evangelio de su Hijo', nos muestra al mismo tiempo la gracia de Dios y su propia humildad; la gracia de Dios, porque le confió una cosa tan grande, y su propia humildad, porque no atribuye todo a su propio celo, sino a la ayuda del Espíritu."
+                          },
+                          {
+                            "lineNumber": [
+                              419,
+                              420
+                            ],
+                            "originalText": "Ἡ δὲ τοῦ Εὐαγγελίου προσθήκη τὸ εἶδος δηλοῖ τῆς διακονίας. Καὶ γὰρ πολλοὶ τῆς διακονίας οἱ τρόποι καὶ διάφοροι, καὶ τῆς λατρείας δὲ ὡσαύτως.",
+                            "spanishTranslation": "Y la adición 'en el Evangelio' indica el tipo de servicio. Pues muchos y diversos son los modos del servicio, y de la adoración también de la misma manera."
+                          },
+                          {
+                            "lineNumber": [
+                              421,
+                              422
+                            ],
+                            "originalText": "Καθάπερ γὰρ ἐπὶ τῶν βασιλέων πάντες µέν εἰσιν ὑφ' ἑνὶ τεταγµένοι τῷ βασιλεύοντι, διακονοῦνται δὲ οὐ πάντες τὰ αὐτὰ, ἀλλὰ τῷ µέν ἐστιν ἡ διακονία ἐν τῷ στρατοπέδων ἄρχειν, τῷ δὲ ἐν τῷ πόλεις οἰκονοµεῖν, ἑτέρῳ πάλιν ἐν τῷ φυλάττειν τὰ ἐν τοῖς ταµιείοις χρήµατα· οὕτω καὶ ἐπὶ τῶν πνευµατικῶν, ὁ µὲν λατρεύει τῷ Θεῷ καὶ δουλεύει ἐν τῷ πιστεύειν καὶ τὸν βίον τὸν ἑαυτοῦ καλῶς οἰκονοµεῖν, ὁ δὲ ἐν τῷ ξένων θεραπείαν ἀναδέχεσθαι, ὁ δὲ ἐν τῷ τὴν προστασίαν τῶν δεοµένων µεταχειρίζεσθαι·",
+                            "spanishTranslation": "Porque así como en el caso de los reyes, todos están sujetos a un solo rey que gobierna, pero no todos sirven de la misma manera, sino que para uno el servicio consiste en gobernar ejércitos, para otro en administrar ciudades, y para otro en guardar los tesoros; así también en las cosas espirituales, uno sirve a Dios y es siervo en creer y administrar bien su propia vida, otro en acoger a los extranjeros, y otro en encargarse de la protección de los necesitados;"
+                          },
+                          {
+                            "lineNumber": [
+                              423,
+                              424,
+                              425
+                            ],
+                            "originalText": "καθάπερ καὶ ἐπὶ τῶν ἀποστόλων αὐτῶν οἱ περὶ τὸν Στέφανον ἐν τῇ τῶν χηρῶν προστασίᾳ ἐδούλευον τῷ Θεῷ, ἄλλος ἐν τῇ τοῦ λόγου διδασκαλίᾳ, ὧν καὶ ὁ Παῦλος ἦν, ἐν [[60.403]] τῷ τὸ κήρυγµα εὐαγγελίζεσθαι λατρεύων· καὶ οὗτος ἦν ὁ τῆς δουλείας αὐτοῦ τρόπος· τοῦτο γὰρ ἦν ἐπιτεταγµένος.",
+                            "spanishTranslation": "así como entre los apóstoles mismos, los que estaban con Esteban servían a Dios en la protección de las viudas, otro en la enseñanza de la palabra, entre los cuales estaba también Pablo, sirviendo al evangelizar el kerigma; y este era el modo de su servicio, pues esto le había sido encomendado."
+                          },
+                          {
+                            "lineNumber": [
+                              426
+                            ],
+                            "originalText": "∆ιὰ τοῦτο οὐ µάρτυρα καλεῖ τὸν Θεὸν µόνον, ἀλλὰ καὶ ὅπερ ἐνεπιστεύθη λέγει, δεικνὺς ὅτι οὐκ ἂν τηλικαῦτα ἐγχειρισθεὶς, τὸν ἐµπιστεύσαντα µάρτυρα ἐπὶ ψευδέσιν ἐκάλει.",
+                            "spanishTranslation": "Por eso no solo llama a Dios por testigo, sino que también dice aquello que le fue confiado, mostrando que, habiéndole sido encargadas cosas tan grandes, no llamaría por testigo a Quien le confió tales cosas para falsedades."
+                          },
+                          {
+                            "lineNumber": [
+                              427,
+                              428,
+                              429,
+                              430
+                            ],
+                            "originalText": "Μετὰ δὲ τούτου κἀκεῖνο δεῖξαι βούλεται, τὴν ἀγάπην τὴν ὑπὲρ αὐτῶν, καὶ τὴν φροντίδα ἀναγκαίαν οὖσαν. Ἵνα γὰρ µὴ λέγωσι, Σὺ τίς ὢν καὶ πόθεν, πόλιν οὕτω µεγάλην καὶ βασιλικωτάτην µεριµνᾷν φής; δείκνυσιν ἀναγκαίαν οὖσαν αὐτῷ τὴν τοιαύτην φροντίδα, εἴ γε αὐτῷ τῆς δουλείας οὗτος ὁ τρόπος ἐπιτέτακται, τὸ καταγγέλλειν τὸ Εὐαγγέλιον.",
+                            "spanishTranslation": "Además de esto, quiere mostrar aquello, el amor que tiene por ellos, y que el cuidado es necesario. Porque para que no dijeran: '¿Quién eres tú y de dónde, que dices preocuparte por una ciudad tan grande y real?', muestra que tal cuidado le es necesario, si es que este modo de servicio le ha sido encomendado: el anunciar el Evangelio."
+                          },
+                          {
+                            "lineNumber": [
+                              431
+                            ],
+                            "originalText": "Ὁ γὰρ τοῦτο ἐγκεχειρισµένος ἀνάγκην ἔχει τοὺς µέλλοντας ὑποδέχεσθαι τὸν λόγον διαπαντὸς ἔχειν ἐπὶ τῆς διανοίας.",
+                            "spanishTranslation": "Pues el que ha sido encargado de esto, tiene la necesidad de tener siempre en mente a aquellos que van a recibir la palabra."
+                          },
+                          {
+                            "lineNumber": [
+                              432,
+                              433
+                            ],
+                            "originalText": "∆ηλοῖ δὲ καὶ ἕτερον πρὸς τούτοις εἰπὼν, Ἐν τῷ πνεύµατί µου· ὅτι πολὺ καὶ τῆς Ἑλληνικῆς καὶ τῆς Ἰουδαϊκῆς λατρείας ἀνωτέρα αὕτη.",
+                            "spanishTranslation": "Y además de esto, al decir 'en mi espíritu', declara otra cosa: que esta es muy superior tanto a la adoración griega como a la judía."
+                          },
+                          {
+                            "lineNumber": [
+                              434,
+                              435
+                            ],
+                            "originalText": "Ἡ µὲν γὰρ Ἑλληνικὴ, καὶ πεπλανηµένη καὶ σαρκική· ἡ δὲ Ἰουδαϊκὴ, ἀληθὴς µὲν, σαρκικὴ δὲ καὶ αὐτή·",
+                            "spanishTranslation": "Pues la griega es tanto errada como carnal; y la judía, aunque verdadera, también es carnal."
+                          },
+                          {
+                            "lineNumber": [
+                              436,
+                              437
+                            ],
+                            "originalText": "ἡ δὲ τῆς Ἐκκλησίας, τῆς µὲν Ἑλληνικῆς ἐναντία, τῆς δὲ Ἰουδαϊκῆς ὑψηλοτέρα πολλῷ τῷ µέτρῳ. Οὐ γὰρ διὰ προβάτων καὶ µόσχων καὶ καπνοῦ καὶ κνίσσης ὁ τῆς ἡµετέρας λατρείας τρόπος, ἀλλὰ διὰ ψυχῆς πνευµατικῆς·",
+                            "spanishTranslation": "Pero la de la Iglesia es opuesta a la griega, y mucho más elevada que la judía. Porque el modo de nuestra adoración no es por medio de ovejas, becerros, humo y grasa, sino por medio de un alma espiritual."
+                          },
+                          {
+                            "lineNumber": [
+                              438,
+                              439
+                            ],
+                            "originalText": "ὅπερ καὶ ὁ Χριστὸς δηλῶν ἔλεγε· Πνεῦµα ὁ Θεὸς, καὶ τοὺς προσκυνοῦντας αὐτὸν, ἐν πνεύµατι καὶ ἀληθείᾳ δεῖ προσκυνεῖν.",
+                            "spanishTranslation": "lo cual también Cristo, al declararlo, decía: 'Dios es Espíritu, y los que le adoran, en espíritu y en verdad es necesario que le adoren'. Esto se refiere a Juan 4:24."
+                          },
+                          {
+                            "lineNumber": [
+                              440,
+                              441,
+                              442
+                            ],
+                            "originalText": "Ἐν τῷ Εὐαγγελίῳ τοῦ Υἱοῦ αὐτοῦ. Ἀνωτέρω εἰπὼν τὸ Εὐαγγέλιον τοῦ Πατρὸς εἶναι, ἐνταῦθα τοῦ Υἱοῦ αὐτό φησιν· οὕτως ἀδιάφορον καὶ Πατρὸς καὶ Υἱοῦ λέγειν.",
+                            "spanishTranslation": "'En el Evangelio de su Hijo'. Habiendo dicho antes que el Evangelio es del Padre, aquí dice que es del Hijo; así es indiferente decir del Padre y del Hijo."
+                          },
+                          {
+                            "lineNumber": [
+                              443,
+                              444
+                            ],
+                            "originalText": "Καὶ γὰρ ἔµαθε παρὰ τῆς µακαρίας ἐκείνης φωνῆς, ὅτι τὰ τοῦ Πατρὸς τοῦ Υἱοῦ, καὶ τὰ τοῦ Υἱοῦ τοῦ Πατρός· Πάντα γὰρ, φησὶ, τὰ ἐµὰ σά ἐστι, καὶ τὰ σὰ ἐµά.",
+                            "spanishTranslation": "Pues aprendió de aquella bendita voz que las cosas del Padre son del Hijo, y las del Hijo son del Padre; 'porque, dice, todas mis cosas son tuyas, y las tuyas mías'. Esto se refiere a Juan 17:10."
+                          },
+                          {
+                            "lineNumber": [
+                              445,
+                              446
+                            ],
+                            "originalText": "Ὡς ἀδιαλείπτως µνείαν ὑµῶν ποιοῦµαι ἐπὶ τῶν προσευχῶν µου. Τοῦτο γνησίας ἀγάπης.",
+                            "spanishTranslation": "'Cómo os menciono incesantemente en mis oraciones'. Esto es de amor genuino."
+                          },
+                          {
+                            "lineNumber": [
+                              447
+                            ],
+                            "originalText": "Καὶ δοκεῖ µὲν ἕν τι λέγειν, τέσσαρα δὲ τίθησιν ἐνταῦθα, καὶ ὅτι µέµνηται, καὶ ὅτι ἀδιαλείπτως, καὶ ὅτι ἐν εὐχαῖς, καὶ ὅτι ὑπὲρ µεγάλων πραγµάτων.",
+                            "spanishTranslation": "Y aunque parece decir una sola cosa, aquí expone cuatro: que se acuerda, que incesantemente, que en oraciones, y que por grandes asuntos."
+                          },
+                          {
+                            "lineNumber": [
+                              448,
+                              449
+                            ],
+                            "originalText": "∆εόµενος, εἴ πως ᾔδη ποτὲ εὐοδωθήσοµαι ἐν τῷ θελήµατι τοῦ Θεοῦ ἐλθεῖν πρὸς ὑµᾶς. Ἐπιποθῶ γὰρ ἰδεῖν ὑµᾶς.",
+                            "spanishTranslation": "'Rogando, si de alguna manera, por fin, seré prosperado en la voluntad de Dios para ir a vosotros. Porque deseo veros'. Esto se refiere a Romanos 1:10-11."
+                          },
+                          {
+                            "lineNumber": [
+                              450,
+                              451,
+                              452
+                            ],
+                            "originalText": "Ὁρᾷς καὶ ὠδίνοντα αὐτοὺς ἰδεῖν, καὶ οὐκ ἀνεχόµενον παρὰ τὸ τῷ Θεῷ δοκοῦν ἰδεῖν, ἀλλὰ κεκερασµένον φόβῳ Θεοῦ τὸν πόθον ἔχοντα; Ἐφίλει µὲν γὰρ αὐτοὺς, καὶ ἠπείγετο πρὸς αὐτούς· οὐ µὴν, ἐπειδὴ ἐφίλει, παρὰ τὸ τῷ Θεῷ δοκοῦν ἐβούλετο ἰδεῖν.",
+                            "spanishTranslation": "¿Ves cómo, aunque deseaba ardientemente verlos y no soportaba la idea de verlos en contra de lo que a Dios le parecía bien, tenía su deseo mezclado con temor de Dios? Pues ciertamente los amaba y se apresuraba hacia ellos; sin embargo, no porque los amaba quería verlos en contra de lo que a Dios le parecía bien."
+                          },
+                          {
+                            "lineNumber": [
+                              453,
+                              454
+                            ],
+                            "originalText": "Αὕτη ἡ γνησία ἀγάπη, οὐχ ὡς ἡµεῖς οἱ ἀµφοτέρωθεν τῶν νόµων τῆς ἀγάπης ἐκπίπτοντες. Ἢ γὰρ οὐδένα φιλοῦµεν, ἢ ἐπειδὰν φιλήσωµέν ποτε, παρὰ τὸ τῷ Θεῷ δοκοῦν φιλοῦµεν, ἀµφότερα παρὰ τὸν θεῖον ποιοῦντες νόµον.",
+                            "spanishTranslation": "Este es el amor genuino, no como nosotros, que caemos de ambos lados de las leyes del amor. Pues o no amamos a nadie, o cuando amamos, lo hacemos en contra de lo que a Dios le parece bien, haciendo ambas cosas contrarias a la ley divina."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 2,
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [
+                              "peso",
+                              "discurso",
+                              "acontecer"
+                            ],
+                            "lineNumber": [
+                              455
+                            ],
+                            "originalText": "Εἰ δὲ φορτικὰ ταῦτα λεγόµενα, φορτικώτερα γιγνόµενα, γʹ.",
+                            "spanishTranslation": "Y si estas cosas son pesadas al decirse, lo son más al acontecer."
+                          },
+                          {
+                            "keywords": [
+                              "amar",
+                              "Dios",
+                              "voluntad divina"
+                            ],
+                            "lineNumber": [
+                              456,
+                              457
+                            ],
+                            "notes": {
+                              "notesGeneral": "El autor plantea una pregunta retórica sobre cómo es posible amar de una manera que contradice la voluntad de Dios."
+                            },
+                            "originalText": "Καὶ πῶς παρὰ τὸ τῷ Θεῷ δοκοῦν φιλοῦµεν, φησίν;",
+                            "spanishTranslation": "¿Y cómo —dice él— amamos en contra de lo que le agrada a Dios?"
+                          },
+                          {
+                            "keywords": [
+                              "Cristo",
+                              "hambre",
+                              "necesidad",
+                              "prójimo"
+                            ],
+                            "lineNumber": [
+                              458
+                            ],
+                            "notes": {
+                              "notesBiblical": "Alude a la enseñanza de Jesús sobre identificarse con los necesitados (cf. Mateo 25:31-46).",
+                              "notesGeneral": "La respuesta a la pregunta anterior, criticando la hipocresía de satisfacer los propios deseos o los de seres queridos mientras se descuida a Cristo en los pobres."
+                            },
+                            "originalText": "Ὅταν τὸν µὲν Χριστὸν λιµῷ τηκόµενον περιορῶµεν, παισὶ δὲ καὶ φίλοις καὶ συγγενέσιν ὑπὲρ τὴν χρείαν παρέχωµεν.",
+                            "spanishTranslation": "Cuando descuidamos a Cristo consumiéndose de hambre, pero proveemos a hijos, amigos y parientes más allá de lo necesario."
+                          },
+                          {
+                            "keywords": [
+                              "conciencia",
+                              "examen",
+                              "acción"
+                            ],
+                            "lineNumber": [
+                              459,
+                              460
+                            ],
+                            "notes": {
+                              "notesGeneral": "Una invitación a la auto-reflexión y al examen de conciencia."
+                            },
+                            "originalText": "Μᾶλλον δὲ τί χρὴ περαιτέρω τὸν λόγον προάγειν; Ἐὰν γὰρ τὸ ἑαυτοῦ συνειδὸς ἕκαστος ἐξετάσῃ, ἐπὶ πολλῶν τοῦτο εὑρήσει γινόµενον πραγµάτων.",
+                            "spanishTranslation": "Más bien, ¿qué necesidad hay de llevar el discurso más allá? Porque si cada uno examina su propia conciencia, encontrará que esto sucede en muchos asuntos."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "amor",
+                              "límites",
+                              "bienaventurado"
+                            ],
+                            "lineNumber": [
+                              461
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra 'μακάριος' (makarios) significa 'bienaventurado' o 'dichoso', refiriéndose a Pablo en un sentido de admiración y respeto por su virtud."
+                            },
+                            "originalText": "Ἀλλ' οὐχ ὁ µακάριος ἐκεῖνος τοιοῦτος ἦν, ἀλλ' ᾔδει καὶ φιλεῖν, καὶ φιλεῖν ὡς χρὴ, καὶ ὡς προσῆκον ἦν, καὶ πάντας νικῶν τῷ φιλεῖν, οὐχ ὑπερέβαινε τῆς ἀγάπης τὰ µέτρα.",
+                            "spanishTranslation": "Pero aquel bienaventurado no era así, sino que sabía amar, y amar como es debido, y como convenía, y superando a todos en amor, no excedía los límites del amor."
+                          },
+                          {
+                            "keywords": [
+                              "temor de Dios",
+                              "amor a los Romanos",
+                              "virtud",
+                              "exceso"
+                            ],
+                            "lineNumber": [
+                              462
+                            ],
+                            "originalText": "Ὅρα γοῦν ἀµφότερα µεθ' ὑπερβολῆς ἐν αὐτῷ βρύοντα, καὶ τὸν τοῦ Θεοῦ φόβον, καὶ τὸν τῶν Ῥωµαίων πόθον.",
+                            "spanishTranslation": "Mira, pues, ambas cosas rebosando en él con exceso: el temor de Dios y el anhelo por los Romanos."
+                          },
+                          {
+                            "keywords": [
+                              "oración",
+                              "perseverancia",
+                              "amor vehemente",
+                              "piedad"
+                            ],
+                            "lineNumber": [
+                              463,
+                              464
+                            ],
+                            "notes": {
+                              "notesFromSource": "El marcador [[60.404]] se refiere a la paginación en la Patrologia Graeca de Migne, volumen 60, columna 404.",
+                              "notesGeneral": "Crisóstomo distingue aquí dos aspectos de la virtud de Pablo: la constancia en la oración (amor vehemente) y la sumisión a la voluntad divina (piedad intensificada)."
+                            },
+                            "originalText": "Τὸ µὲν γὰρ διηνεκῶς εὔχεσθαι, καὶ µὴ τυγχάνοντα µὴ ἀφίστασθαι, ἀγάπης σφοδρᾶς ἦν· τὸ δὲ ἀγαπῶντα µένειν τῷ τοῦ Θεοῦ νεύµατι εἴκοντα, [[60.404]] εὐλαβείας ἐπιτεταµένης.",
+                            "spanishTranslation": "Porque orar continuamente, y no desistir sin conseguirlo, era de amor vehemente; y el permanecer amando, cediendo al designio de Dios, era de una piedad intensificada."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "oración",
+                              "respuesta de Dios",
+                              "gratitud"
+                            ],
+                            "lineNumber": [
+                              465,
+                              466
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se alude a la 'espina en la carne' de Pablo (2 Corintios 12:7-9), donde su petición de ser librado no fue concedida, pero recibió gracia suficiente."
+                            },
+                            "originalText": "Ἀλλαχοῦ µὲν οὖν τρὶς τὸν Κύριον παρακαλέσας οὐ µόνον οὐκ ἔλαβεν, ἀλλὰ καὶ τὸ ἐναντίον, µὴ λαβὼν, χάριν ἔγνω τοῦ παρακουσθῆναι πολλήν· οὕτω πρὸς τὸν Θεὸν ἐν ἅπασιν ἔβλεπεν.",
+                            "spanishTranslation": "En otro lugar, pues, habiendo rogado tres veces al Señor, no solo no recibió, sino que, al contrario, sin recibir, reconoció mucha gracia de haber sido desoído; así miraba a Dios en todas las cosas."
+                          },
+                          {
+                            "keywords": [
+                              "oración",
+                              "respuesta tardía",
+                              "paciencia"
+                            ],
+                            "lineNumber": [
+                              467
+                            ],
+                            "notes": {
+                              "notesGeneral": "Aquí se contrasta con la experiencia de Pablo de no recibir inmediatamente, mostrando su paciencia y sumisión a la voluntad divina."
+                            },
+                            "originalText": "Ἐνταῦθα δὲ ἔλαβε µὲν, οὐχ ὅτε δὲ ᾔτησεν, ἀλλὰ βραδέως, καὶ οὐδὲν ἐντεῦθεν ἐδυσχέρανε.",
+                            "spanishTranslation": "Aquí, sin embargo, recibió, pero no cuando lo pidió, sino tardíamente, y no se irritó por ello en absoluto."
+                          },
+                          {
+                            "keywords": [
+                              "impaciencia",
+                              "Pablo",
+                              "ejemplo",
+                              "gratitud"
+                            ],
+                            "lineNumber": [
+                              468,
+                              469,
+                              470
+                            ],
+                            "notes": {
+                              "notesGeneral": "El autor usa el ejemplo de Pablo para exhortar a la paciencia y gratitud en la oración, sea cual sea la respuesta de Dios o el tiempo en que llegue."
+                            },
+                            "originalText": "Ταῦτα δὲ λέγω, ἵνα µὴ ἀσχάλλωµεν µὴ ἀκουόµενοι, ἢ βραδέως ἀκουόµενοι. Οὐ γάρ ἐσµεν Παύλου βελτίους, ὃς ἐπ' ἀµφοτέροις χάριν ὁµολογεῖ· καὶ µάλα εἰκότως.",
+                            "spanishTranslation": "Y digo estas cosas para que no nos impacientemos si no somos escuchados, o si somos escuchados tardíamente. Porque no somos mejores que Pablo, quien da gracias por ambas cosas; y con mucha razón."
+                          },
+                          {
+                            "keywords": [
+                              "sumisión",
+                              "obediencia",
+                              "arcilla",
+                              "alfarero",
+                              "guía divina"
+                            ],
+                            "lineNumber": [
+                              471
+                            ],
+                            "notes": {
+                              "notesBiblical": "La analogía de la arcilla y el alfarero es común en la Biblia para describir la relación entre Dios y el ser humano (cf. Isaías 64:8; Romanos 9:21)."
+                            },
+                            "originalText": "Ἐπειδὴ γὰρ ἅπαξ ἑαυτὸν ἔδωκε τῇ πάντα κυβερνώσῃ χειρὶ, καὶ µετὰ τοσαύτης ὑποταγῆς ὑπέθηκε, µεθ' ὅσης ὁ πηλὸς τῷ κεραµεῖ, ᾗπερ ἦγεν ὁ Θεὸς, ἠκολούθει.",
+                            "spanishTranslation": "Porque una vez que se entregó a la mano que todo lo gobierna, y se sometió con tanta obediencia como la arcilla al alfarero, siguió por donde Dios lo guiaba."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "deseo",
+                              "don espiritual",
+                              "afirmación"
+                            ],
+                            "lineNumber": [
+                              472,
+                              473,
+                              474
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 1:11, donde Pablo expresa su deseo de visitar a los romanos para impartirles algún don espiritual y afirmarlos."
+                            },
+                            "originalText": "Εἰπὼν τοίνυν, ὅτι ηὔχετο ἰδεῖν αὐτοὺς, λέγει καὶ τὴν αἰτίαν τῆς ἐπιθυµίας. Τίς δέ ἐστιν αὕτη; Ἵνα τι µεταδῶ χάρισµα ὑµῖν πνευµατικὸν εἰς τὸ στηριχθῆναι ὑµᾶς.",
+                            "spanishTranslation": "Habiendo dicho, pues, que oraba por verlos, dice también la causa de este deseo. ¿Y cuál es esta? 'Para impartiros algún don espiritual con el fin de que seáis afirmados'."
+                          },
+                          {
+                            "keywords": [
+                              "viajes",
+                              "propósito",
+                              "necesidad",
+                              "urgencia",
+                              "enigmático"
+                            ],
+                            "lineNumber": [
+                              475,
+                              476
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo enfatiza que los viajes de Pablo no eran triviales, sino motivados por propósitos espirituales esenciales, expresados de forma sutil."
+                            },
+                            "originalText": "Οὐ γὰρ ἁπλῶς, ὥσπερ πολλοὶ νῦν περιττὰς καὶ ἀνονήτους ἀποδηµίας ποιοῦνται, οὕτω καὶ ἐκεῖνος, ἀλλ' ὑπὲρ ἀναγκαίων καὶ σφόδρα κατεπειγόντων· καὶ σαφῶς µὲν λέγειν τοῦτο οὐ βούλεται, αἰνιγµατωδῶς δέ.",
+                            "spanishTranslation": "Porque él no hacía viajes vanos e inútiles simplemente, como muchos hacen ahora, sino por asuntos necesarios y muy urgentes; y no quería decirlo claramente, sino de forma enigmática."
+                          },
+                          {
+                            "keywords": [
+                              "enseñanza",
+                              "instrucción",
+                              "don",
+                              "humildad"
+                            ],
+                            "lineNumber": [
+                              477
+                            ],
+                            "notes": {
+                              "notesGeneral": "Pablo elige la palabra 'impartir' (μεταδῶ) en lugar de 'enseñar' para mostrar humildad, indicando que transmite lo que ha recibido de Dios, no lo que es suyo propio."
+                            },
+                            "originalText": "Οὐδὲ γὰρ εἶπεν, Ἵνα διδάξω ὑµᾶς, ἵνα κατηχήσω, ἵνα τὸ λεῖπον ἀναπληρώσω, ἀλλ' Ἵνα τι µεταδῶ, δεικνὺς ὅτι οὐ τὰ αὑτοῦ αὐτοῖς δίδωσιν, ἀλλ' ἅπερ ἔλαβε µετεδίδου.",
+                            "spanishTranslation": "Porque no dijo: 'Para enseñaros, para instruiros, para suplir lo que falta', sino 'Para impartiros algo', mostrando que no les daba lo suyo, sino que compartía lo que había recibido."
+                          },
+                          {
+                            "keywords": [
+                              "modestia",
+                              "humildad",
+                              "pequeño",
+                              "medida"
+                            ],
+                            "lineNumber": [
+                              478,
+                              479,
+                              480
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo resalta la modestia de Pablo al referirse a su contribución como 'algo pequeño', en armonía con su propia capacidad."
+                            },
+                            "originalText": "Καὶ ἐνταῦθα δὲ µετριάζει πάλιν εἰπών· Ἵνα τι. Μικρόν τι, φησὶ, καὶ ἐµοὶ σύµµετρον.",
+                            "spanishTranslation": "Y también aquí modera de nuevo al decir: 'Para algo'. 'Algo pequeño —dice— y a mi medida'."
+                          },
+                          {
+                            "keywords": [
+                              "afirmación",
+                              "gracia",
+                              "firmeza",
+                              "no ser sacudido"
+                            ],
+                            "lineNumber": [
+                              481,
+                              482,
+                              483
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra 'στηριχθῆναι' (sterichthēnai) significa 'ser afirmado', 'ser consolidado', 'permanecer firme', 'no ser sacudido'."
+                            },
+                            "originalText": "Καὶ τί ποτέ ἐστι τὸ µικρὸν τοῦτο, οὗ µέλλεις νῦν µεταδιδόναι; Τοῦτο δέ ἐστι, φησὶν, Εἰς τὸ στηριχθῆναι ὑµᾶς. Ἄρα καὶ τοῦτο χάριτος, τὸ µὴ σαλεύεσθαι, ἀλλ' ἑστάναι βεβαίως.",
+                            "spanishTranslation": "¿Y qué es este 'algo pequeño' que vas a impartir ahora? Esto —dice— es 'para que seáis afirmados'. Así que esto también es gracia: no ser sacudidos, sino permanecer firmemente."
+                          },
+                          {
+                            "keywords": [
+                              "gracia",
+                              "recompensa",
+                              "libre albedrío",
+                              "arrogancia",
+                              "esfuerzo"
+                            ],
+                            "lineNumber": [
+                              484,
+                              485
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra 'προαίρεσις' (proairesis) se refiere a la elección voluntaria o libre albedrío, mientras que 'ἀπονοίας' (aponoias) se refiere a la insensatez o presunción.",
+                              "notesLinguistics": "Crisóstomo aclara que el término 'gracia' no anula el valor del esfuerzo humano, sino que combate la presunción que ignora la necesidad de la ayuda divina."
+                            },
+                            "originalText": "Χάριν δὲ ὅταν ἀκούσῃς, µὴ νοµίσῃς ἐκβεβλῆσθαι τὸν ἀπὸ τῆς προαιρέσεως µισθόν· χάριν γὰρ εἶπεν, οὐχὶ τὸν ἐκ προαιρέσεως ἀτιµάζων πόνον, ἀλλὰ τὸν ἐξ ἀπονοίας ἀποτεµνόµενος τῦφον.",
+                            "spanishTranslation": "Y cuando escuches 'gracia', no pienses que la recompensa por la elección voluntaria ha sido excluida; porque dijo 'gracia' no despreciando el esfuerzo de la elección, sino cortando la arrogancia que viene de la presunción."
+                          },
+                          {
+                            "keywords": [
+                              "don espiritual",
+                              "buenas acciones",
+                              "ayuda divina",
+                              "gratitud"
+                            ],
+                            "lineNumber": [
+                              486,
+                              487
+                            ],
+                            "notes": {
+                              "notesGeneral": "Se subraya que incluso las buenas acciones son consideradas 'dones' por Pablo, no por falta de esfuerzo, sino por la profunda gratitud que reconoce la necesidad de la ayuda divina en todo."
+                            },
+                            "originalText": "Μὴ τοίνυν ἐπειδὴ Παῦλος αὐτὸ χάρισµα ἐκάλεσεν, ἀναπέσῃς. Οἶδε γὰρ δι' εὐγνωµοσύνην πολλὴν καὶ τὰ κατορθώµατα χαρίσµατα καλεῖν, διὰ τὸ καὶ ἐν τούτοις πολλῆς ἡµᾶς δεῖσθαι τῆς ἄνωθεν ῥοπῆς.",
+                            "spanishTranslation": "No te relajes, pues, porque Pablo lo llamó 'don espiritual'. Pues él sabe, por mucha gratitud, llamar 'dones' incluso a las buenas acciones, porque también en estas necesitamos mucho la ayuda de lo alto."
+                          },
+                          {
+                            "keywords": [
+                              "corrección",
+                              "temor de Dios",
+                              "firmeza"
+                            ],
+                            "lineNumber": [
+                              488,
+                              489,
+                              490
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo interpreta que la expresión de Pablo, 'para que seáis afirmados', insinúa una necesidad de corrección o mayor estabilidad espiritual en los Romanos."
+                            },
+                            "originalText": "Εἰπὼν δὲ, Εἰς τὸ στηριχθῆναι ὑµᾶς, λανθανόντως ἔδειξε δεοµένους πολλῆς διορθώσεως. Ὃ γὰρ βούλεται εἰπεῖν, τοῦτό ἐστιν· Ἐκ πολλοῦ τοῦ χρόνου ἐπεθύµουν καὶ ηὐχόµην ὑµᾶς ἰδεῖν, δι' ἕτερον µὲν οὐδὲν, ἵνα δὲ ὑµᾶς βεβαιώσω, στηρίξω τε καὶ πήξω καλῶς εἰς τὸν τοῦ Θεοῦ φόβον, ὥστε µὴ σαλεύεσθαι διηνεκῶς.",
+                            "spanishTranslation": "Y al decir: 'Para que seáis afirmados', mostró de manera encubierta que necesitaban mucha corrección. Porque lo que quiere decir es esto: 'Desde hace mucho tiempo deseaba y oraba por veros, no por otra cosa, sino para confirmaros, afianzaros y establecéros bien en el temor de Dios, para que no seáis constantemente sacudidos'."
+                          },
+                          {
+                            "keywords": [
+                              "retórica",
+                              "delicadeza",
+                              "suavidad",
+                              "herir"
+                            ],
+                            "lineNumber": [
+                              491,
+                              492,
+                              493,
+                              494
+                            ],
+                            "notes": {
+                              "notesLinguistics": "Crisóstomo analiza la retórica de Pablo, mostrando cómo suaviza un mensaje que podría sonar a crítica para no ofender a sus oyentes, usando una forma velada de expresión."
+                            },
+                            "originalText": "Ἀλλ' οὕτω µὲν οὐκ εἶπεν· ἔπληξε γὰρ ἄν· ἑτέρως δὲ ὑφειµένως τὸ αὐτὸ αἰνίττεται· ὅταν γὰρ εἴπῃ, Εἰς τὸ στηριχθῆναι ὑµᾶς, τοῦτο δηλοῖ.",
+                            "spanishTranslation": "Pero no lo dijo así; pues habría herido. De otra manera, de forma atenuada, lo insinúa; pues cuando dice: 'Para que seáis afirmados', esto es lo que significa."
+                          },
+                          {
+                            "keywords": [
+                              "consuelo mutuo",
+                              "fe",
+                              "objeción",
+                              "mitigar"
+                            ],
+                            "lineNumber": [
+                              495,
+                              496,
+                              497,
+                              498,
+                              499,
+                              500
+                            ],
+                            "notes": {
+                              "notesBiblical": "Crisóstomo explica cómo Pablo suaviza aún más su mensaje al citar Romanos 1:12, cambiando el enfoque de una posible corrección unidireccional a un consuelo mutuo basado en la fe compartida."
+                            },
+                            "originalText": "Εἶτα ἐπειδὴ καὶ τοῦτο σφόδρα φορτικὸν ἦν, ὅρα πῶς αὐτὸ παραµυθεῖται διὰ τῆς ἐπαγωγῆς. Ἵνα γὰρ µὴ λέγωσι· Τί γάρ; σαλευόµεθα, περιφερόµεθα, καὶ τῆς παρὰ σοῦ δεόµεθα γλώττης εἰς τὸ στῆναι βεβαίως; προλαβὼν ἀναιρεῖ τὴν τοιαύτην ἀντίῤῥησιν, οὕτω λέγων· Τοῦτο δέ ἐστι συµπαρακληθῆναι ἐν ὑµῖν διὰ τῆς ἐν ἀλλήλοις πίστεως, ὑµῶν τε καὶ ἐµοῦ.",
+                            "spanishTranslation": "Luego, como también esto era muy gravoso, mira cómo lo mitiga por medio de la introducción. Para que no digan: '¿Qué pues? ¿Estamos siendo sacudidos, errantes, y necesitamos de tu lengua para permanecer firmes?', anticipándose, elimina tal objeción, diciendo así: 'Esto, sin embargo, es ser consolados juntamente entre vosotros por medio de la fe mutua, vuestra y mía'."
+                          },
+                          {
+                            "keywords": [
+                              "tribulaciones",
+                              "persecución",
+                              "consuelo",
+                              "Pablo"
+                            ],
+                            "lineNumber": [
+                              501,
+                              502,
+                              503,
+                              504,
+                              505
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo revela la verdadera intención de Pablo: no acusar, sino ofrecer consuelo a los que sufrían persecución en Roma, y él mismo recibir consuelo de su fe."
+                            },
+                            "originalText": "Ὡς ἂν εἰ ἔλεγε· Μὴ ὑποπτεύσητε, ὅτι κατηγορῶν ὑµῶν εἶπον· οὐ ταύτῃ τῇ γνώµῃ ἐφθεγξάµην τὸ ῥῆµα, ἀλλὰ τί ποτέ ἐστιν, ὅπερ ἠβουλήθην εἰπεῖν; Πολλὰς ὑπεµείνατε θλίψεις, ὑπὸ τῶν διωκόντων περιαντλούµενοι· ἐπεθύµησα τοίνυν ὑµᾶς ἰδεῖν, ἵνα παρακαλέσω, µᾶλλον δὲ οὐχ ἵνα παρακαλέσω µόνον, ἀλλ' ἵνα καὶ αὐτὸς παράκλησιν δέξωµαι.",
+                            "spanishTranslation": "Como si dijera: 'No sospechéis que lo dije para acusaros; no pronuncié la palabra con esta intención, sino, ¿qué es lo que quise decir? Soportasteis muchas tribulaciones, siendo abrumados por los que os persiguen; deseé, por tanto, veros para consolaros, o más bien, no solo para consolaros, sino para recibir yo mismo consuelo'."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 4,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 2,
+                    "sections": [
+                      {
+                        "section": 4,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              507
+                            ],
+                            "originalText": "Ὅρα σοφίαν διδασκάλου.",
+                            "spanishTranslation": "Mira la sabiduría del maestro."
+                          },
+                          {
+                            "lineNumber": [
+                              508,
+                              509
+                            ],
+                            "notes": {
+                              "notesGreek": "El original griego usa el infinitivo 'στηριχθῆναι' (ser fortalecido/afirmado) y 'παρακληθῆναι' (ser consolado/exhortado). El contexto se refiere al deseo de Pablo de visitar Roma."
+                            },
+                            "originalText": "Εἶπεν, Εἰς τὸ στηριχθῆναι ὑµᾶς· οἶδε βαρὺ καὶ φορτικὸν τὸ εἰρηµένον τοῖς µαθηταῖς ὂν, καὶ λέγει, Εἰς τὸ παρακληθῆναι ὑµᾶς.",
+                            "spanishTranslation": "Él dijo: 'Para que seáis afirmados'; sabiendo que lo dicho era gravoso y pesado para los discípulos, y dice: 'Para que seáis consolados'."
+                          },
+                          {
+                            "lineNumber": [
+                              510
+                            ],
+                            "originalText": "Ἀλλὰ καὶ τοῦτο βαρὺ πάλιν, οὐχ οὕτω µὲν ὡς τὸ πρότερον, βαρὺ δὲ ὅµως.",
+                            "spanishTranslation": "Pero también esto es pesado de nuevo, no tanto como lo anterior, pero pesado de todos modos."
+                          },
+                          {
+                            "lineNumber": [
+                              511
+                            ],
+                            "notes": {
+                              "notesGreek": "'Ὑποτέµνεται' (él recorta, modera). 'λεαίνων' (suavizando, puliendo)."
+                            },
+                            "originalText": "Ὑποτέµνεται τοίνυν καὶ τούτου πάλιν τὸ φορτικὸν, λεαίνων πανταχόθεν τὸν λόγον, καὶ ποιῶν εὐπαράδεκτον.",
+                            "spanishTranslation": "Así pues, nuevamente recorta lo gravoso de esto, suavizando el discurso por todas partes y haciéndolo fácilmente aceptable."
+                          },
+                          {
+                            "lineNumber": [
+                              512,
+                              513
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 1:12.",
+                              "notesGreek": "'Παρακληθῆναι' (ser consolado/exhortado), 'Συµπαρακληθῆναι' (ser mutuamente consolado/exhortado). El prefijo 'συν-' (sym-) indica mutualidad."
+                            },
+                            "originalText": "Οὐ γὰρ ἁπλῶς εἶπε, Παρακληθῆναι, ἀλλὰ, Συµπαρακληθῆναι, καὶ οὐδὲ τούτῳ ἠρκέσθη, ἀλλὰ καὶ ἑτέραν εἰσάγει πλείονα θεραπείαν, εἰπών· ∆ιὰ τῆς ἐν ἀλλήλοις πίστεως, ὑµῶν τε καὶ ἐµοῦ.",
+                            "spanishTranslation": "Porque no dijo simplemente: 'Para ser consolados', sino: 'Para ser mutuamente consolados', y no se contentó con esto, sino que introduce otra y mayor ayuda, diciendo: 'Mediante la fe mutua, vuestra y mía'."
+                          },
+                          {
+                            "lineNumber": [
+                              514,
+                              515
+                            ],
+                            "originalText": "Βαβαὶ, πόση ἡ ταπεινοφροσύνη! ἔδειξε καὶ ἑαυτὸν ἐκείνων δεόµενον, οὐκ ἐκείνους τούτου µόνον· καὶ τοὺς µαθητὰς ἐν τάξει διδασκάλων ἐκάθισεν, οὐδεµίαν ὑπεροχὴν ἀφεὶς µεῖναι παρ' αὐτῷ, ἀλλὰ πολλὴν τὴν ἰσοτιµίαν ἐπιδειξάµενος.",
+                            "spanishTranslation": "¡Oh, cuánta humildad! Mostró que él mismo necesitaba de ellos, no solo ellos de él; y sentó a los discípulos en la categoría de maestros, no permitiendo que ninguna superioridad permaneciera en él, sino mostrando una gran igualdad."
+                          },
+                          {
+                            "lineNumber": [
+                              516
+                            ],
+                            "originalText": "Κοινὸν γάρ ἐστι τὸ κέρδος, φησὶ, καὶ ἐγὼ τῆς παρ' ὑµῶν δέοµαι παρακλήσεως, καὶ ὑµεῖς τῆς παρ' ἐµοῦ.",
+                            "spanishTranslation": "Porque el beneficio es común, dice, y yo necesito de vuestra consolación, y vosotros de la mía."
+                          },
+                          {
+                            "lineNumber": [
+                              517,
+                              518
+                            ],
+                            "originalText": "Καὶ πῶς τοῦτο γίνεται; ∆ιὰ τῆς ἐν ἀλλήλοις πίστεως, ὑµῶν τε καὶ ἐµοῦ.",
+                            "spanishTranslation": "¿Y cómo sucede esto? 'Mediante la fe mutua, vuestra y mía'."
+                          },
+                          {
+                            "lineNumber": [
+                              519,
+                              520
+                            ],
+                            "originalText": "Καθάπερ γὰρ ἐπὶ πυρὸς ἂν πολλάς τις συναγάγῃ λαµπάδας, λαµπρὰν ἀνάπτει τὴν φλόγα· οὕτω καὶ ἐπὶ τῶν πιστῶν γίνεσθαι πέφυκεν.",
+                            "spanishTranslation": "Pues así como, si uno junta muchas lámparas para el fuego, enciende una llama brillante; así también suele suceder entre los fieles."
+                          },
+                          {
+                            "lineNumber": [
+                              521,
+                              522
+                            ],
+                            "notes": {
+                              "notesGreek": "'διεσπασµένοι' (dispersos, separados). 'ἀθυµότεροί' (más desanimados, más descorazonados). 'περιπλακῶµεν µέλεσι' (nos abracemos como miembros propios, es decir, a los hermanos en la fe)."
+                            },
+                            "originalText": "Ὅταν µὲν γὰρ καθ' ἑαυτοὺς ὦµεν διεσπασµένοι, ἀθυµότεροί πώς ἐσµεν· ὅταν δὲ ἰδόντες ἀλλήλους τοῖς οἰκείοις περιπλακῶµεν µέλεσι, πολλὴν δεχόµεθα τὴν παράκλησιν.",
+                            "spanishTranslation": "Porque cuando estamos separados por nosotros mismos, estamos de alguna manera más desanimados; pero cuando al vernos, nos abrazamos como miembros propios, recibimos mucha consolación."
+                          },
+                          {
+                            "lineNumber": [
+                              523
+                            ],
+                            "originalText": "Μὴ γάρ µοι τὸν παρόντα καιρὸν ἐξετάσῃς, καθ' ὃν τῇ τοῦ Θεοῦ χάριτι κατὰ κώµην καὶ πόλιν, καὶ ἐν αὐτῇ τῇ ἐρήµῳ πολλὰ τῶν πιστευόντων τὰ τάγµατα, καὶ πᾶσα ἀσέβεια ἐξελήλαται, ἀλλ' ἐννόησον κατ' ἐκεῖνον τὸν καιρὸν, ὅσον ἦν ἀγαθὸν καὶ διδάσκαλον ἰδεῖν τοὺς µαθητὰς, καὶ ὑπὸ ἀδελφῶν ἀδελφοὺς ὀφθῆναι ἐξ ἄλλης πόλεως ἐπελθόντας.",
+                            "spanishTranslation": "Pues no examines el tiempo presente, en el cual por la gracia de Dios, por aldea y ciudad, y en el mismo desierto, hay muchas compañías de creyentes, y toda impiedad ha sido expulsada, sino considera en aquel tiempo cuán bueno era ver a los discípulos, y que hermanos vieran a hermanos que venían de otra ciudad."
+                          },
+                          {
+                            "lineNumber": [
+                              524
+                            ],
+                            "originalText": "Ἵνα δὲ καὶ σαφέστερον τὸ λεγόµενον ποιήσω, ἐπὶ ὑποδείγµατος τὸν λόγον ἀγάγωµεν.",
+                            "spanishTranslation": "Y para hacer más clara la explicación, llevemos la palabra a un ejemplo."
+                          },
+                          {
+                            "lineNumber": [
+                              525
+                            ],
+                            "originalText": "Εἰ γὰρ συµβαίῃ ποτὲ καὶ γένοιτο, ὃ µὴ γένοιτο, ἀπενεχθέντας εἰς τὴν Περσῶν γῆν ἢ Σκυθῶν ἢ βαρβάρων ἑτέρων διεσπάρθαι κατὰ δύο καὶ τρεῖς ἐν ἐκείναις ταῖς πόλεσιν, εἶτα ἐξαίφνης τινὰ τῶν ἐντεῦθεν ἰδεῖν ἐπελθόντα, ἐννόησον ὅσην ἂν ἐκαρπωσάµεθα τὴν παραµυθίαν.",
+                            "spanishTranslation": "Porque si alguna vez sucediera y ocurriera —¡que no ocurra!— que, siendo llevados a la tierra de los persas, o de los escitas, o de otros bárbaros, fuéramos dispersados de dos en dos o de tres en tres en aquellas ciudades, y de repente viéramos a alguien de aquí que llega, ¡imagina cuánto consuelo obtendríamos!"
+                          },
+                          {
+                            "lineNumber": [
+                              526
+                            ],
+                            "originalText": "Οὐχ ὁρᾶτε καὶ τοὺς ἐν τοῖς δεσµωτηρίοις ὄντας, εἴ τινα τῶν ἐπιτηδείων ἴδοιεν, ἀνισταµένους καὶ ἐπτερωµένους ὑπὸ τῆς ἡδονῆς;",
+                            "spanishTranslation": "¿Acaso no veis que incluso los que están en prisión, si ven a alguno de sus conocidos, se levantan y se sienten alados por el gozo?"
+                          },
+                          {
+                            "lineNumber": [
+                              527,
+                              528
+                            ],
+                            "originalText": "Εἰ δὲ αἰχµαλωσίᾳ καὶ δεσµωτηρίῳ παραβάλλω τοὺς τότε καιροὺς, µὴ θαυµάσῃς· πολὺ γὰρ χαλεπώτερα τούτων ἔπασχον ἐκεῖνοι, διεσπαρµένοι καὶ ἐλαυνόµενοι, καὶ λιµῷ καὶ πολέµοις συζῶντες, καὶ καθηµερινοὺς θανάτους τρέµοντες, καὶ ὑποπτεύοντες καὶ φίλους καὶ οἰκείους καὶ συγγενεῖς, καὶ καθάπερ ξένην τὴν οἰκουµένην οἰκοῦντες, µᾶλλον δὲ πολλῷ τῶν ἐν ἀλλοτρίᾳ διατριβόντων χαλεπώτερον.",
+                            "spanishTranslation": "Y si comparo aquellos tiempos con el cautiverio y la prisión, no te asombres; porque ellos sufrían cosas mucho más difíciles que estas, dispersos y perseguidos, conviviendo con el hambre y las guerras, temblando ante muertes diarias, y desconfiando de amigos, familiares y parientes, y habitando el mundo como si fuera extranjero, o más bien, mucho peor que los que viven en tierra ajena."
+                          },
+                          {
+                            "lineNumber": [
+                              529
+                            ],
+                            "originalText": "∆ιά τοι τοῦτό φησιν (Εἰς τὸ στηριχθῆναι ὑµᾶς, καὶ συµπαρακληθῆναι διὰ τῆς ἐν ἀλλήλοις πίστεως.",
+                            "spanishTranslation": "Por esto dice (para que seáis afirmados, y mutuamente consolados mediante la fe mutua)."
+                          },
+                          {
+                            "lineNumber": [
+                              530,
+                              531
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἄπαγε' (¡lejos sea! ¡ni mucho menos!)."
+                            },
+                            "originalText": "Τοῦτο δὲ ἔλεγεν, οὐχ ὡς αὐτὸς χρῄζων τῆς παρ' ἐκείνων συµµαχίας, ἄπαγε· πῶς γὰρ ὁ τῆς Ἐκκλησίας στῦλος, ὁ σιδήρου καὶ πέτρας στεῤῥότερος, ὁ πνευµατικὸς ἀδάµας καὶ µυρίαις ἀρκῶν πόλεσιν);",
+                            "spanishTranslation": "Pero esto lo decía, no como si él mismo necesitara de su ayuda, ¡ni mucho menos! (¿Pues cómo el pilar de la Iglesia, más firme que el hierro y la roca, el diamante espiritual, y que basta para innumerables ciudades)?"
+                          },
+                          {
+                            "lineNumber": [
+                              532
+                            ],
+                            "notes": {
+                              "notesGreek": "'καταφορικὸν' (presuntuoso, arrogante). 'ἐπιτίµησιν' (reprobación, reprimenda)."
+                            },
+                            "originalText": "ἀλλ' ἵνα µὴ καταφορικὸν ποιήσῃ τὸν λόγον µηδὲ σφοδρὰν τὴν ἐπιτίµησιν, καὶ αὐτὸς δεῖσθαι τῆς παρακλήσεως ἔλεγε τῆς ἐκείνων.",
+                            "spanishTranslation": "sino para no hacer el discurso presuntuoso ni la reprensión severa, él mismo decía necesitar de la consolación de ellos."
+                          },
+                          {
+                            "lineNumber": [
+                              533
+                            ],
+                            "notes": {
+                              "notesGreek": "'ἐπίδοσιν' (avance, progreso, mejora)."
+                            },
+                            "originalText": "Εἰ δέ τις ἐνταῦθα παράκλησιν καὶ εὐφροσύνην τὴν ἐπὶ τῆς πίστεως αὐτῶν ἐπίδοσιν λέγοι, καὶ ταύτης δεῖσθαι τὸν Παῦλον, οὐκ ἂν οὐδὲ οὕτως ἁµάρτοι τοῦ λόγου.",
+                            "spanishTranslation": "Y si alguien aquí dijera que 'consolación' y 'alegría' significan el avance en la fe de ellos, y que Pablo necesitaba de esto, tampoco se desviaría de la razón."
+                          },
+                          {
+                            "lineNumber": [
+                              534
+                            ],
+                            "originalText": "Εἰ οὖν καὶ ἐπιθυµεῖς, φησὶ, καὶ εὔχῃ, καὶ µέλλεις παρακλήσεως ἀπολαύειν, καὶ παρακλήσεως µεταδιδόναι, τί τὸ κωλύον ἐλθεῖν;",
+                            "spanishTranslation": "Si, pues, deseas, dice, y oras, y vas a gozar de consolación, y a impartir consolación, ¿qué es lo que impide venir?"
+                          },
+                          {
+                            "lineNumber": [
+                              535,
+                              536
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 1:13."
+                            },
+                            "originalText": "Ταύτην τοίνυν λύων τὴν ὑπόνοιαν, ἐπήγαγεν· Οὐ θέλω δὲ ὑµᾶς ἀγνοεῖν, ἀδελφοὶ, ὅτι πολλάκις προεθυµήθην ἐλθεῖν πρὸς ὑµᾶς, καὶ ἐκωλύθην ἄχρι τῆς δεῦρο.",
+                            "spanishTranslation": "Así pues, disipando esta sospecha, añadió: 'Pero no quiero que ignoréis, hermanos, que muchas veces tuve el propósito de ir a vosotros, y he sido impedido hasta ahora'."
+                          },
+                          {
+                            "lineNumber": [
+                              537
+                            ],
+                            "originalText": "Ὅρα µέτρα δουλικῆς ὑπακοῆς, καὶ πολλῆς εὐγνωµοσύνης ἀπόδειξιν.",
+                            "spanishTranslation": "Mira la medida de obediencia servil y la prueba de gran gratitud."
+                          },
+                          {
+                            "lineNumber": [
+                              538,
+                              539
+                            ],
+                            "originalText": "Ὅτι µὲν γὰρ ἐκωλύθη, λέγει· διὰ τί δὲ, οὐκέτι.",
+                            "spanishTranslation": "Porque dice que fue impedido; pero por qué, ya no lo dice."
+                          },
+                          {
+                            "lineNumber": [
+                              540,
+                              541
+                            ],
+                            "originalText": "Οὐ γὰρ ἐξετάζει τοῦ ∆εσπότου τὸ πρόσταγµα, ἀλλὰ πείθεται µόνον·",
+                            "spanishTranslation": "Pues no examina el mandato del Señor, sino que solo obedece;"
+                          },
+                          {
+                            "lineNumber": [
+                              542,
+                              543,
+                              544
+                            ],
+                            "notes": {
+                              "notesLinguistics": "'οἰκουµένη' (el mundo habitado, a menudo refiriéndose al Imperio Romano). El argumento se centra en la importancia estratégica de Roma."
+                            },
+                            "originalText": "καίτοι γε εἰκὸς ἦν διαπορῆσαι, τίνος ἕνεκεν πόλιν οὕτω λαµπρὰν καὶ µεγάλην, καὶ πρὸς ἣν ἅπασα ἔβλεπεν ἡ οἰκουµένη, ἐκώλυσεν ὁ Θεὸς ἀπολαῦσαι διδασκάλου τοιούτου, καὶ ἐπὶ χρόνον τοσοῦτον. Ὁ µὲν γὰρ τῆς κρατούσης πόλεως περιγενόµενος, καὶ τοῖς ἀρχοµένοις ῥᾳδίως ἐπῄει· ὁ δὲ τὴν βασιλικωτέραν ἀφεὶς, τοῖς δὲ ὑπηκόοις ἐφεδρεύων, τὸ κεφάλαιον εἶχεν ἠµεληµένον.",
+                            "spanishTranslation": "Aunque ciertamente era razonable preguntarse por qué Dios impidió a una ciudad tan gloriosa y grande, y hacia la cual miraba toda la ecúmene, disfrutar de un maestro así, y por tanto tiempo. Porque el que prevalecía en la ciudad dominante, fácilmente iba también a los que eran gobernados; pero el que dejaba la ciudad más regia, y acechaba a los súbditos, tenía lo principal descuidado."
+                          },
+                          {
+                            "lineNumber": [
+                              545
+                            ],
+                            "notes": {
+                              "notesGreek": "'περιεργάζεται' (se inmiscuye, es demasiado curioso). 'ἀκαταλήπτῳ' (incomprensible)."
+                            },
+                            "originalText": "Ἀλλ' ὅµως οὐδὲν τούτων περιεργάζεται, ἀλλὰ παραχωρεῖ τῷ τῆς προνοίας ἀκαταλήπτῳ, τό τε ἐµµελὲς ἐπιδεικνύµενος τῆς ἑαυτοῦ ψυχῆς, καὶ παιδεύων πάντας ἡµᾶς µηδέποτε τὸν Θεὸν ἀπαιτεῖν εὐθύνας τῶν γινοµένων, κἂν δοκῇ πολλοὺς θορυβεῖν τὰ πραττόµενα.",
+                            "spanishTranslation": "Pero aun así, él no se inmiscuye en nada de esto, sino que cede ante lo incomprensible de la providencia, mostrando la armonía de su propia alma y enseñándonos a todos a no pedirle nunca a Dios explicaciones por lo que sucede, aunque lo que se haga parezca perturbar a muchos."
+                          },
+                          {
+                            "lineNumber": [
+                              546
+                            ],
+                            "originalText": "∆εσπότου µὲν γάρ ἐστι µόνον τὸ ἐπιτάττειν, δούλων δὲ τὸ πείθεσθαι.",
+                            "spanishTranslation": "Porque es solo del Señor mandar, y de los siervos obedecer."
+                          },
+                          {
+                            "lineNumber": [
+                              547,
+                              548
+                            ],
+                            "originalText": "∆ιὰ τοῦτο, ὅτι µὲν ἐκωλύθη, λέγει· τίνος δὲ ἕνεκεν, οὐκέτι·",
+                            "spanishTranslation": "Por eso, dice que fue impedido; pero por qué razón, ya no lo dice;"
+                          },
+                          {
+                            "lineNumber": [
+                              549,
+                              550
+                            ],
+                            "originalText": "Οὐδὲ γὰρ ἐγὼ οἶδα, φησί. Μὴ τοίνυν ἐρώτα µε Θεοῦ βουλὴν ἢ γνώµην.",
+                            "spanishTranslation": "'Ni siquiera yo lo sé', dice. Así que no me preguntes la voluntad o el propósito de Dios."
+                          },
+                          {
+                            "lineNumber": [
+                              551,
+                              552
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta es una alusión a Romanos 9:20-21 o Isaías 29:16 / 45:9."
+                            },
+                            "originalText": "Οὐδὲ γὰρ ἐρεῖ τὸ πλάσµα τῷ πλάσαντι· Τί µε ἐποίησας οὕτω;",
+                            "spanishTranslation": "Pues tampoco dirá la criatura al que la formó: '¿Por qué me hiciste así?'"
+                          },
+                          {
+                            "lineNumber": [
+                              553,
+                              554,
+                              555
+                            ],
+                            "originalText": "Τίνος γὰρ ἕνεκεν, εἰπέ µοι, καὶ ζητεῖς µαθεῖν; οὐκ οἶσθα, ὅτι µέλει πάντων αὐτῷ, ὅτι σοφός ἐστιν, ὅτι οὐδὲν ἁπλῶς ἐργάζεται καὶ εἰκῆ; ὅτι τῶν γεγεννηκότων σε µᾶλλον φιλεῖ, καὶ πατρὸς ἐκ πολλοῦ τοῦ περιόντος ὑπερβαίνει φιλοστοργίαν, καὶ µητρὸς κηδεµονίαν;",
+                            "spanishTranslation": "¿Pues por qué razón, dime, buscas saber? ¿No sabes que Él se preocupa por todo, que es sabio, que no hace nada de manera simple o al azar? ¿Que te ama más que tus propios padres, y que su afecto supera con mucho el amor de un padre y el cuidado de una madre?"
+                          },
+                          {
+                            "lineNumber": [
+                              556
+                            ],
+                            "originalText": "Μηδὲν οὖν πλέον ζήτει, µηδὲ πρόβαινε περαιτέρω·",
+                            "spanishTranslation": "Por tanto, no busques nada más, ni avances más allá;"
+                          },
+                          {
+                            "lineNumber": [
+                              557
+                            ],
+                            "originalText": "καὶ γὰρ ἀρκεῖ σοι ταῦτα εἰς παραµυθίαν·",
+                            "spanishTranslation": "pues esto te basta para consuelo;"
+                          },
+                          {
+                            "lineNumber": [
+                              558
+                            ],
+                            "originalText": "ἐπεὶ καὶ τότε σοφῶς ᾠκονόµητο τὸ τῶν Ῥωµαίων.",
+                            "spanishTranslation": "ya que también entonces la situación de los Romanos fue sabiamente administrada."
+                          },
+                          {
+                            "lineNumber": [
+                              559,
+                              560
+                            ],
+                            "originalText": "Εἰ δὲ τὸν τρόπον ἀγνοεῖς, µὴ δυσχέραινε· τοῦτο γὰρ πίστεως µάλιστα, τὸ καὶ ἀγνοοῦντα τὸν τρόπον τῆς οἰκονοµίας, δέχεσθαι τὸν περὶ προνοίας λόγον.",
+                            "spanishTranslation": "Y si ignoras el modo, no te enojes; porque esto es precisamente lo que más caracteriza a la fe: aceptar el discurso sobre la providencia incluso ignorando el modo de la administración."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 5,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 2,
+                    "chapterSummary": "Pablo explica su deseo de visitar Roma, desmintiendo cualquier acusación de pereza y enfatizando su amor y obediencia a la voluntad divina. Aborda la aparente \"vergüenza\" del Evangelio de un Cristo crucificado frente al orgullo romano, afirmando que es poder de Dios para salvación. Critica la autosuficiencia de la sabiduría griega y ensalza la sencillez y universalidad de la fe, que no distingue entre judíos y gentiles, y es accesible a todos, incluso a los pecadores. Destaca que la fe es el único camino a la justicia y la vida, utilizando ejemplos bíblicos para ilustrar la importancia de la obediencia incondicional a los mandatos divinos sobre la razón humana y la curiosidad indebida sobre los misterios de Dios.",
+                    "sections": [
+                      {
+                        "section": 5,
+                        "text": [
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "Roma",
+                              "amor",
+                              "impedimento",
+                              "obediencia",
+                              "voluntad de Dios"
+                            ],
+                            "lineNumber": [
+                              561,
+                              562,
+                              563,
+                              564
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo introduce la homilía, señalando cómo Pablo se esfuerza por disipar cualquier sospecha de negligencia al no haber visitado Roma antes, reafirmando su amor y deseo, y atribuyendo los impedimentos a la voluntad divina.",
+                              "notesGreek": "La frase \"εʹ\" (e´) al inicio de la línea 561 indica el número de la homilía o sección. En este caso, probablemente la quinta homilía de este conjunto sobre Romanos."
+                            },
+                            "originalText": "εʹ.Κατορθώσας τοίνυν ὅπερ ἐσπούδαζεν ὁ Παῦλος (τί δὲ τοῦτο ἦν;Τὸ δεῖξαι, ὅτι οὐ καταφρονῶν αὐτῶν οὐκ ἤρχετο, ἀλλὰ καὶ σφόδρα ἐπιθυµῶν ἐκωλύετο), καὶ τὸ ἔγκληµα ἀποδυσάµενος τῆς ῥᾳθυµίας, καὶ πείσας ὅτι αὐτῶν οὐχ ἧττον ἐκεῖνος ἰδεῖν αὐτοὺς ἐπεθύµει·πάλιν καὶ δι' ἑτέρων ἐνδείκνυται τὴν ἀγάπην.",
+                            "spanishTranslation": "Habiendo logrado, pues, Pablo lo que se proponía con tanto esfuerzo (¿y qué era esto? Demostrar que no por desprecio no iba a ellos, sino que, deseándolos ardientemente, era impedido), y habiéndose librado de la acusación de pereza, y convenciéndolos de que él no menos que ellos deseaba verlos, de nuevo muestra su amor de otras maneras."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "perseverancia",
+                              "voluntad divina",
+                              "amor"
+                            ],
+                            "lineNumber": [
+                              565,
+                              566,
+                              567
+                            ],
+                            "notes": {
+                              "notesGeneral": "Pablo demuestra que su perseverancia en el intento de visitarlos, a pesar de los impedimentos, era una expresión de su afecto. Al mismo tiempo, su aceptación de los obstáculos sin oponerse revelaba su amor y sumisión a la voluntad de Dios."
+                            },
+                            "originalText": "Οὐδὲ γὰρ, ἐπειδὴ ἐκωλύθην, φησὶν, ἀπέστην τοῦ ἐπιχειρεῖν, ἀλλ' ἀεὶ µὲν ἐπεχείρουν, ἀεὶ δὲ ἐκωλυόµην, οὐδέποτε δὲ ἀφιστάµην, τῷ µὲν θελήµατι τοῦ Θεοῦ οὐκ ἀντιπίπτων, τὴν δὲ ἀγάπην τηρῶν.∆ιὰ µὲν γὰρ τοῦ προτίθεσθαι καὶ µὴ ἀφίστασθαι τὸ φίλτρον ἐπεδείκνυτο·διὰ δὲ τοῦ κωλύεσθαι καὶ µὴ ἀντιτείνειν τὴν περὶ τὸν Θεὸν ἅπασαν ἀγάπην ἐδήλου.",
+                            "spanishTranslation": "\"Pues no,\" dice, \"porque fui impedido, desistí de intentarlo, sino que siempre lo intentaba, y siempre era impedido, pero nunca abandonaba, no oponiéndome a la voluntad de Dios, sino manteniendo mi amor.\" Pues, por medio de su propósito y de no desistir, manifestaba su afecto; y por medio de ser impedido y no oponer resistencia, declaraba su amor total a Dios."
+                          },
+                          {
+                            "keywords": [
+                              "fruto",
+                              "Roma",
+                              "Pablo",
+                              "sospecha",
+                              "vanidad",
+                              "humildad"
+                            ],
+                            "lineNumber": [
+                              568,
+                              569,
+                              570,
+                              571
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo explica que Pablo repite la razón de su deseo (tener fruto) para disipar cualquier sospecha de que su visita a la prestigiosa Roma fuera por vanidad o para enaltecerse, y no por el progreso espiritual de la comunidad."
+                            },
+                            "originalText": "Ἵνα τινὰ καρπὸν σχῶ καὶ ἐν ὑµῖν.Καίτοι καὶ ἀνωτέρω τὴν αἰτίαν εἶπε τῆς ἐπιθυµίας, καὶ αὐτῷ πρέπουσαν ἔδειξεν, ἀλλ' ὅµως καὶ ἐνταῦθα αὐτὴν τίθησι, σφοδρῶς ἐκκαθαίρων αὐτῶν τὴν ὑπόνοιαν.Ἐπειδὴ γὰρ περίβλεπτος ἦν ἡ πόλις, καὶ µόνη πανταχοῦ γῆς καὶ θαλάττης τοιαύτη, καὶ ἡ τῆς ἱστορίας αὐτῆς ἐπιθυµία µόνη πολλοῖς ἀποδηµίας πρόφασις γέγονεν·ἵνα µὴ καὶ περὶ τοῦ Παύλου τοιοῦτόν τι νοµίσωσι, µηδὲ ὑποπτεύσωσιν, ὅτι ἁπλῶς τῇ οἰκειώσει αὐτῶν ἐγκαλλωπιζόµενος ἐπεθύµει τῆς ἐκεῖ παρουσίας, συνεχῶς τίθησι τὴν ὑπόθεσιν τῆς ἐπιθυµίας.",
+                            "spanishTranslation": "\"Para tener algún fruto también entre vosotros.\" Y aunque ya antes había dicho la causa de su deseo, y la había mostrado como digna de él, sin embargo, también aquí la expone, disipando enérgicamente su sospecha. Pues, dado que la ciudad era muy célebre, y la única en toda la tierra y el mar de tal manera, y el deseo de su historia por sí solo se había convertido en pretexto para muchos viajes; para que no pensaran algo así de Pablo, ni sospecharan que simplemente deseaba su presencia allí para enorgullecerse de su relación con ellos, expone continuamente el fundamento de su deseo."
+                          },
+                          {
+                            "keywords": [
+                              "don espiritual",
+                              "fruto",
+                              "gentiles",
+                              "Pablo",
+                              "humildad"
+                            ],
+                            "lineNumber": [
+                              572,
+                              573,
+                              574,
+                              575
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "originalText": "Καὶ ἔµπροσθεν µέν φησιν·Ἵνα τι µεταδῶ χάρισµα ὑµῖν πνευµατικὸν, ἐπεθύµουν ἰδεῖν·ἐνταῦθα δὲ σαφέστερον·Ἵνα τινὰ καρπὸν σχῶ καὶ ἐν ὑµῖν, καθὼς καὶ ἐν τοῖς λοιποῖς ἔθνεσι.",
+                            "spanishTranslation": "Y antes dice: \"Deseaba veros para impartiros algún don espiritual\"; y aquí más claramente: \"Para tener algún fruto también entre vosotros, como también entre las demás naciones\"."
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "igualdad",
+                              "dignidad",
+                              "gentiles",
+                              "bárbaros",
+                              "imperio romano"
+                            ],
+                            "lineNumber": [
+                              576,
+                              577,
+                              578
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo elogia la fe por su capacidad de trascender las distinciones sociales y culturales del mundo romano, elevando a todos a una misma dignidad en Cristo, sin importar si eran gobernantes o bárbaros. Este es un punto clave de la teología paulina sobre la universalidad del evangelio."
+                            },
+                            "originalText": "Τοὺς ἄρχοντας µετὰ τῶν ἀρχοµένων ἔστησε, καὶ µετὰ τὰ µυρία τρόπαια καὶ τὰς νίκας καὶ τὴν τῶν ὑπάτων περιφάνειαν, µετὰ τῶν βαρβάρων αὐτοὺς τίθησι·καὶ µάλα εἰκότως.Ὅπου γὰρ ἡ τῆς πίστεως εὐγένεια, οὐδεὶς βάρβαρος, οὐδεὶς Ἕλλην, οὐδεὶς ξένος, οὐδεὶς πολίτης, ἀλλ' εἰς µίαν ἅπαντες ἀξιώµατος ἀναβαίνουσιν ὑπεροχήν.",
+                            "spanishTranslation": "Puso a los gobernantes junto con los gobernados, y después de innumerables trofeos, victorias y la notoriedad de los cónsules, los coloca junto a los bárbaros; y con mucha razón. Pues donde está la nobleza de la fe, no hay bárbaro, ni griego, ni extranjero, ni ciudadano, sino que todos ascienden a una misma preeminencia de dignidad."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "humildad",
+                              "moderación",
+                              "fruto",
+                              "enseñanza",
+                              "don"
+                            ],
+                            "lineNumber": [
+                              579,
+                              580,
+                              581,
+                              582,
+                              583
+                            ],
+                            "notes": {
+                              "notesGeneral": "Pablo, en su humildad, no se presenta como un maestro grandioso, sino como alguien que busca \"fruto\", enfatizando la reciprocidad y la moderación en sus expectativas, en línea con su costumbre de \"reducir\" (συστέλλων) sus logros o virtudes."
+                            },
+                            "originalText": "Ὅρα δὲ αὐτὸν καὶ ἐνταῦθα µετριάζοντα.Οὐ γὰρ[[60.407]] εἶπεν, Ἵνα διδάξω καὶ κατηχήσω, ἀλλὰ τί;Ἵνα τινὰ καρπὸν σχῶ.Καὶ οὐδὲ ἁπλῶς καρπὸν, ἀλλ' Ἵνα τινὰ καρπόν·",
+                            "spanishTranslation": "Y observa cómo aquí también se muestra modesto. Pues no dijo: \"Para enseñar y catequizar\", sino ¿qué? \"Para tener algún fruto.\" Y no simplemente \"fruto\", sino \"algún fruto\"."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "humildad",
+                              "gentiles",
+                              "igualdad"
+                            ],
+                            "lineNumber": [
+                              584,
+                              585,
+                              586
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "originalText": "πάλιν συστέλλων τὰ καθ' ἑαυτὸν, ὥσπερ ἀνωτέρω εἶπεν·Ἵνα τι µεταδῶ.Εἶτα καὶ αὐτοὺς, ὥσπερ ἔφθην εἰπὼν, καταστέλλων, Καθὼς καὶ ἐν τοῖς λοιποῖς ἔθνεσι, φησίν.",
+                            "spanishTranslation": "De nuevo, minimizando su propio papel, como dijo antes: \"Para impartiros algo\". Luego, refrenándolos, como ya dije, dice: \"Como también entre las demás naciones\"."
+                          },
+                          {
+                            "keywords": [
+                              "riqueza",
+                              "fe",
+                              "igualdad",
+                              "espiritualidad"
+                            ],
+                            "lineNumber": [
+                              587,
+                              588
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje subraya que la misión de Pablo no estaba motivada por el estatus social o la riqueza de los romanos, sino por la fe, que es el único criterio de valía espiritual. Es una crítica implícita a los valores mundanos de Roma."
+                            },
+                            "originalText": "Οὐ γὰρ, ἐπειδὴ πλουτεῖτε καὶ τῶν ἄλλων ἔχετε πλέον, ἐλάττονα περὶ τοὺς λοιποὺς σπουδὴν ἐπιδείκνυµι·οὐ γὰρ τοὺς πλουτοῦντας ζητοῦµεν, ἀλλὰ τοὺς πιστούς.",
+                            "spanishTranslation": "Pues no porque seáis ricos y tengáis más que los demás, muestro menos solicitud por el resto; pues no buscamos a los ricos, sino a los fieles."
+                          },
+                          {
+                            "keywords": [
+                              "sabiduría mundana",
+                              "Platón",
+                              "Pablo",
+                              "Evangelio",
+                              "humildad",
+                              "trabajo manual"
+                            ],
+                            "lineNumber": [
+                              589,
+                              590,
+                              591,
+                              592
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo contrasta la supuesta sabiduría de los filósofos griegos (representados por Platón) con la efectividad de Pablo, un 'hacedor de tiendas'. Platón, a pesar de su reputación y elocuencia, fracasó donde Pablo, con su humildad y origen modesto, triunfó al convertir a naciones enteras. Esto resalta la paradoja del Evangelio y la fuerza divina que actúa a través de lo que el mundo considera débil.",
+                              "notesGreek": "El término \"σκηνοποιός\" (skēnopoios, hacedor de tiendas) es un apodo que Crisóstomo usa para Pablo, enfatizando su origen humilde y su trabajo manual, en contraste con la imagen de los filósofos."
+                            },
+                            "originalText": "Ποῦ νῦν οἱ σοφοὶ τῶν Ἑλλήνων, οἱ τοὺς βαθεῖς πώγωνας ἕλκοντες, καὶ τὰς ἐξωµίδας ἀναβεβληµένοι, καὶ τὰ µεγάλα φυσῶντες;Τὴν Ἑλλάδα, τὴν βάρβαρον πᾶσαν ὁ σκηνοποιὸς ἐπέστρεψεν.Ὁ δὲ παρ' αὐτοῖς ἀγόµενος καὶ περιφερόµενος Πλάτων, τρίτον εἰς Σικελίαν ἐλθὼν µετὰ τοῦ κόµπου τῶν ῥηµάτων ἐκείνων, µετὰ τῆς ὑπολήψεως τῆς λαµπρᾶς, οὐδὲ ἑνὸς περιεγένετο τυράννου, ἀλλ' οὕτως ἀθλίως ἀπήλλαξεν, ὡς καὶ αὐτῆς ἐκπεσεῖν τῆς ἐλευθερίας.Ὁ δὲ σκηνοποιὸς οὗτος οὐ Σικελίαν µόνον οὐδὲ Ἰταλίαν, ἀλλὰ πᾶσαν ἐπέδραµε τὴν οἰκουµένην, καὶ οὐδὲ ἐν τῷ κηρύττειν τῆς τέχνης ἀπέστη, ἀλλὰ καὶ τότε δέρµατα ἔῤῥαπτε, καὶ ἐργαστηρίου προειστήκει·",
+                            "spanishTranslation": "¿Dónde están ahora los sabios de los griegos, los que llevan largas barbas, que se envolvían en sus túnicas y que se jactaban de grandes cosas? El hacedor de tiendas convirtió toda Grecia y todo el mundo bárbaro. Y Platón, venerado y llevado entre ellos, yendo a Sicilia por tercera vez con la ostentación de aquellas palabras, con su brillante reputación, no superó a un solo tirano, sino que terminó tan miserablemente que incluso perdió su libertad. Pero este hacedor de tiendas recorrió no solo Sicilia ni Italia, sino toda la ecúmene, y ni siquiera en la predicación abandonó su oficio, sino que también entonces cosía cueros y estaba al frente de un taller."
+                          },
+                          {
+                            "keywords": [
+                              "Evangelio",
+                              "humildad",
+                              "verdad",
+                              "falsedad",
+                              "doctrina",
+                              "sabiduría mundana"
+                            ],
+                            "lineNumber": [
+                              593,
+                              594,
+                              595
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo argumenta que la autoridad de un maestro no depende de su estatus social o su ocupación, sino de la verdad de su mensaje. La humildad de Pablo no fue un obstáculo para la conversión de personas importantes, porque la verdad del Evangelio es intrínsecamente poderosa. En contraste, las doctrinas falsas son las que hacen despreciable al maestro."
+                            },
+                            "originalText": "καὶ οὐδὲ τοῦτο ἐσκανδάλισε τοὺς ἐξ ὑπάτων·καὶ µάλα εἰκότως.Οὐ γὰρ αἱ τέχναι καὶ τὰ ἐπιτηδεύµατα, ἀλλὰ τὸ ψεῦδος καὶ τὰ πεπλασµένα δόγµατα εὐκαταφρονήτους ποιεῖν εἴωθε τοὺς διδάσκοντας.",
+                            "spanishTranslation": "Y ni siquiera esto escandalizó a los de familias consulares; y con mucha razón. Pues no son los oficios ni las ocupaciones, sino la falsedad y los dogmas inventados lo que suele hacer despreciables a los que enseñan."
+                          },
+                          {
+                            "keywords": [
+                              "Evangelio",
+                              "accesibilidad",
+                              "sabiduría mundana",
+                              "bárbaros",
+                              "laicos"
+                            ],
+                            "lineNumber": [
+                              596,
+                              597
+                            ],
+                            "notes": {
+                              "notesGeneral": "El contraste entre la risa de los atenienses hacia la filosofía (que no transforma) y la atención de bárbaros y laicos hacia el mensaje de Pablo (que sí transforma) refuerza la idea de que el Evangelio es para todos, independientemente de su nivel intelectual o cultural."
+                            },
+                            "originalText": "∆ιά τοι τοῦτο ἐκείνων µὲν καὶ Ἀθηναῖοι λοιπὸν καταγελῶσι·τούτῳ δὲ καὶ βάρβαροι προσέχουσι καὶ ἀνόητοι καὶ ἰδιῶται.",
+                            "spanishTranslation": "Por eso, de aquellos se ríen ahora incluso los atenienses; pero a este le prestan atención incluso los bárbaros, los necios y los laicos."
+                          },
+                          {
+                            "keywords": [
+                              "Evangelio",
+                              "universalidad",
+                              "fe",
+                              "razón",
+                              "dignidad"
+                            ],
+                            "lineNumber": [
+                              598,
+                              599,
+                              600
+                            ],
+                            "notes": {
+                              "notesGeneral": "La esencia del Evangelio radica en su universalidad y su requisito primordial: la fe. No exige argumentos complejos ni estatus social, lo que lo hace accesible a toda la humanidad."
+                            },
+                            "originalText": "Κοινὸν γὰρ τὸ κήρυγµα πρόκειται πᾶσιν·οὐκ ἀξιώµατος οἶδε διαφορὰν, οὐκ ἔθνους ὑπεροχὴν, οὐκ ἄλλο τῶν τοιούτων οὐδέν·πίστεως γὰρ δεῖται µόνης, οὐ συλλογισµῶν.",
+                            "spanishTranslation": "Pues el mensaje común se presenta a todos; no conoce distinción de dignidad, ni preeminencia de nación, ni nada semejante; pues requiere solo fe, no silogismos."
+                          },
+                          {
+                            "keywords": [
+                              "providencia divina",
+                              "Evangelio",
+                              "salvación",
+                              "accesibilidad",
+                              "fe",
+                              "igualdad",
+                              "universalidad"
+                            ],
+                            "lineNumber": [
+                              601,
+                              602,
+                              603,
+                              604,
+                              605
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo enfatiza la providencia divina al hacer el Evangelio tan universal y accesible como los elementos naturales (sol, luna, tierra). La facilidad y sencillez del Evangelio, que requiere solo fe, lo hace más necesario que cualquier otro don divino, y es una señal de la benevolencia de Dios hacia toda la humanidad."
+                            },
+                            "originalText": "∆ιὸ δὴ µάλιστα αὐτὸ θαυµάζειν ἄξιον, οὐχ ὅτι χρήσιµον καὶ σωτήριον µόνον, ἀλλ' ὅτι καὶ εὔκολον καὶ ῥᾷστον, καὶ τοῖς πᾶσιν εὔληπτον·ὃ δὴ µάλιστα τῆς τοῦ Θεοῦ προνοίας ἔργον ἐστὶ, κοινὰ τὰ παρ' ἑαυτοῦ προτιθέντος ἅπασιν.Ὅπερ γὰρ ἐπὶ ἡλίου καὶ σελήνης καὶ γῆς καὶ θαλάττης καὶ τῶν ἄλλων ἐποίησεν, οὐ τοῖς µὲν πλουτοῦσι καὶ σοφοῖς πλείονος µεταδιδοὺς τῆς ἀπὸ τούτων χορηγίας, ἐλάττονος δὲ τοῖς πένησιν, ἀλλ' ἴσην ἅπασι τὴν ἀπόλαυσιν προτιθεὶς, τοῦτο καὶ ἐπὶ τοῦ κηρύγµατος εἰργάσατο, καὶ πολλῷ πλέον, ὅσῳ καὶ ἀναγκαιότερον τοῦτο ἐκείνων.∆ιὸ καὶ Παῦλός φησι συνεχῶς·Πᾶσι τοῖς ἔθνεσιν.",
+                            "spanishTranslation": "Por lo cual es digno de ser admirado, no solo porque es útil y salvífico, sino también porque es fácil y sencillo, y accesible a todos; lo cual es precisamente obra de la providencia de Dios, que presenta lo suyo como común para todos. Porque lo que hizo con el sol y la luna y la tierra y el mar y el resto, no dando más provisión de estos a los ricos y sabios, y menos a los pobres, sino ofreciendo igual disfrute para todos, esto mismo obró también con la predicación, y mucho más, cuanto que esto es más necesario que aquello. Por eso Pablo dice continuamente: \"A todas las naciones\"."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "deudor",
+                              "mandato divino",
+                              "gratitud",
+                              "sabios",
+                              "insensatos",
+                              "griegos",
+                              "bárbaros"
+                            ],
+                            "lineNumber": [
+                              606,
+                              607
+                            ],
+                            "notes": {
+                              "notesGeneral": "Pablo se presenta como un \"deudor\" no por obligación humana, sino por un mandato divino. Su misión es un acto de obediencia a Dios, no un favor personal, lo que resalta la seriedad y el alcance universal de su llamado."
+                            },
+                            "originalText": "Εἶτα δεικνὺς αὐτοῖς, ὅτι οὐδὲν αὐτοῖς χαρίζεται, ἀλλ' ἐπίταγµα πληροῖ δεσποτικὸν, καὶ παραπέµπων αὐτοὺς ἐπὶ τὴν τοῦ Θεοῦ τῶν ὅλων εὐχαριστίαν, φησίν·Ἕλλησί τε καὶ βαρβάροις, σοφοῖς τε καὶ ἀνοήτοις ὀφειλέτης εἰµί.",
+                            "spanishTranslation": "Luego, mostrándoles que no les concede ningún favor, sino que cumple un mandato divino, y remitiéndolos a la gratitud hacia el Dios de todo, dice: \"A griegos y a bárbaros, a sabios y a insensatos soy deudor\"."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "Corintios",
+                              "humildad",
+                              "atribución a Dios"
+                            ],
+                            "lineNumber": [
+                              608,
+                              609
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia aquí es probablemente a 1 Corintios 9:16-17, donde Pablo habla de la necesidad de predicar el evangelio como una obligación encomendada por Dios."
+                            },
+                            "originalText": "Ὃ καὶ Κορινθίοις ἐπιστέλλων ἔλεγε.Λέγει δὲ τοῦτο, τὸ πᾶν ἀνατιθεὶς τῷ Θεῷ.",
+                            "spanishTranslation": "Lo mismo decía también al escribir a los corintios. Dice esto, atribuyéndolo todo a Dios."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "Roma",
+                              "Evangelio",
+                              "prontitud"
+                            ],
+                            "lineNumber": [
+                              610
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "originalText": "Οὕτω τὸ κατ' ἐµὲ πρόθυµον, καὶ ὑµῖν τοῖς ἐν Ῥώµῃ εὐαγγελίσασθαι.",
+                            "spanishTranslation": "\"Así, en cuanto a mí, estoy pronto a anunciaros el evangelio también a vosotros que estáis en Roma\"."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "peligro",
+                              "Roma",
+                              "sufrimiento",
+                              "Evangelio",
+                              "celo",
+                              "martirio"
+                            ],
+                            "lineNumber": [
+                              611,
+                              612,
+                              613,
+                              614,
+                              615,
+                              616
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo elogia la valentía y el celo de Pablo, quien, a pesar de los inmensos peligros que implicaba predicar en Roma (ciudad dominada por la impiedad y donde finalmente fue martirizado, como el propio Crisóstomo señala), mantenía una disposición ardiente para evangelizar. La mención de su decapitación anticipa su martirio histórico."
+                            },
+                            "originalText": "ὰʹ.Ὢ ψυχῆς γενναίας! πρᾶγµα τοσούτων κινδύνων µεστὸν ἀναδεξάµενος, ἀποδηµίαν διαπόντιον, πειρασµοὺς, ἐπιβουλὰς, ἐπαναστάσεις (καὶ γὰρ εἰκὸς πόλει τοσαύτῃ µέλλοντα διαλέγεσθαι, ὑπὸ ἀσεβείας τυραννουµένῃ, νιφάδας πειρασµῶν ὑποµένειν·οὕτω γοῦν καὶ τὸν βίον κατέλυσεν ἐν τῇ πόλει ταύτῃ, παρὰ τοῦ τότε τυραννοῦντος ἀποτµηθείς)·ἀλλ' ὅµως τοσαῦτα προσδοκῶν ὑποµένειν, οὐδενὶ τούτων ὀκνηρότερος ἐγίγνετο, ἀλλὰ κατηπείγετο καὶ ὤδινε καὶ πρόθυµος ἦν.∆ιό φησιν·Οὕτω τὸ κατ' ἐµὲ πρόθυµον, καὶ ὑµῖν τοῖς ἐν Ῥώµῃ εὐαγγελίσασθαι.",
+                            "spanishTranslation": "¡Oh alma noble! Habiendo asumido una empresa llena de tantos peligros, un viaje transmarino, pruebas, conspiraciones, levantamientos (pues era natural que el que iba a hablar a una ciudad tan grande, tiranizada por la impiedad, soportara una avalancha de pruebas; así, de hecho, terminó su vida en esta ciudad, decapitado por el tirano de aquel tiempo); sin embargo, esperando soportar tanto, no se volvió más reacio por nada de esto, sino que se apresuraba, y sufría dolores, y estaba pronto. Por eso dice: \"Así, en cuanto a mí, estoy pronto a anunciaros el evangelio también a vosotros que estáis en Roma\"."
+                          },
+                          {
+                            "keywords": [
+                              "Evangelio",
+                              "vergüenza",
+                              "orgullo"
+                            ],
+                            "lineNumber": [
+                              617
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "originalText": "Οὐ γὰρ ἐπαισχύνοµαι τὸ Εὐαγγέλιον.",
+                            "spanishTranslation": "\"Porque no me avergüenzo del evangelio\"."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "Evangelio",
+                              "gloria",
+                              "vergüenza",
+                              "cielo"
+                            ],
+                            "lineNumber": [
+                              618,
+                              619,
+                              620,
+                              621,
+                              622
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo se detiene en la aparente 'modestia' de la frase de Pablo \"no me avergüenzo\", cuando se esperaría que dijera \"me glorío\". Sugiere que hay una razón pedagógica detrás de esta elección de palabras."
+                            },
+                            "originalText": "Τί φὴς, ὦ Παῦλε;∆έον εἰπεῖν, ὅτι Καὶ [[60.408]] καυχῶµαι, καὶ σεµνύνοµαι, καὶ ἐναβρύνοµαι, τοῦτο µὲν οὐ λέγεις, τὸ δὲ ἔλαττον τούτου, ὅτι οὐκ ἐπαισχύνῃ·ὅπερ οὐκ ἐπὶ τῶν σφόδρα λαµπρῶν λέγειν εἰώθαµεν.Τί οὖν ἐστιν ὅ φησι;καὶ τίνος ἕνεκεν οὕτω φθέγγεται, καίτοι γε ἀγαλλόµενος ἐπ' αὐτῷ µᾶλλον ἢ ἐπὶ τῷ οὐρανῷ;",
+                            "spanishTranslation": "¿Qué dices, oh Pablo? Sería necesario decir: \"Y me glorío, y me enorgullezco, y me jacto\", pero no dices esto, sino lo menor de ello, \"no me avergüenzo\"; lo cual no solemos decir de cosas muy espléndidas. ¿Qué es, entonces, lo que dice? ¿Y por qué habla así, aunque se regocija en ello más que en el cielo?"
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "Gálatas",
+                              "cruz",
+                              "gloria",
+                              "vergüenza"
+                            ],
+                            "lineNumber": [
+                              623,
+                              624,
+                              625
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita es de Gálatas 6:14, donde Pablo afirma su única gloria en la cruz de Cristo. Crisóstomo usa esta referencia para subrayar la aparente inconsistencia en la expresión de Pablo en Romanos, lo que lo lleva a una explicación más profunda."
+                            },
+                            "originalText": "Γαλάταις γοῦν ἐπιστέλλων ἔλεγεν·Ἐµοὶ δὲ µὴ γένοιτο καυχᾶσθαι, εἰ µὴ ἐν τῷ σταυρῷ τοῦ Κυρίου ἡµῶν Ἰησοῦ Χριστοῦ.Τίνος οὖν ἕνεκεν ἐνταῦθα οὐ λέγει, ὅτι Καὶ καυχῶµαι, ἀλλ' ὅτι Οὐκ ἐπαισχύνοµαι;",
+                            "spanishTranslation": "A los Gálatas, por ejemplo, les escribió: \"Pero lejos esté de mí gloriarme, sino en la cruz de nuestro Señor Jesucristo.\" ¿Por qué, entonces, aquí no dice: \"Y me glorío\", sino: \"No me avergüenzo\"?"
+                          },
+                          {
+                            "keywords": [
+                              "Romanos",
+                              "orgullo",
+                              "riqueza",
+                              "emperadores",
+                              "Cristo",
+                              "humildad",
+                              "vergüenza",
+                              "gloria"
+                            ],
+                            "lineNumber": [
+                              626,
+                              627,
+                              628,
+                              629,
+                              630,
+                              631,
+                              632
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo explica que Pablo se abstiene de decir \"me glorío\" para ser pedagógico con los orgullosos romanos, quienes valoraban las riquezas, el poder imperial y a sus emperadores divinizados. El Evangelio de un Jesús humilde, hijo de carpintero y crucificado como un criminal, era considerado ignominioso. Al decir \"no me avergüenzo\", Pablo les enseña primero a superar esa vergüenza inicial, sabiendo que, una vez superada, la gloria en Cristo vendría después."
+                            },
+                            "originalText": "Σφόδρα πρὸς τὰ τοῦ κόσµου πράγµατα ἦσαν ἐπτοηµένοι οἱ Ῥωµαῖοι διὰ τὸν πλοῦτον, διὰ τὴν ἀρχὴν, διὰ τὰς νίκας καὶ τοὺς αὐτῶν βασιλεῖς·ἰσοθέους γὰρ ἡγοῦντο τούτους.Οὕτω γοῦν αὐτοὺς καὶ ἐκάλουν.∆ιὰ δὴ τοῦτο καὶ ναοῖς αὐτοὺς ἐθεράπευον καὶ βωµοῖς καὶ θυσίαις.Ἐπεὶ οὖν οὕτως ἦσαν πεφυσιωµένοι, ὁ δὲ Παῦλος ἔµελλε κηρύττειν τὸν Ἰησοῦν τὸν νοµιζόµενον τοῦ τέκτονος υἱὸν, τὸν ἐν Ἰουδαίᾳ τραφέντα καὶ ἐν οἰκίᾳ γυναικὸς εὐτελοῦς, οὐ δορυφόρους ἐσχηκότα, οὐ χρήµατα περιβαλ[λ]όµενον, ἀλλὰ καὶ ὡς κατάδικον ἀποθανόντα µετὰ λῃστῶν, καὶ ἕτερα πολλὰ ἄδοξα ὑποµείναντα, καὶ εἰκὸς ἦν αὐτοὺς ἐγκαλύπτεσθαι, οὐδὲν τῶν ἀποῤῥήτων καὶ µεγάλων εἰδότας οὐδέπω·διὰ τοῦτό φησιν, Οὐκ ἐπαισχύνοµαι, ἐκείνους διδάσκων τέως µὴ ἐπαισχύνεσθαι·ᾔδει γὰρ ὅτι, ἂν τοῦτο κατορθώσωσι, ταχέως προϊόντες καὶ ἐπὶ τὸ καυχᾶσθαι ἥξουσι.",
+                            "spanishTranslation": "Los Romanos estaban muy impresionados por las cosas del mundo debido a la riqueza, al imperio, a las victorias y a sus emperadores; pues a estos los consideraban como dioses. Así, de hecho, los llamaban. Por esto, también los honraban con templos, altares y sacrificios. Puesto que, entonces, estaban así de envanecidos, y Pablo iba a predicar a Jesús, el considerado hijo del carpintero, el criado en Judea y en casa de una mujer humilde, el que no tuvo guardaespaldas, el que no acumuló riquezas, sino que murió como un condenado junto a ladrones, y sufrió muchas otras cosas ignominiosas, y era probable que ellos se avergonzaran, no conociendo aún nada de las cosas secretas y grandes; por esta razón dice: \"No me avergüenzo\", enseñándoles por el momento a no avergonzarse; pues sabía que si lograban esto, rápidamente avanzarían hasta jactarse."
+                          },
+                          {
+                            "keywords": [
+                              "confesión de fe",
+                              "cruz",
+                              "vergüenza",
+                              "gloria",
+                              "cristianismo"
+                            ],
+                            "lineNumber": [
+                              633,
+                              634,
+                              635
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo exhorta a los creyentes a adoptar una actitud de orgullo y confianza en su fe, especialmente frente a la burla o el desprecio por la cruz. La confesión de Cristo crucificado debe ser hecha con audacia y dignidad."
+                            },
+                            "originalText": "Καὶ σὺ τοίνυν ἐὰν ἀκούσῃς τινὸς λέγοντος·Τὸν ἐσταυρωµένον προσκυνεῖς;µὴ ἐπαισχυνθῇς, µηδὲ κάτω βλέψῃς, ἀλλὰ καὶ ἐναβρύνου καὶ καλλωπίζου, καὶ ἐλευθέροις ὀφθαλµοῖς καὶ ὑψηλῷ προσώπῳ κατάδεξαι τὴν ὁµολογίαν.",
+                            "spanishTranslation": "Y tú, entonces, si oyes a alguien decir: \"¿Adoras al crucificado?\", no te avergüences, ni bajes la mirada, sino que incluso gloríate y adórnate, y con ojos libres y rostro elevado acepta la confesión."
+                          },
+                          {
+                            "keywords": [
+                              "cruz",
+                              "idolatría",
+                              "demonios",
+                              "paganismo",
+                              "poder de Cristo"
+                            ],
+                            "lineNumber": [
+                              636,
+                              637,
+                              638,
+                              639
+                            ],
+                            "notes": {
+                              "notesGeneral": "La respuesta propuesta por Crisóstomo contrasta explícitamente el objeto de la adoración cristiana (Cristo crucificado, victorioso sobre los demonios y las fuerzas del mal) con los dioses paganos, a menudo asociados con vicios e inmoralidades. Esto subraya la superioridad moral y espiritual del cristianismo."
+                            },
+                            "originalText": "Κἂν εἴπῃ πάλιν·Τὸν ἐσταυρωµένον προσκυνεῖς;εἰπὲ πάλιν πρὸς αὐτόν·Ἀλλ' οὐ τὸν µοιχὸν οὐδὲ τὸν πατραλοίαν οὐδὲ τὸν παιδοκτόνον (τοιοῦτοι γὰρ οἱ παρ' αὐτοῖς θεοὶ πάντες), ἀλλὰ τὸν διὰ σταυροῦ δαίµονας ἐπιστοµίσαντα, καὶ τὰς µυρίας αὐτῶν ἀνελόντα µαγγανείας.",
+                            "spanishTranslation": "Y si dice de nuevo: \"¿Adoras al crucificado?\", dile de nuevo: \"Pero no al adúltero ni al parricida ni al infanticida (pues tales son todos sus dioses), sino al que, por medio de la cruz, amordazó a los demonios y abolió sus innumerables hechicerías\"."
+                          },
+                          {
+                            "keywords": [
+                              "cruz",
+                              "filantropía divina",
+                              "cuidado de Dios",
+                              "sabiduría mundana",
+                              "silogismos"
+                            ],
+                            "lineNumber": [
+                              640,
+                              641
+                            ],
+                            "notes": {
+                              "notesGeneral": "La cruz se presenta no solo como un símbolo de la pasión, sino como la manifestación suprema de la filantropía y el cuidado de Dios por la humanidad. Pablo, al predicar la cruz, abandona la sabiduría retórica y los silogismos humanos, lo que subraya la naturaleza divina y sobrenatural del mensaje evangélico."
+                            },
+                            "originalText": "Καὶ γὰρ ὁ σταυρὸς δι' ἡµᾶς τὸ τῆς ἀφάτου φιλανθρωπίας ἔργον, τὸ τῆς πολλῆς κηδεµονίας σύµβολον.Πρὸς δὲ τοῖς εἰρηµένοις, ἐπειδὴ καὶ λόγῳ µέγα κοµπάζοντες, καὶ τὴν ἔξωθεν περιβεβληµένοι σοφίαν ἐφυσῶντο, Ἐγὼ, φησὶν, ἐῤῥῶσθαι πολλὰ τούτοις εἰπὼν τοῖς συλλογισµοῖς, σταυρὸν ἔρχοµαι κηρύττων, καὶ οὐ διὰ τοῦτο αἰσχύνοµαι.",
+                            "spanishTranslation": "Pues la cruz es, por nosotros, la obra de inefable filantropía, el símbolo de gran cuidado. Además de lo dicho, puesto que ellos se jactaban mucho en el discurso, y estaban hinchados de orgullo, habiéndose revestido de la sabiduría externa, \"Yo\", dice, \"diciendo adiós a estos silogismos, vengo anunciando la cruz, y por esto no me avergüenzo\"."
+                          },
+                          {
+                            "keywords": [
+                              "poder de Dios",
+                              "salvación",
+                              "Evangelio"
+                            ],
+                            "lineNumber": [
+                              642
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "originalText": "∆ύναµις γὰρ Θεοῦ ἐστιν εἰς σωτηρίαν.",
+                            "spanishTranslation": "\"Porque es poder de Dios para salvación\"."
+                          },
+                          {
+                            "keywords": [
+                              "poder de Dios",
+                              "castigo",
+                              "destrucción",
+                              "salvación",
+                              "Gehenna"
+                            ],
+                            "lineNumber": [
+                              643,
+                              644,
+                              645,
+                              646
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia al castigo de los egipcios alude a Éxodo 9:16 o Romanos 9:17 (faraón). La referencia a \"Temed al que puede destruir el alma y el cuerpo en el Gehenna\" es a Mateo 10:28. Crisóstomo distingue entre el poder de Dios para el castigo y el poder del Evangelio, que es específicamente para la salvación.",
+                              "notesGreek": "El término \"Gehenna\" (γεέννῃ) se refiere al valle de Hinón, un lugar histórico fuera de Jerusalén que llegó a simbolizar el infierno o el lugar de castigo eterno."
+                            },
+                            "originalText": "Ἐπειδὴ γάρ ἐστι καὶ δύναµις Θεοῦ εἰς κόλασιν (καὶ γὰρ ὅτε τοὺς Αἰγυπτίους ἐκόλαζεν, ἔλεγεν·Αὕτη ἐστὶν ἡ δύναµίς µου ἡ µεγάλη), καὶ δύναµις εἰς ἀπώλειαν (Φοβήθητε γὰρ, φησὶ, τὸν δυνάµενον καὶ ψυχὴν καὶ σῶµα ἀπολέσαι ἐν γεέννῃ)·διὰ τοῦτό φησιν·Οὐ ταῦτα ἐλθὼν κοµίζω, οὐ τὰ περὶ κολάσεως καὶ τιµωρίας, ἀλλὰ τὰ περὶ σωτηρίας.",
+                            "spanishTranslation": "Pues existe también un poder de Dios para el castigo (pues cuando castigaba a los egipcios, decía: \"Esta es mi gran potencia\"), y un poder para la destrucción (pues, \"Temed,\" dice, \"a aquel que puede destruir el alma y el cuerpo en el Gehenna\"); por esto dice: \"No vengo trayendo estas cosas, no las de castigo y retribución, sino las de salvación\"."
+                          },
+                          {
+                            "keywords": [
+                              "Evangelio",
+                              "salvación",
+                              "castigo",
+                              "Gehenna",
+                              "oscuridad exterior"
+                            ],
+                            "lineNumber": [
+                              647,
+                              648,
+                              649,
+                              650
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo plantea una objeción: el Evangelio también habla de castigo. Responde que, aunque el Evangelio advierte sobre el castigo (Gehenna, oscuridad exterior, gusano), su propósito principal y su revelación de poder es para la salvación de quienes creen, no para la condenación. El enfoque es la oferta de vida, aunque con la advertencia de sus consecuencias."
+                            },
+                            "originalText": "Τί οὖν;οὐχὶ καὶ ταῦτα κατήγγελλε τὸ Εὐαγγέλιον, τὸν περὶ γεέννης λόγον, τὸν περὶ τοῦ σκότους τοῦ ἐξωτέρου καὶ τοῦ σκώληκος τοῦ ἰοβόλου;Καὶ µὴν οὐδαµόθεν ἄλλοθεν, ἢ ἐκ τοῦ Εὐαγγελίου ταῦτα ἔγνωµεν·πῶς οὖν, φησὶ, ∆ύναµις Θεοῦ εἰς σωτηρίαν;",
+                            "spanishTranslation": "¿Qué, entonces? ¿Acaso el Evangelio no anunciaba también estas cosas, la palabra sobre la Gehenna, sobre la oscuridad de afuera y el gusano venenoso? Y de hecho, de ninguna otra parte conocemos esto sino del Evangelio; ¿cómo entonces, dice, \"Poder de Dios para salvación\"?"
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "salvación",
+                              "judío",
+                              "griego",
+                              "universalidad"
+                            ],
+                            "lineNumber": [
+                              651,
+                              652
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "originalText": "Ἀλλ' ἄκουε καὶ τῶν ἑξῆς·Παντὶ τῷ πιστεύοντι, Ἰουδαίῳ τε πρῶτον, καὶ Ἕλληνι.",
+                            "spanishTranslation": "Pero escucha también lo siguiente: \"A todo el que cree; al judío primeramente, y también al griego\"."
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "bautismo",
+                              "perdón de pecados",
+                              "universalidad",
+                              "griego",
+                              "bárbaro",
+                              "Escita"
+                            ],
+                            "lineNumber": [
+                              653,
+                              654
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje enfatiza la capacidad transformadora de la fe y el bautismo. No importa el pasado pecaminoso o la condición cultural (griego, escita, bárbaro), la recepción del Evangelio y el bautismo borran los pecados, abriendo el camino a la salvación. Es una afirmación poderosa de la gracia universal de Dios."
+                            },
+                            "originalText": "Οὐ γὰρ ἁπλῶς πᾶσιν, ἀλλὰ τοῖς δεχοµένοις.Κἂν γὰρ Ἕλλην ᾖς, κἂν πᾶσαν ἐπελθὼν κακίαν, κἂν Σκύθης, κἂν βάρβαρος, κἂν αὐτοθηρίον, κἂν πάσης ἀλογίας γέµων, καὶ µυρία ἁµαρτηµάτων ἐπιφερόµενος φορτία, ἅµα τὸν περὶ σταυροῦ λόγον κατεδέξω καὶ ἐβαπτίσθης, καὶ πάντα ἐκεῖνα ἐξήλειψας.",
+                            "spanishTranslation": "Pues no simplemente a todos, sino a los que reciben. Y aunque seas griego, aunque hayas pasado por toda maldad, aunque seas escita, aunque bárbaro, aunque un animal, aunque lleno de toda irracionalidad, y cargado con innumerables pecados, tan pronto como aceptaste la palabra de la cruz y fuiste bautizado, borraste todo aquello."
+                          },
+                          {
+                            "keywords": [
+                              "judío",
+                              "griego",
+                              "circuncisión",
+                              "preferencia",
+                              "igualdad en Cristo"
+                            ],
+                            "lineNumber": [
+                              655,
+                              656,
+                              657,
+                              658
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia a que \"ni la circuncisión es algo, ni la incircuncisión\" se encuentra en Gálatas 5:6 y 6:15, y 1 Corintios 7:19. Crisóstomo, consciente de la enseñanza paulina sobre la igualdad en Cristo, se pregunta por qué Pablo usa la distinción \"al judío primeramente\"."
+                            },
+                            "originalText": "∆ιὰ τί δέ φησιν ἐνταῦθα, Ἰουδαίῳ τε πρῶτον, καὶ Ἕλληνι;τί βούλεται αὕτη ἡ διαφορά;Καίτοι πολλαχοῦ εἶπεν, ὅτι [[60.409]] οὔτε περιτοµὴ τί ἐστιν, οὔτε ἀκροβυστία·πῶς οὖν ἐνταῦθα διαιρεῖ, προτιθεὶς τὸν Ἰουδαῖον τοῦ Ἕλληνος;",
+                            "spanishTranslation": "¿Pero por qué dice aquí: \"Al judío primeramente, y también al griego\"? ¿Qué significa esta diferencia? Y sin embargo, en muchos lugares dijo que \"ni la circuncisión es algo, ni la incircuncisión\"; ¿cómo entonces aquí divide, prefiriendo al judío antes que al griego?"
+                          },
+                          {
+                            "keywords": [
+                              "judío",
+                              "griego",
+                              "gracia",
+                              "honor",
+                              "orden",
+                              "igualdad"
+                            ],
+                            "lineNumber": [
+                              659,
+                              660,
+                              661,
+                              662,
+                              663
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo clarifica que la prioridad del judío no implica una mayor cantidad de gracia o justicia, sino un honor de orden. Fueron los primeros en recibir la revelación y la promesa, pero la plenitud de la gracia en Cristo es la misma para todos."
+                            },
+                            "originalText": "Καὶ τί τοῦτο;οὐδὲ γὰρ, ἐπειδὴ πρῶτός ἐστι, καὶ πλέον λαµβάνει τῆς χάριτος·ἡ γὰρ αὐτὴ δωρεὰ καὶ τούτῳ κἀκείνῳ δίδοται·ἀλλὰ τάξεώς ἐστι τιµὴ µόνον τὸ πρῶτος.Καὶ γὰρ οὐκ ἐν τῷ µείζονα λαβεῖν δικαιοσύνην πλεονεκτεῖ, ἀλλ' ἐν τῷ πρῶτος αὐτὴν λαβεῖν τετίµηται µόνον·",
+                            "spanishTranslation": "¿Y qué es esto? Pues no porque sea el primero, recibe más de la gracia; porque el mismo don se le da a este y a aquel; sino que \"primeramente\" es solo un honor de orden. Pues no tiene ventaja en recibir mayor justicia, sino que solo es honrado por recibirla primero."
+                          },
+                          {
+                            "keywords": [
+                              "bautismo",
+                              "gracia",
+                              "igualdad",
+                              "iniciados",
+                              "honor",
+                              "sacramentos"
+                            ],
+                            "lineNumber": [
+                              664,
+                              665,
+                              666
+                            ],
+                            "notes": {
+                              "notesGeneral": "Utilizando el ejemplo del bautismo, Crisóstomo ilustra que ser el primero en un rito no confiere una mayor porción de gracia; todos los que participan reciben el mismo don. Así, la primacía del judío es una cuestión de orden y honor, no de cantidad de gracia."
+                            },
+                            "originalText": "ἐπεὶ καὶ ἐπὶ τῶν φωτιζοµένων (ἴστε δὲ οἱ µύσται τὸ λεγόµενον) πάντες µὲν ἐπὶ τὸ βάπτισµα τρέχουσιν, οὐ πάντες δὲ ἐν τῇ αὐτῇ ὥρᾳ, ἀλλ' ὁ µὲν πρῶτος, ὁ δὲ δεύτερος·οὐ µὴν ὁ πρῶτος τοῦ δευτέρου πλέον λαµβάνει, οὐδὲ ἐκεῖνος τοῦ µετ' αὐτὸν, ἀλλὰ τῶν αὐτῶν ἅπαντες ἀπολαύουσι.Τὸ τοίνυν, πρῶτος, ἐνταῦθα ῥήµατός ἐστι τιµὴ, οὐ χάριτος πλεονασµός.",
+                            "spanishTranslation": "Puesto que también entre los que son iluminados (y vosotros, los iniciados, sabéis lo que se dice), todos corren hacia el bautismo, pero no todos a la misma hora, sino uno primero, y otro segundo; sin embargo, el primero no recibe más que el segundo, ni aquel más que el que le sigue, sino que todos disfrutan de las mismas cosas. Por lo tanto, el \"primeramente\" aquí es un honor de la palabra, no un exceso de gracia."
+                          },
+                          {
+                            "keywords": [
+                              "salvación",
+                              "justicia de Dios",
+                              "fe",
+                              "vida eterna",
+                              "profecía",
+                              "Habacuc"
+                            ],
+                            "lineNumber": [
+                              667,
+                              668,
+                              669,
+                              670
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita \"Mas el justo por la fe vivirá\" es de Habacuc 2:4, una profecía clave para la doctrina paulina de la justificación por la fe. Crisóstomo resalta que esta \"justicia de Dios\" no solo confiere salvación presente, sino que también garantiza la vida futura."
+                            },
+                            "originalText": "Εἶτα εἰπὼν, Εἰς σωτηρίαν, πάλιν αὔξει τὴν δωρεὰν, δεικνὺς οὐκ ἄχρι τοῦ παρόντος ἱσταµένην, ἀλλὰ περαιτέρω προϊοῦσαν·τοῦτο γὰρ ἐδήλωσεν εἰπών·∆ικαιοσύνη γὰρ Θεοῦ ἐν αὐτῷ ἀποκαλύπτεται ἐκ πίστεως εἰς πίστιν, καθὼς γέγραπται·Ὁ δὲ δίκαιος ἐκ πίστεως ζήσεται.",
+                            "spanishTranslation": "Luego, habiendo dicho: \"Para salvación\", de nuevo aumenta el don, mostrando que no se detiene en el presente, sino que avanza más allá; pues esto lo manifestó al decir: \"Porque en él la justicia de Dios se revela de fe en fe, como está escrito: 'Mas el justo por la fe vivirá'\"."
+                          },
+                          {
+                            "keywords": [
+                              "justicia",
+                              "vida futura",
+                              "salvación",
+                              "vergüenza",
+                              "gracia divina",
+                              "facilidad"
+                            ],
+                            "lineNumber": [
+                              671,
+                              672,
+                              673
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo distingue entre una \"salvación con vergüenza\" (como la de un criminal perdonado por un rey, pero aún avergonzado) y la \"salvación con justicia\" que ofrece Dios. La justicia divina no solo rescata, sino que también enaltece y purifica completamente, ofreciendo una vida espléndida, fácil y abundante, no basada en el esfuerzo humano, sino en el don de Dios."
+                            },
+                            "originalText": "Ὁ γοῦν γενόµενος δίκαιος, οὐ κατὰ τὸν παρόντα βίον µόνον, ἀλλὰ καὶ κατὰ τὸν µέλλοντα ζήσεται.Οὐ τοῦτο δὲ µόνον, ἀλλὰ καὶ ἕτερον αἰνίττεται µετὰ τούτου, τὸ λαµπρὸν καὶ περιφανὲς τῆς τοιαύτης ζωῆς.Ἐπειδὴ γὰρ ἔστι καὶ µετὰ αἰσχύνης σωθῆναι (ὥσπερ οὖν πολλοὶ τῶν ἀπὸ φιλανθρωπίας βασιλικῆς ἀπαλλαττοµένων κολάσεως σώζονται), ἵνα µὴ ὑποπτεύσῃ τοῦτό τις σωτηρίαν ἀκούσας, προσέθηκε, Καὶ δικαιοσύνην, καὶ δικαιοσύνην οὐ σὴν, ἀλλὰ Θεοῦ, καὶ τὸ δαψιλὲς αὐτῆς καὶ τὸ εὔκολον αἰνιττόµενος.",
+                            "spanishTranslation": "Pues el que se ha hecho justo, no solo vivirá en la vida presente, sino también en la futura. Y no solo esto, sino que también insinúa otra cosa con esto, el carácter espléndido y manifiesto de tal vida. Pues, como es posible ser salvado con vergüenza (así como muchos que son liberados de castigo por la filantropía real son salvados), para que nadie sospeche esto al oír \"salvación\", añadió: \"Y justicia\", y justicia no tuya, sino de Dios, aludiendo a su abundancia y a su facilidad."
+                          },
+                          {
+                            "keywords": [
+                              "justicia",
+                              "fe",
+                              "gracia",
+                              "Antiguo Testamento",
+                              "pecadores",
+                              "justificación"
+                            ],
+                            "lineNumber": [
+                              674,
+                              675
+                            ],
+                            "notes": {
+                              "notesGeneral": "La justicia de Dios se recibe como un don, no se gana por obras. El único requisito humano es la fe. Crisóstomo aborda la aparente dificultad de esta doctrina para la mentalidad secular (cómo pecadores graves pueden ser justificados) y anuncia que la corroborará con ejemplos del Antiguo Testamento."
+                            },
+                            "originalText": "Οὐ γὰρ ἐξ ἱδρώτων καὶ πόνων αὐτὴν κατορθοῖς, ἀλλ' ἀπὸ τῆς ἄνωθεν δωρεᾶς λαµβάνεις, ἓν µόνον εἰσφέρων οἴκοθεν, τὸ πιστεῦσαι.Εἶτα, ἐπειδὴ ἀπίθανος ὁ λόγος εἶναι ἐδόκει, εἰ ὁ µοιχὸς καὶ µαλακὸς, καὶ τυµβωρύχος καὶ γόης ἀθρόον οὐχὶ κολάσεως ἀπαλλάττεται µόνον, ἀλλὰ καὶ δίκαιος γίνεται, καὶ δίκαιος τὴν ἀνωτάτω δικαιοσύνην, ἀπὸ τῆς Παλαιᾶς πιστοῦται τὸν λόγον.",
+                            "spanishTranslation": "Pues no la obtienes con sudor y trabajos, sino que la recibes del don de lo alto, aportando tú una sola cosa: creer. Luego, puesto que el argumento parecía inverosímil, si el adúltero y el afeminado, y el profanador de tumbas y el hechicero de repente no solo se libran del castigo, sino que también se hacen justos, y justos con la más alta justicia, confirma el argumento con el Antiguo Testamento."
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "Antiguo Testamento",
+                              "dispensaciones divinas",
+                              "justificación",
+                              "Rahab",
+                              "Abraham"
+                            ],
+                            "lineNumber": [
+                              676,
+                              677,
+                              678
+                            ],
+                            "notes": {
+                              "notesGeneral": "La frase \"de fe en fe\" remite a las economías divinas del Antiguo Testamento, donde la fe ya era el principio de la justificación, como lo demuestran figuras como Abraham y Rahab. Esto conecta la enseñanza paulina con la historia de la salvación, mostrando su continuidad."
+                            },
+                            "originalText": "Καὶ πρῶτον µὲν βραχεῖ ῥήµατι πέλαγος ἱστοριῶν ἀχανὲς τῷ δυναµένῳ βλέπειν ἀναπετάννυσιν.Εἰπὼν γὰρ, Ἐκ πίστεως εἰς πίστιν, παρέπεµψε τὸν ἀκροατὴν ἐπὶ τὰς οἰκονοµίας τοῦ Θεοῦ τὰς ἐν τῇ Παλαιᾷ γενοµένας, ἃς Ἑβραίοις ἐπιστέλλων µετὰ πολλῆς ἐξηγεῖται τῆς σοφίας, καὶ τοὺς δικαίους καὶ τοὺς ἁµαρτωλοὺς οὕτω δικαιωθέντας δείκνυσι καὶ τότε·διὸ καὶ τῆς Ῥαὰβ καὶ τοῦ Ἀβραὰµ ἐµνηµόνευσεν.",
+                            "spanishTranslation": "Y primero, con una breve palabra, abre un inmenso mar de historias a quien pueda ver. Pues al decir: \"De fe en fe\", remitió al oyente a las dispensaciones de Dios que ocurrieron en el Antiguo Testamento, las cuales, al escribir a los Hebreos, explica con mucha sabiduría, y muestra a los justos y a los pecadores así justificados también entonces; por esta razón también mencionó a Rahab y a Abraham."
+                          },
+                          {
+                            "keywords": [
+                              "profetas",
+                              "Habacuc",
+                              "fe",
+                              "vida futura",
+                              "justicia"
+                            ],
+                            "lineNumber": [
+                              679,
+                              680
+                            ],
+                            "notes": {
+                              "notesBiblical": "Crisóstomo vuelve a Habacuc 2:4 para enfatizar que la fe no solo justifica en el presente, sino que es la clave para la vida futura y eterna. La \"vida\" a la que se refiere la profecía no es meramente terrenal, sino la vida verdadera y duradera que viene de Dios."
+                            },
+                            "originalText": "Ἔπειτα δὲ ἐνταῦθα αἰνιξάµενος αὐτὸ µόνον (καὶ γὰρ ἐφ' ἕτερον ἔτρεχε θεώρηµα, καὶ κατεπεῖγον), ἀπὸ τῶν προφητῶν πάλιν πιστοῦται τὸν λόγον, τὸν Ἀµβακοὺµ εἰς µέσον παράγων βοῶντα καὶ λέγοντα, ὅτι οὐδὲ ἔνι ἄλλως ζῇν τὸν µέλλοντα ζήσεσθαι, ἀλλ' ἢ διὰ πίστεως.Ὁ γὰρ δίκαιος, φησὶν, ἐκ πίστεως ζήσεται, περὶ τῆς µελλούσης λέγων ζωῆς.",
+                            "spanishTranslation": "Después, habiendo aludido a esto solo aquí (pues se apresuraba a otra consideración teológica, y urgente), de nuevo confirma el argumento con los profetas, presentando a Habacuc que clama y dice que de ninguna otra manera puede vivir el que va a vivir, sino por medio de la fe. \"Porque el justo,\" dice, \"por la fe vivirá\", hablando de la vida futura."
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "razón",
+                              "arrogancia",
+                              "humildad",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              681,
+                              682
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dado que los dones de Dios trascienden la lógica humana, la fe es indispensable. La arrogancia y la excesiva confianza en la propia razón impiden la recepción de la gracia divina, pues bloquean la humildad necesaria para creer."
+                            },
+                            "originalText": "Ἐπειδὴ γὰρ ἅπερ ὁ Θεὸς χαρίζεται, πάντα ὑπερβαίνει λογισµὸν, εἰκότως πίστεως ἡµῖν δεῖ.Ὁ δὲ κατοιόµενος καὶ καταφρονητὴς ἀνὴρ καὶ ἀλαζὼν οὐθὲν οὐ µὴ περανεῖ.",
+                            "spanishTranslation": "Puesto que todo lo que Dios concede supera la razón, con razón necesitamos la fe. Pero el hombre que se confía demasiado y es despreciativo y arrogante, nada logrará."
+                          },
+                          {
+                            "keywords": [
+                              "herejes",
+                              "razón",
+                              "fe",
+                              "arrogancia",
+                              "laberinto"
+                            ],
+                            "lineNumber": [
+                              683,
+                              684,
+                              685
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo critica a los herejes que, confiando excesivamente en la razón, se pierden en argumentos complejos y sin fin, sin llegar a la verdad. La verdadera fe se basa en la humildad y en la roca de la revelación divina, no en la arrogancia de la lógica humana."
+                            },
+                            "originalText": "Ἀκουέτωσαν οἱ αἱρετικοὶ τῆς πνευµατικῆς φωνῆς.Τοιαύτη γὰρ ἡ τῶν λογισµῶν φύσις·λαβυρίνθῳ τινὶ καὶ γρίφοις ἔοικεν, οὐδὲν οὐδαµοῦ τέλος ἔχουσα, οὐδὲ ἀφιεῖσα τὸν λογισµὸν ἑστάναι ἐπὶ τῆς πέτρας, καὶ τὴν ἀρχὴν ἐξ ἀλαζονείας[60.410] λαµβάνουσα.",
+                            "spanishTranslation": "Escuchen los herejes la voz espiritual. Porque tal es la naturaleza de los razonamientos: se asemeja a un laberinto y a enigmas, no teniendo fin en ninguna parte, ni permitiendo que la razón se sostenga sobre la roca, y tomando su origen de la arrogancia."
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "ignorancia",
+                              "razón",
+                              "orgullo",
+                              "cosas celestiales"
+                            ],
+                            "lineNumber": [
+                              686,
+                              687
+                            ],
+                            "notes": {
+                              "notesGeneral": "El orgullo intelectual que avergüenza a aceptar la fe lleva a una búsqueda interminable y fútil de explicaciones humanas, en lugar de aceptar la verdad divina. Este es un punto central en la crítica de Crisóstomo a la filosofía y la herejía."
+                            },
+                            "originalText": "Αἰσχυνόµενοι γὰρ ἐπὶ τῷ παραδέχεσθαι πίστιν καὶ δοκεῖν ἀγνοεῖν τὰ οὐράνια.εἰς κονιορτὸν ἑαυτοὺς µυρίων λογισµῶν ἐµβάλλουσιν.",
+                            "spanishTranslation": "Pues, avergonzándose de aceptar la fe y de parecer ignorantes de las cosas celestiales, se lanzan a sí mismos al polvo de innumerables razonamientos."
+                          },
+                          {
+                            "keywords": [
+                              "ignorancia",
+                              "humildad",
+                              "fe",
+                              "Unigénito",
+                              "misterio divino",
+                              "arrogancia"
+                            ],
+                            "lineNumber": [
+                              688,
+                              689,
+                              690,
+                              691
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo contrasta la natural aceptación de la ignorancia sobre cosas mundanas (cómo nacemos, cómo se crea el universo) con la renuencia orgullosa a aceptar la ignorancia sobre los misterios divinos, especialmente el del Unigénito. Argumenta que esta negación de la ignorancia, por vergüenza, lleva a la perdición. La humildad es esencial para la fe."
+                            },
+                            "originalText": "Εἶτα, ἄθλιε καὶ ταλαίπωρε καὶ µυρίων ἄξιε δακρύων, ἂν µέν τίς σε ἔρηται, πῶς ὁ οὐρανὸς γέγονεν, καὶ πῶς ἡ γῆ·τί λέγω τὸν οὐρανὸν καὶ τὴν γῆν;πῶς αὐτὸς ἐτέχθης, πῶς ἐτράφης καὶ ηὐξήθης, οὐκ αἰσχύνῃ τὴν ἄγνοιαν;ἐὰν δὲ περὶ τοῦ Μονογενοῦς γίνηταί τις λόγος, δι' αἰσχύνην εἰς βάραθρον ἑαυτὸν ἐµβάλλεις ἀπωλείας, ἀνάξιον σεαυτῷ νοµίζων τὸ µὴ πάντα εἰδέναι;",
+                            "spanishTranslation": "Luego, oh infeliz y miserable, y digno de innumerables lágrimas, si alguien te pregunta cómo se hizo el cielo, y cómo la tierra; ¿por qué digo el cielo y la tierra? ¿Cómo naciste tú mismo, cómo te alimentaste y creciste, no te avergüenzas de tu ignorancia? Pero si se trata de una discusión sobre el Unigénito, ¿por vergüenza te arrojas a un abismo de perdición, considerándote indigno de no saberlo todo?"
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "doctrina",
+                              "maldad",
+                              "contención",
+                              "salvación"
+                            ],
+                            "lineNumber": [
+                              692,
+                              693,
+                              694
+                            ],
+                            "notes": {
+                              "notesGeneral": "La fe no solo es vital para comprender los dogmas, sino que es el único camino para ser liberado de la maldad de la vida presente. La contención y la curiosidad inoportuna sobre lo que supera la razón son inútiles y perjudiciales."
+                            },
+                            "originalText": "Καὶ µὴν ἀνάξιον ἡ φιλονεικία, καὶ τὸ πολυπραγµονεῖν ἀκαίρως.Καὶ τί λέγω περὶ δογµάτων;Αὐτῆς γὰρ τῆς κατὰ τὸν παρόντα βίον πονηρίας οὐδαµόθεν ἀπηλλάγηµεν ἄλλοθεν, ἀλλ' ἢ διὰ τῆς πίστεως.",
+                            "spanishTranslation": "Y sin embargo, la contención es indigna, y el inmiscuirse inoportunamente. ¿Y qué digo de los dogmas? Pues de ninguna otra parte fuimos librados de la maldad de la vida presente, sino por medio de la fe."
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "Antiguo Testamento",
+                              "Nuevo Testamento",
+                              "salvación",
+                              "Abraham",
+                              "Isaac",
+                              "Jacob",
+                              "Rahab"
+                            ],
+                            "lineNumber": [
+                              695,
+                              696
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo apela a ejemplos bíblicos de figuras importantes (Abraham, Isaac, Jacob) y de una pecadora (Rahab) para demostrar que la fe ha sido el principio de la salvación en todas las épocas, tanto en la Antigua como en la Nueva Alianza. Esto refuerza la universalidad y constancia de la fe como camino a la justicia."
+                            },
+                            "originalText": "Οὕτω καὶ οἱ πρὸ τούτου ἔλαµψαν ἅπαντες, οὕτως ὁ Ἀβραὰµ, οὕτως ὁ Ἰσαὰκ, οὕτως ὁ Ἰακώβ·οὕτω καὶ ἡ πόρνη ἐσώθη, καὶ ἡ ἐν τῇ Παλαιᾷ, καὶ ἡ ἐν τῇ Καινῇ.",
+                            "spanishTranslation": "Así brillaron todos los que precedieron, así Abraham, así Isaac, así Jacob; así también la ramera fue salvada, tanto en el Antiguo como en el Nuevo Testamento."
+                          },
+                          {
+                            "keywords": [
+                              "Rahab",
+                              "fe",
+                              "desobediencia",
+                              "espías",
+                              "salvación",
+                              "razón humana"
+                            ],
+                            "lineNumber": [
+                              697,
+                              698,
+                              699,
+                              700,
+                              701
+                            ],
+                            "notes": {
+                              "notesBiblical": "La historia de Rahab se encuentra en Josué 2. Pablo la menciona en Hebreos 11:31 como un ejemplo de fe. Crisóstomo la utiliza para mostrar cómo la fe de Rahab, que trascendió la lógica militar y la fuerza aparente de su ciudad, la salvó de la destrucción. La incredulidad de los antepasados de los israelitas, en contraste, los llevó a la perdición."
+                            },
+                            "originalText": "Πίστει γὰρ, φησὶ, Ῥαὰβ ἡ πόρνη οὐ συναπώλετο τοῖς ἀπειθήσασι, δεξαµένη τοὺς κατασκόπους.Οὐδὲ πρὸς ἑαυτὴν εἶπε·Καὶ πῶς δυνήσονται οὗτοι αἰχµάλωτοι καὶ φυγάδες ὄντες καὶ µετανάσται, καὶ νοµάδων βίον ζῶντες, ἡµῶν τῶν πόλιν ἐχόντων καὶ τείχη καὶ πύργους περιγενέσθαι;ὡς εἰ πρὸς ἑαυτὴν ταῦτα εἶπε, καὶ ἑαυτὴν καὶ ἐκείνους ἂν προσαπώλεσεν·ὅπερ οὖν καὶ οἱ πρόγονοι τῶν τότε σωθέντων ἔπαθον.",
+                            "spanishTranslation": "\"Por la fe,\" dice, \"Raab la ramera no pereció con los desobedientes, habiendo recibido a los espías.\" Ni se dijo a sí misma: \"¿Y cómo podrán estos, siendo cautivos y fugitivos y nómadas, y viviendo una vida errante, superar a nosotros que tenemos una ciudad y muros y torres?\" Porque si se hubiera dicho estas cosas a sí misma, se habría perdido a sí misma y a ellos; lo mismo que sufrieron los antepasados de los que entonces fueron salvados."
+                          },
+                          {
+                            "keywords": [
+                              "incredulidad",
+                              "fe",
+                              "salvación",
+                              "destrucción",
+                              "promesa divina"
+                            ],
+                            "lineNumber": [
+                              702,
+                              703
+                            ],
+                            "notes": {
+                              "notesGeneral": "El contraste entre la incredulidad de los israelitas (que perecieron a pesar de ser el pueblo elegido) y la fe de Rahab (una gentil y ramera que se salvó) ilustra la magnitud del abismo de la incredulidad y la fortaleza del muro de la fe."
+                            },
+                            "originalText": "Ἐκεῖνοι γὰρ ἐπειδὴ ἄνδρας ἰδόντες µεγάλους καὶ εὐµήκεις, τὸν τρόπον τῆς νίκης ἐζήτουν, ἀπώλοντο χωρὶς πολέµου καὶ παρατάξεως ἅπαντες.Εἶδες πόσον τῆς ἀπιστίας τὸ βάραθρον, καὶ πόσον τῆς πίστεως τὸ τεῖχος;",
+                            "spanishTranslation": "Porque aquellos, al ver hombres grandes y altos, buscaron la manera de la victoria, y perecieron todos sin guerra ni batalla. ¿Has visto cuán grande es el abismo de la incredulidad, y cuán grande el muro de la fe?"
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "incredulidad",
+                              "salvación",
+                              "Rahab",
+                              "gracia divina"
+                            ],
+                            "lineNumber": [
+                              704,
+                              705
+                            ],
+                            "notes": {
+                              "notesGeneral": "La fe no solo salva vidas individuales, sino que puede elevar a una persona de condición humilde a una posición de gran dignidad, como Rahab, que se convierte en parte del linaje de Cristo. La incredulidad, en cambio, causa la ruina de innumerables vidas."
+                            },
+                            "originalText": "Ἡ µὲν γὰρ ἀπείρους κατήνεγκε χιλιάδας·αὕτη δὲ πόρνην γυναῖκα οὐ µόνον διέσωσεν, ἀλλὰ καὶ δήµου τοσούτου πρόστασιν ἐποίησε.",
+                            "spanishTranslation": "Pues la incredulidad precipitó a innumerables millares; esta, en cambio, no solo salvó a una mujer ramera, sino que la hizo cabeza de un pueblo tan grande."
+                          },
+                          {
+                            "keywords": [
+                              "obediencia",
+                              "fe",
+                              "providencia divina",
+                              "razón humana",
+                              "curiosidad",
+                              "mandatos divinos"
+                            ],
+                            "lineNumber": [
+                              706,
+                              707
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo concluye que, conociendo estos ejemplos, debemos aceptar los mandatos divinos sin cuestionarlos ni escudriñarlos, incluso si parecen irracionales a la mente humana. La obediencia y la fe deben prevalecer sobre la curiosidad y el análisis racional de la voluntad de Dios."
+                            },
+                            "originalText": "Ταῦτ' οὖν εἰδότες, καὶ τὰ τούτων πλείονα, µηδέποτε τὸν Θεὸν εὐθύνας τῶν γινοµένων ἀπαιτῶµεν, ἀλλ' ὅπερ ἂν ἐπιτάξῃ, δεχώµεθα·καὶ µὴ περιεργαζώµεθα µηδὲ πολυπραγµονῶµεν, κἂν ἀνθρωπίνοις λογισµοῖς ἄτοπον εἶναι δοκῇ τὸ κελευόµενον.",
+                            "spanishTranslation": "Conociendo, pues, estas cosas, y más que estas, nunca pidamos a Dios explicaciones de lo que sucede, sino que aceptemos lo que Él mande; y no seamos entrometidos ni curiosos, aunque lo mandado parezca absurdo a la razón humana."
+                          },
+                          {
+                            "keywords": [
+                              "Abraham",
+                              "Isaac",
+                              "obediencia",
+                              "fe",
+                              "razón humana",
+                              "sacrificio"
+                            ],
+                            "lineNumber": [
+                              708,
+                              709
+                            ],
+                            "notes": {
+                              "notesBiblical": "La historia del sacrificio de Isaac por Abraham se encuentra en Génesis 22. Es el ejemplo paradigmático de obediencia a un mandato divino que desafía la razón y la moral humanas, pero que es aceptado por fe en la autoridad de Dios."
+                            },
+                            "originalText": "Τί γὰρ, εἰπέ µοι, τοῦ σφάξαι µονογενῆ παῖδα καὶ γνήσιον, αὐτὸν τὸν γεγεννηκότα, ἀτοπώτερον εἶναι δοκεῖ;Ἀλλ' ὅµως ὁ δίκαιος κελευσθεὶς, οὐ περιειργάσατο τοῦτο, ἀλλ' ἀπὸ τῆς ἀξίας τοῦ κελεύσαντος ἐδέξατο τὸ ἐπίταγµα µόνον, καὶ ὑπήκουσε.",
+                            "spanishTranslation": "Porque, dime, ¿qué parece más absurdo que degollar a un hijo unigénito y legítimo, por el mismo que lo engendró? Sin embargo, el justo, al ser mandado, no se entrometió en esto, sino que aceptó el mandato solo por la autoridad del que mandó, y obedeció."
+                          },
+                          {
+                            "keywords": [
+                              "profeta",
+                              "obediencia",
+                              "castigo",
+                              "recompensa",
+                              "curiosidad"
+                            ],
+                            "lineNumber": [
+                              710,
+                              711
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta referencia parece aludir a 1 Reyes 20:35-36, donde un profeta es castigado por desobedecer una orden divina indirecta de golpear a otro profeta. El que obedece es bendecido, el que desobedece es castigado, incluso por un acto aparentemente trivial o absurdo. También puede recordar la historia del hombre de Dios de Judá en 1 Reyes 13."
+                            },
+                            "originalText": "Καὶ ἕτερος δὲ προφήτην παρὰ τοῦ Θεοῦ κελευσθεὶς ῥαπίσαι, ἐπειδὴ τὸ δοκοῦν ἄτοπον εἶναι τοῦ πράγµατος περιειργάσατο, καὶ οὐχ ἁπλῶς ὑπήκουσε, δίκην ἔδωκε τὴν ἐσχάτην·ὁ δὲ πλήξας εὐδοκίµησε.",
+                            "spanishTranslation": "Y otro, siendo mandado por Dios a golpear a un profeta, porque se entrometió en lo que parecía absurdo del asunto, y no obedeció simplemente, sufrió el castigo último; mientras que el que golpeó fue aprobado."
+                          },
+                          {
+                            "keywords": [
+                              "Saúl",
+                              "desobediencia",
+                              "reino",
+                              "castigo divino",
+                              "obediencia"
+                            ],
+                            "lineNumber": [
+                              712,
+                              713
+                            ],
+                            "notes": {
+                              "notesBiblical": "La historia de Saúl se encuentra en 1 Samuel 15, donde es rechazado por Dios por perdonar al rey Agag y el ganado de los amalecitas, en contra de la orden explícita de Dios de destruirlo todo. Es un ejemplo claro de cómo la desobediencia, incluso por motivos aparentemente \"buenos\", lleva a la pérdida del reino y a graves consecuencias.",
+                              "notesGeneral": "Estos ejemplos históricos subrayan la lección central: la obediencia incondicional a los mandatos de Dios, sin buscar justificaciones o razones humanas, es fundamental para la vida de fe. La curiosidad o la \"mejor intención\" humana no pueden anular el mandato divino."
+                            },
+                            "originalText": "Καὶ ὁ Σαοὺλ δὲ σώσας ἀνθρώπους παρὰ τὸ τῷ Θεῷ δοκοῦν, τῆς βασιλείας ἐξέπεσε, καὶ τὰ ἀνήκεστα ἔπαθε.Καὶ ἕτερα πλείονα τούτων ἄν τις εὕροι παραδείγµατα, δι' ὧν ἁπάντων παιδευόµεθα µηδέποτε τῶν ἐπιταγµάτων τοῦ Θεοῦ λόγον ἀπαιτεῖν, ἀλλ' εἴκειν καὶ πείθεσθαι µόνον.",
+                            "spanishTranslation": "Y Saúl también, salvando hombres en contra de lo que a Dios le parecía bien, cayó del reino y sufrió cosas irreparables. Y se podrían encontrar más ejemplos que estos, por medio de todos los cuales se nos enseña a no pedir nunca una razón para los mandatos de Dios, sino solo a ceder y obedecer."
+                          },
+                          {
+                            "keywords": [
+                              "misterio divino",
+                              "Trinidad",
+                              "engendramiento del Hijo",
+                              "esencia divina",
+                              "curiosidad",
+                              "herejía",
+                              "castigo"
+                            ],
+                            "lineNumber": [
+                              714,
+                              715
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo hace una transición de la obediencia a los mandatos divinos a la aceptación de los misterios divinos. Si es peligroso cuestionar los mandatos, mucho más lo es inmiscuirse en los inefables misterios de Dios, como el de la Santísima Trinidad (cómo el Padre engendra al Hijo, la esencia divina). Esto es una crítica a la especulación teológica herética."
+                            },
+                            "originalText": "Εἰ δὲ, ἅπερ ἂν ἐπιτάξῃ, περιεργάζεσθαι ἐπισφαλὲς, καὶ ἐσχάτη κόλασις κεῖται τοῖς πολυπραγµονοῦσι·οἱ τὰ πολλῷ τούτων ἀποῤῥητότερα καὶ φρικωδέστερα περιεργαζόµενοι, τουτέστι πῶς ἐγέννησε τὸν Υἱὸν, καὶ τίνι τρόπῳ, καὶ τίς ἡ οὐσία, τίνα ἕξουσιν ἀπολογίαν ποτέ;",
+                            "spanishTranslation": "Si, pues, es peligroso inmiscuirse en lo que Él manda, y la última pena espera a los entrometidos; ¿qué excusa tendrán alguna vez los que se entrometen en cosas mucho más secretas y temibles que estas, es decir, cómo engendró al Hijo, y de qué manera, y cuál es Su esencia?"
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "doctrinas",
+                              "vida eterna",
+                              "gracia",
+                              "Jesucristo",
+                              "Trinidad",
+                              "gloria",
+                              "Espíritu Santo",
+                              "Padre"
+                            ],
+                            "lineNumber": [
+                              716,
+                              717
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo concluye con una exhortación final a abrazar la fe como la \"madre de todos los bienes\". La fe no solo asegura la vida presente, sino que permite mantener las doctrinas correctas y alcanzar la salvación eterna a través de la gracia de Cristo. Finaliza con una doxología trinitaria."
+                            },
+                            "originalText": "Ταῦτ' οὖν εἰδότες, τὴν πάντων τῶν ἀγαθῶν µητέρα πίστιν µετὰ πάσης ὑποδεχώµεθα τῆς εὐνοίας, ἵνα ὥσπερ ἐν γαληνῷ πλέοντες λιµένι τά τε ὀρθὰ διατηρῶµεν δόγµατα, καὶ τὸν βίον ἡµῶν µετὰ ἀσφαλείας κατευθύνοντες, τῶν αἰωνίων ἐπιτύχωµεν ἀγαθῶν, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡµῶν Ἰησοῦ Χριστοῦ, µεθ' οὗ τῷ Πατρὶ δόξα, κράτος, τιµὴ καὶ προσκύνησις σὺν ἁγίῳ Πνεύµατι, εἰς τοὺς αἰῶνας τῶν αἰώνων.Ἀµήν.",
+                            "spanishTranslation": "Sabiendo, pues, estas cosas, recibamos con toda buena voluntad la fe, madre de todos los bienes, para que, navegando como en un puerto tranquilo, conservemos las doctrinas correctas, y dirigiendo nuestra vida con seguridad, alcancemos los bienes eternos, por la gracia y filantropía de nuestro Señor Jesucristo, con quien al Padre sea la gloria, el poder, el honor y la adoración con el Espíritu Santo, por los siglos de los siglos. Amén."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

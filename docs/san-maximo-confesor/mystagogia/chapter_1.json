@@ -1,0 +1,536 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Maximi Confessoris",
+      "authorSpanish": "Máximo Confesor",
+      "originalTitle": "Mystagogia",
+      "titleSpanish": "Mistagogia",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish",
+      "source": "https://www.documentacatholicaomnia.eu/20vs/103_migne_gm/0580-0662,_Maximus_Confessor,_Mystagogia_(MPG_091_0657_0718),_GM.pdf",
+      "reference": "Patrologia Graeca, Tomo 91, Cols. 657-718"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 1,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Maximi Confessoris",
+                  "authorSpanish": "Máximo Confesor",
+                  "originalTitle": "Mystagogia",
+                  "titleSpanish": "Mistagogia",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 1,
+                    "chapterSummary": "Este capítulo describe la Santa Iglesia como una imagen y tipo de Dios, reflejando Su acción providencial de unificar todas las cosas a pesar de su diversidad natural. Al igual que Dios congrega realidades inteligibles y sensibles como causa, principio y fin, la Iglesia unifica a diversos individuos —hombres, mujeres, niños, de variadas naciones, lenguas, edades y condiciones— en un solo cuerpo por la fe en Cristo. Esta unidad no anula las diferencias individuales, sino que las trasciende y perfecciona, haciendo que todos sean uno en Cristo, quien es “todo en todos”, al igual que el sol eclipsa las estrellas. Así, la Iglesia realiza una unificación similar, inconfundible, entre los creyentes, reflejando la obra unificadora de Dios en la esencia misma de los seres.",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "capítulo"
+                            ],
+                            "lineNumber": [
+                              1
+                            ],
+                            "notes": {},
+                            "originalText": "ΚΕΦΑΛΑΙΟΝ Ά.",
+                            "spanishTranslation": "CAPÍTULO Ι."
+                          },
+                          {
+                            "keywords": [
+                              "Iglesia",
+                              "imagen",
+                              "tipo",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              3,
+                              4
+                            ],
+                            "notes": {
+                              "notesGreek": "«εἰκών» (eikōn) e «τύπος» (typos) son términos teológicos clave que denotan una relación de semejanza y modelo, respectivamente. La Iglesia no es Dios, sino su representación o reflejo.",
+                              "notesLinguistics": "La estructura interrogativa «Πῶς τε καὶ ποίῳ τρόπῳ» introduce un tema fundamental que será desarrollado a lo largo del capítulo. Su traducción como “Cómo y de qué modo” busca mantener la distinción de ambos adverbios de interrogación."
+                            },
+                            "originalText": "Πῶς τε καὶ ποίῳ τρόπῳ εἰκὼν ἐστι καὶ τύπος Θεοῦ ἡ ἁγία Ἐκκλησία.",
+                            "spanishTranslation": "Cómo y de qué modo la Santa Iglesia es imagen y tipo de Dios."
+                          },
+                          {
+                            "keywords": [
+                              "Iglesia",
+                              "teoría",
+                              "imagen",
+                              "tipo",
+                              "Dios",
+                              "anciano"
+                            ],
+                            "lineNumber": [
+                              6,
+                              7,
+                              8
+                            ],
+                            "notes": {
+                              "notesGeneral": "El “bendito anciano” (ὁ μακάριος γέρων ἐκεῖνος) es una figura recurrente en la literatura patrística, a menudo un maestro espiritual o un padre del desierto, cuya autoridad se invoca sin necesidad de identificarlo explícitamente.",
+                              "notesGreek": "«θεωρίας ἐπιβολήν» (theōrias epibolēn) puede traducirse como “primera aprehensión teórica” o “primera mirada contemplativa”, refiriéndose a una comprensión inicial o fundamental."
+                            },
+                            "originalText": "Τὴν τοίνυν ἁγίαν Ἐκκλησίαν κατὰ πρώτην θεωρίας ἐπιβολήν, τύπον καὶ εἰκόνα Θεοῦ φέρειν, ἔλεγεν ὁ μακάριος γέρων ἐκεῖνος · ὡς τὴν αὐτὴν αὐτῷ κατὰ μίμησιν καὶ τύπον ἐνέργειαν ἔχουσαν.",
+                            "spanishTranslation": "A la Santa Iglesia, pues, según la primera intención teórica, aquel bendito anciano la consideraba portadora del tipo y la imagen de Dios; ya que posee la misma energía que Él, por imitación y modelo."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "poder",
+                              "creación",
+                              "unión",
+                              "inteligible",
+                              "sensible"
+                            ],
+                            "lineNumber": [
+                              10,
+                              11,
+                              12,
+                              13
+                            ],
+                            "notes": {
+                              "notesGreek": "Los verbos «συνέχει» (synechei), «συνάγει» (synagei), «περιγράφει» (perigraphei) y «ἐνδιασφίγγει» (endiasphingei) describen la acción providencial de Dios: mantener unido, congregar, circunscribir y unir estrechamente.",
+                              "notesLinguistics": "«νοητά» (noēta) y «αἰσθητά» (aisthēta) son términos filosóficos griegos que se refieren a las realidades inteligibles (captadas por el intelecto) y sensibles (captadas por los sentidos), respectivamente."
+                            },
+                            "originalText": "Ὥσπερ γὰρ ὁ Θεὸς πάντα τῇ ἀπείρῳ δυνάμει ποιήσας καὶ εἰς τὸ εἶναι παραγαγών, συνέχει καὶ συνάγει καὶ περιγράφει, καὶ ἀλλήλοις καὶ ἑαυτῷ προνοητικῶς ἐνδιασφίγγει · τά τε νοητὰ καὶ τὰ αἰσθητά ·",
+                            "spanishTranslation": "Porque así como Dios, habiendo creado todas las cosas con un poder infinito y habiéndolas traído a la existencia, las mantiene unidas y las congrega y las circunscribe, y las une previsora y estrechamente tanto entre sí como consigo mismo; tanto las inteligibles como las sensibles;"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "causa",
+                              "principio",
+                              "fin",
+                              "unidad"
+                            ],
+                            "lineNumber": [
+                              13,
+                              14,
+                              15,
+                              16
+                            ],
+                            "notes": {
+                              "notesGreek": "La tríada «αἰτίαν καὶ ἀρχὴν καὶ τέλος» (aitian kai archēn kai telos) —causa, principio y fin— es una fórmula clásica en la filosofía y teología patrística para describir el dominio universal de Dios sobre la creación."
+                            },
+                            "originalText": "καὶ περὶ ἑαυτὸν ὡς αἰτίαν καὶ ἀρχὴν καὶ τέλος πάντα περικρατῶν, τὰ κατὰ τὴν φύσιν ἀλλήλων διεστήκοτα, κατὰ μίαν τὴν πρὸς αὐτὸν ὡς ἀρχὴν σχέσεως δύναμιν ἀλλήλοις συννενευκότα ποιεῖ ·",
+                            "spanishTranslation": "y abarcando todas las cosas en torno a sí mismo como causa, principio y fin, hace que lo que por naturaleza está separado entre sí, confluya mutuamente por una única fuerza de relación hacia Él como principio;"
+                          },
+                          {
+                            "keywords": [
+                              "existencia",
+                              "movimiento",
+                              "unidad",
+                              "distinción"
+                            ],
+                            "lineNumber": [
+                              16,
+                              17,
+                              18,
+                              19
+                            ],
+                            "notes": {
+                              "notesGreek": "Los adjetivos «ἀδιάφορον» (adiaphoron, indiferente/indiferenciado) y «ἀσύγχυτον» (asynchyton, inconfuso/no mezclado) son cruciales. Subrayan que la unidad no implica la anulación de las distinciones, sino su integración armoniosa."
+                            },
+                            "originalText": "καθ᾽ ἣν εἰς ταυτότητα κινήσεώς τε καὶ ὑπάρξεως ἀδιάφορον καὶ ἀσύγχυτον ἄγεται τὰ πάντα, πρὸς οὐδὲν οὐδενὸς τῶν ὄντων προηγουμένως κατὰ φύσεως διαφορὰν ἢ κινήσεως στασιάζοντός τε καὶ διαιρουμένου ·",
+                            "spanishTranslation": "según la cual todas las cosas son llevadas a una identidad de movimiento y existencia, indiferente e inconfusa, sin que nada de lo existente se oponga o se divida previamente según una diferencia de naturaleza o de movimiento;"
+                          },
+                          {
+                            "keywords": [
+                              "unidad",
+                              "causa",
+                              "principio",
+                              "custodia"
+                            ],
+                            "lineNumber": [
+                              19,
+                              20,
+                              21
+                            ],
+                            "notes": {
+                              "notesGreek": "«ἀφύρτως συμπεφυκότων» (aphyrtōs sympephykotōn) significa “crecidos juntos inconfusamente” o “intrínsecamente unidos sin mezcla”, reiterando el concepto de unidad sin confusión."
+                            },
+                            "originalText": "πάντων πᾶσι κατὰ τὴν μίαν τῆς μόνης ἀρχῆς καὶ αἰτίας ἀδιάλυτον σχέσιν τε καὶ φρουρὰν ἀφύρτως συμπεφυκότων ·",
+                            "spanishTranslation": "sino que todas las cosas están intrínsecamente unidas a todas las demás de manera inmutable, según la única relación indestructible y la custodia del único principio y causa;"
+                          },
+                          {
+                            "keywords": [
+                              "relaciones",
+                              "naturaleza",
+                              "trascender"
+                            ],
+                            "lineNumber": [
+                              21,
+                              22,
+                              23
+                            ],
+                            "notes": {
+                              "notesGreek": "«καταργοῦσαν τε καὶ ἐπικαλύπτουσαν» (katargousan te kai epikalyptousan) se traduce como “anulando y velando”, implicando que las relaciones particulares son trascendidas o eclipsadas por la unidad superior, no destruidas."
+                            },
+                            "originalText": "τὴν πάσας τε καὶ ἐπὶ πᾶσι κατὰ τὴν ἑκάστου τῶν ὄντων φύσιν θεωρουμένας ἰδικὰς σχέσεις, καταργοῦσάν τε καὶ ἐπικαλύπτουσαν ·",
+                            "spanishTranslation": "anulando y velando todas las relaciones particulares consideradas en cada una de las naturalezas de los seres;"
+                          },
+                          {
+                            "keywords": [
+                              "destrucción",
+                              "victoria",
+                              "totalidad",
+                              "partes"
+                            ],
+                            "lineNumber": [
+                              23,
+                              24,
+                              25
+                            ],
+                            "notes": {},
+                            "originalText": "οὐ τῷ φθείρειν αὐτὰς καὶ ἀναιρεῖν καὶ μὴ εἶναι ποιεῖν · ἀλλὰ τῷ νικᾶν καὶ ὑπερφαίνεσθαι, ὥσπερ ὁλότης μερῶν ·",
+                            "spanishTranslation": "no al destruirlas, aniquilarlas o hacer que no existan; sino al vencerlas y superarlas, como un todo en relación con sus partes;"
+                          },
+                          {
+                            "keywords": [
+                              "causa",
+                              "totalidad",
+                              "existencia"
+                            ],
+                            "lineNumber": [
+                              25,
+                              26,
+                              27
+                            ],
+                            "notes": {},
+                            "originalText": "ἥ γε καὶ αὐτῆς αἰτία τῆς ὁλότητος ἐπιφαινομένη · καθ᾽ ἣν ἥ τε ὁλότης αὕτη, καὶ τὰ τῆς ὁλότητος μέρη φαίνεσθαί τε καὶ εἶναι πέφυκεν ·",
+                            "spanishTranslation": "la cual, apareciendo como la causa misma de la totalidad; según ella, tanto esta totalidad como las partes de la totalidad tienen su naturaleza en ser y manifestarse;"
+                          },
+                          {
+                            "keywords": [
+                              "causa",
+                              "sol",
+                              "estrellas",
+                              "existencia"
+                            ],
+                            "lineNumber": [
+                              27,
+                              28,
+                              29,
+                              30
+                            ],
+                            "notes": {
+                              "notesGreek": "«αἰτιατῶν» (aitiatōn) se refiere a los “efectos” o lo causado. La analogía del sol que eclipsa a las estrellas ilustra cómo la Causa suprema (Dios) no anula la existencia individual de los efectos, sino que la subsume y es su fuente de ser."
+                            },
+                            "originalText": "ὡς ὅλη ἔχοντα τὴν αἰτίαν ἑαυτῶν ὑπερλάμπουσαν · καὶ ὥσπερ ἥλιος ὑπερφανεῖς ἀστέρων καὶ φύσιν καὶ δύναμιν, οὕτω τὴν αὑτῶν ὡς αἰτιατῶν αἰτίαν καλύπτουσαν ὕπαρξιν.",
+                            "spanishTranslation": "como si el todo tuviera su causa resplandeciendo en sí mismo; y así como el sol eclipsa la naturaleza y el poder de las estrellas, así también cubre la existencia de su causa como efectos."
+                          },
+                          {
+                            "keywords": [
+                              "causa",
+                              "efectos",
+                              "cualidad",
+                              "relación"
+                            ],
+                            "lineNumber": [
+                              32,
+                              33,
+                              34,
+                              35,
+                              36
+                            ],
+                            "notes": {
+                              "notesGreek": "«σχολάζουσαν ἔχειν ἰδιότητα» (scholazousan echein idiotēta) puede interpretarse como “tener su propia cualidad en suspenso” o “tener su particularidad en estado latente”, significando que la identidad individual no se pierde, sino que se subordina a la causa."
+                            },
+                            "originalText": "Πέφυκε γὰρ ὥσπερ ἐκ τῆς ὁλότητος τὰ μέρη, οὕτω δὲ κἀκ τῆς αἰτίας τὰ αἰτιατὰ καὶ εἶναι, κυρίως, καὶ γνωρίζεσθαι, καὶ τὴν ἑαυτῶν σχολάζουσαν ἔχειν ἰδιότητα, ἡνίκα τῆς πρὸς τὴν αἰτίαν ἀναφορᾶς περιληφθέντα, ποιωθῇ δι᾽ ὅλου · κατὰ τὴν μίαν, ὡς εἴρηται, τῆς πρὸς αὐτὴν σχέσεως δύναμιν.",
+                            "spanishTranslation": "Porque, así como las partes existen de la totalidad, así también los efectos de la causa existen propiamente, son conocidos y tienen su propia cualidad latente, una vez que son abarcados por la referencia a la causa y cualificados por completo; según la única fuerza, como se ha dicho, de la relación con ella."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "mente pura",
+                              "visión"
+                            ],
+                            "lineNumber": [
+                              38,
+                              39
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta afirmación evoca el bienaventuranza de Jesús: “Bienaventurados los limpios de corazón, porque ellos verán a Dios” (Mateo 5:8)."
+                            },
+                            "originalText": "Πάντα γὰρ ἐν πᾶσιν ὢν, ὁ ἀπείροις μέτροις ὑπὲρ πάντα Θεός, μονώτατος τοῖς καθαροῖς τὴν διάνοιαν ὁραθήσεται ·",
+                            "spanishTranslation": "Pues siendo Dios, que está en todo y en todas las cosas por medidas infinitas, sobre todas las cosas, Él será visto de manera singular por los que tienen la mente pura;"
+                          },
+                          {
+                            "keywords": [
+                              "mente",
+                              "principios",
+                              "Dios",
+                              "causa",
+                              "principio",
+                              "fin"
+                            ],
+                            "lineNumber": [
+                              39,
+                              40,
+                              41,
+                              42
+                            ],
+                            "notes": {
+                              "notesGreek": "«λόγους» (logous) se refiere aquí a los principios divinos o “logoi” por los cuales todas las cosas existen y son inteligibles. «πυθμένα τῆς πάντων περιοχῆς ἀδιάστατον» (pythmena tēs pantōn perichēs adiastaton) se refiere a un “fundamento inmutable de la circunscripción de todas las cosas”."
+                            },
+                            "originalText": "ἡνίκα ὁ νοῦς τοὺς τῶν ὄντων θεωρητικῶς ἀναλεγόμενος λόγους, εἰς αὐτὸν καταλήξει τὸν Θεόν, ὡς αἰτίαν καὶ ἀρχὴν καὶ τέλος τῆς τῶν ὅλων παραγωγῆς καὶ γενέσεως, καὶ πυθμένα τῆς πάντων περιοχῆς ἀδιάστατον.",
+                            "spanishTranslation": "cuando la mente, recogiendo teóricamente los principios de los seres, llegue a Dios mismo, como causa, principio y fin de la producción y generación de todas las cosas, y como fundamento inmutable de la contención de todo."
+                          },
+                          {
+                            "keywords": [
+                              "Iglesia",
+                              "Dios",
+                              "arquetipo",
+                              "imagen"
+                            ],
+                            "lineNumber": [
+                              44,
+                              45
+                            ],
+                            "notes": {
+                              "notesGreek": "Aquí Máximo articula explícitamente el concepto de la Iglesia como «εἰκών» (imagen) del «ἀρχέτυπος» (arquetipo) divino, realizando acciones análogas a las de Dios."
+                            },
+                            "originalText": "Κατὰ τὸν αὐτὸν τρόπον καὶ ἡ ἁγία τοῦ Θεοῦ Ἐκκλησία, τὰ αὐτὰ τῷ Θεῷ περὶ ἡμᾶς ὡς ἀρχετύπῳ εἰκὼν ἐνεργοῦσα δειχθήσεται.",
+                            "spanishTranslation": "De la misma manera, también la santa Iglesia de Dios se mostrará actuando lo mismo que Dios, siendo una imagen para nosotros según su arquetipo."
+                          },
+                          {
+                            "keywords": [
+                              "diversidad",
+                              "Iglesia",
+                              "regeneración",
+                              "espíritu"
+                            ],
+                            "lineNumber": [
+                              47,
+                              48,
+                              49,
+                              50,
+                              51,
+                              52,
+                              53,
+                              54,
+                              55
+                            ],
+                            "notes": {
+                              "notesGreek": "«ἀναγεννωμένων τε καὶ ἀναδημιουργουμένων τῷ πνεύματι» (anagennōmenōn te kai anadēmiourgoumenōn tō pneumati) se refiere a la regeneración y recreación espiritual de los fieles, a menudo asociada al bautismo y la vida en Cristo."
+                            },
+                            "originalText": "Πολλῶν γὰρ ὄντων καὶ ἀπείρων ἀριθμῷ σχεδόν, ἀνδρῶν τε καὶ γυναικῶν καὶ παίδων, γένει καὶ εἴδει, καὶ ἔθνεσι καὶ γλώσσαις, καὶ βίοις καὶ ἡλικίαις καὶ γνώμαις καὶ τέχναις καὶ τρόποις καὶ ἤθεσι καὶ ἐπιτηδεύμασιν · ἐπιστήμαις τε αὖ καὶ ἀξιώμασι, καὶ τύχαις καὶ χαρακτηρσι καὶ ἕξεσιν, ἀλλήλων διηρημένων τε καὶ πλεῖστον διαφερόντων τῶν εἰς αὐτὴν γιγνομένων, καὶ ὑπ᾽ αὐτῆς ἀναγεννωμένων τε καὶ ἀναδημιουργουμένων τῷ πνεύματι ·",
+                            "spanishTranslation": "Porque aunque son muchos y casi infinitos en número, hombres y mujeres y niños, en género y especie, y naciones y lenguas, y modos de vida y edades y opiniones y artes y costumbres y hábitos y ocupaciones; y también en conocimientos y dignidades, y fortunas y caracteres y disposiciones, estando divididos entre sí y difiriendo muchísimo, los que entran en ella y son regenerados y recreados por ella en el espíritu;"
+                          },
+                          {
+                            "keywords": [
+                              "unidad",
+                              "Cristo",
+                              "identidad divina"
+                            ],
+                            "lineNumber": [
+                              55,
+                              56,
+                              57
+                            ],
+                            "notes": {},
+                            "originalText": "μίαν πᾶσι κατὰ τὸ ἴσον δίδωτι καὶ χαρίζεται θείαν μορφὴν καὶ προσηγορίαν, τό, ἀπὸ Χριστοῦ καὶ εἶναι καὶ ὀνομάζεσθαι ·",
+                            "spanishTranslation": "la Iglesia les otorga y concede a todos por igual una única forma y denominación divina: ser y ser llamados de Cristo;"
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "unidad",
+                              "diversidad",
+                              "universal"
+                            ],
+                            "lineNumber": [
+                              58,
+                              59,
+                              60,
+                              61,
+                              62
+                            ],
+                            "notes": {
+                              "notesGreek": "«καθολικὴν ἀναφορὰν καὶ συνέλευσιν» (katholikēn anaphoran kai syneleusin) enfatiza la referencia y congregación “católica” o universal, donde las diferencias individuales se minimizan frente a la unidad de la fe."
+                            },
+                            "originalText": "καὶ μίαν τὴν κατὰ πίστιν ἁπλῆν τε καὶ ἀμερῆ καὶ ἀδιαίρετον σχέσιν, τὴν τὰς πολλὰς καὶ ἀμυθήτους περὶ ἕκαστον οὔσας διαφορὰς οὐδ᾽ ὅτι κἂν εἰσὶ συγχωροῦσαν γνωρίζεσθαι, διὰ τὴν τῶν πάντων εἰς αὐτὴν καθολικὴν ἀναφορὰν καὶ συνέλευσιν ·",
+                            "spanishTranslation": "y una única relación por la fe, simple, indivisible e indisoluble, que no permite que se reconozcan las muchas e incalculables diferencias que existen en cada uno, debido a la referencia y congregación universal de todos en ella;"
+                          },
+                          {
+                            "keywords": [
+                              "bien común",
+                              "unidad",
+                              "gracia",
+                              "fe"
+                            ],
+                            "lineNumber": [
+                              62,
+                              63,
+                              64,
+                              65,
+                              66
+                            ],
+                            "notes": {
+                              "notesGreek": "«δωρισμένος» (dōrismenos), del verbo «δωρίζω» (dōrizō), significa “dotado” o “concedido”. «τοῦ κοινοῦ» (tou koinou) se refiere al “bien común” o a lo que es compartido por todos."
+                            },
+                            "originalText": "καθ᾽ ἣν οὐδεὶς τὸ παράπαν οὐδὲν ἑαυτοῦ τοῦ κοινοῦ δωρισμένος ἐστί · πάντων συμπεφυκότων ἀλλήλοις καὶ συνημμένων, κατὰ τὴν μίαν ἁπλῆν τε καὶ ἀδιαίρετον τῆς πίστεως χάριν καὶ δύναμιν.",
+                            "spanishTranslation": "según la cual nadie en absoluto está dotado de nada propio separado del bien común; sino que todos están intrínsecamente unidos y conectados entre sí, según la gracia y el poder de la fe, que es simple e indivisible."
+                          },
+                          {
+                            "keywords": [
+                              "corazón",
+                              "alma",
+                              "cuerpo",
+                              "Cristo",
+                              "cabeza"
+                            ],
+                            "lineNumber": [
+                              68,
+                              69,
+                              70
+                            ],
+                            "notes": {
+                              "notesBiblical": "La frase «Ἦν γὰρ πάντων, φησίν, ἡ καρδία καὶ ἡ ψυχὴ μία» (Porque de todos ellos, dice, el corazón y el alma eran uno) es una cita directa de Hechos 4:32. La metáfora del “solo cuerpo” con “miembros diversos” y Cristo como “cabeza” es una enseñanza paulina fundamental (cf. Romanos 12:4-5; 1 Corintios 12:12-27; Efesios 1:22-23)."
+                            },
+                            "originalText": "Ἦν γὰρ πάντων, φησίν, ἡ καρδία καὶ ἡ ψυχὴ μία · ὡς ἐκ διαφόρων μελῶν, σῶμα ἓν καὶ εἶναι καὶ ὁρᾶσθαι, καὶ αὐτοῦ Χριστοῦ τῆς ἀληθινῆς ἡμῶν κεφαλῆς ὄντως ἄξιον.",
+                            "spanishTranslation": "Porque de todos ellos, dice, el corazón y el alma eran uno; de modo que, a partir de miembros diversos, se constituía y veía un solo cuerpo, y era verdaderamente digno de Cristo mismo, nuestra verdadera cabeza."
+                          },
+                          {
+                            "keywords": [
+                              "Apóstol",
+                              "Cristo",
+                              "unidad",
+                              "diferencias"
+                            ],
+                            "lineNumber": [
+                              72,
+                              73,
+                              74,
+                              75,
+                              76,
+                              77,
+                              78,
+                              79,
+                              80,
+                              81
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta sección parafrasea y combina pasajes del Apóstol Pablo, principalmente Gálatas 3:28 y Colosenses 3:11, que enfatizan la superación de las divisiones humanas en Cristo. La inclusión de “ni varón ni hembra” es de Gálatas 3:28.",
+                              "notesGeneral": "La imagen de Cristo como “centro de ciertas líneas rectas que de Él penden” es una metáfora neoplatónica y patrística común para describir a Dios como el punto unificador y originario de toda la realidad, de la cual emanan y a la cual regresan todas las cosas."
+                            },
+                            "originalText": "Ἐν ᾧ, φησίν ὁ θεῖος Ἀπόστολος, οὐκ ἔστιν ἄρρεν οὐδὲ θῆλυ, οὔτε Ἰουδαῖος οὔτε Ἕλλην, οὔτε περιτομὴ οὔτε ἀκροβυστία, οὔτε βάρβαρος οὔτε Σκύθης · οὔτε δοῦλος, οὔτε ἐλεύθερος · ἀλλὰ πάντα καὶ ἐν πᾶσιν αὐτός, ὁ πάντα κατὰ μίαν ἁπλῆν τῆς ἀγαθότητος ἀπειρόσοφον δύναμιν ἑαυτῷ περικλείων, ὥσπερ κέντρον εὐθειῶν τινων ἐξημμένων αὐτοῦ, κατὰ μίαν ἁπλῆν καὶ ἑνιαίαν αἰτίαν καὶ δύναμιν ·",
+                            "spanishTranslation": "En Él, dice el divino Apóstol, no hay ni varón ni hembra, ni judío ni griego, ni circuncisión ni incircuncisión, ni bárbaro ni escita; ni esclavo ni libre; sino que Él es todo en todos, el que abarca todas las cosas en sí mismo por un único poder simple e infinitamente sabio de su bondad, como un centro de ciertas líneas rectas que de Él penden, según una única causa y poder simple y unitario;"
+                          },
+                          {
+                            "keywords": [
+                              "principios",
+                              "extremos",
+                              "distinciones",
+                              "unidad"
+                            ],
+                            "lineNumber": [
+                              81,
+                              82,
+                              83,
+                              84
+                            ],
+                            "notes": {},
+                            "originalText": "τὰς ἀρχὰς τῶν ὄντων τοῖς πέρασιν οὐκ ἐῶν συναφίστασθαι, κύκλῳ περιγράφων αὐτῶν τὰς ἐκστάσεις, καὶ πρὸς ἑαυτὸν ἄγων τοὺς τῶν ὄντων καὶ ὑπ᾽ αὐτοῦ γενομένους διορισμούς ·",
+                            "spanishTranslation": "no permitiendo que los principios de los seres se separen de sus extremos, circunscribiendo sus desviaciones en un círculo, y atrayendo hacia sí mismo las distinciones de los seres que fueron creadas por Él;"
+                          },
+                          {
+                            "keywords": [
+                              "creación",
+                              "unidad",
+                              "hostilidad"
+                            ],
+                            "lineNumber": [
+                              85,
+                              86,
+                              87
+                            ],
+                            "notes": {},
+                            "originalText": "ἵνα μὴ ἀλλήλων παντάπασιν ἀλλότρια ᾖ καὶ ἐχθρὰ τὰ τοῦ ἑνὸς Θεοῦ κτίσματα καὶ ποιήματα · οὐκ ἔχοντα περὶ τί καὶ ὅποι τὸ φίλον τι καὶ εἰρηνικὸν καὶ ταὐτὸν πρὸς ἀλλήλα δείξωσι ·",
+                            "spanishTranslation": "para que las criaturas y obras del único Dios no sean del todo extrañas y hostiles entre sí; no teniendo en qué o hacia dónde mostrar algo amistoso, pacífico y unísono entre sí;"
+                          },
+                          {
+                            "keywords": [
+                              "existencia",
+                              "no-ser",
+                              "separación de Dios"
+                            ],
+                            "lineNumber": [
+                              88,
+                              89
+                            ],
+                            "notes": {
+                              "notesGeneral": "Esta idea subraya la dependencia ontológica de toda la creación respecto a Dios. La separación de la fuente de la existencia conduce al no-ser."
+                            },
+                            "originalText": "καὶ κινδυνεύσῃ αὐτοῖς καὶ αὐτὸ τὸ εἶναι εἰς τὸ μὴ ὂν μεταπεσεῖν, τοῦ Θεοῦ χωριζόμενον.",
+                            "spanishTranslation": "y corra el riesgo de que la existencia misma se les transforme en no-ser, al separarse de Dios."
+                          },
+                          {
+                            "keywords": [
+                              "Iglesia",
+                              "imagen",
+                              "Dios",
+                              "unión",
+                              "fieles",
+                              "diversidad"
+                            ],
+                            "lineNumber": [
+                              91,
+                              92,
+                              93,
+                              94,
+                              95
+                            ],
+                            "notes": {},
+                            "originalText": "Εἰκὼν μὲν οὖν ἐστι τοῦ Θεοῦ, καθὼς εἴρηται, ἡ ἁγία Ἐκκλησία, ὡς τὴν αὐτὴν τῷ Θεῷ περὶ τοὺς πιστοὺς ἐνεργοῦσα ἕνωσιν, κἂν διάφοροι τοῖς ἰδιώμασι καὶ ἐκ διαφόρων καὶ τόπων καὶ τρόπων, οἱ κατ᾽ αὐτὴν διὰ τῆς πίστεως ἑνοποιούμενοι τύχωσιν ὄντες ·",
+                            "spanishTranslation": "Así pues, la Santa Iglesia es una imagen de Dios, como se ha dicho, en cuanto que opera la misma unión que Dios respecto a los fieles, aunque los que son unificados en ella por la fe resulten ser diversos en sus particularidades y de diferentes lugares y costumbres;"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "esencias",
+                              "unión",
+                              "causa",
+                              "principio",
+                              "fin"
+                            ],
+                            "lineNumber": [
+                              96,
+                              97,
+                              98,
+                              99,
+                              100
+                            ],
+                            "notes": {
+                              "notesGreek": "«ἀσυγχύτως» (asynchyton) es un término crucial en la cristología calcedoniana, aplicado aquí a la acción de Dios en la creación, indicando una unidad que no mezcla ni confunde las distinciones. «παραμυθούμενος τε καὶ ταυτοποιούμενος» (paramythoumenos te kai tautopoioumenos) significa “consolando/reconciliando y unificando/haciendo uno”."
+                            },
+                            "originalText": "ἣν περὶ τὰς οὐσίας τῶν ὄντων ἀσυγχύτως αὐτὸς ἐνεργεῖν πέφυκεν ὁ Θεός · τὸ περὶ αὐτὰς διάφορον, ὡς δέδεικται, τῇ πρὸς ἑαυτὸν ὡς αἰτίαν καὶ ἀρχὴν καὶ τέλος, ἀναφορᾷ τε καὶ ἑνώσει παραμυθούμενος τε καὶ ταυτοποιούμενος.",
+                            "spanishTranslation": "la cual Dios mismo, por naturaleza, opera inconfusamente en las esencias de los seres; consolando y unificando lo diverso en ellas, como se ha demostrado, por la referencia y la unión a Él mismo como causa, principio y fin."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

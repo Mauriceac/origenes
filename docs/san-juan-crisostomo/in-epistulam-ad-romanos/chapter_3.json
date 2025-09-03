@@ -1,0 +1,572 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Iohannes Chrysostomus",
+      "authorSpanish": "San Juan Cristóstomo",
+      "originalTitle": "In Epistulam ad Romanos",
+      "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 3,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 3,
+                    "chapterSummary": "Introducción a la Homilía III y la revelación de la ira de Dios contra la impiedad.",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "Homilía",
+                              "tercera"
+                            ],
+                            "lineNumber": [
+                              718
+                            ],
+                            "originalText": "ΟΜΙΛΙΑ Γʹ.",
+                            "spanishTranslation": "HOMILÍA III."
+                          },
+                          {
+                            "keywords": [
+                              "ira de Dios",
+                              "impiedad",
+                              "injusticia",
+                              "verdad",
+                              "revelación"
+                            ],
+                            "lineNumber": [
+                              719
+                            ],
+                            "notes": {
+                              "notesBiblical": "Este versículo es Romanos 1:18, el cual introduce el tema central de la justicia de Dios y la necesidad de la redención. Pablo establece que la ira de Dios no es un concepto futuro, sino que ya se está manifestando activamente contra el pecado humano.",
+                              "notesGreek": "`Ἀποκαλύπτεται` (apokalyptetai) significa 'se revela' o 'es revelada', una forma pasiva que sugiere una acción divina en curso. `ὀργὴ Θεοῦ` (orgē Theou) se refiere a la 'ira de Dios', que en la teología paulina no es una pasión humana, sino la manifestación de su justicia santa contra el pecado. `κατεχόντων` (katechontōn) es el participio presente activo de `κατέχω`, que puede significar 'retener', 'sujetar' o 'suprimir'. En este contexto, implica que los hombres 'reprimen' o 'detienen' la verdad, que es evidente para ellos, con su injusticia.",
+                              "notesLinguistics": "La preposición `ἐπὶ` (epi) con acusativo (`πᾶσαν ἀσέβειαν καὶ ἀδικίαν`) indica la dirección o el objeto de la ira, es decir, 'contra' toda impiedad e injusticia."
+                            },
+                            "originalText": "Ἀποκαλύπτεται γὰρ ὀργὴ Θεοῦ ἀπ' οὐρανοῦ ἐπὶ πᾶ σαν ἀσέβειαν καὶ ἀδικίαν ἀνθρώπων τῶν τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων.",
+                            "spanishTranslation": "Porque la ira de Dios se revela desde el cielo contra toda impiedad e injusticia de los hombres que con su injusticia reprimen la verdad."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 3,
+                    "chapterSummary": "Cristóstomo explica la estrategia retórica de Pablo en Romanos, alternando entre la promesa de bienes y la amenaza de castigos, siguiendo el patrón divino y profético. Detalla el juicio de Dios, la audiencia a la que se dirige Pablo, y los diversos tipos de injusticia que retienen la verdad.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              720,
+                              721
+                            ],
+                            "originalText": "αʹ. Ὅρα τὴν Παύλου σύνεσιν, πῶς ἀπὸ τῶν χρηστοτέρων προτρέψας, ἐπὶ τὰ φοβερώτερα τρέπει τὸν λόγον.",
+                            "spanishTranslation": "Observa la inteligencia de Pablo, cómo, habiendo exhortado desde las cosas más benignas, gira el discurso hacia las cosas más temibles."
+                          },
+                          {
+                            "lineNumber": [
+                              722
+                            ],
+                            "originalText": "Εἰπὼν γὰρ, ὅτι σωτηρίας αἴτιον τὸ Εὐαγγέλιον, ὅτι ζωῆς, ὅτι Θεοῦ δύναµις, ὅτι σωτηρίας καὶ δικαιοσύνης ποιητικὸν, λέγει καὶ τὰ φοβῆσαι δυνάµενα τοὺς οὐ προσέχοντας.",
+                            "spanishTranslation": "Porque habiendo dicho que el Evangelio es causa de salvación, de vida, que es poder de Dios, que es productor de salvación y justicia, dice también las cosas que pueden atemorizar a quienes no prestan atención."
+                          },
+                          {
+                            "lineNumber": [
+                              723
+                            ],
+                            "originalText": "Ἐπειδὴ γὰρ ὡς τὰ πολλὰ τῶν ἀνθρώπων οἱ πλείους οὐχ οὕτω τῇ τῶν χρηστῶν ἐπαγγελίᾳ, ὡς τῷ φόβῳ τῶν λυπηρῶν πρὸς τὴν ἀρετὴν ἕλκονται, ἑκατέρωθεν αὐτοὺς ἐπισπᾶται.",
+                            "spanishTranslation": "Porque, como la mayoría de los hombres no se sienten atraídos a la virtud tanto por la promesa de las cosas buenas como por el temor a las cosas dolorosas, los atrae de ambos lados."
+                          },
+                          {
+                            "lineNumber": [
+                              724,
+                              725
+                            ],
+                            "originalText": "∆ιὰ τοῦτο καὶ ὁ Θεὸς οὐ βασιλείαν ἐπηγγείλατο µόνον, ἀλλὰ καὶ γέενναν ἠπείλησε· καὶ οἱ προφῆται δὲ τοῖς Ἰουδαίοις οὕτω διελέγοντο, τὰ κακὰ τοῖς ἀγαθοῖς ἀναµιγνύντες διηνεκῶς.",
+                            "spanishTranslation": "Por esto también Dios no solo prometió el reino, sino que también amenazó con la Gehenna; y los profetas así hablaban a los judíos, mezclando constantemente las cosas malas con las buenas."
+                          },
+                          {
+                            "lineNumber": [
+                              726
+                            ],
+                            "originalText": "∆ιὰ τοῦτο καὶ ὁ Παῦλος οὕτω ποικίλλει τὸν λόγον, οὐ µὴν ἁπλῶς, ἀλλὰ τὰ χρηστὰ τίθησι πρῶτον, καὶ µετὰ ταῦτα τὰ λυπηρὰ, δεικνὺς ὅτι ἐκεῖνα µὲν τῆς προηγουµένης τοῦ Θεοῦ γνώµης ἐστὶ, ταῦτα δὲ τῆς τῶν ῥᾳθυµούντων πονηρίας.",
+                            "spanishTranslation": "Por esto también Pablo así varía el discurso, no simplemente, sino que pone primero las cosas buenas, y después de estas las dolorosas, mostrando que aquellas son del propósito primordial de Dios, y estas de la maldad de los negligentes."
+                          },
+                          {
+                            "lineNumber": [
+                              727,
+                              728,
+                              729
+                            ],
+                            "originalText": "Οὕτω καὶ ὁ προφήτης πρῶτον τὰ ἀγαθὰ τίθησι, λέγων· Ἐὰν θέλητε καὶ εἰσακούσητέ µου, τὰ ἀγαθὰ τῆς γῆς φάγεσθε· ἐὰν δὲ µὴ θελήσητε, καὶ µὴ εἰσακούσητέ µου, µάχαιρα ὑµᾶς κατέδεται.",
+                            "spanishTranslation": "Así también el profeta pone primero las cosas buenas, diciendo: 'Si queréis y me escucháis, comeréis los bienes de la tierra; pero si no queréis y no me escucháis, la espada os devorará.' Estas son palabras del profeta Isaías, capítulos 1:19-20."
+                          },
+                          {
+                            "lineNumber": [
+                              730,
+                              731,
+                              732,
+                              733,
+                              734
+                            ],
+                            "originalText": "Οὕτω καὶ ἐνταῦθα προάγει τὸν λόγον ὁ Παῦλος. Σκόπει δέ· Ἦλθε φέρων ὁ Χριστὸς ἄφεσιν, φησὶ, δικαιοσύνην, ζωήν· καὶ οὐχ ἁπλῶς, ἀλλὰ διὰ σταυροῦ φέρει· ὃ δὴ µέγιστον καὶ θαυµαστὸν, οὐχ ὅτι τοιαῦτα ἐχαρίσατο µόνον, ἀλλ' ὅτι καὶ τοιαῦτα ἔπαθεν.",
+                            "spanishTranslation": "Así también aquí Pablo avanza el discurso. Y observa: 'Cristo vino trayendo remisión, dice, justicia, vida; y no simplemente, sino que la trae por medio de la cruz; lo cual es ciertamente lo más grande y admirable, no solo porque concedió tales cosas, sino también porque sufrió tales cosas'."
+                          },
+                          {
+                            "lineNumber": [
+                              735
+                            ],
+                            "originalText": "Ἂν τοίνυν ὑβρίσητε εἰς τὰς δωρεὰς, τότε ἀναµενεῖτε τὰ λυπηρά.",
+                            "spanishTranslation": "Si, entonces, injuriáis los dones, entonces esperaréis las cosas dolorosas."
+                          },
+                          {
+                            "lineNumber": [
+                              736,
+                              737
+                            ],
+                            "originalText": "Καὶ ὅρα πῶς ἐπαίρει τὸν λόγον. Ἀποκαλύπτεται γὰρ, φησὶν, ὀργὴ Θεοῦ ἀπ' οὐρανοῦ.",
+                            "spanishTranslation": "Y observa cómo eleva el discurso. 'Porque se revela', dice, 'la ira de Dios desde el cielo'."
+                          },
+                          {
+                            "lineNumber": [
+                              738,
+                              739,
+                              740
+                            ],
+                            "originalText": "Πόθεν τοῦτο δῆλον; Ἂν µὲν ὁ πιστὸς λέγῃ, τοῦ Χριστοῦ τὰς ἀποφάσεις ἐροῦµεν· ἂν δὲ ὁ ἄπιστος καὶ ὁ Ἕλλην, ἀπὸ τῶν ἑξῆς αὐτὸν ὁ Παῦλος ἐπιστοµίζει τῶν περὶ τῆς κρίσεως τοῦ Θεοῦ λόγων, ἐκ τῶν ὑπ' ἐκείνων γινοµένων ἀπόδειξιν ἀναντίῤῥητον εἰσάγων·",
+                            "spanishTranslation": "¿De dónde es esto evidente? Si el creyente habla, diremos las sentencias de Cristo; pero si el incrédulo y el griego, Pablo lo silencia con los discursos siguientes sobre el juicio de Dios, introduciendo una prueba irrefutable de lo que sucede por parte de ellos."
+                          },
+                          {
+                            "lineNumber": [
+                              741
+                            ],
+                            "originalText": "ὃ δὴ καὶ ἔστι µάλιστα παραδοξότατον, ὅταν τοὺς ἀντιλέγοντας αὐτῇ τῇ ἀληθείᾳ, δι' ὧν ποιοῦσι καθ' ἑκάστην ἢ καὶ λέγουσι, συνισταµένους αὐτοὺς ἀποφαίνει τοῖς τῆς ἀληθείας δόγµασιν.",
+                            "spanishTranslation": "lo cual es ciertamente lo más paradójico, cuando a los que contradicen la verdad misma, por lo que hacen cada día o dicen, los muestra como confirmadores de los dogmas de la verdad."
+                          },
+                          {
+                            "lineNumber": [
+                              742
+                            ],
+                            "originalText": "Ἀλλὰ ταῦτα µὲν ἐν τοῖς ἑξῆς, τέως δὲ τῶν προκειµένων ἐχώµεθα.",
+                            "spanishTranslation": "Pero estas cosas las veremos en lo que sigue, mientras tanto, atengámonos a lo que tenemos delante."
+                          },
+                          {
+                            "lineNumber": [
+                              743
+                            ],
+                            "originalText": "Ἀποκαλύπτεται γὰρ ὀργὴ Θεοῦ ἀπ' οὐρανοῦ.",
+                            "spanishTranslation": "Porque se revela la ira de Dios desde el cielo."
+                          },
+                          {
+                            "lineNumber": [
+                              744,
+                              745
+                            ],
+                            "originalText": "Καίτοι καὶ ἐνταῦθα πολλάκις τοῦτο γίνεται, οἷον ἐν λιµοῖς καὶ λοιµοῖς καὶ πολέµοις· καὶ γὰρ ἰδίᾳ ἕκαστος, καὶ κοινῇ πάντες κολάζονται.",
+                            "spanishTranslation": "Y sin embargo, también aquí sucede esto a menudo, como en hambrunas, pestes y guerras; porque tanto individualmente cada uno, como en común todos son castigados."
+                          },
+                          {
+                            "lineNumber": [
+                              746
+                            ],
+                            "originalText": "Τί οὖν τὸ ξένον τότε;",
+                            "spanishTranslation": "¿Qué es, entonces, lo extraño en aquel momento?"
+                          },
+                          {
+                            "lineNumber": [
+                              747,
+                              748
+                            ],
+                            "originalText": "Ὅτι καὶ µείζων ἡ κόλασις καὶ κοινὴ καὶ οὐκ ἐπὶ τοῖς αὐτοῖς· νῦν µὲν γὰρ πρὸς διόρθωσιν τὰ γινόµενα, τότε δὲ πρὸς τιµωρίαν·",
+                            "spanishTranslation": "Que el castigo es también mayor y común y no por las mismas causas; pues ahora las cosas que suceden son para corrección, pero entonces para castigo;"
+                          },
+                          {
+                            "lineNumber": [
+                              749,
+                              750
+                            ],
+                            "originalText": "ὅπερ καὶ ὁ Παῦλος δηλῶν ἔλεγεν, ὅτι Παιδευόµεθα νῦν, ἵνα µὴ σὺν τῷ κόσµῳ κατακριθῶµεν.",
+                            "spanishTranslation": "lo cual también Pablo, declarando, decía: 'Ahora somos disciplinados, para no ser condenados con el mundo'."
+                          },
+                          {
+                            "lineNumber": [
+                              751,
+                              752
+                            ],
+                            "originalText": "Καὶ νῦν µὲν οὐ διὰ τὴν ἄνωθεν ὀργὴν πολλοῖς δοκεῖ τὰ πολλὰ γίνεσθαι, ἀλλὰ δι' ἀνθρώπων ἐπήρειαν· τότε δὲ φανερὰ ἔσται ἡ παρὰ τοῦ Θεοῦ κόλασις, ὅταν καθήµενος ἐπὶ τοῦ φοβεροῦ βήµατος ὁ κριτὴς, τοὺς µὲν ἐπὶ τὰς καµίνους ἕλκεσθαι κελεύῃ, τοὺς δὲ ἐπὶ τὸ σκότος τὸ ἐξώτερον, τοὺς δὲ ἐπ' ἄλλας ἀπαραιτήτους καὶ ἀφορήτους κολάσεις.",
+                            "spanishTranslation": "Y ahora, a muchos les parece que muchas cosas no suceden por la ira de arriba, sino por la malicia de los hombres; pero entonces será evidente el castigo de parte de Dios, cuando el juez, sentado sobre el terrible tribunal, ordene arrastrar a unos a los hornos, a otros a las tinieblas de afuera, y a otros a otros castigos ineludibles e insoportables."
+                          },
+                          {
+                            "lineNumber": [
+                              753
+                            ],
+                            "originalText": "Καὶ τίνος ἕνεκεν οὐχ οὕτως εἶπε σαφῶς, οἷον ὅτι ὁ Υἱὸς τοῦ Θεοῦ µέλλει παραγίνεσθαι µετὰ µυρίων ἀγγέλων, καὶ τὰς εὐθύνας ἀπαιτεῖν ἕκαστον, ἀλλ' ὅτι Ἀποκαλύπτεται ὀργὴ Θεοῦ;",
+                            "spanishTranslation": "¿Y por qué no dijo así de claramente, por ejemplo, que el Hijo de Dios va a venir con miríadas de ángeles, y a pedir cuentas a cada uno, sino 'Se revela la ira de Dios'?"
+                          },
+                          {
+                            "lineNumber": [
+                              754,
+                              755
+                            ],
+                            "originalText": "Τῶν νεοφύτων ἦσαν οἱ ἀκούοντες ἔτι· διὰ τοῦτο ἀπὸ τῶν σφόδρα ὡµολογηµένων παρ' αὐτοῖς πρῶτον αὐτοὺς ἐπισπᾶται.",
+                            "spanishTranslation": "Los que escuchaban eran aún neófitos; por eso primero los atrae desde las cosas muy reconocidas por ellos."
+                          },
+                          {
+                            "lineNumber": [
+                              756,
+                              757,
+                              758
+                            ],
+                            "originalText": "Χωρὶς δὲ τῶν εἰρηµένων, καὶ πρὸς Ἕλληνας ἀποτείνεσθαί µοι [[60.412]] δοκεῖ· διὸ καὶ ἐντεῦθεν προοιµιάζεται· ὕστερον δὲ καὶ τὸν περὶ τῆς κρίσεως τοῦ Χριστοῦ λόγον εἰσάγει.",
+                            "spanishTranslation": "Además de lo dicho, también me parece que se dirige a los griegos; por lo cual también desde aquí prefacía; pero más tarde introduce también el discurso sobre el juicio de Cristo."
+                          },
+                          {
+                            "lineNumber": [
+                              759
+                            ],
+                            "originalText": "Ἐπὶ πᾶσαν ἀσέβειαν καὶ ἀδικίαν ἀνθρώπων τῶν τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων.",
+                            "spanishTranslation": "Sobre toda impiedad e injusticia de los hombres que retienen la verdad en injusticia."
+                          },
+                          {
+                            "lineNumber": [
+                              760,
+                              761
+                            ],
+                            "originalText": "Ἐνταῦθα δείκνυσιν, ὅτι πολλαὶ τῆς ἀσεβείας αἱ ὁδοὶ, ἡ δὲ τῆς ἀληθείας µία· καὶ γὰρ ποικίλον καὶ πολυειδὲς καὶ συγκεχυµένον ἡ πλάνη, ἡ δὲ ἀλήθεια µία.",
+                            "spanishTranslation": "Aquí muestra que muchos son los caminos de la impiedad, pero uno el de la verdad; porque el error es variado, multiforme y confuso, pero la verdad es una."
+                          },
+                          {
+                            "lineNumber": [
+                              762,
+                              763
+                            ],
+                            "originalText": "Εἰπὼν δὲ περὶ δογµάτων, λέγει καὶ περὶ βίου, ἀδικίαν ἀνθρώπων εἰπών. Καὶ γὰρ αἱ ἀδικίαι ποικίλαι·",
+                            "spanishTranslation": "Y habiendo hablado de dogmas, habla también de la vida, al decir 'injusticia de los hombres'. Porque las injusticias son variadas;"
+                          },
+                          {
+                            "lineNumber": [
+                              764,
+                              765
+                            ],
+                            "originalText": "καὶ ἡ µὲν περὶ χρήµατα γίνεται, οἷον ὅταν τις ἐν τούτοις ἀδικῇ τὸν πλησίον· ἡ δὲ περὶ γυναῖκας, ὅταν τις ἀφεὶς τὴν ἑαυτοῦ, τὸν ἑτέρου διορύττῃ γάµον·",
+                            "spanishTranslation": "y una ocurre con respecto al dinero, como cuando alguien en esto daña a su prójimo; y otra con respecto a las mujeres, cuando alguien, dejando la suya propia, irrumpe en el matrimonio ajeno;"
+                          },
+                          {
+                            "lineNumber": [
+                              766,
+                              767
+                            ],
+                            "originalText": "καὶ γὰρ καὶ τοῦτο πλεονεξίαν ὁ Παῦλος καλεῖ, οὕτω λέγων· Τὸ µὴ ὑπερβαίνειν καὶ πλεονεκτεῖν ἐν τῷ πράγµατι τὸν ἀδελφόν.",
+                            "spanishTranslation": "porque también a esto Pablo llama codicia (o avaricia), diciendo así: 'Que nadie sobrepase ni defraude a su hermano en este asunto'."
+                          },
+                          {
+                            "lineNumber": [
+                              768,
+                              769,
+                              770
+                            ],
+                            "originalText": "Ἕτεροι πάλιν, ἀντὶ γυναικὸς καὶ χρηµάτων, δόξαν λυµαίνονται τὴν τοῦ πλησίον· καὶ τοῦτο δὲ ἀδικία· καὶ γὰρ Κρεῖσσον ὄνοµα καλὸν, ἢ πλοῦτος πολύς.",
+                            "spanishTranslation": "Otros, de nuevo, en lugar de mujeres y dinero, dañan la reputación del prójimo; y esto también es injusticia; porque 'mejor es el buen nombre que las muchas riquezas'."
+                          },
+                          {
+                            "lineNumber": [
+                              771,
+                              772
+                            ],
+                            "originalText": "Τινὲς δέ φασιν, ὅτι καὶ τοῦτο περὶ δογµάτων εἴρηται τῷ Παύλῳ· πλὴν οὐδὲν κωλύει περὶ ἀµφοτέρων εἰρῆσθαι.",
+                            "spanishTranslation": "Algunos, sin embargo, dicen que también esto ha sido dicho por Pablo respecto a los dogmas; pero nada impide que se haya dicho de ambos."
+                          },
+                          {
+                            "lineNumber": [
+                              773,
+                              774,
+                              775
+                            ],
+                            "originalText": "Τί δέ ἐστι, Τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων, διὰ τῶν ἑξῆς µάνθανε. Ὅτι τὸ γνωστὸν τοῦ Θεοῦ φανερόν ἐστιν ἐν αὐτοῖς· ὁ Θεὸς γὰρ αὐτοῖς ἐφανέρωσεν.",
+                            "spanishTranslation": "Y qué significa 'que retienen la verdad en injusticia', apréndelo por lo que sigue: 'Que lo conocible de Dios es manifiesto en ellos; porque Dios se lo ha manifestado'."
+                          },
+                          {
+                            "lineNumber": [
+                              776,
+                              777
+                            ],
+                            "originalText": "Ἀλλὰ ταύτην τὴν δόξαν ξύλοις περιέθηκαν καὶ λίθοις.",
+                            "spanishTranslation": "Pero esta gloria la atribuyeron a maderos y piedras."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 3,
+                    "chapterSummary": "Cristóstomo expone las acusaciones de Pablo contra los gentiles por su idolatría y la perversión de su sabiduría, explicando el significado de 'Dios los entregó' como un acto de permiso divino, no de coacción, ilustrado con ejemplos de la filosofía griega y la voluntad libre del hombre.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              833
+                            ],
+                            "originalText": "γʹ.",
+                            "spanishTranslation": "3."
+                          },
+                          {
+                            "lineNumber": [
+                              834,
+                              835,
+                              836,
+                              837
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo enumera cuatro acusaciones principales contra los gentiles, basándose en la Epístola a los Romanos, capítulo 1."
+                            },
+                            "originalText": "Πρῶτον ἔγκληµα, ὅτι Θεὸν οὐχ εὗρον· δεύτερον, ὅτι καὶ ἀφορµὰς ἔχοντες µεγάλας καὶ σαφεῖς· τρίτον, ὅτι σοφοὶ λέγοντες εἶναι· τέταρτον, ὅτι οὐ µόνον οὐχ εὗρον, ἀλλὰ καὶ εἰς δαίµονας κατήγαγον καὶ λίθους καὶ ξύλα τὸ σέβας ἐκεῖνο.",
+                            "spanishTranslation": "La primera acusación: que no encontraron a Dios; segunda, que, aun teniendo grandes y claras oportunidades; tercera, que se decían sabios; cuarta, que no solo no lo encontraron, sino que incluso redujeron esa veneración a demonios, piedras y maderos."
+                          },
+                          {
+                            "lineNumber": [
+                              838,
+                              839,
+                              840
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita «La necedad de Dios es más sabia que los hombres» es de 1 Corintios 1:25.",
+                              "notesGreek": "La palabra original para 'necedad' es µωρόν (morón), que Pablo usa para contrastar la sabiduría divina con la humana."
+                            },
+                            "originalText": "Καθαιρεῖ µὲν οὖν αὐτῶν καὶ ἐν τῇ πρὸς Κορινθίους Ἐπιστολῇ τὸν τῦφον, ἀλλ' οὐχ ὁµοίως ἐκεῖ καὶ ἐνταῦθα. Ἐκεῖ µὲν γὰρ ἀπὸ τοῦ σταυροῦ δίδωσιν αὐτοῖς πληγὴν, λέγων, ὅτι Τὸ µωρὸν τοῦ Θεοῦ σοφώτερον τῶν ἀνθρώπων ἐστίν· ἐνταῦθα δὲ καὶ χωρὶς συγκρίσεως αὐτὴν καθ' ἑαυτὴν κωµῳδεῖ τὴν σοφίαν αὐτῶν, δεικνὺς µωρίαν οὖσαν, καὶ ἀλαζονείας ἐπίδειξιν µόνον.",
+                            "spanishTranslation": "Así pues, él (Pablo) derriba su arrogancia también en la Epístola a los Corintios, pero no de la misma manera allí y aquí. Allí, en efecto, les asesta un golpe desde la cruz, diciendo: «La necedad de Dios es más sabia que los hombres»; pero aquí, incluso sin comparación, ridiculiza su sabiduría por sí misma, mostrándola como necedad y solo una ostentación de arrogancia."
+                          },
+                          {
+                            "lineNumber": [
+                              841,
+                              842
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Romanos 1:23, donde se habla de cómo cambiaron la gloria de Dios. La palabra clave es ἤλλαξαν (ēllaxan), 'cambiaron'."
+                            },
+                            "originalText": "Εἶτα ἵνα µάθῃς, ὅτι ἔχοντες τὴν περὶ Θεοῦ γνῶ σιν, οὕτως αὐτὴν προὔδωκαν, Ἤλλαξαν, εἶπεν· ὁ δὲ ἀλλάσσων, ὡς ἄλλο ἔχων ἀλλάσσει.",
+                            "spanishTranslation": "Luego, para que aprendas que, teniendo el conocimiento sobre Dios, así lo traicionaron, dijo: «Cambiaron». Y el que cambia, cambia como si tuviera algo más."
+                          },
+                          {
+                            "lineNumber": [
+                              843,
+                              844,
+                              845
+                            ],
+                            "originalText": "Ἤθελον γάρ τι πλέον εὑρεῖν, καὶ οὐκ ἠνέσχοντο τῶν δοθέντων ὅρων· διὸ καὶ τούτων ἐξέπεσον· καινοτοµίας γὰρ ἦσαν ἐπιθυµηταί.",
+                            "spanishTranslation": "Pues deseaban encontrar algo más, y no soportaron los límites dados; por eso, también cayeron de estos. Porque eran deseosos de la novedad."
+                          },
+                          {
+                            "lineNumber": [
+                              846,
+                              847,
+                              848
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo señala las disputas entre las escuelas filosóficas griegas (Platón, Aristóteles, Estoicos) como prueba de su falta de verdadera sabiduría, atribuyéndola a su deseo de innovación y a su propia necedad."
+                            },
+                            "originalText": "Καὶ γὰρ τοιαῦτα πάντα τὰ Ἑλληνικά. ∆ιὰ τοῦτο καὶ κατ' ἀλλήλων ἔστησαν, καὶ Ἀριστοτέλης µὲν ἐπανέστη Πλάτωνι, οἱ Στωϊκοὶ δὲ πρὸς τοῦτον ἐφρυάξαντο, καὶ ἄλλος ἄλλῳ πολέµιος γέγονεν· ὥστε οὐχ οὕτως αὐτοὺς χρὴ θαυµάζειν διὰ τὴν σοφίαν, ὡς ἀποστρέφεσθαι καὶ µισεῖν, ὅτι δι' αὐτὸ τοῦτο µωροὶ γεγόνασιν.",
+                            "spanishTranslation": "Porque todas las cosas griegas son así. Por eso también se enfrentaron entre sí: Aristóteles se levantó contra Platón, los estoicos bramaron contra este, y uno se hizo enemigo de otro; de modo que no hay que admirarlos tanto por su sabiduría, sino más bien rechazarlos y odiarlos, porque precisamente por esto se hicieron necios."
+                          },
+                          {
+                            "lineNumber": [
+                              849,
+                              850
+                            ],
+                            "originalText": "Εἰ γὰρ µὴ λογισµοῖς ἐπέτρεψαν καὶ συλλογισµοῖς καὶ σοφίσµασι τὰ καθ' ἑαυτοὺς, οὐκ ἂν ἔπαθον, ὅπερ ἔπαθον. Εἶτα ἐπιτείνων αὐτῶν τὴν κατηγορίαν, κωµῳδεῖ τὴν εἰδωλολατρείαν αὐτῶν ἅπασαν.",
+                            "spanishTranslation": "Porque si no hubieran entregado sus asuntos a los razonamientos, los silogismos y los sofismas, no habrían sufrido lo que sufrieron. Luego, intensificando su acusación, ridiculiza toda su idolatría."
+                          },
+                          {
+                            "lineNumber": [
+                              851,
+                              852
+                            ],
+                            "originalText": "Μάλιστα µὲν οὖν καὶ τὸ ἀλλάξαι, καταγέλαστον· τὸ δὲ καὶ εἰς τοιαῦτα ἀλλάξαι, πάσης ἀπολογίας ἐκτός.",
+                            "spanishTranslation": "Ciertamente, el hecho mismo de cambiar es ridículo; pero cambiar por tales cosas está fuera de toda defensa."
+                          },
+                          {
+                            "lineNumber": [
+                              853,
+                              854,
+                              855
+                            ],
+                            "originalText": "Εἰς τίνα οὖν ἤλλαξαν, καὶ τίσι περιέθηκαν τὴν δόξαν, σκόπει· Φαντασθῆναι ἔδει περὶ ἐκείνου, οἷον, ὅτι Θεὸς, ὅτι πάντων Κύριος, ὅτι οὐκ ὄντας ἐποίησεν, ὅτι προνοεῖ, ὅτι κήδεται· ταῦτα γὰρ δόξα Θεοῦ.",
+                            "spanishTranslation": "¿Por qué, entonces, cambiaron, y a quiénes atribuyeron la gloria? Considera: Se debió haber imaginado acerca de Aquel que es Dios, que es Señor de todo, que creó a los que no existían, que provee, que cuida; porque esto es la gloria de Dios."
+                          },
+                          {
+                            "lineNumber": [
+                              856,
+                              857,
+                              858
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cristóstomo alude nuevamente a Romanos 1:23, donde Pablo describe la depravación moral e idólatra de los gentiles, que reemplazaron la gloria de Dios por imágenes de hombres y animales."
+                            },
+                            "originalText": "Τίσιν οὖν ταύτην ἀνέθηκαν; Οὐκ ἀνθρώποις, ἀλλ' ὁµοιώµατι εἰκόνος φθαρτοῦ ἀνθρώπου. Καὶ οὐδὲ ἐνταῦθα ἔστησαν, ἀλλὰ καὶ εἰς κνώδαλα κατηνέχθησαν, µᾶλλον δὲ καὶ εἰς τὰς τούτων εἰκόνας.",
+                            "spanishTranslation": "¿A quiénes, entonces, dedicaron esto? No a hombres, sino a la semejanza de una imagen de hombre corruptible. Y ni siquiera aquí se detuvieron, sino que también cayeron hasta las bestias, o más bien, hasta sus imágenes."
+                          },
+                          {
+                            "lineNumber": [
+                              859,
+                              860,
+                              861
+                            ],
+                            "originalText": "Σὺ δέ µοι σκόπει τὴν σοφίαν τοῦ Παύλου, πῶς τὰ δύο ἄκρα τέθεικε, Θεὸν τὸν ἀνωτάτω, καὶ τὰ ἑρπετὰ τὰ κατωτάτω· µᾶλλον δὲ οὐδὲ τὰ ἑρπετὰ, ἀλλὰ τούτων ὁµοιώµατα, ἵνα σαφῶς δείξῃ τὴν λαµπρὰν αὐτῶν µανίαν. Τὴν γὰρ γνῶσιν, ἣν ἔδει περὶ τοῦ πάντων ἀσυγκρίτως ὑπερέχοντος ἔχειν, ταύτην τῷ πάντων ἀσυγκρίτως εὐτελεστέρῳ περιέθηκαν.",
+                            "spanishTranslation": "Pero considera la sabiduría de Pablo, cómo ha puesto los dos extremos: Dios, el Altísimo, y las criaturas rastreras, las más bajas; o más bien, ni siquiera las criaturas rastreras, sino sus semejanzas, para mostrar claramente su espléndida locura. Porque el conocimiento que debían tener acerca de Aquel que sobrepasa incomparablemente a todos, este lo atribuyeron a aquello que es incomparablemente más vil que todo."
+                          },
+                          {
+                            "lineNumber": [
+                              862,
+                              863,
+                              864,
+                              865,
+                              866,
+                              867
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo refuta la idea de que estas acusaciones no afectan a los filósofos, señalando su conexión con las prácticas idólatras egipcias y aludiendo a figuras como Platón y Sócrates (que, según el Fedón de Platón, pidió que se sacrificara un gallo a Asclepio en sus últimas palabras), mostrando que incluso los más venerados estaban inmersos en estas creencias paganas."
+                            },
+                            "originalText": "Καὶ τί ταῦτα πρὸς τοὺς φιλοσόφους, φησί; Πρὸς αὐτοὺς µὲν οὖν µάλιστα πάντα τὰ εἰρηµένα. Καὶ γὰρ οὗτοι τοὺς ταῦτα ἐφευρόντας Αἰγυπτίους διδασκάλους ἔχουσι· καὶ Πλάτων ὁ δοκῶν εἶναι τῶν ἄλλων σεµνότερος, ἐγκαλλωπίζεται τούτοις, καὶ ὁ τούτου διδάσκαλος περὶ τὰ εἴδωλα ταῦτα ἐπτόηται· τὸν γοῦν ἀλεκτρυόνα ὁ κελεύων τῷ Ἀσκληπιῷ θύειν, οὗτός ἐστιν. Ἔνθα τῶν κνωδάλων τούτων καὶ τῶν ἑρπετῶν εἰκόνας, καὶ τὸν Ἀπόλλωνα δὲ καὶ τὸν ∆ιόνυσον µετὰ τούτων θεραπευοµένους τῶν ἑρπετῶν ἴδοι τις ἄν.",
+                            "spanishTranslation": "¿Y qué tienen que ver estas cosas con los filósofos?, dice [alguien]. Pues precisamente contra ellos es todo lo dicho. Porque también estos tienen como maestros a los egipcios que inventaron estas cosas; y Platón, que parece ser más venerable que los demás, se enorgullece de esto, y el maestro de este se entusiasmó con estos ídolos; al menos, el que manda sacrificar un gallo a Asclepio, ese es él [Sócrates]. Allí se podrían ver imágenes de estas bestias y reptiles, y también a Apolo y Dionisio siendo adorados junto con estos reptiles."
+                          },
+                          {
+                            "lineNumber": [
+                              868,
+                              869
+                            ],
+                            "notes": {
+                              "notesGeneral": "Se refiere a la constelaciones zodiacales, que representan figuras de animales y mitos, elevando lo terrenal a lo celestial en la cosmología pagana."
+                            },
+                            "originalText": "Τινὲς δὲ τῶν φιλοσόφων καὶ εἰς τὸν οὐρανὸν ἀνήγαγον ταύρους καὶ σκορπίους καὶ δράκοντας καὶ τὸν ἄλλον ἅπαντα λῆρον· πανταχοῦ γὰρ ὁ διάβολος ἐσπούδασεν εἰς τὰ τῶν ἑρπετῶν ὁµοιώµατα τοὺς ἀνθρώπους καταγαγεῖν, καὶ ὑποτάξαι τοῖς πάντων ἀλογωτέροις αὐτοὺς, οὓς ὁ Θεὸς ὑπὲρ τὸν οὐρανὸν ἀναγαγεῖν ἠθέλησεν.",
+                            "spanishTranslation": "Y algunos de los filósofos también elevaron al cielo toros, escorpiones y dragones, y toda la demás tontería; pues en todas partes el diablo se esforzó por rebajar a los hombres a las semejanzas de los reptiles, y someterlos a lo más irracional de todo, a quienes Dios quiso elevar por encima del cielo."
+                          },
+                          {
+                            "lineNumber": [
+                              870,
+                              871
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo critica a un filósofo (posiblemente Platón, que valoraba a Homero y otros poetas) por dar credibilidad a las narraciones de los poetas sobre los dioses, que están llenas de absurdos y vicios."
+                            },
+                            "originalText": "Οὐκ ἐντεῦθεν δὲ µόνον, ἀλλὰ καὶ ἑτέρωθεν ὄψει τὸν κορυφαῖον αὐτῶν ὑπεύθυνον τοῖς λεγοµένοις ὄντα. Ὅταν γὰρ τοὺς ποιητὰς συνάγῃ, καὶ λέγῃ χρῆναι πιστεύειν αὐτοῖς ἐν τοῖς περὶ Θεὸν λόγοις, ὡς ἀκριβῶς εἰδόσιν, οὐδὲν ἕτερον ἢ τὸν ὁρµαθὸν τῶν λήρων τούτων εἰσάγει, καὶ τὸν πολὺν γέλωτα τοῦτον ὅτι ἀληθῆ χρὴ νοµίζειν εἶναί φησι.",
+                            "spanishTranslation": "No solo de aquí, sino también de otra parte verás que su principal [filósofo] es responsable de lo dicho. Porque cuando reúne a los poetas y dice que hay que creerles en los asuntos sobre Dios, como si supieran con precisión, no introduce nada más que la sarta de estas tonterías, y dice que este gran motivo de risa debe considerarse verdadero."
+                          },
+                          {
+                            "lineNumber": [
+                              872,
+                              873
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita «Dios los entregó a las concupiscencias de sus corazones a la inmundicia, para deshonrar sus cuerpos entre sí» es de Romanos 1:24. Cristóstomo argumenta que la idolatría llevó a la inmoralidad y la perversión de las leyes divinas y naturales."
+                            },
+                            "originalText": "∆ιὸ καὶ παρέδωκεν ὁ Θεὸς αὐτοὺς ἐν ταῖς ἐπιθυµίαις τῶν καρδιῶν αὐτῶν εἰς ἀκαθαρσίαν, τοῦ ἀτιµάζεσθαι τὰ σώµατα αὐτῶν ἐν ἑαυτοῖς. ∆είκνυσιν ἐντεῦθεν, ὅτι καὶ τῆς τῶν νόµων διαστροφῆς ἡ ἀσέβεια γέγονεν αἰτία.",
+                            "spanishTranslation": "Por esto, también Dios los entregó a las concupiscencias de sus corazones a la inmundicia, para deshonrar sus cuerpos entre sí. Desde aquí muestra que la impiedad se ha convertido también en la causa de la perversión de las leyes."
+                          },
+                          {
+                            "lineNumber": [
+                              874,
+                              875,
+                              876
+                            ],
+                            "notes": {
+                              "notesLinguistics": "Cristóstomo aclara el sentido de 'παρέδωκεν' (paredōken, 'entregó') en este contexto paulino, interpretándolo como 'permitió' o 'abandonó', enfatizando que Dios no fuerza el mal, sino que respeta la libertad humana al retirar Su ayuda cuando es rechazada. Esto se contrapone a una lectura determinista o coactiva de la acción divina."
+                            },
+                            "originalText": "Τὸ δὲ, Παρέδωκεν, ἐνταῦθα Εἴασεν ἐστίν. Ὥσπερ γὰρ ὁ στρατοπέδου προηγούµενος ἂν τοῦ πολέµου βαρήσαντος ἀναχωρήσας ἀπέλθοι, παραδίδωσι τοῖς πολεµίοις τοὺς στρατιώτας, οὐχὶ αὐτὸς ὠθῶν, ἀλλὰ γυµνῶν τῆς ἑαυτοῦ βοηθείας· οὕτω καὶ ὁ Θεὸς τοὺς οὐ βουληθέντας δέξασθαι τὰ παρ' αὐτοῦ, ἀλλὰ πρώτους ἀποπηδήσαντας, ἀφῆκεν, αὐτὸς τὰ παρ' ἑαυτοῦ πάντα πληρώσας.",
+                            "spanishTranslation": "Y «los entregó» aquí significa «los permitió». Porque así como si el comandante de un ejército, al intensificarse la guerra, se retirara y se marchara, entrega a los soldados a los enemigos, no empujándolos él mismo, sino despojándolos de su propia ayuda; así también Dios, habiendo cumplido todo lo que le correspondía, abandonó a aquellos que no quisieron recibir lo que de Él procedía, sino que fueron los primeros en apartarse."
+                          },
+                          {
+                            "lineNumber": [
+                              877,
+                              878,
+                              879
+                            ],
+                            "originalText": "Σκόπει δέ· Προὔθηκεν ἀντὶ διδασκαλίας εἰς µέσον τὸν κόσµον· ἔδωκε νοῦν καὶ διάνοιαν δυναµένην τὸ δέον συνιδεῖν.",
+                            "spanishTranslation": "Pero considera: Puso al mundo en medio como enseñanza; dio mente y entendimiento capaz de comprender lo que es debido."
+                          },
+                          {
+                            "lineNumber": [
+                              880,
+                              881,
+                              882,
+                              883
+                            ],
+                            "originalText": "Οὐδενὶ τούτων ἐχρήσαντο πρὸς σωτηρίαν οἱ τότε, ἀλλὰ καὶ εἰς τοὐναντίον περιέστρεψαν, ὅπερ ἔλαβον. Τί οὖν ποιῆσαι ἐχρῆν; πρὸς ἀνάγκην ἕλκειν καὶ βίαν; Ἀλλ' οὐκ ἔστι τοῦτο ποιεῖν ἐναρέτους.",
+                            "spanishTranslation": "Ninguno de estos usaron entonces para la salvación, sino que incluso lo que recibieron lo volcaron hacia lo contrario. ¿Qué, pues, se debía hacer? ¿Arrastrarlos por necesidad y violencia? Pero esto no hace virtuosos."
+                          },
+                          {
+                            "lineNumber": [
+                              884,
+                              885
+                            ],
+                            "originalText": "Ἐλείπετο δὲ ἀφεῖναι, ὅπερ καὶ ἐποίησεν, ἵνα κἂν οὕτω τῇ πείρᾳ µαθόντες, ὧν ἐπεθύµησαν, φύγωσι τὴν αἰσχύνην. Καὶ γὰρ εἴ τις βασιλέως υἱὸς ὢν, τὸν πατέρα ἀτιµάσας ἕλοιτο εἶναι µετὰ λῃστῶν καὶ ἀνδροφόνων καὶ τυµβωρύχων, καὶ τὰ ἐκείνων προτιµήσειε τῆς πατρῴας οἰκίας, ἀφίησιν αὐτὸν ὁ πατὴρ, ὥστε διὰ τῆς πείρας αὐτῆς µαθεῖν τῆς οἰκείας ἀνοίας τὴν ὑπερβολήν.",
+                            "spanishTranslation": "Solo quedaba abandonarlos, lo cual también hizo, para que al menos así, aprendiendo por experiencia lo que desearon, huyeran de la vergüenza. Porque si un hijo de rey, deshonrando a su padre, eligiera estar con ladrones, asesinos y profanadores de tumbas, y prefiriera sus cosas a la casa paterna, el padre lo abandona, para que a través de la experiencia misma aprenda la magnitud de su propia insensatez."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

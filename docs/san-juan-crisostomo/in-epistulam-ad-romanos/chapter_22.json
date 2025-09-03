@@ -1,0 +1,1792 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Iohannes Chrysostomus",
+      "authorSpanish": "San Juan Cristóstomo",
+      "originalTitle": "In Epistulam ad Romanos",
+      "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 22,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 22,
+                    "chapterSummary": "Homilía 22.",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "bendecir",
+                              "perseguir",
+                              "maldecir"
+                            ],
+                            "lineNumber": [
+                              8317,
+                              8318
+                            ],
+                            "notes": {
+                              "notesBiblical": "Este versículo es una cita directa de Romanos 12:14, que el Crisóstomo está explicando en su homilía. Es un mandamiento central de la ética cristiana, eco de las enseñanzas de Jesús sobre amar a los enemigos (Mateo 5:44).",
+                              "notesGreek": "El verbo \"εὐλογεῖτε\" (eulogeite) significa \"bendecir\", de donde viene \"eulogía\". El verbo \"καταρᾶσθε\" (katarasthe) significa \"maldecir\", de donde se deriva \"cataratas\" en el sentido de una cascada descendente o una maldición. La repetición de \"εὐλογεῖτε\" enfatiza la importancia de la acción positiva sobre la reacción negativa.",
+                              "notesLinguistics": "La estructura imperativa presente en griego (εὐλογεῖτε) indica una acción continua o habitual, no solo un acto único. Es un llamado a mantener una actitud de bendición constante hacia los perseguidores."
+                            },
+                            "originalText": "Εὐλογεῖτε τοὺς διώκοντας ὑµᾶς· εὐλογεῖτε, καὶ µὴ καταρᾶσθε.",
+                            "spanishTranslation": "Bendecid a los que os persiguen; bendecid, y no maldigáis."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 22,
+                    "chapterSummary": "En esta sección, San Juan Crisóstomo explica la exhortación de San Pablo a «bendecir a los que os persiguen» y a «gozaros con los que se gozan y llorar con los que lloran» (Romanos 12:14-16). Crisóstomo argumenta que bendecir a los perseguidores es una virtud angelical que otorga mayores recompensas y demuestra un amor profundo por Cristo. Subraya que el sufrimiento por Cristo debe ser motivo de alegría, una señal de esperanza en una vida futura, que incluso puede disuadir a los perseguidores. Además, explica que compartir la alegría es incluso más difícil y virtuoso que compartir la tristeza, ya que combate la envidia y fortalece el amor, beneficiando en última instancia a quien lo practica al cultivar la misericordia y la pureza. Los mandatos de Pablo se presentan como pasos alcanzables que conducen al crecimiento espiritual y a la gloria de Dios.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              8319
+                            ],
+                            "originalText": "αʹ.",
+                            "spanishTranslation": "Primero."
+                          },
+                          {
+                            "keywords": [
+                              "enseñar",
+                              "unir",
+                              "exterior",
+                              "más fácil"
+                            ],
+                            "lineNumber": [
+                              8320
+                            ],
+                            "originalText": "∆ιδάξας αὐτοὺς πῶς πρὸς ἀλλήλους διακεῖσθαι χρὴ, καὶ συγκολλήσας τὰ µέλη µετὰ ἀκριβείας, οὕτως ἐξάγει λοιπὸν πρὸς τὴν ἔξω παράταξιν, εὐκολωτέραν αὐτὴν ἐντεῦθεν ποιῶν.",
+                            "spanishTranslation": "Habiéndoles enseñado cómo deben comportarse unos con otros, y habiendo unido cuidadosamente los miembros, así los saca entonces a la formación exterior, haciéndola más fácil desde este punto."
+                          },
+                          {
+                            "keywords": [
+                              "cercanos",
+                              "extraños",
+                              "administrar",
+                              "ejercitar",
+                              "prevalecer"
+                            ],
+                            "lineNumber": [
+                              8321,
+                              8322
+                            ],
+                            "originalText": "Ὥσπερ γὰρ ὁ τὰ πρὸς τοὺς οἰκείους οὐ κατωρθωκὼς, δυσκολώτερον τὰ πρὸς τοὺς ἀλλοτρίους οἰκονοµήσει· οὕτως ὁ καλῶς ἀσκήσας ἑαυτὸν ἐν τούτοις, ῥᾷον καὶ τῶν ἔξωθεν περιέσται.",
+                            "spanishTranslation": "Porque así como quien no ha actuado correctamente con sus allegados, más difícilmente administrará las cosas con los extraños; así quien se ha ejercitado bien en estas cosas, más fácilmente prevalecerá también sobre los de fuera."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "bendecir",
+                              "perseguidores"
+                            ],
+                            "lineNumber": [
+                              8323,
+                              8324
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Romanos 12:14: «Bendecid a los que os persiguen; bendecid, y no maldigáis»."
+                            },
+                            "originalText": "∆ιὰ δὴ τοῦτο καὶ ὁ Παῦλος ὁδῷ προβαίνων, µετ' ἐκεῖνα ταῦτα τίθησι, καί φησιν· Εὐλογεῖτε τοὺς διώκοντας ὑµᾶς.",
+                            "spanishTranslation": "Por esta razón, también Pablo, avanzando en su camino, coloca esto después de aquello, y dice: Bendecid a los que os persiguen."
+                          },
+                          {
+                            "keywords": [
+                              "venganza",
+                              "rencor",
+                              "ángel",
+                              "sabio"
+                            ],
+                            "lineNumber": [
+                              8325,
+                              8326
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo eleva la acción de bendecir al perseguidor por encima de la mera abstención de rencor, considerándola una virtud sobrenatural. La palabra «φιλοσόφου» aquí se refiere a un hombre virtuoso o sabio en el sentido moral, no necesariamente a un filósofo en el sentido moderno."
+                            },
+                            "originalText": "Οὐκ εἶπε, Μὴ µνησικακεῖτε, µηδὲ ἀµύνεσθε, ἀλλὰ τὸ πολλῷ πλέον τούτων ἐζήτησεν· ἐκεῖνο µὲν γὰρ ἀνδρὸς φιλοσόφου, τοῦτο δὲ ἀγγέλου λοιπόν.",
+                            "spanishTranslation": "No dijo: «No guardéis rencor, ni os venguéis», sino que buscó algo mucho mayor que esto; pues aquello es propio de un hombre sabio, pero esto es ya de un ángel."
+                          },
+                          {
+                            "keywords": [
+                              "bendecir",
+                              "maldecir"
+                            ],
+                            "lineNumber": [
+                              8327
+                            ],
+                            "originalText": "Καὶ εἰπὼν, Εὐλογεῖτε, ἐπήγαγε, Καὶ µὴ καταρᾶσθε, ἵνα µὴ καὶ τοῦτο κἀκεῖνο ποιῶµεν, ἀλλ' ἐκεῖνο µόνον.",
+                            "spanishTranslation": "Y diciendo: «Bendecid», añadió: «Y no maldigáis», para que no hagamos ambas cosas, sino solo lo primero."
+                          },
+                          {
+                            "keywords": [
+                              "recompensas",
+                              "perseguidores"
+                            ],
+                            "lineNumber": [
+                              8328
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra «πρόξενοι» (próxenoi) se refiere a agentes, facilitadores o promotores, indicando que los perseguidores, paradójicamente, abren el camino a recompensas divinas."
+                            },
+                            "originalText": "Καὶ γὰρ µισθῶν εἰσιν ἡµῖν πρόξενοι οἱ διώκοντες.",
+                            "spanishTranslation": "Porque los que nos persiguen son para nosotros promotores de recompensas."
+                          },
+                          {
+                            "keywords": [
+                              "sobriedad",
+                              "recompensa",
+                              "persecución",
+                              "amor",
+                              "Cristo"
+                            ],
+                            "lineNumber": [
+                              8329,
+                              8330
+                            ],
+                            "notes": {
+                              "notesGreek": "«νήφῃς» (nēphēs) significa 'si eres sobrio', 'si eres vigilante' o 'si estás alerta espiritualmente', enfatizando la necesidad de discernimiento y autocontrol."
+                            },
+                            "originalText": "Ἂν δὲ νήφῃς, καὶ ἕτερον σὺ σαυτῷ µετ' ἐκεῖνον κατασκευάσεις µισθόν· ἐκεῖνος µὲν γάρ σοι τὸν ἀπὸ τοῦ διωγµοῦ παρέξει, σὺ δὲ σεαυτῷ τὸν ἀπὸ τῆς εὐλογίας τῆς εἰς ἐκεῖνον, σηµεῖον µέγιστον ἐκφέρων τῆς εἰς τὸν Χριστὸν ἀγάπης.",
+                            "spanishTranslation": "Y si eres sobrio (vigilante), tú mismo te procurarás otra recompensa después de esa; porque aquel te dará la que proviene de la persecución, pero tú a ti mismo te darás la que proviene de la bendición hacia él, manifestando la mayor señal de amor hacia Cristo."
+                          },
+                          {
+                            "keywords": [
+                              "maldecir",
+                              "perseguidor",
+                              "sufrir",
+                              "Cristo",
+                              "bendecir",
+                              "amor"
+                            ],
+                            "lineNumber": [
+                              8331,
+                              8332
+                            ],
+                            "originalText": "Ὥσπερ γὰρ ὁ καταρώµενος τῷ διώκοντι, δείκνυσιν ὅτι οὐ σφόδρα χαίρει ὑπὲρ τοῦ Χριστοῦ ταῦτα πάσχων· οὕτως ὁ εὐλογῶν πολὺν ἐµφαίνει τὸν ἔρωτα.",
+                            "spanishTranslation": "Porque así como el que maldice al perseguidor, demuestra que no se alegra mucho de sufrir estas cosas por Cristo; así el que bendice manifiesta un gran amor."
+                          },
+                          {
+                            "keywords": [
+                              "injuriar",
+                              "recompensa",
+                              "voluntad",
+                              "necesidad",
+                              "celebración",
+                              "fiesta",
+                              "desánimo"
+                            ],
+                            "lineNumber": [
+                              8333,
+                              8334
+                            ],
+                            "notes": {
+                              "notesGreek": "«προθυµίας» (prothymias) se refiere a la buena voluntad, el entusiasmo o la prontitud. «πανηγύρεως καὶ ἑορτῆς» (panegyreōs kai heortēs) denota un ambiente de celebración pública o festividad religiosa, contrastando con la idea de desgracia o pena."
+                            },
+                            "originalText": "Μὴ τοίνυν αὐτὸν λοιδορήσῃς, ἵνα καὶ αὐτὸς µείζονα καρπώσῃ µισθὸν, κἀκεῖνον διδάξῃς, ὅτι τὸ πρᾶγµα προθυµίας ἐστὶν, οὐκ ἀνάγκης· πανηγύρεως καὶ ἑορτῆς, οὐ συµφορᾶς οὐδὲ ἀθυµίας.",
+                            "spanishTranslation": "No lo injuries, entonces, para que tú también coseches una recompensa mayor, y le enseñes a él que esto es asunto de buena voluntad, no de necesidad; de celebración y fiesta, no de desgracia ni de desánimo."
+                          },
+                          {
+                            "keywords": [
+                              "Cristo",
+                              "alegraos",
+                              "maldad",
+                              "mintiendo"
+                            ],
+                            "lineNumber": [
+                              8335,
+                              8336
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Mateo 5:11-12: «Bienaventurados sois cuando por mi causa os vituperen y os persigan, y digan toda clase de mal contra vosotros, mintiendo. Gozaos y alegraos, porque vuestro galardón es grande en los cielos»."
+                            },
+                            "originalText": "∆ιὰ τοῦτο καὶ ὁ Χριστὸς ἔλεγε· Χαίρετε, ὅταν εἴπωσι πᾶν πονηρὸν ῥῆµα καθ' ὑµῶν ψευδόµενοι.",
+                            "spanishTranslation": "Por esta razón, también Cristo decía: Alegraos cuando digan toda clase de mal contra vosotros mintiendo."
+                          },
+                          {
+                            "keywords": [
+                              "apóstoles",
+                              "gozosos",
+                              "maltratados",
+                              "azotados"
+                            ],
+                            "lineNumber": [
+                              8337
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Hechos 5:40-41: «Y convinieron con él; y llamando a los apóstoles, después de azotarlos, les intimaron que no hablasen en el nombre de Jesús, y los pusieron en libertad. Y ellos salieron de la presencia del concilio, gozosos de haber sido tenidos por dignos de padecer afrenta por causa del Nombre.»"
+                            },
+                            "originalText": "∆ιὰ τοῦτο καὶ οἱ ἀπόστολοι ὑπέστρεφον χαίροντες, οὐχ ὅτι κακῶς ἤκουσαν µόνον, ἀλλ' ὅτι καὶ ἐµαστιγώθησαν.",
+                            "spanishTranslation": "Por esto también los apóstoles regresaban gozosos, no solo porque habían sido maltratados verbalmente, sino también porque habían sido azotados."
+                          },
+                          {
+                            "keywords": [
+                              "ganancia",
+                              "asombrar",
+                              "adversarios",
+                              "enseñar",
+                              "vida"
+                            ],
+                            "lineNumber": [
+                              8338
+                            ],
+                            "originalText": "Μετὰ γὰρ τῶν εἰρηµένων καὶ ἕτερον οὐ µικρὸν κερδανεῖς, τὸ καταπλῆξαι καὶ ταύτῃ τοὺς ἀντιδίκους, καὶ παιδεῦσαι διὰ τῶν ἔργων αὐτοὺς, ὅτι πρὸς ἑτέραν ὁδεύεις ζωήν.",
+                            "spanishTranslation": "Porque además de lo dicho, obtendrás otra ganancia no pequeña: la de asombrar de esta manera a tus adversarios, y enseñarles con tus obras que te diriges hacia otra vida."
+                          },
+                          {
+                            "keywords": [
+                              "gozo",
+                              "sufrimiento",
+                              "esperanza",
+                              "lamentarse",
+                              "otra vida"
+                            ],
+                            "lineNumber": [
+                              8339,
+                              8340
+                            ],
+                            "originalText": "Ἂν γὰρ ἴδῃ σε χαίροντα καὶ πτερούµενον ἐπὶ τῷ πάσχειν κακῶς, εἴσεται σαφῶς διὰ τῶν πραγµάτων, ὅτι µείζους τῶν παρόντων ἑτέρας ἔχεις ἐλπίδας· ὡς, ἂν τοῦτο µὴ ποιῇς, ἀλλὰ κλαίῃς καὶ ὀδύρῃ, πόθεν δυνήσεται µαθεῖν ἐκεῖνος, ὅτι ἑτέραν ζωὴν ἀναµένεις;",
+                            "spanishTranslation": "Pues si te ve gozoso y con alas por sufrir males, sabrá claramente por los hechos que tienes otras esperanzas mayores que las presentes; mientras que, si no haces esto, sino que lloras y te lamentas, ¿cómo podrá él saber que esperas otra vida?"
+                          },
+                          {
+                            "keywords": [
+                              "insultos",
+                              "bendecir",
+                              "cesar",
+                              "perseguir"
+                            ],
+                            "lineNumber": [
+                              8341,
+                              8342
+                            ],
+                            "originalText": "Καὶ µετὰ τούτου δὲ πάλιν καὶ ἕτερον κατορθώσεις· ἂν γὰρ ἴδῃ σε οὐκ ἀλγοῦντα ταῖς ὕβρεσιν, ἀλλὰ καὶ εὐλογοῦντα, παύσεται ἐλαύνων.",
+                            "spanishTranslation": "Y además de esto, lograrás de nuevo otra cosa: porque si te ve no dolido por los insultos, sino incluso bendiciéndolos, cesará de perseguir."
+                          },
+                          {
+                            "keywords": [
+                              "recompensa",
+                              "tentación",
+                              "Dios",
+                              "glorificado",
+                              "enseñanza",
+                              "piedad",
+                              "sabiduría"
+                            ],
+                            "lineNumber": [
+                              8343,
+                              8344
+                            ],
+                            "notes": {
+                              "notesGreek": "La «φιλοσοφία» (philosophia) de la que habla Crisóstomo aquí se refiere a la sabiduría práctica o a la vida virtuosa, en lugar de la filosofía teórica."
+                            },
+                            "originalText": "Ὅρα τοίνυν, ὅσα ἐντεῦθεν γίνεται τὰ καλά· καὶ σοὶ µισθὸς µείζων καὶ ὁ πειρασµὸς ἐλάττων, κἀκεῖνος ἀποστήσεται διώκων, καὶ ὁ Θεὸς δοξασθήσεται, καὶ διδασκαλία τῷ πεπληµµεληµένῳ γενήσεται πρὸς εὐσέβειαν ἡ σὴ φιλοσοφία.",
+                            "spanishTranslation": "Mira, entonces, cuántas cosas buenas resultan de esto: para ti una recompensa mayor y una tentación menor, aquel cesará de perseguir, Dios será glorificado, y tu sabiduría será una enseñanza para la piedad del que ha errado."
+                          },
+                          {
+                            "keywords": [
+                              "injuriar",
+                              "perseguir",
+                              "hostigar",
+                              "responder",
+                              "contrario"
+                            ],
+                            "lineNumber": [
+                              8345
+                            ],
+                            "originalText": "∆ιὰ τοῦτο οὐχὶ τοὺς ὑβρίζοντας µόνον, ἀλλὰ καὶ τοὺς διώκοντας καὶ διὰ τῶν πραγµάτων ἐπηρεάζοντας, τοῖς ἐναντίοις ἀµείβεσθαι ἐκέλευσε.",
+                            "spanishTranslation": "Por esto ordenó que no solo a los que injurian, sino también a los que persiguen y hostigan con sus acciones, se les responda con lo contrario."
+                          },
+                          {
+                            "keywords": [
+                              "bendecir",
+                              "obras",
+                              "beneficencia"
+                            ],
+                            "lineNumber": [
+                              8346,
+                              8347
+                            ],
+                            "originalText": "Καὶ νῦν µὲν αὐτοὺς εὐλογεῖν ἐπέταξε· προϊὼν δὲ καὶ ἔργοις εὐεργετεῖν παραινεῖ.",
+                            "spanishTranslation": "Y ahora, por un lado, les mandó bendecirlos; pero más adelante aconseja hacerles bien con obras."
+                          },
+                          {
+                            "keywords": [
+                              "gozar",
+                              "llorar",
+                              "compartir"
+                            ],
+                            "lineNumber": [
+                              8348
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Romanos 12:15: «Gozaos con los que se gozan, y llorad con los que lloran»."
+                            },
+                            "originalText": "Χαίρειν µετὰ χαιρόντων, καὶ κλαίειν µετὰ κλαιόντων.",
+                            "spanishTranslation": "Gozaros con los que se gozan, y llorar con los que lloran."
+                          },
+                          {
+                            "keywords": [
+                              "bendecir",
+                              "maldecir",
+                              "amor",
+                              "amistad",
+                              "sufrir",
+                              "dolor",
+                              "desgracia"
+                            ],
+                            "lineNumber": [
+                              8349,
+                              8350
+                            ],
+                            "notes": {
+                              "notesGreek": "«διαθερµαίνεσθαι» (diathermainesthai) significa 'inflamarse', 'calentarse', indicando una participación fervorosa y sincera en la amistad o el afecto."
+                            },
+                            "originalText": "Ἐπειδὴ γὰρ ἔστιν εὐλογῆσαι µὲν, καὶ µὴ καταρᾶσθαι, µὴ µὴν ἐξ ἀγάπης τοῦτο ποιῆσαι, βούλεται καὶ διαθερµαίνεσθαι ἡµᾶς τῇ φιλίᾳ. ∆ιὸ καὶ τοῦτο ἐπήγαγεν, ὥστε µὴ µόνον εὐλογεῖν, ἀλλὰ καὶ συναλγεῖν καὶ συµπάσχειν, εἴ ποτε ἴδοιµεν αὐτοὺς συµφορᾷ περιπεσόντας.",
+                            "spanishTranslation": "Puesto que es posible bendecir y no maldecir, pero no hacerlo por amor, quiere también que nos inflamemos en amistad. Por eso añadió esto, para que no solo bendigamos, sino que también suframos y compartamos el dolor, si alguna vez los vemos caer en la desgracia."
+                          },
+                          {
+                            "keywords": [
+                              "llorar",
+                              "mandato",
+                              "importancia"
+                            ],
+                            "lineNumber": [
+                              8351,
+                              8352,
+                              8353
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo introduce aquí una objeción retórica, un 'hombre de paja', para luego refutarla, preguntando por qué se manda algo 'no grande' como gozarse con los que se gozan."
+                            },
+                            "originalText": "Ναὶ, φησίν· [[60.610]] ἀλλὰ τὸ µὲν συναλγεῖν τοῖς θρηνοῦσιν εἰκότως ἐπέταξε· τὸ δὲ ἕτερον τί δήποτε ἐκέλευσεν, οὐδὲν µέγα ὄν;",
+                            "spanishTranslation": "Sí, dice él (un objetor): «Pero el sufrir con los que lloran lo mandó con razón; ¿pero por qué mandó lo otro, que no es gran cosa?»"
+                          },
+                          {
+                            "keywords": [
+                              "alma",
+                              "sabia",
+                              "gozo",
+                              "llanto"
+                            ],
+                            "lineNumber": [
+                              8354
+                            ],
+                            "notes": {
+                              "notesGreek": "«φιλοσοφωτέρας ψυχῆς» (philosophōteras psychēs) significa 'un alma más filosófica', es decir, un alma que ha alcanzado un nivel más elevado de sabiduría y virtud."
+                            },
+                            "originalText": "Καίτοι γε ἐκεῖνο φιλοσοφωτέρας δεῖται ψυχῆς, τὸ χαίρειν µετὰ χαιρόντων, µᾶλλον ἢ τὸ κλαίειν µετὰ κλαιόντων.",
+                            "spanishTranslation": "Sin embargo, aquello requiere un alma más sabia, el gozarse con los que se gozan, más que el llorar con los que lloran."
+                          },
+                          {
+                            "keywords": [
+                              "naturaleza",
+                              "compasión",
+                              "piedra",
+                              "desgracia"
+                            ],
+                            "lineNumber": [
+                              8355
+                            ],
+                            "notes": {
+                              "notesGreek": "«λίθινος» (lithinos) significa 'de piedra' o 'de corazón de piedra', aludiendo a la insensibilidad."
+                            },
+                            "originalText": "Τοῦτο µὲν γὰρ καὶ ἡ φύσις αὐτὴ κατορθοῖ, καὶ οὐδεὶς οὕτω λίθινος, ὃς οὐ κλαίει τὸν ἐν συµφοραῖς ὄντα·",
+                            "spanishTranslation": "Pues esto lo logra incluso la propia naturaleza, y nadie es tan de piedra que no llore por el que está en desgracia."
+                          },
+                          {
+                            "keywords": [
+                              "alma",
+                              "noble",
+                              "envidia",
+                              "prosperidad",
+                              "alegría"
+                            ],
+                            "lineNumber": [
+                              8356
+                            ],
+                            "notes": {
+                              "notesGreek": "«γενναίας» (gennaias) se refiere a un alma noble, generosa y de elevada mentalidad."
+                            },
+                            "originalText": "ἐκεῖνο δὲ γενναίας σφόδρα δεῖται ψυχῆς, ὥστε τῷ εὐδοκιµοῦντι µὴ µόνον µὴ φθονεῖν, ἀλλὰ καὶ συνήδεσθαι.",
+                            "spanishTranslation": "Aquello, sin embargo, requiere un alma muy noble, para no solo no envidiar al que prospera, sino también para alegrarse con él."
+                          },
+                          {
+                            "keywords": [
+                              "orden",
+                              "primero"
+                            ],
+                            "lineNumber": [
+                              8357
+                            ],
+                            "notes": {
+                              "notesBiblical": "Crisóstomo se refiere al orden en Romanos 12:15, donde «Gozaos con los que se gozan» precede a «llorad con los que lloran»."
+                            },
+                            "originalText": "∆ιὰ τοῦτο καὶ πρότερον αὐτὸ τέθεικεν.",
+                            "spanishTranslation": "Por esta razón, también lo puso primero."
+                          },
+                          {
+                            "keywords": [
+                              "amor",
+                              "unir",
+                              "alegría",
+                              "tristeza",
+                              "compartir"
+                            ],
+                            "lineNumber": [
+                              8358
+                            ],
+                            "originalText": "Οὐδὲν γὰρ οὕτως ἀγάπην συνάγει, ὡς ὅταν καὶ χαρᾶς καὶ λύπης κοινωνῶµεν ἀλλήλοις.",
+                            "spanishTranslation": "Nada une tanto el amor como cuando compartimos mutuamente la alegría y la tristeza."
+                          },
+                          {
+                            "keywords": [
+                              "males",
+                              "compasión",
+                              "prójimo",
+                              "desgracia",
+                              "común"
+                            ],
+                            "lineNumber": [
+                              8359,
+                              8360
+                            ],
+                            "originalText": "Μὴ τοίνυν, ἐπειδὴ πόῤῥω τῶν δεινῶν αὐτὸς ἕστηκας, καὶ τῆς συµπαθείας µένε ἐκτός· καὶ γὰρ καὶ τοῦ πλησίον παθόντος κακῶς, κοινὴν ὀφείλεις ποιεῖσθαι τὴν συµφοράν.",
+                            "spanishTranslation": "No, entonces, porque tú mismo estés lejos de los males, permanezcas fuera de la compasión; porque incluso si tu prójimo sufre males, debes hacer de su desgracia algo común."
+                          },
+                          {
+                            "keywords": [
+                              "lágrimas",
+                              "desánimo",
+                              "gozo",
+                              "alegría",
+                              "amor",
+                              "misericordia",
+                              "envidia",
+                              "malicia",
+                              "purificar"
+                            ],
+                            "lineNumber": [
+                              8361,
+                              8362
+                            ],
+                            "notes": {
+                              "notesGreek": "«βασκανίας» (baskanias) se traduce como 'malicia', 'envidia maliciosa' o 'mal de ojo', refiriéndose a un sentimiento negativo y dañino hacia el bienestar ajeno."
+                            },
+                            "originalText": "Κοινώνει τοίνυν τῶν δακρύων, ἵνα κουφίσῃς τὴν ἀθυµίαν· κοινώνει χαρᾶς, ἵνα ῥιζώσῃς τὴν εὐφροσύνην, καὶ πήξῃς τὴν ἀγάπην, καὶ πρὸ ἐκείνου σαυτὸν ὠφελήσῃς, διὰ µὲν τοῦ δακρύειν ἐλεήµονα κατασκευάζων, διὰ δὲ τοῦ συνήδεσθαι φθόνου καὶ βασκανίας ἑαυτὸν ἐκκαθαίρων.",
+                            "spanishTranslation": "Comparte, pues, las lágrimas, para que alivies el desánimo; comparte el gozo, para que arraigues la alegría y afiances el amor, y te beneficies a ti mismo antes que a él, haciéndote misericordioso por el llorar, y purificándote de envidia y malicia por el regocijarte con el otro."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "mandato",
+                              "ligero"
+                            ],
+                            "lineNumber": [
+                              8363
+                            ],
+                            "notes": {
+                              "notesGreek": "«ἀνεπαχθὲς» (anepachthes) significa 'no gravoso', 'ligero' o 'fácil de llevar', destacando que los mandatos de Pablo son alcanzables y no una carga pesada."
+                            },
+                            "originalText": "Σκόπει δέ µοι καὶ τὸ ἀνεπαχθὲς τοῦ Παύλου.",
+                            "spanishTranslation": "Obsérvame también la ligereza (o falta de carga) de Pablo."
+                          },
+                          {
+                            "keywords": [
+                              "desgracia",
+                              "resolver",
+                              "imposible",
+                              "ligero",
+                              "poder"
+                            ],
+                            "lineNumber": [
+                              8364,
+                              8365
+                            ],
+                            "originalText": "Οὐ γὰρ εἶπε, Λῦσον τὴν συµφορὰν, ἵνα µὴ λέγῃς πολλάκις ὅτι ἀδύνατον· ἀλλὰ τὸ κουφότερον ἐπέταξε, καὶ οὗ κύριος εἶ.",
+                            "spanishTranslation": "Porque no dijo: «Resuelve la desgracia», para que no digas a menudo que es imposible; sino que mandó lo más ligero, de lo cual eres dueño."
+                          },
+                          {
+                            "keywords": [
+                              "mal",
+                              "lágrimas",
+                              "prosperidad",
+                              "gozo",
+                              "aumentar"
+                            ],
+                            "lineNumber": [
+                              8366,
+                              8367
+                            ],
+                            "originalText": "Κἂν γὰρ ἀνελεῖν µὴ δυνηθῇς τὸ δεινὸν, εἴσαγε δάκρυα, καὶ τὸ πλεῖον ἀνεῖλες· κἂν µὴ δυνηθῇς αὐξῆσαι τὴν εὐηµερίαν, εἴσαγε τὴν χαρὰν, καὶ πολλὴν τὴν προσθήκην ἐποίησας.",
+                            "spanishTranslation": "Porque aunque no puedas eliminar el mal, introduce las lágrimas, y habrás eliminado la mayor parte; y aunque no puedas aumentar la prosperidad, introduce el gozo, y habrás hecho una gran adición."
+                          },
+                          {
+                            "keywords": [
+                              "envidia",
+                              "regocijarse",
+                              "más"
+                            ],
+                            "lineNumber": [
+                              8368,
+                              8369
+                            ],
+                            "originalText": "∆ιὰ τοῦτο οὐ µόνον µὴ φθονεῖν, ἀλλὰ καὶ ὃ πολλῷ πλέον ἐστὶ παραινεῖ, τὸ καὶ συνήδεσθαι· τοῦ γὰρ µὴ φθονεῖν τοῦτο πολὺ πλέον.",
+                            "spanishTranslation": "Por esto aconseja no solo no envidiar, sino también, lo que es mucho más, el regocijarse con los demás; pues esto es mucho más que no envidiar."
+                          },
+                          {
+                            "keywords": [
+                              "sentir",
+                              "altivo",
+                              "humilde",
+                              "condescender"
+                            ],
+                            "lineNumber": [
+                              8370,
+                              8371
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Romanos 12:16: «Unánimes entre vosotros; no altivos, sino acomodándoos a lo humilde. No seáis sabios en vuestra propia opinión.» La palabra «συναπαγόµενοι» (synapangomenoi) significa 'ser arrastrado con', 'asociarse con', o 'condescender a'."
+                            },
+                            "originalText": "Τὸ αὐτὸ εἰς ἀλλήλους φρονοῦντες· µὴ τὰ ὑψηλὰ φρονοῦντες, ἀλλὰ τοῖς ταπεινοῖς συναπαγόµενοι.",
+                            "spanishTranslation": "Teniendo un mismo sentir los unos por los otros; no pensando en cosas altivas, sino condescendiendo a las humildes."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 22,
+                    "chapterSummary": "Cristóstomo continúa su exhortación sobre la humildad, destacando su importancia para la unidad de la Iglesia y la necesidad de no considerarse autosuficiente. Luego aborda la enseñanza de no devolver mal por mal y de procurar la paz con todos, haciendo distinciones sobre cuándo la verdad debe prevalecer sobre la concordia, y finaliza con la importancia de dejar la venganza a Dios.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              8372
+                            ],
+                            "originalText": "βʹ.",
+                            "spanishTranslation": "II. (Segundo punto)."
+                          },
+                          {
+                            "keywords": [
+                              "humildad",
+                              "orgullo",
+                              "unidad de la iglesia"
+                            ],
+                            "lineNumber": [
+                              8373,
+                              8374,
+                              8375,
+                              8376
+                            ],
+                            "originalText": "Πολλὴν πάλιν περὶ τῆς ταπεινοφροσύνης ποιεῖται τὴν σπουδὴν, ὅθεν καὶ ἤρξατο τοῦ λόγου. Καὶ γὰρ εἰκὸς ἦν αὐτοὺς φρονήµατος µεστοὺς εἶναι, καὶ ἀπὸ τῆς πόλεως καὶ ἑτέρωθεν πολλαχόθεν· διὸ καὶ συνεχῶς ὑποσύρει τὸ νόσηµα, καὶ καταστέλλει τὴν φλεγµονήν. Οὐδὲν γὰρ οὕτως ἀποσχίζει σῶµα Ἐκκλησίας, ὡς ἀλαζονεία.",
+                            "spanishTranslation": "De nuevo pone mucho esfuerzo en la humildad, desde donde también comenzó su discurso. Y era natural que estuvieran llenos de orgullo, tanto por la ciudad como por muchas otras razones; por lo cual constantemente socava la enfermedad y reprime la inflamación. Nada divide tanto el cuerpo de la Iglesia como la arrogancia.        "
+                          },
+                          {
+                            "keywords": [
+                              "pensar",
+                              "igualdad",
+                              "fraternidad"
+                            ],
+                            "lineNumber": [
+                              8377
+                            ],
+                            "originalText": "Τί δέ ἐστι, Τὸ αὐτὸ εἰς ἀλλήλους φρονοῦντες;",
+                            "spanishTranslation": "Pero, ¿qué significa: 'Sintiendo lo mismo unos por otros'?"
+                          },
+                          {
+                            "keywords": [
+                              "pobreza",
+                              "riqueza",
+                              "Cristo",
+                              "igualdad"
+                            ],
+                            "lineNumber": [
+                              8378,
+                              8379,
+                              8380,
+                              8381
+                            ],
+                            "originalText": "Παρεγένετό σοι ὁ πένης εἰς τὴν οἰκίαν; Γενοῦ κατ' ἐκεῖνον τῷ φρονήµατι· µὴ µείζονα λάβῃς ὄγκον διὰ τὸν πλοῦτον· οὐκ ἔστι πλούσιος καὶ πένης ἐν Χριστῷ.",
+                            "spanishTranslation": "¿Se te acercó el pobre a la casa? Sé como él en tu sentir; no te enorgullezcas más a causa de tu riqueza; no hay rico ni pobre en Cristo."
+                          },
+                          {
+                            "keywords": [
+                              "apariencia",
+                              "fe",
+                              "consuelo",
+                              "alegría",
+                              "empatía"
+                            ],
+                            "lineNumber": [
+                              8382,
+                              8383,
+                              8384,
+                              8385
+                            ],
+                            "originalText": "Μὴ τοίνυν ἐπαισχυνθῇς διὰ τὴν ἔξωθεν περιβολὴν, ἀλλ' ἀπόδεξαι διὰ τὴν ἔνδον πίστιν· µηδὲ, ἂν ἴδῃς πενθοῦντα, ἀνάξιον αὐτὸν νοµίσῃς παρακαλέσαι· µηδὲ, ἂν ἴδῃς εὐηµεροῦντα, ἐρυθριάσῃς κοινωνῆσαι τῆς ἡδονῆς καὶ συνησθῆναι, ἀλλ' ὃ περὶ σεαυτοῦ φρονεῖς, καὶ περὶ ἐκείνου φρόνησον· Τὸ γὰρ αὐτὸ φρονοῦντες, φησὶν, εἰς ἀλλήλους.",
+                            "spanishTranslation": "No te avergüences entonces por su apariencia externa, sino acéptalo por la fe interna; ni, si ves a alguien que está de luto, lo consideres indigno de consolar; ni, si ves a alguien que prospera, te avergüences de compartir su alegría y gozarte con él, sino lo que pienses de ti mismo, eso piensa de él; porque 'sintiendo lo mismo unos por otros', dice."
+                          },
+                          {
+                            "keywords": [
+                              "grandeza",
+                              "humildad",
+                              "desigualdad"
+                            ],
+                            "lineNumber": [
+                              8386,
+                              8387,
+                              8388,
+                              8389
+                            ],
+                            "originalText": "Οἷον, µέγαν σαυτὸν εἶναι νοµίζεις; Οὐκοῦν καὶ ἐκεῖνον νόµιζε. Ταπεινὸν καὶ µικρὸν εἶναι ὑποπτεύεις ἐκεῖνον; Οὐκοῦν καὶ περὶ σαυτοῦ τοῦτο ψηφίζου, καὶ πᾶσαν ἀνωµαλίαν ἔκβαλε.",
+                            "spanishTranslation": "Por ejemplo, ¿te consideras grande? Pues también a él considéralo así. ¿Sospechas que él es humilde y pequeño? Pues también de ti mismo decide esto, y desecha toda desigualdad."
+                          },
+                          {
+                            "keywords": [
+                              "arrogancia",
+                              "humildad",
+                              "condescendencia"
+                            ],
+                            "lineNumber": [
+                              8390,
+                              8391,
+                              8392,
+                              8393,
+                              8394
+                            ],
+                            "originalText": "Πῶς δ' ἂν γένοιτο τοῦτο; Ἂν τὴν ἀπόνοιαν ἐκβάλοις. ∆ιὸ καὶ ἐπήγαγε· Μὴ τὰ ὑψηλὰ φρονοῦντες, ἀλλὰ τοῖς ταπεινοῖς συναπαγόµενοι· τουτέστιν, Εἰς τὴν ἐκείνων εὐτέλειαν κατάβηθι, συµπεριφέρου, συµπεριέρχου.",
+                            "spanishTranslation": "¿Pero cómo podría suceder esto? Si desechas la arrogancia. Por eso añadió: 'No seáis altivos en vuestro pensar, sino condescended a lo humilde'; es decir, 'Desciende a su humildad, compórtate con ellos, acompáñales'."
+                          },
+                          {
+                            "keywords": [
+                              "ayuda",
+                              "servicio",
+                              "padre",
+                              "cabeza",
+                              "presos"
+                            ],
+                            "lineNumber": [
+                              8395,
+                              8396
+                            ],
+                            "originalText": "Μὴ ἁπλῶς τῷ φρονήµατι συνταπεινοῦ, ἀλλὰ καὶ βοήθει καὶ [[60.611]] χεῖρα ὀρέγου, µὴ δι' ἑτέρου, ἀλλὰ διὰ σαυτοῦ ὡς πατὴρ παιδὸς προνοῶν, ὡς κεφαλὴ σώµατος· ὅπερ καὶ ἀλλαχοῦ φησι, Τοῖς δεσµίοις ὡς συνδεδεµένοι.",
+                            "spanishTranslation": "No solo te humilles en tu sentir, sino también ayuda y extiende tu mano, no por medio de otro, sino por ti mismo, como un padre que cuida a su hijo, como una cabeza al cuerpo; lo que también dice en otro lugar: 'Acordaos de los presos como si estuvierais presos juntamente con ellos'."
+                          },
+                          {
+                            "keywords": [
+                              "humildad social",
+                              "desprecio"
+                            ],
+                            "lineNumber": [
+                              8397
+                            ],
+                            "originalText": "Ταπεινοὺς δὲ ἐνταῦθα οὐχ ἁπλῶς τοὺς ταπεινόφρονάς φησιν, ἀλλὰ τοὺς ταπεινοὺς καὶ εὐκαταφρονήτους.",
+                            "spanishTranslation": "Aquí no se refiere simplemente a los de espíritu humilde, sino a los humildes y despreciables (en el sentido social)."
+                          },
+                          {
+                            "keywords": [
+                              "sabiduría propia",
+                              "autosuficiencia"
+                            ],
+                            "lineNumber": [
+                              8398,
+                              8399
+                            ],
+                            "originalText": "Μὴ γίνεσθε φρόνιµοι παρ' ἑαυτοῖς· τουτέστιν, Μὴ νοµίζετε ἀρκεῖν ἑαυτοῖς.",
+                            "spanishTranslation": "'No seáis sabios en vuestra propia opinión'; es decir, 'No creáis que sois autosuficientes'."
+                          },
+                          {
+                            "keywords": [
+                              "sabiduría divina",
+                              "advertencia"
+                            ],
+                            "lineNumber": [
+                              8400,
+                              8401
+                            ],
+                            "originalText": "Καὶ γὰρ ἀλλαχοῦ φησιν ἡ Γραφή· Οὐαὶ οἱ συνετοὶ παρ' ἑαυτοῖς, καὶ ἐνώπιον ἑαυτῶν ἐπιστήµονες.",
+                            "spanishTranslation": "Porque también en otro lugar dice la Escritura: '¡Ay de los que son sabios a sus propios ojos, y prudentes ante sí mismos!'"
+                          },
+                          {
+                            "keywords": [
+                              "arrogancia",
+                              "división",
+                              "necesidad mutua"
+                            ],
+                            "lineNumber": [
+                              8402,
+                              8403,
+                              8404
+                            ],
+                            "originalText": "Καὶ διὰ τούτων δὲ πάλιν τὴν ἀπόνοιαν ὑπορύττει, καὶ τὸ φύσηµα καὶ τὴν φλεγµονὴν καταστέλλει. Οὐδὲν γὰρ οὕτως ἀπαίρει καὶ ἀποσχίζει τῶν λοιπῶν, ὡς τὸ νοµίζειν τινὰ ἀρκεῖν ἑαυτῷ· διὸ καὶ ἐν χρείᾳ ἀλλήλων κατέστησεν ἡµᾶς ὁ Θεός.",
+                            "spanishTranslation": "Y también por medio de esto de nuevo socava la arrogancia y reprime la hinchazón y la inflamación. Nada en efecto exalta y separa tanto de los demás como el creerse uno autosuficiente; por eso Dios nos estableció en necesidad unos de otros."
+                          },
+                          {
+                            "keywords": [
+                              "sabiduría",
+                              "necesidad",
+                              "necedad",
+                              "debilidad"
+                            ],
+                            "lineNumber": [
+                              8405,
+                              8406
+                            ],
+                            "originalText": "Κἂν γὰρ φρόνιµος ᾖς, ἑτέρου δεήσῃ· ἂν δὲ νοµίσῃς µὴ δεῖσθαι, ἀνοητότερος πάντων ἐγένου καὶ ἀσθενέστερος.",
+                            "spanishTranslation": "Porque aunque seas sabio, necesitarás a otro; pero si crees no necesitar, te has vuelto más necio y más débil que todos."
+                          },
+                          {
+                            "keywords": [
+                              "ayuda",
+                              "corrección",
+                              "perdón",
+                              "provocación a Dios",
+                              "pecado"
+                            ],
+                            "lineNumber": [
+                              8407
+                            ],
+                            "originalText": "Ὁ γὰρ τοιοῦτος καὶ ἔρηµον ἑαυτὸν καταστήσει βοηθείας, καὶ ἐν οἷς ἂν ἁµαρτάνῃ, οὐδεµιᾶς ἀπολαύσεται οὔτε διορθώσεως οὔτε συγγνώµης, καὶ τὸν Θεὸν παροξυνεῖ διὰ τῆς ἀπονοίας, καὶ πολλὰ ἁµαρτήσεται.",
+                            "spanishTranslation": "Porque tal persona se dejará desprovista de ayuda, y en lo que peque, no recibirá ni corrección ni perdón, y provocará a Dios por su arrogancia, y pecará mucho."
+                          },
+                          {
+                            "keywords": [
+                              "sabio",
+                              "necio",
+                              "discernimiento",
+                              "Moisés",
+                              "Jetro",
+                              "Saúl",
+                              "Isaac",
+                              "Rebeca"
+                            ],
+                            "lineNumber": [
+                              8408,
+                              8409
+                            ],
+                            "originalText": "Ἔστι γὰρ, ἔστι πολλάκις καὶ τὸν φρόνιµον µὴ συνιδεῖν τὸ δέον, καὶ τὸν ἀνοητότερον εὑρεῖν τι τῶν προσηκόντων· ὅπερ ἐπὶ τοῦ Μωϋσέως καὶ τοῦ πενθεροῦ γέγονεν, ὅπερ ἐπὶ τοῦ Σαοὺλ καὶ τοῦ παιδὸς, ὅπερ ἐπὶ τοῦ Ἰσαὰκ καὶ τῆς Ῥεβέκκας.",
+                            "spanishTranslation": "Porque sucede, sucede a menudo que incluso el sabio no percibe lo debido, y el menos sabio encuentra algo apropiado; como sucedió con Moisés y su suegro, como con Saúl y su siervo (o hijo), como con Isaac y Rebeca."
+                          },
+                          {
+                            "keywords": [
+                              "humillación",
+                              "elevación",
+                              "fortaleza",
+                              "seguridad"
+                            ],
+                            "lineNumber": [
+                              8410,
+                              8411
+                            ],
+                            "originalText": "Μὴ τοίνυν νοµίσῃς καθαιρεῖσθαι δεόµενος ἑτέρου. Τοῦτο γάρ σε µᾶλλον ὑψοῖ, τοῦτό σε ἰσχυρότερον ποιεῖ, τοῦτό σε λαµπρότερόν τε καὶ ἀσφαλέστερον.",
+                            "spanishTranslation": "No creas, pues, que te humillas al necesitar de otro. Porque esto más bien te eleva, esto te hace más fuerte, esto te hace más resplandeciente y más seguro."
+                          },
+                          {
+                            "keywords": [
+                              "no devolver mal",
+                              "venganza"
+                            ],
+                            "lineNumber": [
+                              8412
+                            ],
+                            "originalText": "Μηδενὶ κακὸν ἀντὶ κακοῦ ἀποδιδόντες.",
+                            "spanishTranslation": "'No paguéis a nadie mal por mal'."
+                          },
+                          {
+                            "keywords": [
+                              "censura",
+                              "mal",
+                              "emulación",
+                              "culpa"
+                            ],
+                            "lineNumber": [
+                              8413,
+                              8414
+                            ],
+                            "originalText": "Εἰ γὰρ ἕτερον ψέγεις ἐπιβουλεύοντα, τί σαυτὸν ὑπεύθυνον ποιεῖς τῇ κατηγορίᾳ; Εἰ κακῶς ἐκεῖνος ἐποίησε, τί µὴ φεύγεις τὸν ζῆλον;",
+                            "spanishTranslation": "Porque si censuras a otro que trama el mal, ¿por qué te haces a ti mismo culpable de la misma acusación? Si él hizo el mal, ¿por qué no huyes de la emulación?"
+                          },
+                          {
+                            "keywords": [
+                              "ley universal",
+                              "no discriminación",
+                              "gentiles",
+                              "impíos"
+                            ],
+                            "lineNumber": [
+                              8415,
+                              8416
+                            ],
+                            "originalText": "Καὶ ὅρα πῶς ἐνταῦθα οὐ διέστειλεν, ἀλλὰ κοινὸν τὸν νόµον ἔθηκεν. Οὐ γὰρ εἶπε, Τῷ πιστῷ µὴ ἀποδῷς κακὸν, ἀλλὰ Μηδενὶ, κἂν Ἕλλην ᾖ, κἂν µιαρὸς, κἂν ὁστισοῦν.",
+                            "spanishTranslation": "Y mira cómo aquí no hizo distinción, sino que estableció la ley de manera universal. Porque no dijo: 'No pagues mal al creyente', sino 'A nadie', aunque sea griego, aunque sea impío, o quien sea."
+                          },
+                          {
+                            "keywords": [
+                              "procurar el bien",
+                              "paz",
+                              "todos los hombres"
+                            ],
+                            "lineNumber": [
+                              8417
+                            ],
+                            "originalText": "Προνοούµενοι καλὰ ἐνώπιον ἀνθρώπων πάντων, εἰ δυνατὸν, τὸ ἐξ ὑµῶν, µετὰ πάντων ἀνθρώπων εἰρηνεύοντες.",
+                            "spanishTranslation": "'Procurad lo bueno delante de todos los hombres, si es posible, en cuanto dependa de vosotros, estad en paz con todos los hombres'."
+                          },
+                          {
+                            "keywords": [
+                              "luz",
+                              "vanagloria",
+                              "ocasion"
+                            ],
+                            "lineNumber": [
+                              8418,
+                              8419
+                            ],
+                            "originalText": "Τοῦτό ἐστι, Λαµψάτω τὸ φῶς ὑµῶν ἔµπροσθεν τῶν ἀνθρώπων· οὐχ ἵνα πρὸς κενοδοξίαν ζῶµεν, ἀλλ' ἵνα µὴ παρέχωµεν λαβὴν καθ' ἑαυτῶν τοῖς βουλοµένοις.",
+                            "spanishTranslation": "Esto es: 'Así alumbre vuestra luz delante de los hombres'; no para que vivamos para la vanagloria, sino para que no demos ocasión contra nosotros a los que quieren."
+                          },
+                          {
+                            "keywords": [
+                              "no ser tropiezo",
+                              "judíos",
+                              "gentiles",
+                              "Iglesia"
+                            ],
+                            "lineNumber": [
+                              8420
+                            ],
+                            "originalText": "∆ιὸ καὶ ἀλλαχοῦ φησιν, Ἀπρόσκοποι γίνεσθε καὶ Ἰουδαίοις καὶ Ἕλλησι καὶ τῇ Ἐκκλησίᾳ τοῦ Θεοῦ.",
+                            "spanishTranslation": "Por eso también en otro lugar dice: 'No seáis tropiezo ni a judíos, ni a gentiles, ni a la iglesia de Dios'."
+                          },
+                          {
+                            "keywords": [
+                              "paz",
+                              "piedad",
+                              "justicia",
+                              "limitaciones"
+                            ],
+                            "lineNumber": [
+                              8421,
+                              8422,
+                              8423
+                            ],
+                            "originalText": "Καλῶς δὲ τὸ ἑξῆς ἐδήλωσεν εἰπὼν, Εἰ δυνατὸν, τὸ ἐξ ὑµῶν. Ἐστὶ γὰρ ὅπου οὐ δυνατόν· οἷον ὅταν περὶ εὐσεβείας ὁ λόγος ᾖ, ὅταν περὶ ἀδικουµένων ὁ ἀγών.",
+                            "spanishTranslation": "Y bien expresó lo siguiente al decir: 'Si es posible, en cuanto dependa de vosotros'. Porque hay ocasiones en que no es posible; por ejemplo, cuando se trata de la piedad, cuando la lucha es por los que son injustamente tratados."
+                          },
+                          {
+                            "keywords": [
+                              "matrimonio",
+                              "incrédulo",
+                              "separación",
+                              "paz"
+                            ],
+                            "lineNumber": [
+                              8424,
+                              8425
+                            ],
+                            "originalText": "Καὶ τί θαυµάζεις, εἰ ἐπὶ ἀνθρώπων τῶν ἄλλων τοῦτο οὐ πανταχοῦ δυνατὸν, ὅπου γε καὶ ἐπὶ ἀνδρὸς καὶ γυναικὸς ταύτην ἔλυσε τὴν ἀνάγκην, εἰπών· Εἰ δὲ ὁ ἄπιστος χωρίζεται, χωριζέσθω;",
+                            "spanishTranslation": "¿Y qué te extraña si esto no es siempre posible con los demás hombres, si incluso en el caso del marido y la mujer disolvió esta obligación, diciendo: 'Si el incrédulo se separa, que se separe'?"
+                          },
+                          {
+                            "keywords": [
+                              "paz",
+                              "guerra",
+                              "contienda",
+                              "piedad",
+                              "verdad",
+                              "lucha",
+                              "asuntos"
+                            ],
+                            "lineNumber": [
+                              8426,
+                              8427,
+                              8428,
+                              8429,
+                              8430
+                            ],
+                            "originalText": "Ὃ δὲ λέγει, τοιοῦτόν ἐστι· Τὰ παρὰ σεαυτοῦ πάρεχε, καὶ µηδενὶ δίδου πολέµου καὶ µάχης ἀφορµὴν, µὴ Ἰουδαίῳ, µὴ Ἕλληνι· εἰ δέ που τὴν εὐσέβειαν παραβλαπτοµένην ἴδοις, µὴ προτίµα τὴν ὁµόνοιαν τῆς ἀληθείας, ἀλλ' ἵστασο γενναίως ἕως θανάτου· καὶ µηδὲ οὕτω ψυχῇ πολέµει, µηδὲ ἀποστρέφου γνώµῃ, ἀλλὰ τοῖς πράγµασι µάχου µόνον· τοῦτο γάρ ἐστι, Τὸ ἐξ ὑµῶν, µετὰ πάντων ἀνθρώπων εἰρηνεύοντες.",
+                            "spanishTranslation": "Lo que dice es lo siguiente: 'Da lo que de ti depende, y no des a nadie ocasión de guerra y contienda, ni a judío, ni a griego; pero si en algún lugar ves que la piedad es dañada, no prefieras la concordia a la verdad, sino permanece valientemente hasta la muerte; y ni siquiera así luches con la persona, ni te apartes de la buena intención, sino lucha solo con los asuntos; porque esto es: \"En cuanto dependa de vosotros, estad en paz con todos los hombres\".'"
+                          },
+                          {
+                            "keywords": [
+                              "paz interior",
+                              "amistad",
+                              "verdad",
+                              "no traicionar"
+                            ],
+                            "lineNumber": [
+                              8431
+                            ],
+                            "originalText": "Κἂν ἐκεῖνος µὴ εἰρηνεύῃ, σὺ µὴ πληρώσῃς χειµῶνος τὴν ψυχὴν, ἀλλ' ἔσο φίλος κατὰ γνώµην, ὅπερ ἔφθην εἰπὼν, τὴν ἀλήθειαν µηδαµοῦ προδιδούς.",
+                            "spanishTranslation": "Y aunque aquel no esté en paz, tú no llenes tu alma de tempestad, sino sé amigo en tu intención, como ya dije, sin traicionar la verdad en ningún momento."
+                          },
+                          {
+                            "keywords": [
+                              "venganza",
+                              "ira de Dios",
+                              "Señor"
+                            ],
+                            "lineNumber": [
+                              8432,
+                              8433
+                            ],
+                            "originalText": "Μηδὲ ἑαυτοὺς ἐκδικοῦντες, ἀγαπητοὶ, ἀλλὰ δότε τόπον τῇ ὀργῇ· γέγραπται γὰρ, Ἐµοὶ ἐκδίκησις, ἐγὼ ἀνταποδώσω, λέγει Κύριος.",
+                            "spanishTranslation": "'No os venguéis vosotros mismos, amados, sino dejad lugar a la ira'; porque escrito está: 'Mía es la venganza, yo pagaré, dice el Señor'."
+                          },
+                          {
+                            "keywords": [
+                              "ira de Dios",
+                              "justicia divina",
+                              "venganza divina"
+                            ],
+                            "lineNumber": [
+                              8434,
+                              8435,
+                              8436,
+                              8437
+                            ],
+                            "originalText": "Ποίᾳ ὀργῇ; Τῇ τοῦ Θεοῦ. Ἐπειδὴ γὰρ τοῦτο µάλιστα ἐπιθυµεῖ ἰδεῖν ὁ ἀδικηθεὶς, ἐκδικίας ἑαυτὸν ἀπολαύοντα, τοῦτο αὐτὸ µετὰ πολλῆς δίδωσι τῆς περιουσίας· ἂν γὰρ αὐτὸς µὴ ἀµύνῃ, ὁ Θεὸς ἔσται τιµωρός.",
+                            "spanishTranslation": "¿A qué ira se refiere? A la de Dios. Porque como esto es lo que más desea ver el que ha sido injustamente tratado, que se haga justicia, esto mismo lo concede con mucha abundancia; pues si él mismo no se defiende, Dios será el vengador."
+                          },
+                          {
+                            "keywords": [
+                              "venganza",
+                              "ira de Dios",
+                              "acción divina"
+                            ],
+                            "lineNumber": [
+                              8438,
+                              8439
+                            ],
+                            "originalText": "Συγχώρησον οὖν αὐτῷ, [[60.612]] φησὶν, ἐπεξελθεῖν· τοῦτο γάρ ἐστι, ∆ότε τόπον τῇ ὀργῇ.",
+                            "spanishTranslation": "Permítele, pues, dice, que actúe; porque esto es: 'Dejad lugar a la ira'."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 22,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [
+                              "exhortación",
+                              "filosofía",
+                              "enemigo",
+                              "beneficencia"
+                            ],
+                            "lineNumber": [
+                              8441
+                            ],
+                            "notes": {
+                              "notesGeneral": "El término «filosofía» aquí no se refiere a la filosofía como disciplina académica moderna, sino a una forma de vida virtuosa, la práctica de la virtud y la sabiduría en el comportamiento cotidiano, especialmente en el ámbito moral y ético cristiano. Crisóstomo exhorta a una virtud superior frente a la adversidad."
+                            },
+                            "originalText": "Εἶτα παραµυθούµενος ἐπιπλέον, καὶ τὴν µαρτυρίαν ἐπήγαγε, καὶ ταύτῃ µειζόνως αὐτὸν ἀνακτησάµενος, πλείονα αὐτὸν τὴν φιλοσοφίαν ἀπαιτεῖ, λέγων·",
+                            "spanishTranslation": "Luego, consolándole aún más, trajo el testimonio, y habiéndole reanimado así en mayor medida, le exige una filosofía superior, diciendo:"
+                          },
+                          {
+                            "keywords": [
+                              "enemigo",
+                              "hambre",
+                              "sed",
+                              "caridad",
+                              "carbones de fuego",
+                              "Proverbios",
+                              "Romanos"
+                            ],
+                            "lineNumber": [
+                              8442,
+                              8443,
+                              8444
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Proverbios 25:21-22, que también es citada por Pablo en Romanos 12:20. La imagen de «montones de carbones encendidos sobre su cabeza» se interpreta comúnmente como causar arrepentimiento o vergüenza en el enemigo, incitándolo a cambiar de actitud, no como un acto de venganza divina."
+                            },
+                            "originalText": "Ἐὰν οὖν πεινᾷ ὁ ἐχθρός σου, ψώµιζε αὐτόν· ἐὰν διψᾷ, πότιζε αὐτόν· τοῦτο γὰρ ποιῶν, ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ.",
+                            "spanishTranslation": "Así pues, si tu enemigo tiene hambre, dale de comer; si tiene sed, dale de beber; porque haciendo esto, amontonarás carbones encendidos sobre su cabeza."
+                          },
+                          {
+                            "keywords": [
+                              "mal",
+                              "bien",
+                              "victoria",
+                              "Romanos"
+                            ],
+                            "lineNumber": [
+                              8445
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 12:21. Este versículo resume la exhortación de Pablo a los creyentes sobre cómo interactuar con quienes les hacen daño, promoviendo la superación del mal mediante el bien activo."
+                            },
+                            "originalText": "Μὴ νικῶ ὑπὸ τοῦ κακοῦ, ἀλλὰ νίκα ἐν τῷ ἀγαθῷ τὸ κακόν.",
+                            "spanishTranslation": "No seas vencido por el mal, sino vence el mal con el bien."
+                          },
+                          {
+                            "keywords": [
+                              "paz",
+                              "beneficencia",
+                              "mandato"
+                            ],
+                            "lineNumber": [
+                              8446,
+                              8447
+                            ],
+                            "originalText": "Τί γὰρ λέγω, φησὶν, ὅτι εἰρηνεύειν δεῖ; Καὶ γὰρ καὶ εὐεργετεῖν ἐπιτάττω·",
+                            "spanishTranslation": "Pues, ¿qué digo, dice, que es necesario vivir en paz? ¡También ordeno hacer el bien!"
+                          },
+                          {
+                            "keywords": [
+                              "alimentar",
+                              "dar de beber",
+                              "mandato"
+                            ],
+                            "lineNumber": [
+                              8448
+                            ],
+                            "originalText": "Ψώµιζε γὰρ αὐτὸν καὶ πότιζε, φησίν.",
+                            "spanishTranslation": "Pues dale de comer y de beber, dice."
+                          },
+                          {
+                            "keywords": [
+                              "tarea difícil",
+                              "carbones de fuego",
+                              "consecuencia"
+                            ],
+                            "lineNumber": [
+                              8449,
+                              8450
+                            ],
+                            "notes": {
+                              "notesFromSource": "Crisóstomo retoma la cita de Proverbios (y Romanos) para enfatizar la dificultad pero también la recompensa de esta acción. Ver nota en líneas 8442-8444."
+                            },
+                            "originalText": "Εἶτα ἐπειδὴ σφόδρα ἐπίπονον ἐπέταξε καὶ µέγα, ἐπήγαγε· Τοῦτο γὰρ ποιῶν, ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ.",
+                            "spanishTranslation": "Luego, puesto que ordenó algo muy arduo y grande, añadió: Porque haciendo esto, amontonarás carbones encendidos sobre su cabeza."
+                          },
+                          {
+                            "keywords": [
+                              "miedo",
+                              "esperanza",
+                              "recompensa",
+                              "persuadir"
+                            ],
+                            "lineNumber": [
+                              8451
+                            ],
+                            "originalText": "Ταῦτα δὲ ἔλεγε, κἀκεῖνον καταστέλλων τῷ φόβῳ, καὶ τοῦτον προθυµότερον ποιῶν τῇ ἐλπίδι τῆς ἀντιδόσεως.",
+                            "spanishTranslation": "Y decía esto, tanto reprimiendo a aquel con el temor, como haciendo a este más dispuesto con la esperanza de la retribución."
+                          },
+                          {
+                            "keywords": [
+                              "ofendido",
+                              "justicia",
+                              "venganza",
+                              "satisfacción"
+                            ],
+                            "lineNumber": [
+                              8452
+                            ],
+                            "originalText": "Ὁ γὰρ ἠδικηµένος ὅταν ἀσθενήσῃ, οὐχ οὕτω κατέχεται τοῖς οἰκείοις ἀγαθοῖς, ὡς τῇ τιµωρίᾳ τοῦ λελυπηκότος αὐτόν.",
+                            "spanishTranslation": "Pues cuando el que ha sido perjudicado se debilita, no se siente tan satisfecho con sus propios bienes como con la venganza de quien le ha afligido."
+                          },
+                          {
+                            "keywords": [
+                              "placer",
+                              "enemigo",
+                              "castigo"
+                            ],
+                            "lineNumber": [
+                              8453
+                            ],
+                            "originalText": "Οὐδὲν γὰρ οὕτως ἡδὺ, ὡς ἐχθρὸν κολαζόµενον ἰδεῖν.",
+                            "spanishTranslation": "Pues nada es tan dulce como ver a un enemigo castigado."
+                          },
+                          {
+                            "keywords": [
+                              "deseo",
+                              "veneno",
+                              "consejo superior",
+                              "Pablo"
+                            ],
+                            "lineNumber": [
+                              8454,
+                              8455
+                            ],
+                            "originalText": "Ὅπερ οὖν ἐπιθυµεῖ, τοῦτο δίδωσιν αὐτῷ πρῶτον· καὶ ὅταν ἀφῇ τὸν ἰὸν, τότε λοιπὸν παραινεῖ τὰ ὑψηλότερα, λέγων·",
+                            "spanishTranslation": "Así pues, lo que él (el ofendido) desea, esto le da primero; y cuando ha soltado el veneno, entonces finalmente aconseja las cosas más elevadas, diciendo:"
+                          },
+                          {
+                            "keywords": [
+                              "mal",
+                              "derrota",
+                              "Romanos"
+                            ],
+                            "lineNumber": [
+                              8456
+                            ],
+                            "notes": {
+                              "notesBiblical": "Fragmento de Romanos 12:21. La repetición de esta frase por Crisóstomo subraya su importancia."
+                            },
+                            "originalText": "Μὴ νικῶ ὑπὸ τοῦ κακοῦ.",
+                            "spanishTranslation": "No seas vencido por el mal."
+                          },
+                          {
+                            "keywords": [
+                              "enemigo",
+                              "bestia",
+                              "misericordia",
+                              "perdón"
+                            ],
+                            "lineNumber": [
+                              8457,
+                              8458
+                            ],
+                            "originalText": "Ἤδει γὰρ, ὅτι κἂν θηρίον ᾖ ὁ ἐχθρὸς, οὐ µένει ψωµιζόµενος ἐχθρός· κἂν µυριάκις µικρόψυχος ᾖ ὁ ἠδικηµένος, ψωµίζων αὐτὸν καὶ ποτίζων, οὐδὲ αὐτὸς λοιπὸν ἐπιθυµήσει τῆς τιµωρίας τῆς ἐκείνου.",
+                            "spanishTranslation": "Pues sabía que, aunque el enemigo sea una bestia, no permanece como enemigo si se le alimenta; y aunque el perjudicado sea innumerables veces de espíritu mezquino, al alimentarlo y darle de beber, tampoco él deseará ya la venganza contra aquel."
+                          },
+                          {
+                            "keywords": [
+                              "amenaza",
+                              "venganza",
+                              "castigo",
+                              "carbones de fuego"
+                            ],
+                            "lineNumber": [
+                              8459,
+                              8460
+                            ],
+                            "notes": {
+                              "notesFromSource": "Crisóstomo interpreta que el Apóstol Pablo no solo amenaza con el castigo, sino que 'se explaya generosamente en la venganza', lo cual es una paradoja retórica que busca enfatizar el efecto del bien sobre el mal. La 'venganza' aquí es metafórica, refiriéndose a la vergüenza o arrepentimiento del enemigo, no a un castigo literal por parte del ofendido."
+                            },
+                            "originalText": "∆ιὸ τῷ τέλει θαῤῥῶν τοῦ πράγµατος, οὐδὲ ἁπλῶς ἠπείλησεν, ἀλλὰ καὶ ἐπιδαψιλεύεται τῇ τιµωρίᾳ. Οὐ γὰρ εἶπε, Τιµωρήσῃ, ἀλλ' Ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ.",
+                            "spanishTranslation": "Por eso, confiando en el resultado final del asunto, no solo amenazó simplemente, sino que incluso se explaya generosamente en la venganza. Pues no dijo: 'Será vengado', sino: 'Amontonarás carbones encendidos sobre su cabeza'."
+                          },
+                          {
+                            "keywords": [
+                              "proclamar",
+                              "victoria",
+                              "mal",
+                              "bien",
+                              "Romanos"
+                            ],
+                            "lineNumber": [
+                              8461,
+                              8462
+                            ],
+                            "notes": {
+                              "notesBiblical": "La repetición completa de Romanos 12:21 recalca su enseñanza central en este pasaje."
+                            },
+                            "originalText": "Εἶτα καὶ ἀνεκήρυξεν αὐτὸν εἰπών· Μὴ νικῶ ὑπὸ τοῦ κακοῦ, ἀλλὰ νίκα ἐν τῷ ἀγαθῷ τὸ κακόν·",
+                            "spanishTranslation": "Luego lo proclamó, diciendo: No seas vencido por el mal, sino vence el mal con el bien."
+                          },
+                          {
+                            "keywords": [
+                              "alusión",
+                              "intención",
+                              "rencor",
+                              "derrota"
+                            ],
+                            "lineNumber": [
+                              8463,
+                              8464
+                            ],
+                            "notes": {
+                              "notesGreek": "El verbo «μνησικακεῖν» (mnesikakein) significa 'guardar rencor', 'recordar el mal hecho'. Crisóstomo explica que mantener este resentimiento es, de hecho, ser vencido por el mal."
+                            },
+                            "originalText": "καὶ ἠρέµα πως ᾐνίξατο τὸ µὴ δεῖν τοιαύτῃ προαιρέσει ποιεῖν· τὸ γὰρ ἔτι µνησικακεῖν, ἡττᾶσθαί ἐστιν ὑπὸ τοῦ κακοῦ.",
+                            "spanishTranslation": "Y de alguna manera aludió sutilmente a que no se debe obrar con tal intención; pues seguir guardando rencor es ser vencido por el mal."
+                          },
+                          {
+                            "keywords": [
+                              "momento oportuno",
+                              "ira",
+                              "calmar",
+                              "victoria"
+                            ],
+                            "lineNumber": [
+                              8465,
+                              8466,
+                              8467,
+                              8468
+                            ],
+                            "originalText": "Ἀλλὰ πρῶτον µὲν αὐτὸ οὐκ εἶπεν· οὐδὲ γὰρ εἶχε καιρόν· ὅτε δὲ ἐκένωσεν αὐτοῦ τὸν θυµὸν, τότε ἐπήγαγε λέγων· Νίκα ἐν τῷ ἀγαθῷ τὸ κακόν.",
+                            "spanishTranslation": "Pero primero no dijo eso; pues no era el momento oportuno; pero cuando había vaciado su ira, entonces añadió, diciendo: Vence el mal con el bien."
+                          },
+                          {
+                            "keywords": [
+                              "victoria",
+                              "bien"
+                            ],
+                            "lineNumber": [
+                              8469
+                            ],
+                            "originalText": "Ἐπεὶ καὶ τοῦτο νίκη.",
+                            "spanishTranslation": "Puesto que también esto es una victoria."
+                          },
+                          {
+                            "keywords": [
+                              "boxeo",
+                              "analogía",
+                              "golpes",
+                              "fuerza"
+                            ],
+                            "lineNumber": [
+                              8470,
+                              8471
+                            ],
+                            "originalText": "Καὶ γὰρ ὁ πυκτεύων τότε µᾶλλον νικᾷ, οὐχ ὅταν ὑποτιθῇ ἑαυτὸν ὥστε δέξασθαι τὰς πληγὰς, ἀλλ' ὅταν ἐξαίρων ἑαυτὸν παρασκευάζῃ τὸν ἀνταγωνιστὴν εἰς τὸν ἀέρα κενοῦν τὴν δύναµιν. Οὕτω γὰρ οὔτε αὐτὸς πληγήσεται, κἀκείνου λύσει τὴν ἰσχὺν ἅπασαν·",
+                            "spanishTranslation": "Pues el que boxea entonces vence más, no cuando se expone a recibir los golpes, sino cuando, elevándose, hace que el adversario gaste su fuerza en el aire. Porque así ni él mismo será golpeado, y además disolverá toda la fuerza de aquel."
+                          },
+                          {
+                            "keywords": [
+                              "insultos",
+                              "analogía"
+                            ],
+                            "lineNumber": [
+                              8472
+                            ],
+                            "originalText": "ὃ δὴ καὶ ἐπὶ τῶν ὕβρεων γίνεται.",
+                            "spanishTranslation": "Lo cual sucede también con los insultos."
+                          },
+                          {
+                            "keywords": [
+                              "responder",
+                              "insulto",
+                              "ira",
+                              "silencio",
+                              "trofeo",
+                              "corona"
+                            ],
+                            "lineNumber": [
+                              8473,
+                              8474
+                            ],
+                            "originalText": "Ὅταν µὲν γὰρ ἀνθυβρίσῃς, ἡττήθης οὐχ ὑπὸ ἀνθρώπου, ἀλλ', ὅπερ ἐστὶν αἰσχρότερον, ὑπὸ πάθους ἀνελευθέρου τοῦ θυµοῦ κινηθείς· ἂν δὲ σιγήσῃς, καὶ ἐνίκησας, καὶ ἀπονητὶ τὸ τρόπαιον ἔστησας, καὶ µυρίους ἕξεις τοὺς στεφανοῦντας, καὶ τῆς λοιδορίας τὸ ψεῦδος καταγινώσκοντας.",
+                            "spanishTranslation": "Pues cuando respondes con un insulto, eres vencido no por un hombre, sino, lo que es más vergonzoso, impulsado por una pasión innoble de la ira; pero si callas, has vencido, y sin esfuerzo has levantado el trofeo, y tendrás innumerables quienes te coronen, y condenarán la falsedad de la calumnia."
+                          },
+                          {
+                            "keywords": [
+                              "responder",
+                              "mordaz",
+                              "conciencia",
+                              "reír"
+                            ],
+                            "lineNumber": [
+                              8475,
+                              8476,
+                              8477
+                            ],
+                            "originalText": "Ὁ µὲν γὰρ ἀντιλέγων, ὡς δακνόµενος ἀντερεῖν δοκεῖ· ὁ δὲ δακνόµενος, ὑπόνοιαν παρέχει τοῦ συνειδέναι τοῖς λεγοµένοις· ἂν δὲ καταγελάσῃς, τῷ γέλωτι τὴν κατὰ σαυτοῦ ψῆφον ἐξέλυσας.",
+                            "spanishTranslation": "Pues el que replica, parece que replica como si fuera mordido; y el que es mordido, da la impresión de que es consciente de lo que se dice; pero si te ríes, con la risa has disuelto el juicio contra ti."
+                          },
+                          {
+                            "keywords": [
+                              "evidencia",
+                              "enemigo",
+                              "sufrimiento",
+                              "risa",
+                              "ira"
+                            ],
+                            "lineNumber": [
+                              8478,
+                              8479
+                            ],
+                            "originalText": "Καὶ εἰ βούλει σαφῆ τῶν εἰρηµένων ἀπόδειξιν λαβεῖν, αὐτὸν ἐρώτησον τὸν ἐχθρὸν, πότε µᾶλλον ἀλγεῖ, ὅταν θερµανθεὶς ἀνθυβρίσῃς, ἢ ὅταν ὑβρίζοντος καταγελάσῃς· καὶ τοῦτο ἀκούσῃ µᾶλλον.",
+                            "spanishTranslation": "Y si quieres obtener una clara demostración de lo dicho, pregunta al propio enemigo, cuándo sufre más, si cuando, irritado, le insultas a su vez, o cuando te ríes de su insulto; y esto último escucharás más."
+                          },
+                          {
+                            "keywords": [
+                              "placer",
+                              "insulto",
+                              "incapacidad",
+                              "golpear"
+                            ],
+                            "lineNumber": [
+                              8480
+                            ],
+                            "originalText": "Οὐδὲ γὰρ οὕτως ἥδεται τῷ µὴ ὑβρίζεσθαι, ὡς δάκνεται τῷ µὴ δύνασθαί σου καθάπτεσθαι.",
+                            "spanishTranslation": "Pues no se complace tanto en no ser insultado, como se irrita al no poder afectarte."
+                          },
+                          {
+                            "keywords": [
+                              "ira",
+                              "golpes",
+                              "rabia",
+                              "heridas",
+                              "enemigo"
+                            ],
+                            "lineNumber": [
+                              8481
+                            ],
+                            "originalText": "Οὐχ ὁρᾷς τοὺς θυµουµένους, ὅτι τῶν ἰδίων πληγῶν οὐ πολὺν ποιούµενοι λόγον, ἐπέρχονται ῥύµῃ πολλῇ, καὶ συῶν ἀγρίων χεῖρον τὰ τοῦ πλη [[60.613]] σίον ζητοῦντες τραύµατα, καὶ πρὸς ἓν τοῦτο ὁρῶντες, καὶ τούτου µᾶλλον ὄντες, ἢ τοῦ φυλάξασθαί τι παθεῖν;",
+                            "spanishTranslation": "¿No ves a los que se enojan, que no haciendo gran caso de sus propios golpes, arremeten con gran ímpetu, y peor que los jabalíes salvajes buscan las heridas del prójimo, y mirando solo esto, y más preocupados por esto que por evitar sufrir algo?"
+                          },
+                          {
+                            "keywords": [
+                              "deseo",
+                              "privación",
+                              "desprecio",
+                              "filósofo",
+                              "bestia"
+                            ],
+                            "lineNumber": [
+                              8482
+                            ],
+                            "originalText": "Ὅταν οὖν, οὗ µάλιστα ἐπιθυµῇ, τούτου µάλιστα ἀποστερήσῃς αὐτὸν, τοῦ παντὸς ἀπεστέρησας, ἐξευτέλισας, καὶ ἔδειξας εὐκαταφρόνητον, καὶ παιδίον µᾶλλον ἢ ἄνδρα, καὶ σὺ µὲν φιλοσόφου ψῆφον λαβὼν, ἐκεῖνον δὲ θηρίου πονηροῦ δόξῃ περιβάλλων.",
+                            "spanishTranslation": "Así pues, cuando le privas precisamente de aquello que más desea, le has privado de todo, le has humillado, y le has mostrado como digno de desprecio, y más como un niño que como un hombre, y tú, habiendo recibido el veredicto de filósofo, a él le cubres con la reputación de una bestia malvada."
+                          },
+                          {
+                            "keywords": [
+                              "golpear",
+                              "devolución",
+                              "violencia"
+                            ],
+                            "lineNumber": [
+                              8483
+                            ],
+                            "originalText": "Τοῦτο καὶ ἐν τῷ τύπτεσθαι ποιῶµεν, καὶ ὅταν βουλώµεθα τύπτειν, µὴ ἀντιτύπτωµεν.",
+                            "spanishTranslation": "Hagamos esto también al ser golpeados, y cuando queramos golpear, no respondamos con golpes."
+                          },
+                          {
+                            "keywords": [
+                              "golpe mortal",
+                              "mejilla",
+                              "sufrimiento"
+                            ],
+                            "lineNumber": [
+                              8484,
+                              8485
+                            ],
+                            "notes": {
+                              "notesBiblical": "Alusión a la enseñanza de Jesús en Mateo 5:39: 'Pero yo os digo: No resistáis al que es malo; antes, a cualquiera que te hiera en la mejilla derecha, vuélvele también la otra'."
+                            },
+                            "originalText": "Ἀλλὰ βούλει καιρίαν δοῦναι πληγήν; Στρέψον αὐτῷ καὶ τὴν ἄλλην σιαγόνα, καὶ µυρίοις αὐτὸν πλήξεις τραύµασιν.",
+                            "spanishTranslation": "Pero, ¿quieres asestar un golpe decisivo? Vuélvele también la otra mejilla, y le herirás con innumerables heridas."
+                          },
+                          {
+                            "keywords": [
+                              "aplauso",
+                              "admiración",
+                              "conciencia",
+                              "castigo",
+                              "vergüenza"
+                            ],
+                            "lineNumber": [
+                              8486,
+                              8487
+                            ],
+                            "originalText": "Οἱ γὰρ κροτοῦντες καὶ θαυµάζοντες τῶν καταλευόντων εἰσὶν αὐτῷ χαλεπώτεροι· καὶ πρὸ ἐκείνων τὸ συνειδὸς αὐτοῦ καταγνώσεται, καὶ µεγίστας αὐτὸν ἀπαιτήσει δίκας, καὶ ὡς τὰ ἔσχατα παθὼν, οὕτως ἐρυθριάσας ἀναχωρήσει.",
+                            "spanishTranslation": "Porque los que aplauden y admiran son para él más duros que los que lo apedrean; y antes que ellos, su propia conciencia lo condenará, y le exigirá las más grandes cuentas, y se retirará ruborizado como quien ha sufrido lo peor."
+                          },
+                          {
+                            "keywords": [
+                              "fama",
+                              "opinión pública",
+                              "recompensa"
+                            ],
+                            "lineNumber": [
+                              8488
+                            ],
+                            "originalText": "Εἰ δὲ καὶ τὴν παρὰ τῶν πολλῶν ζητεῖς δόξαν, καὶ ταύτης ἀπολαύσῃ µειζόνως.",
+                            "spanishTranslation": "Y si buscas también la gloria de la mayoría, de esta gozarás en mayor medida."
+                          },
+                          {
+                            "keywords": [
+                              "compasión",
+                              "víctima",
+                              "admiración",
+                              "entrega"
+                            ],
+                            "lineNumber": [
+                              8489,
+                              8490
+                            ],
+                            "originalText": "Καὶ ἄλλως µὲν γὰρ πρὸς τοὺς κακῶς πάσχοντας ἔχοµέν τινα συµπάθειαν· ὅταν δὲ µηδὲ ἀντιτύπτοντας ἴδωµεν, ἀλλὰ καὶ ἑαυτοὺς ἐκδιδόντας, οὐκ ἐλεοῦµεν µόνον, ἀλλὰ καὶ θαυµάζοµεν.",
+                            "spanishTranslation": "Y es que, por un lado, tenemos cierta compasión por los que sufren males; pero cuando vemos que ni siquiera devuelven los golpes, sino que incluso se entregan a sí mismos, no solo los compadecemos, sino que también los admiramos."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 4,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 22,
+                    "chapterSummary": "Cristóstomo aborda la naturaleza paradójica de la victoria cristiana, que se encuentra en la paciencia ante el sufrimiento y el daño, contrastándola con las leyes del mundo y el diablo. Utiliza ejemplos bíblicos como Caín y Abel, y José y la esposa de Potifar para ilustrar que el verdadero daño recae sobre el que comete la maldad, no sobre el que la padece con virtud.",
+                    "sections": [
+                      {
+                        "section": 4,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              8491
+                            ],
+                            "originalText": "δʹ.",
+                            "spanishTranslation": "IV."
+                          },
+                          {
+                            "lineNumber": [
+                              8492
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra \"ἀνοιµῶξαι\" (anoimōxai) denota un gemido fuerte o un lamento profundo. \"περιττὰ φιλοσοφοῦντες\" (peritta philosophountes) se refiere a filosofar sobre cosas inútiles o en exceso, perdiendo el enfoque en lo esencial."
+                            },
+                            "originalText": "∆ιὰ ταῦτά µοι νῦν ἀνοιµῶξαι ἔπεισιν, ὅτι οἱ δυνάµενοι καὶ τὰ παρόντα ἔχειν, εἰ τῶν τοῦ Χριστοῦ νόµων ἠκούοµεν ὡς ἐχρῆν, καὶ τῶν µελλόντων ἐπιτυγχάνειν, ἀµφοτέρων ἐκπίπτοµεν, παρακούοντες τῶν εἰρηµένων, καὶ περιττὰ φιλοσοφοῦντες.",
+                            "spanishTranslation": "Por estas cosas ahora me invade el gemido, porque nosotros, que podríamos tener tanto lo presente —si hubiéramos escuchado las leyes de Cristo como era debido— como alcanzar lo futuro, de ambos caemos al desobedecer lo dicho y filosofar en vano."
+                          },
+                          {
+                            "lineNumber": [
+                              8493
+                            ],
+                            "originalText": "Καὶ γὰρ ἐκεῖνος συµφερόντως πάντα ἐνοµοθέτησε, καὶ ἔδειξε τί µὲν ποιεῖ ἐνδόξους, τί δὲ αἰσχρούς.",
+                            "spanishTranslation": "Porque Él [Cristo] legisló todas las cosas de manera provechosa, y mostró qué hace a los hombres gloriosos y qué los hace vergonzosos."
+                          },
+                          {
+                            "lineNumber": [
+                              8494,
+                              8495
+                            ],
+                            "originalText": "Καὶ οὐκ ἂν, εἰ ἔµελλεν ἀποφαίνειν καταγελάστους τοὺς ἑαυτοῦ µαθητὰς, τοῦτο ἂν ἐπέταξεν· ἀλλ' ἐπειδὴ τοῦτο ποιεῖ λαµπροτέρους ἁπάντων, τὸ µὴ κακῶς λέγειν ἀκούοντας κακῶς, τὸ µὴ κακῶς ποιεῖν πάσχοντας κακῶς, διὰ τοῦτο ταῦτα ἐπέταξεν.",
+                            "spanishTranslation": "Y no habría mandado esto si fuera a hacer que sus discípulos parecieran ridículos; sino porque esto los hace más brillantes que todos —el no hablar mal cuando se les habla mal, el no hacer mal cuando se les hace mal—, por eso mandó estas cosas."
+                          },
+                          {
+                            "lineNumber": [
+                              8496
+                            ],
+                            "originalText": "Εἰ δὲ τοῦτο, πολλῷ µᾶλλον τὸ λέγειν καλῶς ἀκούοντας κακῶς, τὸ ἐγκωµιάζειν ὑβριζοµένους, τὸ εὐεργετεῖν ἐπιβουλευοµένους.",
+                            "spanishTranslation": "Y si esto es así, ¡cuánto más el hablar bien cuando se les habla mal, el alabar a quienes los ultrajan, el hacer el bien a quienes les traman daño!"
+                          },
+                          {
+                            "lineNumber": [
+                              8497
+                            ],
+                            "originalText": "∆ιά τοι τοῦτο καὶ ταῦτα ἐνοµοθέτησε.",
+                            "spanishTranslation": "Por esta razón también legisló estas cosas."
+                          },
+                          {
+                            "lineNumber": [
+                              8498
+                            ],
+                            "originalText": "Καὶ γὰρ φείδεται τῶν αὑτοῦ µαθητῶν, καὶ οἶδε σαφῶς τί ποτέ ἐστι τὸ ποιοῦν σµικρὸν καὶ µέγαν.",
+                            "spanishTranslation": "Porque Él ciertamente se preocupa por sus discípulos y sabe claramente qué es lo que hace a alguien pequeño y a alguien grande."
+                          },
+                          {
+                            "lineNumber": [
+                              8499
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra \"φιλονεικεῖς\" (philoneikeis) significa contender, discutir o rivalizar, a menudo con una connotación de obstinación o querella."
+                            },
+                            "originalText": "Εἰ τοίνυν καὶ φείδεται καὶ οἶδε, τί αὐτῷ φιλονεικεῖς ἑτέραν ὁδὸν θέλων ἐλθεῖν;",
+                            "spanishTranslation": "Si, pues, se preocupa y sabe, ¿por qué discutes con Él queriendo seguir otro camino?"
+                          },
+                          {
+                            "lineNumber": [
+                              8500,
+                              8501
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo contrasta las leyes divinas con las leyes del mundo, que asocian la victoria con la retaliación o el daño, ligándolas a lo 'diabólico' o mundano, como los juegos olímpicos que simbolizan la búsqueda de gloria terrenal."
+                            },
+                            "originalText": "Καὶ γὰρ τὸ νικᾷν ἀπὸ τοῦ κακῶς ποιεῖν, διαβολικῶν ἐστι νόµων· διά τοι τοῦτο ἐν τοῖς ὀλυµπιακοῖς ἀγῶσι τοῖς ἐκείνῳ τελουµένοις, οὕτω κρατοῦσιν οἱ ἀγωνιζόµενοι πάντες.",
+                            "spanishTranslation": "Porque vencer haciendo el mal es de leyes diabólicas; por esta razón, en los juegos olímpicos que se celebran en honor a él [el diablo o el espíritu del mundo], así vencen todos los contendientes."
+                          },
+                          {
+                            "lineNumber": [
+                              8502
+                            ],
+                            "notes": {
+                              "notesGreek": "El \"στάδιον\" (stadion) se refiere al estadio o pista de atletismo, usado aquí como una metáfora del campo de batalla espiritual o la vida cristiana. La \"corona\" (\"στεφάνων\", stephanōn) es el premio por la victoria, que en el cristianismo se obtiene por la paciencia y el sufrimiento, no por la agresión."
+                            },
+                            "originalText": "Ἀλλ' οὐκ ἐν τῷ σταδίῳ τοῦ Χριστοῦ οὗτος τῶν στεφάνων ὁ νόµος, ἀλλὰ τοὐναντίον ἅπαν, τὸν πληττόµενον, οὐ τὸν πλήττοντα στεφανοῦσθαι νενοµοθέτηται.",
+                            "spanishTranslation": "Pero en el estadio de Cristo, esta no es la ley de las coronas, sino todo lo contrario: está legislado que sea coronado el que es golpeado, no el que golpea."
+                          },
+                          {
+                            "lineNumber": [
+                              8503,
+                              8504,
+                              8505
+                            ],
+                            "notes": {
+                              "notesGreek": "La expresión \"ἀπεναντίας ἅπαντα ἔχει διατεταγµένα\" (apenantias hapanta echei diatetagmena) enfatiza la inversión de valores y expectativas en el reino de Dios en comparación con el mundo."
+                            },
+                            "originalText": "Τοιοῦτον γὰρ αὐτοῦ τὸ στάδιον· ἀπεναντίας ἅπαντα ἔχει δια [[60.614]] τεταγµένα· ὥστε µὴ τῇ νίκῃ µόνον, ἀλλὰ καὶ τῷ τρόπῳ νίκης τὸ θαῦµα γίνεσθαι µεῖζον·",
+                            "spanishTranslation": "Porque tal es su estadio: todas las cosas están ordenadas de manera opuesta; de modo que el milagro se hace mayor no solo por la victoria, sino también por la forma de la victoria."
+                          },
+                          {
+                            "lineNumber": [
+                              8506,
+                              8507,
+                              8508
+                            ],
+                            "originalText": "ὅταν γὰρ τὰ ἑτέρωθι ὄντα ἥττης, ταῦτα νίκης ποιητικὰ ἀποφανῇ· τοῦτο Θεοῦ δύναµις, τοῦτο οὐρανοῦ τὸ στάδιον. τοῦτο ἀγγέλων τὸ θέατρον.",
+                            "spanishTranslation": "Porque cuando lo que en otros lugares son signos de derrota, esto se manifiesta como productor de victoria; esto es el poder de Dios, este es el estadio del cielo. Este es el teatro de los ángeles."
+                          },
+                          {
+                            "lineNumber": [
+                              8509,
+                              8510
+                            ],
+                            "notes": {
+                              "notesGreek": "La frase \"ἀποβλύζετε\" (apoblyzete), 'desecháis, vomitáis', es una metáfora vívida para indicar que los oyentes, a pesar de su conmoción inicial, no ponen en práctica lo que han escuchado."
+                            },
+                            "originalText": "Οἶδα, ὅτι διεθερµάνθητε νῦν, καὶ κηροῦ γεγόνατε παντὸς ἁπαλώτεροι· ἀλλ' ἀναχωρήσαντες ἅπαντα ἀποβλύζετε.",
+                            "spanishTranslation": "Sé que ahora os habéis conmovido y os habéis vuelto más blandos que toda cera; pero al retiraros, lo desecháis todo."
+                          },
+                          {
+                            "lineNumber": [
+                              8511
+                            ],
+                            "originalText": "∆ιὰ τοῦτο ἀλγῶ, ὅτι τὰ λεγόµενα ἐπὶ τῶν ἔργων οὐ δεικνύοµεν, καὶ ταῦτα µέλλοντες τὰ µέγιστα ἐντεῦθεν κερδαίνειν.",
+                            "spanishTranslation": "Por esto me duele que no mostramos en las obras lo que se dice, y eso que estamos a punto de obtener de aquí las mayores ganancias."
+                          },
+                          {
+                            "lineNumber": [
+                              8512
+                            ],
+                            "notes": {
+                              "notesGreek": "La \"ἐπιείκεια\" (epieikeia) se refiere a la clemencia, la indulgencia y la equidad, una virtud que implica moderación y benevolencia más allá de la estricta justicia. Ser \"ἀχείρωτοι\" (acheirōtoi) significa ser invulnerable o intocable, en el sentido de que el daño externo no puede afectar el interior del alma virtuosa."
+                            },
+                            "originalText": "Ἂν γὰρ ἐπιείκειαν ἐπιδειξώµεθα, ἀχείρωτοι πᾶσιν ἐσόµεθα, καὶ οὐδεὶς ἀνθρώπων, οὐ µικρὸς, οὐ µέγας ἡµᾶς ἀντιβλάψαι δυνήσεται.",
+                            "spanishTranslation": "Porque si mostramos clemencia, seremos invulnerables a todos, y nadie, ni pequeño ni grande, podrá dañarnos a cambio."
+                          },
+                          {
+                            "lineNumber": [
+                              8513,
+                              8514
+                            ],
+                            "originalText": "Ἄν τε γὰρ κακῶς τις εἴπῃ, σὲ µὲν οὐδὲν, ἑαυτὸν δὲ τὰ µέγιστα ἔβλαψεν· ἄν τε ἀδικήσῃ πάλιν, ἡ βλάβη περὶ τὸν ἠδικηκότα ἵσταται.",
+                            "spanishTranslation": "Porque si alguien habla mal, a ti en nada te ha dañado, pero a sí mismo se ha dañado en lo máximo; y si de nuevo comete injusticia, el daño recae sobre el que ha cometido la injusticia."
+                          },
+                          {
+                            "lineNumber": [
+                              8515
+                            ],
+                            "notes": {
+                              "notesGreek": "La \"παῤῥησία\" (parrhesía) es la franqueza y libertad de expresión, a menudo asociada con la confianza y la audacia moral."
+                            },
+                            "originalText": "Οὐχ ὁρᾷς καὶ ἐν τοῖς δικαστηρίοις, ὅτι οἱ µὲν ἠδικηµένοι λαµπροὶ καὶ µετὰ πολλῆς ἑστήκασι τῆς παῤῥησίας ἐλευθεροστοµοῦντες, οἱ δὲ ἠδικηκότες κάτω κύπτοντες µετ' αἰσχύνης καὶ φόβου;",
+                            "spanishTranslation": "¿No ves también en los tribunales que los perjudicados están brillantes y de pie con mucha libertad de expresión, mientras que los que han perjudicado se inclinan con vergüenza y temor?"
+                          },
+                          {
+                            "lineNumber": [
+                              8516
+                            ],
+                            "originalText": "Καὶ τί λέγω κατηγορίαν καὶ ἀδικίαν;",
+                            "spanishTranslation": "¿Y qué digo de acusación e injusticia?"
+                          },
+                          {
+                            "lineNumber": [
+                              8517
+                            ],
+                            "notes": {
+                              "notesGreek": "Las palabras \"ἀκονήσῃ\" (akonēsē), 'afilar', y \"κατέσφαξε\" (katesphaxe), 'degollar, inmolar', son usadas para pintar una imagen vívida de la violencia extrema y sus consecuencias morales."
+                            },
+                            "originalText": "Κἂν γὰρ τὸ ξίφος ἀκονήσῃ κατὰ σοῦ, κἂν εἰς τὸν λαιµὸν αὐτὸν τὴν δεξιὰν βαπτίσῃ, σὲ µὲν οὐδὲν παρέβλαψεν, ἑαυτὸν δὲ κατέσφαξε.",
+                            "spanishTranslation": "Porque aunque afile la espada contra ti, aunque hunda su mano derecha en tu cuello, a ti en nada te habrá dañado, pero a sí mismo se habrá degollado."
+                          },
+                          {
+                            "lineNumber": [
+                              8518
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Caín y Abel (Génesis 4:8). El asesinato de Abel por su hermano Caín es un ejemplo primordial de cómo el perpetrador sufre un daño mucho mayor al dañar a otro, pues arrastra la culpa y el castigo divino."
+                            },
+                            "originalText": "Καὶ µαρτυρήσειεν ἂν τῷ λόγῳ ὁ πρῶτος οὕτως ἀναιρεθεὶς ὑπὸ δεξιᾶς ἀδελφικῆς.",
+                            "spanishTranslation": "Y daría testimonio de esta palabra el primero que fue así asesinado por la mano de un hermano."
+                          },
+                          {
+                            "lineNumber": [
+                              8519,
+                              8520
+                            ],
+                            "notes": {
+                              "notesBiblical": "La descripción del destino de Caín, quien fue marcado y condenado a una vida de errancia y angustia (Génesis 4:12-15), ilustra la idea de que la consecuencia del mal es una forma de muerte en vida, llevando consigo la \"acusación\" de su acto."
+                            },
+                            "originalText": "Ὁ µὲν γὰρ ἀπῄει πρὸς τὸν ἀκύµαντον λιµένα, ἀθάνατον δόξαν κτησάµενος· ὁ δὲ παντὸς θανάτου βίον ἀθλιώτερον ἔζη, στένων καὶ τρέµων, καὶ ἐν τῷ σώµατι τὴν κατηγορίαν τοῦ γενοµένου περιφέρων.",
+                            "spanishTranslation": "Porque el uno [Abel] partió hacia el puerto sin olas, habiendo adquirido gloria inmortal; y el otro [Caín] vivió una vida más miserable que toda muerte, gimiendo y temblando, y llevando en su cuerpo la acusación de lo que había hecho."
+                          },
+                          {
+                            "lineNumber": [
+                              8521
+                            ],
+                            "originalText": "Μὴ δὴ τοῦτο διώκωµεν, ἀλλ' ἐκεῖνο.",
+                            "spanishTranslation": "No busquemos esto, sino aquello."
+                          },
+                          {
+                            "lineNumber": [
+                              8522,
+                              8523,
+                              8524
+                            ],
+                            "notes": {
+                              "notesGreek": "La repetición de \"οἴκοι\" (oikoi), 'en casa', enfatiza la naturaleza intrínseca y permanente del mal para el que lo comete, en contraste con el carácter externo y transitorio del sufrimiento para el que lo padece con paciencia."
+                            },
+                            "originalText": "Ὁ µὲν γὰρ κακῶς πάσχων οὐκ ἔχει µόνιµον οἴκοι τὸ κακόν· οὐ γὰρ αὐτὸς αὐτὸ ἔτεκεν, ἀλλ' ἑτέρωθεν αὐτὸ δεξάµενος, ἐποίησεν ἀγαθὸν διὰ τῆς ὑποµονῆς· ὁ δὲ ποιήσας κακῶς, οἴκοι τὴν πληγὴν ἔχει τῆς κακίας.",
+                            "spanishTranslation": "Porque el que sufre mal no tiene el mal de manera permanente en casa; pues él mismo no lo engendró, sino que al recibirlo de otro, lo hizo un bien por medio de la paciencia; en cambio, el que hizo el mal, tiene la herida de la maldad en casa."
+                          },
+                          {
+                            "lineNumber": [
+                              8525
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a la historia de José y la esposa de Potifar (Génesis 39). José fue encarcelado injustamente, mientras que la mujer, aunque culpable, mantuvo una posición de poder y lujo. Crisóstomo usa \"πόρνη\" (pornē) de forma despectiva para referirse a la esposa de Potifar, destacando su depravación moral a pesar de su estatus social."
+                            },
+                            "originalText": "Οὐχ ὁ Ἰωσὴφ ἐν δεσµωτηρίῳ ἦν, ἡ δὲ ἐπιβουλεύσασα αὐτῷ πόρνη ἐν οἰκίᾳ λαµπρᾷ καὶ περιφανεῖ;",
+                            "spanishTranslation": "¿No estaba José en la prisión, mientras que la ramera que lo había incriminado estaba en una casa espléndida y prominente?"
+                          },
+                          {
+                            "lineNumber": [
+                              8526
+                            ],
+                            "originalText": "Τίς ἂν οὖν ἠθέλησας γενέσθαι;",
+                            "spanishTranslation": "¿Quién hubieras querido ser entonces?"
+                          },
+                          {
+                            "lineNumber": [
+                              8527,
+                              8528
+                            ],
+                            "notes": {
+                              "notesGreek": "La \"ἀντίδοσις\" (antídosis) es la recompensa o retribución, a menudo en un sentido de intercambio o compensación final."
+                            },
+                            "originalText": "Καὶ µήπω µοι τὴν ἀντίδοσιν εἴπῃς, ἀλλ' αὐτὰ καθ' ἑαυτὰ ἐξέτασον τὰ γεγενηµένα· καὶ γὰρ οὕτω µυριάκις προτιµήσεις τὸ δεσµωτήριον µετὰ τοῦ Ἰωσὴφ τῆς οἰκίας τῆς τὴν πόρνην ἐχούσης.",
+                            "spanishTranslation": "Y no me digas todavía la recompensa [final], sino examina por sí mismos los acontecimientos; porque así, mil veces preferirías la prisión con José que la casa que tenía a la ramera."
+                          },
+                          {
+                            "lineNumber": [
+                              8529
+                            ],
+                            "notes": {
+                              "notesGreek": "Crisóstomo contrasta el estado del alma de José, caracterizado por \"εὐρυχωρίᾳ\" (eurychōria - amplitud, libertad) y \"παῤῥησίᾳ\" (parrhesía - franqueza, confianza), con el de la esposa de Potifar, que sufre \"στενοχωρίᾳ\" (stenochōria - estrechez, angustia) y un cúmulo de emociones negativas."
+                            },
+                            "originalText": "Καὶ γὰρ εἰ τὴν ἀµφοτέρων ψυχὴν ἴδοις, τὴν µὲν ἐν εὐρυχωρίᾳ καὶ παῤῥησίᾳ ὄψει πολλῇ, τὴν δὲ τῆς Αἰγυπτίας ἐν στενοχωρίᾳ καὶ αἰσχύνῃ, καὶ κατηφείᾳ καὶ θορύβῳ, καὶ ἀθυµίᾳ πολλῇ·",
+                            "spanishTranslation": "Porque si vieras el alma de ambos, verías la de uno [José] en gran amplitud y libertad, y la de la egipcia en estrechez y vergüenza, y abatimiento y tumulto, y mucha desesperación."
+                          },
+                          {
+                            "lineNumber": [
+                              8530
+                            ],
+                            "originalText": "καίτοι γε αὐτὴ ἐδόκει νικᾷν, ἀλλ' οὐκ ἦν αὕτη νίκη.",
+                            "spanishTranslation": "Y sin embargo, ella parecía vencer, pero esa no era victoria."
+                          },
+                          {
+                            "lineNumber": [
+                              8531,
+                              8532
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra \"φιλανθρωπίᾳ\" (philanthrōpia) en contextos teológicos a menudo se refiere a la benevolencia o amor de Dios hacia la humanidad. \"τὰ ἑξῆς\" (ta hexēs), 'y lo que sigue', es una fórmula común en los Padres de la Iglesia para abreviar las doxologías o expresiones finales."
+                            },
+                            "originalText": "Ταῦτ' οὖν εἰδότες, πρὸς τὸ κακῶς παθεῖν ἑαυτοὺς παρασκευάσωµεν, ἵνα καὶ τοῦ παθεῖν κακῶς ἀπαλλαγῶµεν, καὶ τῶν µελλόντων ἐπιτύχωµεν ἀγαθῶν· ὧν γένοιτο πάντας ἡµᾶς ἐπιτυχεῖν, χάριτι καὶ φιλανθρωπίᾳ, καὶ τὰ ἑξῆς.",
+                            "spanishTranslation": "Sabiendo esto, pues, preparémonos para sufrir el mal, para que también nos liberemos de sufrir el mal y alcancemos los bienes futuros; que a todos nosotros nos sea concedido alcanzar estas cosas, por la gracia y la filantropía, y lo que sigue."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

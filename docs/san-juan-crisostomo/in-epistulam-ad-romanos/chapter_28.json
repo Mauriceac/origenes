@@ -1,0 +1,1846 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Iohannes Chrysostomus",
+      "authorSpanish": "San Juan Cristóstomo",
+      "originalTitle": "In Epistulam ad Romanos",
+      "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 28,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 28,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "Homilía",
+                              "28"
+                            ],
+                            "lineNumber": [
+                              9921
+                            ],
+                            "notes": {},
+                            "originalText": "ΟΜΙΛΙΑ ΚΗʹ.",
+                            "spanishTranslation": "HOMILÍA 28."
+                          },
+                          {
+                            "keywords": [
+                              "Cristo Jesús",
+                              "siervo",
+                              "circuncisión",
+                              "verdad de Dios",
+                              "promesas",
+                              "padres"
+                            ],
+                            "lineNumber": [
+                              9922
+                            ],
+                            "notes": {
+                              "notesBiblical": "Este versículo es una cita de Romanos 15:8.",
+                              "notesGreek": "La palabra griega \"διάκονον\" (diákonon) significa 'siervo' o 'ministro'. La forma \"γεγενῆσθαι\" es el infinitivo perfecto de 'γίγνομαι', que significa 'llegar a ser', 'convertirse en', indicando una acción completada con resultados duraderos.",
+                              "notesLinguistics": "La construcción \"εἰς τὸ βεβαιῶσαι\" (eis to bebaiōsai) es una expresión común en griego para indicar propósito, equivalente a 'para confirmar'."
+                            },
+                            "originalText": "Λέγω δὲ Χριστὸν Ἰησοῦν διάκονον γεγενῆσθαι περιτοµῆς ὑπὲρ ἀληθείας Θεοῦ, εἰς τὸ βεβαιῶ σαι τὰς ἐπαγγελίας τῶν πατέρων.",
+                            "spanishTranslation": "Pues digo que Cristo Jesús se ha hecho siervo de la circuncisión por la verdad de Dios, para confirmar las promesas de los padres."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 28,
+                    "chapterSummary": "El capítulo 28 de las Homilías sobre Romanos de Juan Crisóstomo profundiza en el papel de Cristo en el cumplimiento de las promesas de Dios, enfatizando que su venida no fue para mantener la ley, sino para abolir su maldición y liberar de su dominio. Se explica cómo la salvación de los judíos, que transgredieron la ley, y la de los gentiles, que la reciben solo por misericordia, se basa en la gracia. Crisóstomo exhorta a la unidad entre judíos y gentiles para glorificar a Dios, y cita diversas escrituras para fundamentar la necesidad de que ambos grupos actúen con humildad y moderación, reconociendo que todos son deudores de la gracia divina.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "Cristo",
+                              "providencia",
+                              "obras",
+                              "abnegación"
+                            ],
+                            "lineNumber": [
+                              9924
+                            ],
+                            "originalText": "Πάλιν περὶ τῆς τοῦ Χριστοῦ κηδεµονίας διαλέγεται, ἔτι τοῦ αὐτοῦ κεφαλαίου ἐχόµενος, καὶ δεικνὺς ὅσα ἐποίησεν ὑπὲρ ἡµῶν, καὶ πῶς οὐχ ἑαυτῷ ἤρεσε.",
+                            "spanishTranslation": "De nuevo habla de la providencia de Cristo, manteniéndose todavía en el mismo tema, y mostrando cuánto hizo por nosotros y cómo no se complació a sí mismo."
+                          },
+                          {
+                            "keywords": [
+                              "gentiles",
+                              "deudores",
+                              "Dios",
+                              "gracia",
+                              "judíos",
+                              "débiles",
+                              "soportar"
+                            ],
+                            "lineNumber": [
+                              9925,
+                              9926
+                            ],
+                            "originalText": "Καὶ µετὰ τούτου κἀκεῖνο κατασκευάζει, ὅτι µειζόνων εἰσὶν οἱ ἐξ ἐθνῶν ὀφειλέται τῷ Θεῷ. Εἰ δὲ µειζόνων εἰσὶ, δίκαιοι ἂν εἶεν φέρειν τοὺς ἐξ Ἰουδαίων ἀσθενεῖς.",
+                            "spanishTranslation": "Y con esto también establece que los gentiles son deudores de Dios por mayores bienes. Y si son deudores por mayores bienes, justo sería que soportaran a los judíos débiles."
+                          },
+                          {
+                            "keywords": [
+                              "judíos",
+                              "gentiles",
+                              "promesas",
+                              "misericordia",
+                              "filantropía",
+                              "humildad",
+                              "cita bíblica"
+                            ],
+                            "lineNumber": [
+                              9927,
+                              9928
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 15:9, donde Pablo cita Salmos 18:49 (LXX 17:50)."
+                            },
+                            "originalText": "Ἐπειδὴ γὰρ σφόδρα ἐκείνων καθήψατο, ἵνα µὴ τούτους ἐπάρῃ τοῦτο, καταστέλλει πάλιν αὐτῶν τὴν ἀπόνοιαν, ἐκείνοις µὲν ἐξ ἐπαγγελίας πατέρων δεικνὺς διδόµενα τὰ ἀγαθὰ, τοῖς δὲ ἐξ ἐθνῶν, ἐξ ἐλέου καὶ φιλανθρωπίας µόνης· διὸ καὶ ἔλεγε, Τὰ δὲ ἔθνη ὑπὲρ ἐλέου δοξάσαι τὸν Θεόν.",
+                            "spanishTranslation": "Porque dado que reprendió duramente a aquellos (los judíos), para que esto no envaneciera a estos (los gentiles), refrena de nuevo su presunción, mostrando que a aquellos los bienes les fueron dados por promesa a los padres, mientras que a los gentiles, solo por misericordia y filantropía; por eso decía: «Y los gentiles glorifican a Dios por Su misericordia»."
+                          },
+                          {
+                            "keywords": [
+                              "clarificación",
+                              "Cristo",
+                              "ministro",
+                              "circuncisión",
+                              "promesas",
+                              "padres",
+                              "significado"
+                            ],
+                            "lineNumber": [
+                              9929,
+                              9930
+                            ],
+                            "notes": {
+                              "notesBiblical": "La frase 'Cristo, ministro de la circuncisión por la verdad de Dios, para confirmar las promesas hechas a los padres' se encuentra en Romanos 15:8.",
+                              "notesGreek": "La expresión 'διάκονον περιτοµῆς' (diákonon peritomēs) significa 'ministro de la circuncisión', refiriéndose a Cristo como el servidor de los judíos circuncidados, cumpliendo las promesas hechas a ellos."
+                            },
+                            "originalText": "Ἵνα δὲ σαφέστερον γένηται τὸ λεγόµενον, αὐτῶν πάλιν ἄκουσον τῶν ῥηµάτων, ἵνα µάθῃς τί ἐστι τὸ Ὑπὲρ ἀληθείας Θεοῦ γεγενῆσθαι τὸν Χριστὸν διάκονον περιτοµῆς, εἰς τὸ βεβαιῶσαι τὰς ἐπαγγελίας τῶν πατέρων. Τί ποτ' οὖν ἐστι τὸ εἰρηµένον;",
+                            "spanishTranslation": "Pero para que lo dicho se haga más claro, escucha de nuevo las palabras mismas, para que sepas qué significa que «Cristo se haya hecho ministro de la circuncisión por la verdad de Dios, para confirmar las promesas hechas a los padres». ¿Qué significa entonces lo dicho?"
+                          },
+                          {
+                            "keywords": [
+                              "promesa",
+                              "Abraham",
+                              "tierra",
+                              "descendencia",
+                              "bendición",
+                              "naciones"
+                            ],
+                            "lineNumber": [
+                              9931,
+                              9932
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a las promesas hechas a Abraham, como en Génesis 12:7 ('A tu descendencia daré esta tierra') y 22:18 ('En tu descendencia serán bendecidas todas las naciones de la tierra')."
+                            },
+                            "originalText": "Ἐπαγγελία πρὸς τὸν Ἀβραὰµ ἦν γεγενηµένη λέγουσα· Σοὶ δώσω τὴν γῆν καὶ τῷ σπέρµατί σου, καὶ, Ἐν τῷ σπέρµατί σου ἐνευλογηθήσονται πάντα τὰ ἔθνη.",
+                            "spanishTranslation": "Una promesa había sido hecha a Abraham, diciendo: «A ti te daré la tierra y a tu descendencia», y: «En tu descendencia serán bendecidas todas las naciones»."
+                          },
+                          {
+                            "keywords": [
+                              "descendencia de Abraham",
+                              "castigo",
+                              "ley",
+                              "transgresión",
+                              "ira",
+                              "promesa",
+                              "padres"
+                            ],
+                            "lineNumber": [
+                              9933,
+                              9934
+                            ],
+                            "originalText": "Ἀλλ' ἐγένοντο κολάσεως ὑπεύθυνοι µετὰ ταῦτα οἱ τοῦ σπέρµατος Ἀβραὰµ ἅπαντες. Ὁ γὰρ νόµος ὀργὴν αὐτοῖς κατειργάζετο παραβαινόµενος, καὶ τῆς ἐπαγγελίας ἀπεστέρει λοιπὸν ἐκείνης τῆς τῶν πατέρων.",
+                            "spanishTranslation": "Pero después de esto, toda la descendencia de Abraham se hizo responsable de castigo. Pues la ley, al ser transgredida, les producía ira, y por lo tanto los privaba de aquella promesa de los padres."
+                          },
+                          {
+                            "keywords": [
+                              "Hijo",
+                              "Padre",
+                              "cooperación",
+                              "promesas",
+                              "cumplimiento",
+                              "ley",
+                              "circuncisión",
+                              "cruz",
+                              "maldición",
+                              "transgresión"
+                            ],
+                            "lineNumber": [
+                              9935,
+                              9936
+                            ],
+                            "originalText": "Παραγενόµενος τοίνυν ὁ Υἱὸς συνέπραξε τῷ Πατρὶ, εἰς τὸ τὰς ἐπαγγελίας ἐκείνας ἀληθεῦσαι, καὶ εἰς τέλος ἐξελθεῖν. Πάντα γὰρ τὸν νόµον πληρώσας ἐν ᾧ καὶ περιτοµὴν, καὶ ταύτῃ καὶ διὰ τοῦ σταυροῦ τῆς κατάρας ἀπαλλάξας τῆς ἐπὶ τῇ παραβάσει, οὐκ ἀφῆκε διαπεσεῖν τὴν ἐπαγγελίαν.",
+                            "spanishTranslation": "Por lo tanto, habiendo venido el Hijo, cooperó con el Padre para que aquellas promesas fueran verdaderas y llegaran a su cumplimiento. Porque habiendo cumplido toda la ley, incluyendo la circuncisión, y por esto y a través de la cruz, habiendo liberado de la maldición de la transgresión, no dejó que la promesa cayera en el vacío."
+                          },
+                          {
+                            "keywords": [
+                              "ministro de la circuncisión",
+                              "Cristo",
+                              "ley",
+                              "cumplimiento",
+                              "circuncisión",
+                              "descendencia de Abraham",
+                              "maldición",
+                              "ira de Dios",
+                              "promesa",
+                              "liberación"
+                            ],
+                            "lineNumber": [
+                              9937
+                            ],
+                            "notes": {
+                              "notesGreek": "Crisóstomo profundiza en el significado de 'διάκονον περιτοµῆς' (ministro de la circuncisión), explicando que la circuncisión de Cristo y el cumplimiento de la ley tenían como propósito anular la maldición y la ira divina provocadas por la transgresión, preparando a los que recibirían la promesa."
+                            },
+                            "originalText": "Ὅταν οὖν λέγῃ, ∆ιάκονον περιτοµῆς, τοῦτο λέγει, ὅτι ἐλθὼν, καὶ πάντα τὸν νόµον πληρώσας, καὶ περιτµηθεὶς, καὶ γενόµενος σπέρµα τοῦ Ἀβραὰµ, ἔλυσε τὴν κατάραν, ἔπαυσε τοῦ Θεοῦ τὴν ὀργὴν, ἐπιτηδείους λοιπὸν ἐποίησε τοὺς µέλλοντας δέχεσθαι τὴν ἐπαγγελίαν, ἅπαξ ἀπαλλαγέντας τοῦ προσκεκρουκέναι.",
+                            "spanishTranslation": "Así pues, cuando dice «ministro de la circuncisión», significa esto: que, habiendo venido, y habiendo cumplido toda la ley, y habiendo sido circuncidado, y habiéndose convertido en descendencia de Abraham, disolvió la maldición, detuvo la ira de Dios, e hizo idóneos a los que iban a recibir la promesa, una vez liberados de haber ofendido."
+                          },
+                          {
+                            "keywords": [
+                              "objeción",
+                              "Cristo",
+                              "circuncisión",
+                              "ley",
+                              "respuesta"
+                            ],
+                            "lineNumber": [
+                              9938,
+                              9939
+                            ],
+                            "originalText": "Ἵν' οὖν µὴ λέγωσιν οὗτοι οἱ ἐγκαλούµενοι, Πῶς οὖν ὁ Χριστὸς περιετέµνετο, καὶ πάντα τὸν νόµον ἐφύλαττεν; εἰς τοὐναντίον αὐτὸ περιτρέπει.",
+                            "spanishTranslation": "Para que aquellos que son acusados no digan: «¿Cómo entonces Cristo fue circuncidado y guardó toda la ley?», Él lo revierte a lo contrario."
+                          },
+                          {
+                            "keywords": [
+                              "Cristo",
+                              "ley",
+                              "abolición",
+                              "liberación",
+                              "maldición",
+                              "dominio"
+                            ],
+                            "lineNumber": [
+                              9940
+                            ],
+                            "notes": {
+                              "notesLinguistics": "Crisóstomo distingue aquí entre el 'cumplimiento' (πληρώσας) de la ley por parte de Cristo y la 'disolución' (λύσῃ) o abolición de su poder sobre los creyentes. Cristo cumplió la ley para liberarnos de su maldición, no para que nosotros la mantuviéramos."
+                            },
+                            "originalText": "Οὐ γὰρ ἵνα µείνῃ ὁ νόµος, τοῦτο ἐποίησε, φησὶν, ἀλλ' ἵνα αὐτὸν λύσῃ, καὶ σὲ ἀπαλλάξῃ τῆς ἐπικειµένης κατάρας, καὶ ἐλευθερώσῃ καθόλου τῆς ἀρχῆς τῆς ἐκείνου.",
+                            "spanishTranslation": "Pues no hizo esto, dice, para que la ley permaneciera, sino para que la disolviera, y te liberara de la maldición inminente, y te emancipara por completo de su dominio."
+                          },
+                          {
+                            "keywords": [
+                              "transgresión",
+                              "cumplimiento de Cristo",
+                              "promesas",
+                              "padres",
+                              "indignidad",
+                              "herencia"
+                            ],
+                            "lineNumber": [
+                              9941
+                            ],
+                            "originalText": "Ἐπειδὴ γὰρ σὺ παρέβης τὸν νόµον, διὰ τοῦτο ἐκεῖνος ἐπλήρωσεν, οὐχ ἵνα σὺ πληρώσῃς, ἀλλ' ἵνα σοι τὰς ἐπαγγελίας βεβαιώσῃ τὰς πρὸς τοὺς πατέρας, ἃς ὁ νόµος διαπεσεῖν ἐποίει, δεικνύς σε προσκεκρουκότα καὶ τῆς κληρονοµίας ὄντα ἀνάξιον·",
+                            "spanishTranslation": "Porque dado que tú transgrediste la ley, por esta razón Él la cumplió, no para que tú la cumplieras, sino para que te confirmara las promesas hechas a los padres, que la ley hacía fracasar, mostrándote como ofensor e indigno de la herencia."
+                          },
+                          {
+                            "keywords": [
+                              "gracia",
+                              "salvación",
+                              "rechazado"
+                            ],
+                            "lineNumber": [
+                              9942,
+                              9943
+                            ],
+                            "originalText": "ὥστε καὶ σὺ κατὰ χάριν ἐσώθης· καὶ γὰρ ἀποβεβληµένος ἦς.",
+                            "spanishTranslation": "Así que tú también fuiste salvado por gracia; pues habías sido rechazado."
+                          },
+                          {
+                            "keywords": [
+                              "contienda",
+                              "ley",
+                              "promesa",
+                              "sufrimiento de Cristo"
+                            ],
+                            "lineNumber": [
+                              9944
+                            ],
+                            "originalText": "Μὴ τοίνυν στασίαζε, µηδὲ φιλονείκει ἀντεχόµενος ἀκαίρως τοῦ νόµου, ὃς καὶ τῆς ἐπαγγελίας ἐξέβαλεν ἂν, εἰ µὴ τοσαῦτα ἔπαθεν ὑπὲρ σοῦ ὁ Χριστός.",
+                            "spanishTranslation": "No contiendas, pues, ni te opongas, aferrándote inoportunamente a la ley, la cual te habría excluido de la promesa, si Cristo no hubiera padecido tanto por ti."
+                          },
+                          {
+                            "keywords": [
+                              "sufrimiento de Cristo",
+                              "indignidad",
+                              "fidelidad de Dios"
+                            ],
+                            "lineNumber": [
+                              9945
+                            ],
+                            "originalText": "Ἔπαθε δὲ ταῦτα, οὐκ ἐπειδὴ σὺ ἄξιος ἦς σωτηρίας, ἀλλ' ὥστε ἀληθεῦσαι τὸν Θεόν.",
+                            "spanishTranslation": "Pero padeció estas cosas, no porque tú fueras digno de salvación, sino para que Dios fuera veraz."
+                          },
+                          {
+                            "keywords": [
+                              "gentiles",
+                              "humildad",
+                              "prevención",
+                              "gloria",
+                              "Dios",
+                              "misericordia"
+                            ],
+                            "lineNumber": [
+                              9946,
+                              9947
+                            ],
+                            "notes": {
+                              "notesBiblical": "Reiteración de la cita de Romanos 15:9 / Salmos 18:49 (LXX 17:50)."
+                            },
+                            "originalText": "Εἶτα, ἵνα µὴ τοῦτο φυσήσῃ τὸν ἐξ ἐθνῶν, φησί· Τὰ δὲ ἔθνη ὑπὲρ ἐλέους δοξάσαι τὸν Θεόν.",
+                            "spanishTranslation": "Luego, para que esto no envaneciera al gentil, dice: «Y los gentiles glorifican a Dios por Su misericordia»."
+                          },
+                          {
+                            "keywords": [
+                              "significado",
+                              "judíos",
+                              "promesas",
+                              "indignidad",
+                              "gentiles",
+                              "salvación",
+                              "filantropía"
+                            ],
+                            "lineNumber": [
+                              9948,
+                              9949,
+                              9950
+                            ],
+                            "originalText": "Ὃ δὲ λέγει, τοιοῦτόν ἐστιν· Οἱ µὲν Ἰουδαῖοι κἂν ἐπαγγελίας εἶχον, εἰ καὶ ἀνάξιοι ἦσαν· σὺ δὲ οὐδὲ τοῦτο, ἀλλ' ἀπὸ φιλανθρωπίας ἐσώθης µόνης.",
+                            "spanishTranslation": "Lo que quiere decir es esto: Los judíos al menos tenían promesas, aunque fueran indignos; pero tú (el gentil) ni siquiera esto, sino que fuiste salvado solo por filantropía."
+                          },
+                          {
+                            "keywords": [
+                              "judíos",
+                              "promesas",
+                              "Cristo",
+                              "cumplimiento",
+                              "templar",
+                              "tolerar",
+                              "débiles",
+                              "gentiles",
+                              "salvación",
+                              "misericordia",
+                              "gloria",
+                              "Dios",
+                              "justicia"
+                            ],
+                            "lineNumber": [
+                              9951,
+                              9952,
+                              9953,
+                              9954
+                            ],
+                            "originalText": "Εἰ καὶ τὰ µάλιστα οὐδὲ ἐκείνοις τι πλέον ἐγένετο ἀπὸ τῆς ἐπαγγελίας, εἰ µὴ παρεγένετο ὁ Χριστός· ἀλλ' ὅµως ἵνα αὐτοὺς κεράσῃ, καὶ συγχωρήσῃ κατεξανίστασθαι τῶν ἀσθενῶν, µέµνηται τῶν ἐπαγγελιῶν· περὶ δὲ τούτων φησὶν, ὅτι ἐλέει ἐσώθησαν µόνῳ· διὸ καὶ δίκαιοι ἂν εἶεν µάλιστα δοξάζειν τὸν Θεόν.",
+                            "spanishTranslation": "Aunque, en realidad, nada más les hubiera beneficiado (a los judíos) de la promesa, si Cristo no hubiera venido; sin embargo, para moderarlos y para que no se enseñorearan de los débiles, se acuerda de las promesas; y acerca de estos (los gentiles) dice que fueron salvados solo por misericordia; por eso serían especialmente justos al glorificar a Dios."
+                          },
+                          {
+                            "keywords": [
+                              "gloria a Dios",
+                              "unidad",
+                              "concordia",
+                              "soportar al débil",
+                              "iglesia"
+                            ],
+                            "lineNumber": [
+                              9955
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo expande la noción de 'gloria a Dios' más allá de la alabanza verbal, incluyendo la práctica de la unidad, la armonía comunitaria y el apoyo mutuo entre los creyentes, especialmente hacia los más débiles."
+                            },
+                            "originalText": "∆όξα δὲ Θεῷ, τὸ συνῆφθαι, τὸ ἡνῶσθαι, τὸ ὁµοθυµαδὸν εὐφηµεῖν, τὸ βαστάζειν τὸν ἀσθενέστερον, τὸ µὴ περιορᾷν ἀποῤῥηγνύµενον τὸ µέλος.",
+                            "spanishTranslation": "Y la gloria a Dios es el estar unidos, el estar cohesionados, el alabar con una misma mente, el soportar al más débil, el no pasar por alto que un miembro sea arrancado."
+                          },
+                          {
+                            "keywords": [
+                              "testimonios",
+                              "unidad",
+                              "judíos",
+                              "gentiles",
+                              "escritura",
+                              "cita"
+                            ],
+                            "lineNumber": [
+                              9956,
+                              9957
+                            ],
+                            "originalText": "Εἶτα καὶ µαρτυρίας ἐπάγει, ἐν αἷς δείκνυσιν, ὅτι δεῖ συνῆφθαι τοὺς ἐξ Ἰουδαίων τοῖς ἐξ ἐθνῶν, οὕτω λέγων· Καθὼς γέγραπται·",
+                            "spanishTranslation": "Luego también presenta testimonios, en los que muestra que los judíos deben unirse con los gentiles, diciendo así: «Como está escrito»:"
+                          },
+                          {
+                            "keywords": [
+                              "salmos",
+                              "alabanza",
+                              "naciones",
+                              "Señor",
+                              "cita bíblica"
+                            ],
+                            "lineNumber": [
+                              9958
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 15:9, que a su vez es de Salmos 18:49 (LXX 17:50)."
+                            },
+                            "originalText": "∆ιὰ τοῦτο ἐξοµολογήσοµαί σοι ἐν ἔθνεσι, Κύριε, καὶ τῷ ὀνόµατί σου ψαλῶ·",
+                            "spanishTranslation": "«Por esto te confesaré entre los gentiles, Señor, y cantaré a tu nombre»;"
+                          },
+                          {
+                            "keywords": [
+                              "Deuteronomio",
+                              "gozo",
+                              "naciones",
+                              "pueblo de Dios",
+                              "cita bíblica"
+                            ],
+                            "lineNumber": [
+                              9959
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 15:10, que a su vez es de Deuteronomio 32:43 (LXX)."
+                            },
+                            "originalText": "καὶ, Εὐφράνθητε, ἔθνη, µετὰ τοῦ λαοῦ αὐτοῦ·",
+                            "spanishTranslation": "y: «Alégrense, gentiles, con su pueblo»;"
+                          },
+                          {
+                            "keywords": [
+                              "salmos",
+                              "alabanza",
+                              "naciones",
+                              "pueblos",
+                              "Señor",
+                              "cita bíblica"
+                            ],
+                            "lineNumber": [
+                              9960
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 15:11, que a su vez es de Salmos 117:1 (LXX 116:1)."
+                            },
+                            "originalText": "καὶ, Αἰνεῖτε, πάντα τὰ ἔθνη, τὸν Κύριον, ἐπαινέσατε αὐτὸν, πάντες οἱ λαοί·",
+                            "spanishTranslation": "y: «Alaben al Señor, todas las naciones, alábenlo, todos los pueblos»;"
+                          },
+                          {
+                            "keywords": [
+                              "Isaías",
+                              "raíz de Jesé",
+                              "gobernar",
+                              "naciones",
+                              "esperanza",
+                              "cita bíblica"
+                            ],
+                            "lineNumber": [
+                              9961,
+                              9962
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 15:12, que a su vez es de Isaías 11:10 (LXX)."
+                            },
+                            "originalText": "καὶ, Ἔσται ἡ ῥίζα τοῦ Ἰεσσαὶ, καὶ ὁ ἀνιστάµενος ἄρχειν ἐθνῶν· ἐπ' αὐτῷ ἔθνη ἐλπιοῦσι.",
+                            "spanishTranslation": "y: «Habrá la raíz de Jesé, y el que se levanta para gobernar a las naciones; en Él esperarán las naciones»."
+                          },
+                          {
+                            "keywords": [
+                              "unidad",
+                              "gloria a Dios",
+                              "humildad",
+                              "judíos",
+                              "gentiles",
+                              "profetas",
+                              "gracia"
+                            ],
+                            "lineNumber": [
+                              9963
+                            ],
+                            "originalText": "Ταῦτα δὲ πάντα παρήγαγε, δεικνὺς ὅτι δεῖ ἡνῶσθαι καὶ δοξάζειν τὸν Θεὸν, ὁµοῦ καὶ τὸν ἐξ Ἰουδαίων καταστέλλων, ἵνα µὴ ἐπαίρηται κατὰ τούτου, τῶν προφητῶν πάντων τούτους καλούντων, καὶ τὸν ἐξ ἐθνῶν πείθων µετριάζειν, τῷ δεῖξαι πλείονος ὑπεύθυνον ὄντα χάριτος.",
+                            "spanishTranslation": "Y todas estas cosas las trajo a colación, mostrando que es necesario estar unidos y glorificar a Dios, y al mismo tiempo refrenando al judío, para que no se envaneciera contra este (el gentil), ya que todos los profetas llaman a estos; y persuadiendo al gentil a ser moderado, al mostrarle que es deudor de una gracia mayor."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 28,
+                    "chapterSummary": "San Juan Crisóstomo concluye la homilía enfatizando la importancia de abundar en esperanza, impulsada por el Espíritu Santo y manifestada en buenas obras. Advierte contra la gravedad del pecado, considerándolo una 'locura autoimpuesta' más perjudicial que la influencia demoníaca. Finalmente, exhorta a la lectura y meditación de las Escrituras, especialmente los Salmos de David, para encontrar consuelo, sabiduría y comprensión sobre la creación divina, desde el cielo y la tierra hasta los fenómenos naturales y el propósito de cada ser vivo, todo dispuesto por la providencia de Dios para el hombre.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "oración",
+                              "esperanza",
+                              "gozo",
+                              "paz",
+                              "creer",
+                              "Espíritu Santo"
+                            ],
+                            "lineNumber": [
+                              9965,
+                              9966
+                            ],
+                            "notes": {
+                              "notesBiblical": "La oración citada es de Romanos 15:13, donde Pablo ora para que la comunidad de Roma abunde en esperanza por el poder del Espíritu Santo."
+                            },
+                            "originalText": "Εἶτα πάλιν ἐπὶ εὐχὴν κατακλείει τὸν λόγον, λέγων· Ὁ δὲ Θεὸς τῆς ἐλπίδος πληρώσαι ὑµᾶς πάσης χαρᾶς καὶ εἰρήνης ἐν τῷ πιστεύειν, εἰς τὸ περισσεύειν ἐν τῇ ἐλπίδι, ἐν δυνάµει Πνεύµατος ἁγίου.",
+                            "spanishTranslation": "Luego, de nuevo, concluye el discurso con una oración, diciendo: «El Dios de la esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo»."
+                          },
+                          {
+                            "keywords": [
+                              "liberación",
+                              "desazón",
+                              "tentaciones",
+                              "abundar",
+                              "esperanza"
+                            ],
+                            "lineNumber": [
+                              9967,
+                              9968
+                            ],
+                            "originalText": "Τουτέστιν, ἀπαλλαγείητε τῆς πρὸς ἀλλήλους ἀθυµίας, καὶ µὴ καταβληθείητέ ποτε ὑπὸ τῶν πειρασµῶν· τοῦτο δὲ ἔσται ἐν τῷ περισσεύειν ὑµᾶς ἐν [[60.651]] τῇ ἐλπίδι.",
+                            "spanishTranslation": "Es decir, que seáis liberados de la desazón mutua y no seáis jamás abatidos por las tentaciones; y esto sucederá al abundar vosotros en la esperanza."
+                          },
+                          {
+                            "keywords": [
+                              "bienes",
+                              "Espíritu Santo",
+                              "esfuerzo humano"
+                            ],
+                            "lineNumber": [
+                              9969,
+                              9970,
+                              9971
+                            ],
+                            "originalText": "Τὸ δὲ πάντων αἴτιον τῶν ἀγαθῶν τοῦτο. Τοῦτο δὲ ἀπὸ Πνεύµατος ἔσται ἁγίου· ἀλλ' οὐχ ἁπλῶς ἀπὸ Πνεύµατος, ἀλλ' ἐὰν καὶ τὰ παρ' ἡµῶν εἰσενέγκωµεν.",
+                            "spanishTranslation": "Esto es la causa de todos los bienes. Y esto será del Espíritu Santo; pero no simplemente del Espíritu, sino si nosotros también aportamos lo nuestro."
+                          },
+                          {
+                            "keywords": [
+                              "creer",
+                              "gozo",
+                              "fe",
+                              "esperanza"
+                            ],
+                            "lineNumber": [
+                              9972,
+                              9973
+                            ],
+                            "originalText": "∆ιὰ τοῦτό φησιν, Ἐν τῷ πιστεύειν· οὕτω γὰρ δύνασθε πληρωθῆναι χαρᾶς, ἐὰν πιστεύητε, ἐὰν ἐλπίζητε.",
+                            "spanishTranslation": "Por eso dice: «En el creer»; porque así podéis ser llenados de gozo, si creéis, si esperáis."
+                          },
+                          {
+                            "keywords": [
+                              "abundancia",
+                              "esperanza",
+                              "consuelo",
+                              "gozo",
+                              "fe"
+                            ],
+                            "lineNumber": [
+                              9974
+                            ],
+                            "originalText": "Ἀλλ' οὐκ εἶπεν, Ἐὰν ἐλπίζητε, ἀλλ', Ἐὰνπερισσεύητε ἐν τῇ ἐλπίδι, ὥστε µὴ µόνον παραµυθίαν εὑρεῖν τῶν δεινῶν, ἀλλὰ καὶ χαρὰν ἔχειν διὰ τὴν περιουσίαν τῆς πίστεως καὶ τῆς ἐλπίδος.",
+                            "spanishTranslation": "Pero no dijo: «Si esperáis», sino: «Si abundáis en la esperanza», para que no solo encontréis consuelo en las desgracias, sino que también tengáis gozo por la riqueza de la fe y la esperanza."
+                          },
+                          {
+                            "keywords": [
+                              "atraer el Espíritu",
+                              "bienes",
+                              "conservación"
+                            ],
+                            "lineNumber": [
+                              9975,
+                              9976
+                            ],
+                            "originalText": "Οὕτω καὶ τὸ Πνεῦµα ἐπισπάσεσθε· οὕτω καὶ ἐκείνου παραγενοµένου, τὰ ἀγαθὰ διατηρήσετε πάντα.",
+                            "spanishTranslation": "Así también atraeréis el Espíritu; así también, habiendo Él venido, conservaréis todos los bienes."
+                          },
+                          {
+                            "keywords": [
+                              "vida",
+                              "alimento",
+                              "obras",
+                              "Espíritu"
+                            ],
+                            "lineNumber": [
+                              9977,
+                              9978,
+                              9979
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La palabra griega 'οἰκονοµεῖ' (oikonomei) en este contexto sugiere una gestión o disposición mutua, donde la vida se beneficia del alimento, y a su vez, la vida 'administra' el alimento para su sustento, aludiendo a la interdependencia entre el Espíritu y las buenas obras."
+                            },
+                            "originalText": "Καθάπερ γὰρ τὴν ζωὴν ἡµῶν ἡ τροφὴ διακρατεῖ, καὶ ταύτην ἡ ζωὴ οἰκονοµεῖ· οὕτως ἐὰν ἔχωµεν ἔργα ἀγαθὰ, τὸ Πνεῦµα ἕξοµεν· κἂν τὸ Πνεῦµα ἔχωµεν καὶ ἔργα ἕξοµεν ἀγαθά·",
+                            "spanishTranslation": "Porque así como el alimento sustenta nuestra vida y la vida lo administra, así si tenemos buenas obras, tendremos el Espíritu; y si tenemos el Espíritu, tendremos también buenas obras."
+                          },
+                          {
+                            "keywords": [
+                              "ausencia de obras",
+                              "Espíritu se aleja",
+                              "impureza",
+                              "pecado"
+                            ],
+                            "lineNumber": [
+                              9980,
+                              9981,
+                              9982
+                            ],
+                            "originalText": "ὡσπεροῦν καὶ τοὐναντίον, ἐὰν µὴ ἔργα ἔχωµεν, τὸ Πνεῦµα ἀφίπταται. Ἐὰν δὲ τοῦ Πνεύµατος ἐρηµωθῶµεν, καὶ περὶ τὰ ἔργα χωλεύσοµεν· ὅταν γὰρ τοῦτο ἀπέλθῃ, τὸ ἀκάθαρτον ἔρχεται·",
+                            "spanishTranslation": "Y así, por el contrario, si no tenemos obras, el Espíritu se aleja. Y si somos privados del Espíritu, también cojearemos en cuanto a las obras; porque cuando este se va, viene lo impuro."
+                          },
+                          {
+                            "keywords": [
+                              "Saúl",
+                              "estrangulamiento",
+                              "malas acciones",
+                              "pecado"
+                            ],
+                            "lineNumber": [
+                              9983,
+                              9984,
+                              9985
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a la historia de Saúl, a quien el espíritu maligno atormentaba (1 Samuel 16:14-23). Crisóstomo compara este tormento con el 'estrangulamiento' espiritual que provocan las malas acciones."
+                            },
+                            "originalText": "καὶ δῆλον ἀπὸ τοῦ Σαούλ. Τί γὰρ, εἰ µὴ πνίγει ἡµᾶς ὥσπερ ἐκεῖνον; Ἀλλ' ἑτέρως ἀπαγχονίζει διὰ πράξεων πονηρῶν.",
+                            "spanishTranslation": "Y es claro por Saúl. Porque, ¿qué importa si no nos estrangula como a él? Sino que de otra manera nos ahorca por medio de malas acciones."
+                          },
+                          {
+                            "keywords": [
+                              "cítara de David",
+                              "melodías divinas",
+                              "buenas acciones",
+                              "hipocresía",
+                              "juicio",
+                              "locura"
+                            ],
+                            "lineNumber": [
+                              9986,
+                              9987,
+                              9988
+                            ],
+                            "notes": {
+                              "notesBiblical": "Alusión a la capacidad de David para calmar a Saúl con su arpa (1 Samuel 16:23). Crisóstomo extiende la metáfora a la necesidad de 'cantar' con buenas obras, no solo con palabras, para no caer en la hipocresía."
+                            },
+                            "originalText": "∆εῖ τοίνυν ἡµῖν τῆς κιθάρας τοῦ ∆αυῒδ, ἵνα ἐπᾴδωµεν τῇ ψυχῇ τὰς θείας ἐπῳδὰς, καὶ τὰς ἐντεῦθεν καὶ τὰς ἀπὸ τῶν ἀγαθῶν πράξεων· ὡς ἂν θάτερον µόνον ποιῶµεν, καὶ τῆς ᾠδῆς ἀκούοντες, τῷ ταῦτα ἐπᾴδοντι πολεµῶµεν διὰ τῶν ἔργων, καθάπερ ἐκεῖνος τότε· καὶ εἰς κρῖµα ἡµῖν ἔσται τὸ φάρµακον, καὶ ἀγριωτέρα ἡ µανία γενήσεται.",
+                            "spanishTranslation": "Necesitamos, pues, la cítara de David para cantar a nuestra alma las divinas melodías, tanto las de aquí como las de las buenas acciones; no sea que, haciendo solo una cosa, y oyendo el canto, luchemos con obras contra el que las canta, como él entonces; y la medicina se nos convierta en juicio, y la locura se haga más fiera."
+                          },
+                          {
+                            "keywords": [
+                              "demonio",
+                              "temor",
+                              "rectificar",
+                              "cambio"
+                            ],
+                            "lineNumber": [
+                              9989,
+                              9990
+                            ],
+                            "originalText": "Πρὸ µὲν γὰρ τοῦ ἀκοῦσαι δέδοικεν ὁ πονηρὸς δαίµων, µήποτε ἀκούσαντες κατορθώσωµεν· ὅταν δὲ καὶ ἀκούσαντες οἱ αὐτοὶ µένωµεν, καὶ τοῦτο ἐξαιρεῖται τὸ δέος αὐτοῦ.",
+                            "spanishTranslation": "Porque antes de escuchar, el demonio maligno teme que, habiendo escuchado, podamos rectificar; pero cuando, habiendo escuchado, permanecemos iguales, esto mismo le quita su temor."
+                          },
+                          {
+                            "keywords": [
+                              "canto de obras",
+                              "pecado",
+                              "demonio voluntario",
+                              "locura autoimpuesta"
+                            ],
+                            "lineNumber": [
+                              9991,
+                              9992,
+                              9993,
+                              9994,
+                              9995
+                            ],
+                            "originalText": "Ψάλωµεν τοίνυν τὴν ἀπὸ τῶν πράξεων ᾠδὴν, ἵνα τὴν δαίµονος χαλεπωτέραν ἐκβάλωµεν ἁµαρτίαν. ∆αίµων µὲν γὰρ οὐ πάντως ἀποστερεῖ τῶν οὐρανῶν, ἀλλ' ἔστιν ὅπου καὶ συµπράττει τῷ νήφοντι· ἁµαρτία δὲ πάντως ἐκβάλλει. ∆αίµων γάρ ἐστιν ἑκούσιος αὕτη, καὶ µανία αὐθαίρετος· διόπερ οὐδὲ τοὺς ἐλεοῦντας ἔχει καὶ συγγινώσκοντας.",
+                            "spanishTranslation": "Cantemos, pues, el canto de las obras, para que echemos fuera el pecado, que es más grave que un demonio. Porque un demonio no nos priva necesariamente de los cielos, sino que a veces coopera con el sobrio; pero el pecado sí que nos expulsa del todo. Porque este es un demonio voluntario, y una locura autoimpuesta; por eso no tiene ni a quienes se compadecen y comprenden."
+                          },
+                          {
+                            "keywords": [
+                              "alma",
+                              "Escrituras",
+                              "David",
+                              "cantar",
+                              "mente",
+                              "instrucción"
+                            ],
+                            "lineNumber": [
+                              9996,
+                              9997
+                            ],
+                            "originalText": "Ἐπᾴδωµεν τοίνυν τῇ οὕτω διακειµένῃ ψυχῇ, καὶ ἀπὸ τῶν ἄλλων Γραφῶν, καὶ ἀπὸ τοῦ µακαρίου ∆αυΐδ· καὶ ψαλλέτω τὸ στόµα, καὶ παιδευέσθω ὁ νοῦς.",
+                            "spanishTranslation": "Cantemos, pues, a nuestra alma que se encuentra en tal estado, tanto de las otras Escrituras como del bienaventurado David; y que la boca cante, y que la mente sea instruida."
+                          },
+                          {
+                            "keywords": [
+                              "educar la lengua",
+                              "canto",
+                              "vergüenza",
+                              "alma"
+                            ],
+                            "lineNumber": [
+                              9998,
+                              9999
+                            ],
+                            "originalText": "Οὐκ ἔστιν οὐδὲ τοῦτο αὐτὸ µικρόν· ἂν γὰρ παιδεύσωµεν τὴν γλῶτταν ψάλλειν, αἰσχυνθήσεται ἡ ψυχὴ ταύτης ψαλλούσης τἀναντία βουλοµένη.",
+                            "spanishTranslation": "Ni siquiera esto es poco; porque si educamos la lengua para que cante, el alma se avergonzará de querer lo contrario mientras esta canta."
+                          },
+                          {
+                            "keywords": [
+                              "conocimiento",
+                              "presente",
+                              "futuro",
+                              "visible",
+                              "invisible",
+                              "creación"
+                            ],
+                            "lineNumber": [
+                              10000,
+                              10001,
+                              10002
+                            ],
+                            "originalText": "Οὐ τοῦτο δὲ µόνον καρπωσόµεθα τὸ καλὸν, ἀλλ' ὅτι καὶ πολλὰ ἡµεῖς εἰσόµεθα τῶν ἡµῖν διαφερόντων· καὶ γὰρ καὶ περὶ τῶν παρόντων καὶ τῶν µελλόντων σοι διαλέγεται, καὶ περὶ τῶν ὁρωµένων, καὶ περὶ τῆς ἀοράτου κτίσεως.",
+                            "spanishTranslation": "Y no solo cosecharemos este bien, sino que también nosotros conoceremos muchas cosas que nos conciernen; porque te habla tanto de lo presente como de lo futuro, y de lo visible, y de la creación invisible."
+                          },
+                          {
+                            "keywords": [
+                              "cielo",
+                              "cambio",
+                              "envejecer",
+                              "vestidura",
+                              "creación"
+                            ],
+                            "lineNumber": [
+                              10003
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 102:25-26 (LXX), también citada en Hebreos 1:10-12, que habla de la transitoriedad de la creación material."
+                            },
+                            "originalText": "Κἂν περὶ οὐρανοῦ θέλῃς µαθεῖν, πότερον µένει τοιοῦτος ἢ µεταβάλλεται, σαφῶς ἀποκρινεῖταί σοι καὶ ἐρεῖ, ὅτι Οἱ οὐρανοὶ ὡς ἱµάτιον παλαιωθήσονται, καὶ ὡσεὶ περιβόλαιον ἑλίξεις αὐτοὺς, ὁ Θεὸς, καὶ ἀλλαγήσονται.",
+                            "spanishTranslation": "Y si quieres saber acerca del cielo, si permanece tal cual o si cambia, claramente te responderá y dirá: «Los cielos se envejecerán como una vestidura, y como un manto los enrollarás, oh Dios, y serán cambiados»."
+                          },
+                          {
+                            "keywords": [
+                              "forma del cielo",
+                              "extender",
+                              "piel"
+                            ],
+                            "lineNumber": [
+                              10004,
+                              10005
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:2 (LXX), que describe la acción divina de extender los cielos. También se encuentra una idea similar en Isaías 40:22.",
+                              "notesGreek": "La palabra griega 'δέῤῥιν' (derrhin) significa 'piel' o 'cuero', a menudo usada para referirse a una tienda o cubierta."
+                            },
+                            "originalText": "Καὶ περὶ τοῦ σχήµατος ἂν θέλῃς ἀκοῦσαι, ἀκούσῃ πάλιν· Ὁ ἐκτείνων τὸν οὐρανὸν ὡσεὶ δέῤῥιν.",
+                            "spanishTranslation": "Y si quieres oír sobre su forma, oirás de nuevo: «El que extiende el cielo como una piel»."
+                          },
+                          {
+                            "keywords": [
+                              "aposentos superiores",
+                              "aguas",
+                              "cielo"
+                            ],
+                            "lineNumber": [
+                              10006,
+                              10007
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:3 (LXX), que habla de Dios estableciendo sus aposentos en las aguas superiores."
+                            },
+                            "originalText": "Κἂν περὶ τῶν νώτων αὐτοῦ βουληθῇ τις πλέον εἰδέναι, ἐρεῖ σοι πάλιν· Ὁ στεγάζων ἐν ὕδασι τὰ ὑπερῷα αὐτοῦ.",
+                            "spanishTranslation": "Y si alguien desea saber más acerca de sus aposentos superiores, te dirá de nuevo: «El que cubre de aguas sus aposentos altos»."
+                          },
+                          {
+                            "keywords": [
+                              "anchura",
+                              "altura",
+                              "misericordia",
+                              "iniquidades",
+                              "temor a Dios"
+                            ],
+                            "lineNumber": [
+                              10008,
+                              10009,
+                              10010
+                            ],
+                            "notes": {
+                              "notesBiblical": "Citas de Salmos 103:11-12 (LXX). Crisóstomo interpreta la 'anchura' y 'altura' del cielo como metáforas de la inmensidad de la misericordia de Dios para con los que le temen, al alejar sus iniquidades."
+                            },
+                            "originalText": "Καὶ οὐδὲ ἐνταῦθα ἵσταται, ἀλλὰ καὶ περὶ τοῦ πλάτους καὶ τοῦ ὕψους σοι διαλέγεται, δεικνὺς ταῦτα ἰσόµετρα ὄντα· Καθ' ὅσον γὰρ, φησὶν, ἀπέχουσιν ἀνατολαὶ ἀπὸ δυσµῶν, ἐµάκρυνεν ἀφ' ἡµῶν τὰς ἀνοµίας ἡµῶν. Κατὰ τὸ ὕψος τοῦ οὐρανοῦ ἀπὸ τῆς γῆς ἐκραταίωσε Κύριος τὸ ἔλεος αὐτοῦ ἐπὶ τοὺς φοβουµένους αὐτόν.",
+                            "spanishTranslation": "Y ni siquiera aquí se detiene, sino que también te habla acerca de la anchura y la altura, mostrando que estas son iguales: «Porque, dice, cuanto distan el oriente del occidente, tanto ha alejado de nosotros nuestras iniquidades. Conforme a la altura del cielo sobre la tierra, así ha fortalecido el Señor su misericordia sobre los que le temen»."
+                          },
+                          {
+                            "keywords": [
+                              "fundamentos de la tierra",
+                              "mares",
+                              "creación"
+                            ],
+                            "lineNumber": [
+                              10011
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 24:2 (LXX), que describe la creación de la tierra sobre los mares."
+                            },
+                            "originalText": "Κἂν τῆς γῆς τὰ θεµέλια περιεργάσῃ, οὐδὲ ταῦτά σε ἀποκρύψεται, ἀλλ' ἀκούσῃ ψάλλοντος αὐτοῦ καὶ λέγοντος, Ὅτι ἐπὶ θαλασσῶν [[60.652]] ἐθεµελίωσεν αὐτήν.",
+                            "spanishTranslation": "Y si investigas los fundamentos de la tierra, ni esto se te ocultará, sino que oirás a él salmodiando y diciendo: «Porque sobre los mares la fundó»."
+                          },
+                          {
+                            "keywords": [
+                              "terremotos",
+                              "temblar",
+                              "poder divino"
+                            ],
+                            "lineNumber": [
+                              10012,
+                              10013
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:32 (LXX), que atribuye los terremotos a la mirada de Dios sobre la tierra."
+                            },
+                            "originalText": "Κἂν περὶ τῶν σεισµῶν ἐπιθυµήσῃς µαθεῖν πόθεν γίνονται, ἀπαλλάξει σε πάσης ἀπορίας, οὕτω λέγων· Ὁ ἐπιβλέπων ἐπὶ τὴν γῆν, καὶ ποιῶν αὐτὴν τρέµειν.",
+                            "spanishTranslation": "Y si deseas saber de dónde provienen los terremotos, te librará de toda duda, diciendo así: «El que mira a la tierra y la hace temblar»."
+                          },
+                          {
+                            "keywords": [
+                              "noche",
+                              "bestias del bosque",
+                              "providencia"
+                            ],
+                            "lineNumber": [
+                              10014
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:20 (LXX), que habla de la noche como el tiempo en que las bestias del bosque salen."
+                            },
+                            "originalText": "Κἂν τῆς νυκτὸς ζητήσῃς τὴν χρείαν, καὶ ταύτην εἴσῃ παρ' αὐτοῦ µαθὼν, ὅτι Ἐν αὐτῇ διελεύσονται πάντα τὰ θηρία τοῦ δρυµοῦ.",
+                            "spanishTranslation": "Y si buscas la necesidad de la noche, también esto lo sabrás de él, habiendo aprendido que: «En ella pasarán todas las bestias del bosque»."
+                          },
+                          {
+                            "keywords": [
+                              "montañas",
+                              "ciervos",
+                              "utilidad",
+                              "creación"
+                            ],
+                            "lineNumber": [
+                              10015,
+                              10016
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:18 (LXX), donde se menciona la función de las montañas como refugio para los ciervos."
+                            },
+                            "originalText": "Καὶ τὰ ὄρη ποῦ χρήσιµα, ἀποκρίνεταί σοι· Ὄρη τὰ ὑψηλὰ τοῖς ἐλάφοις.",
+                            "spanishTranslation": "Y dónde son útiles las montañas, te responde: «Las altas montañas para los ciervos»."
+                          },
+                          {
+                            "keywords": [
+                              "rocas",
+                              "erizos",
+                              "liebres",
+                              "refugio",
+                              "providencia"
+                            ],
+                            "lineNumber": [
+                              10017,
+                              10018
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:18 (LXX), que describe las rocas como refugio para ciertos animales.",
+                              "notesGreek": "La palabra griega 'χοιρογρυλλίοις' (choirogrylliois) se refiere a 'erizos' o 'damán roquero' (hyrax), un animal que busca refugio en las rocas."
+                            },
+                            "originalText": "Καὶ διὰ τί αἱ πέτραι, λέγει σοι· Πέτρα καταφυγὴ τοῖς χοιρογρυλλίοις καὶ τοῖς λαγωοῖς.",
+                            "spanishTranslation": "Y por qué las rocas, te dice: «La roca es refugio para los erizos y las liebres»."
+                          },
+                          {
+                            "keywords": [
+                              "árboles estériles",
+                              "gorriones",
+                              "anidar",
+                              "creación"
+                            ],
+                            "lineNumber": [
+                              10019,
+                              10020
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:17 (LXX), que menciona la función de los árboles como lugar de anidación para las aves."
+                            },
+                            "originalText": "∆ιὰ τί τὰ ἄκαρπα δένδρα, µάθε· Ἐκεῖ στρουθία ἐννοσσεύσουσι.",
+                            "spanishTranslation": "Por qué los árboles estériles, aprende: «Allí anidarán los gorriones»."
+                          },
+                          {
+                            "keywords": [
+                              "fuentes",
+                              "desiertos",
+                              "aves",
+                              "bestias",
+                              "agua"
+                            ],
+                            "lineNumber": [
+                              10021,
+                              10022
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:12 (LXX), sobre las fuentes de agua en los desiertos y su papel para la vida salvaje."
+                            },
+                            "originalText": "∆ιὰ τί ἐν ἐρήµοις πηγαί; Ἐπ' αὐτὰ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνώσει, καὶ τὰ θηρία τοῦ ἀγροῦ.",
+                            "spanishTranslation": "¿Por qué hay fuentes en los desiertos? «Junto a ellas anidarán las aves del cielo, y las bestias del campo»."
+                          },
+                          {
+                            "keywords": [
+                              "vino",
+                              "alegría",
+                              "deleite",
+                              "moderación",
+                              "uso sabio"
+                            ],
+                            "lineNumber": [
+                              10023,
+                              10024,
+                              10025,
+                              10026
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:15 (LXX). Crisóstomo, aunque reconoce la bondad del vino para alegrar el corazón, introduce una enseñanza sobre la moderación en su uso."
+                            },
+                            "originalText": "∆ιὰ τί οἶνος; Οὐχ ἵνα πίνῃς µόνον, ἐπεὶ ἤρκει καὶ ἡ τοῦ ὕδατος φύσις, ἀλλ' ἵνα καὶ εὐφρανθῇς καὶ ἡσθῇς· Οἶνος γὰρ εὐφραίνει καρδίαν ἀνθρώπου. Τοῦτο δὲ µαθὼν, εἴσῃ καὶ µέχρι ποῦ τῷ οἴνῳ κεχρῆσθαι δεῖ.",
+                            "spanishTranslation": "¿Por qué el vino? No solo para que bebas, pues bastaba la naturaleza del agua, sino para que también te alegres y te deleites; «Porque el vino alegra el corazón del hombre». Y habiendo aprendido esto, sabrás también hasta dónde es necesario usar el vino."
+                          },
+                          {
+                            "keywords": [
+                              "alimento",
+                              "aves",
+                              "animales salvajes",
+                              "providencia divina"
+                            ],
+                            "lineNumber": [
+                              10027,
+                              10028,
+                              10029
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:27 (LXX), que describe la dependencia de todas las criaturas de Dios para su sustento."
+                            },
+                            "originalText": "Πόθεν τρέφεται τὰ πετεινὰ, καὶ τὰ ἄγρια θηρία; Ἀκούσῃ λέγοντος· Πάντα πρὸς σὲ προσδοκῶσι δοῦναι τὴν τροφὴν αὐτοῖς εἰς εὔκαιρον.",
+                            "spanishTranslation": "¿De dónde se alimentan las aves y las fieras salvajes? Le oirás decir: «Todos ellos esperan de ti que les des su comida a su tiempo»."
+                          },
+                          {
+                            "keywords": [
+                              "ganado",
+                              "hierba",
+                              "servicio humano",
+                              "providencia"
+                            ],
+                            "lineNumber": [
+                              10030,
+                              10031,
+                              10032,
+                              10033
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:14 (LXX), que resalta la provisión de Dios de alimento para el ganado y las plantas para el beneficio del hombre."
+                            },
+                            "originalText": "Κἂν εἴπῃς, ∆ιὰ τί τὰ κτήνη; ἀποκρίνεταί σοι, ὅτι καὶ ταῦτα διὰ σέ· Ὁ ἐξανατέλλων γὰρ, φησὶ, χόρτον τοῖς κτήνεσι, καὶ χλόην τῇ δουλείᾳ τῶν ἀνθρώπων.",
+                            "spanishTranslation": "Y si dices: «¿Por qué los animales?», te responde que también estos son por ti: «Porque él hace brotar, dice, hierba para el ganado y verdor para el servicio de los hombres»."
+                          },
+                          {
+                            "keywords": [
+                              "luna",
+                              "estaciones",
+                              "orden divino"
+                            ],
+                            "lineNumber": [
+                              10034,
+                              10035,
+                              10036
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:19 (LXX), que menciona la creación de la luna para marcar las estaciones."
+                            },
+                            "originalText": "Τί τῆς σελήνης σοι χρεία; Ἄκουσον αὐτοῦ λέγοντος· Ἐποίησε σελήνην εἰς καιρούς.",
+                            "spanishTranslation": "¿Qué necesidad tienes de la luna? Escúchale decir: «Hizo la luna para las estaciones»."
+                          },
+                          {
+                            "keywords": [
+                              "creación",
+                              "visible",
+                              "invisible",
+                              "poder de Dios",
+                              "palabra divina"
+                            ],
+                            "lineNumber": [
+                              10037,
+                              10038,
+                              10039
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 33:9 y Salmos 148:5 (LXX), que enfatizan el poder creador de Dios a través de su palabra."
+                            },
+                            "originalText": "Καὶ ὅτι ἐποίησε γενητὰ πάντα τὰ ὁρώµενα καὶ τὰ µὴ ὁρώµενα, καὶ τοῦτο σαφῶς ἐδίδαξεν εἰπών· Αὐτὸς εἶπε, καὶ ἐγενήθησαν· αὐτὸς ἐνετείλατο, καὶ ἐκτίσθησαν.",
+                            "spanishTranslation": "Y que hizo todas las cosas creadas, las visibles y las no visibles, también esto lo enseñó claramente diciendo: «Él dijo, y fueron hechas; Él mandó, y fueron creadas»."
+                          },
+                          {
+                            "keywords": [
+                              "liberación de la muerte",
+                              "redención",
+                              "alma",
+                              "Hades"
+                            ],
+                            "lineNumber": [
+                              10040,
+                              10041
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 49:15 (LXX), que expresa la esperanza en la redención del alma del poder del Seol/Hades."
+                            },
+                            "originalText": "Καὶ ὅτι θανάτου λύσις ἔσται, καὶ τοῦτό σε διδάσκει λέγων· Ὁ Θεὸς λυτρώσεται τὴν ψυχήν µου ἐκ χειρὸς ᾅδου, ὅταν λαµβάνῃ µε.",
+                            "spanishTranslation": "Y que habrá liberación de la muerte, también esto te enseña, diciendo: «Dios redimirá mi alma del poder del Seol (Hades) cuando me tome»."
+                          },
+                          {
+                            "keywords": [
+                              "cuerpo",
+                              "origen",
+                              "polvo",
+                              "humildad"
+                            ],
+                            "lineNumber": [
+                              10042,
+                              10043,
+                              10044
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 103:14 (LXX), recordando la creación del hombre del polvo."
+                            },
+                            "originalText": "Πόθεν τὸ σῶµα ἡµῖν γέγονε; καὶ τοῦτο λέγει· Ἐµνήσθη ὅτι χοῦς ἐσµεν.",
+                            "spanishTranslation": "¿De dónde nos vino el cuerpo? También esto dice: «Se acordó de que somos polvo»."
+                          },
+                          {
+                            "keywords": [
+                              "mortalidad",
+                              "regreso al polvo",
+                              "fin de la vida"
+                            ],
+                            "lineNumber": [
+                              10045,
+                              10046
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:29 (LXX), refiriéndose al retorno del cuerpo al polvo."
+                            },
+                            "originalText": "Ποῦ πάλιν ἀπέρχεται; Ἐπιστρέψει εἰς τὸν χοῦν αὐτοῦ.",
+                            "spanishTranslation": "¿Adónde vuelve a ir? «Volverá a su polvo»."
+                          },
+                          {
+                            "keywords": [
+                              "propósito de la creación",
+                              "dignidad humana",
+                              "gloria",
+                              "honra",
+                              "dominio"
+                            ],
+                            "lineNumber": [
+                              10047,
+                              10048,
+                              10049
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 8:5-6 (LXX), que habla de la posición preeminente del hombre en la creación, coronado de gloria y honra."
+                            },
+                            "originalText": "∆ιὰ τί ταῦτα πάντα; ∆ιὰ σέ. ∆όξῃ γὰρ καὶ τιµῇ ἐστεφάνωσας αὐτὸν, καὶ κατέστησας αὐτὸν ἐπὶ τὰ ἔργα τῶν χειρῶν σου.",
+                            "spanishTranslation": "¿Por qué todo esto? Por ti. «Porque lo coronaste de gloria y de honra, y lo pusiste sobre las obras de tus manos»."
+                          },
+                          {
+                            "keywords": [
+                              "hombre",
+                              "ángeles",
+                              "semejanza divina"
+                            ],
+                            "lineNumber": [
+                              10050,
+                              10051,
+                              10052
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 8:5 (LXX), que describe al hombre como 'un poco menor que los ángeles', destacando su elevada posición pero también su naturaleza intermedia."
+                            },
+                            "originalText": "Εἰ ἔχοµέν τι κοινὸν πρὸς τοὺς ἀγγέλους οἱ ἄνθρωποι; Καὶ τοῦτο λέγει ψάλλων οὕτως· Ἠλάττωσας αὐτὸν βραχύ τι παρ' ἀγγέλους.",
+                            "spanishTranslation": "¿Tenemos algo en común los hombres con los ángeles? También esto dice, salmodiando así: «Lo hiciste un poco menor que los ángeles»."
+                          },
+                          {
+                            "keywords": [
+                              "amor de Dios",
+                              "compasión",
+                              "padre",
+                              "hijos",
+                              "temor a Dios"
+                            ],
+                            "lineNumber": [
+                              10053,
+                              10054
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 103:13 (LXX), que compara la compasión de Dios con la de un padre hacia sus hijos."
+                            },
+                            "originalText": "Περὶ τῆς ἀγάπης τοῦ Θεοῦ· Καθὼς οἰκτείρει πατὴρ υἱοὺς, ᾠκτείρησε Κύριος τοὺς φοβουµένους αὐτόν.",
+                            "spanishTranslation": "Acerca del amor de Dios: «Como un padre se compadece de sus hijos, así se compadeció el Señor de los que le temen»."
+                          },
+                          {
+                            "keywords": [
+                              "final tranquilo",
+                              "descanso",
+                              "alma"
+                            ],
+                            "lineNumber": [
+                              10055,
+                              10056
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 116:7 (LXX), que es una invitación al alma a regresar a su reposo."
+                            },
+                            "originalText": "Περὶ τῶν µετὰ ταῦτα διαδεξοµένων ἡµᾶς, καὶ τῆς ἀταράχου λήξεως ἐκείνης· Ἐπίστρεψον, φησὶ, ψυχή µου, εἰς τὴν ἀνάπαυσίν σου.",
+                            "spanishTranslation": "Acerca de lo que nos sucederá después de esto, y de aquel tranquilo final: «Vuelve, dice, alma mía, a tu reposo»."
+                          },
+                          {
+                            "keywords": [
+                              "grandeza del cielo",
+                              "gloria de Dios",
+                              "testimonio de la creación"
+                            ],
+                            "lineNumber": [
+                              10057,
+                              10058
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 19:1 (LXX), famoso por afirmar que los cielos proclaman la gloria de Dios."
+                            },
+                            "originalText": "∆ιὰ τί οὕτω µέγας ὁ οὐρανός; Καὶ τοῦτο ἐρεῖ, ὅτι Οἱ οὐρανοὶ διηγοῦνται δόξαν Θεοῦ.",
+                            "spanishTranslation": "¿Por qué es tan grande el cielo? También esto dirá: «Los cielos cuentan la gloria de Dios»."
+                          },
+                          {
+                            "keywords": [
+                              "noche y día",
+                              "enseñanza",
+                              "voces de la creación",
+                              "revelación"
+                            ],
+                            "lineNumber": [
+                              10059,
+                              10060,
+                              10061
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 19:3 (LXX), que sugiere que la creación, incluso sin palabras audibles, comunica un mensaje divino."
+                            },
+                            "originalText": "∆ιὰ τί νὺξ καὶ ἡµέρα ἐγένετο; Οὐχ ἵνα φαίνωσι καὶ ἀναπαύωσι µόνον, ἀλλ' ἵνα καὶ παιδεύωσιν· Οὐ γάρ εἰσι λαλιαὶ οὐδὲ λόγοι, ὧν οὐχὶ ἀκούονται αἱ φωναὶ αὐτῶν.",
+                            "spanishTranslation": "¿Por qué se hizo la noche y el día? No solo para que iluminen y descansen, sino también para que enseñen; «Porque no hay habla ni palabras, cuyas voces no sean oídas»."
+                          },
+                          {
+                            "keywords": [
+                              "mar",
+                              "tierra",
+                              "abismo",
+                              "vestidura",
+                              "creación"
+                            ],
+                            "lineNumber": [
+                              10062,
+                              10063,
+                              10064
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 104:6 (LXX), que describe cómo el abismo cubre la tierra como una vestidura. Crisóstomo añade que así lo tiene el texto hebreo, lo cual era importante en su época para validar la Septuaginta o para una exégesis más profunda."
+                            },
+                            "originalText": "Πῶς ἡ θάλασσα περίκειται τῇ γῇ; Ἄβυσσος ὡς ἱµάτιον τὸ περιβόλαιον αὐτῆς· οὕτω γὰρ τὸ Ἑβραϊκὸν ἔχει.",
+                            "spanishTranslation": "¿Cómo rodea el mar a la tierra? «El abismo como una vestidura es su cobertura»; pues así lo tiene el hebreo."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 28,
+                    "chapterSummary": "Cristóstomo concluye su exhortación sobre el estudio de la Epístola a los Romanos, destacando cómo el texto ofrece consuelo, guía moral, humildad y esperanza, citando extensamente pasajes bíblicos.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [
+                              "conocimiento",
+                              "Cristo",
+                              "resurrección",
+                              "vida futura",
+                              "descanso",
+                              "castigo",
+                              "moral",
+                              "dogmas",
+                              "bien"
+                            ],
+                            "lineNumber": [
+                              10066
+                            ],
+                            "notes": {},
+                            "originalText": "Ἀπὸ δὲ τῶν εἰρηµένων ἀρχὴν λαβόντες καὶ τὰ ἄλλα πάντα εἴσεσθε, τὰ περὶ Χριστοῦ, τὰ περὶ ἀναστάσεως, τὰ περὶ τῆς µελλούσης ζωῆς, τὰ περὶ ἀναπαύσεως, τὰ περὶ κολάσεως, τὰ περὶ τῶν ἠθικῶν λόγων, τὰ περὶ τῶν δογµάτων ἅπαντα, καὶ µυρίων ἀγαθῶν ἐµπεπλησµένον τὸ βιβλίον εὑρήσετε.",
+                            "spanishTranslation": "Y tomando un principio de lo dicho, conoceréis todas las demás cosas: las relativas a Cristo, a la resurrección, a la vida futura, al descanso, al castigo, a las enseñanzas morales, a todos los dogmas, y encontraréis el libro lleno de innumerables bienes."
+                          },
+                          {
+                            "keywords": [
+                              "tentaciones",
+                              "consolación"
+                            ],
+                            "lineNumber": [
+                              10067
+                            ],
+                            "notes": {},
+                            "originalText": "Κἂν εἰς πειρασµοὺς ἐµπέσῃς, πολλὴν ἐντεῦθεν λήψῃ παραµυθίαν·",
+                            "spanishTranslation": "Y si caes en tentaciones, de aquí recibirás mucho consuelo."
+                          },
+                          {
+                            "keywords": [
+                              "pecados",
+                              "remedios"
+                            ],
+                            "lineNumber": [
+                              10068
+                            ],
+                            "notes": {},
+                            "originalText": "κἂν εἰς ἁµαρτήµατα, µυρία φάρµακα κείµενα ἐνταῦθα εὑρήσεις·",
+                            "spanishTranslation": "Y si en pecados, hallarás aquí innumerables remedios depositados."
+                          },
+                          {
+                            "keywords": [
+                              "pobreza",
+                              "tribulación",
+                              "puertos"
+                            ],
+                            "lineNumber": [
+                              10069
+                            ],
+                            "notes": {},
+                            "originalText": "ἂν εἰς πενίαν, ἂν εἰς θλῖψιν, πολλοὺς τοὺς λιµένας ὄψει·",
+                            "spanishTranslation": "Si en pobreza, si en tribulación, verás muchos puertos."
+                          },
+                          {
+                            "keywords": [
+                              "justo",
+                              "seguridad"
+                            ],
+                            "lineNumber": [
+                              10070
+                            ],
+                            "notes": {},
+                            "originalText": "κἂν δίκαιος ᾖς, πολλὴν ἀσφάλειαν ἐκεῖθεν καρπώσῃ·",
+                            "spanishTranslation": "Y si eres justo, mucha seguridad cosecharás de allí."
+                          },
+                          {
+                            "keywords": [
+                              "pecador",
+                              "consolación"
+                            ],
+                            "lineNumber": [
+                              10071,
+                              10072
+                            ],
+                            "notes": {},
+                            "originalText": "κἂν ἁµαρτωλὸς ᾖς, πολλὴν τὴν παραµυθίαν.",
+                            "spanishTranslation": "Y si eres pecador, mucho consuelo."
+                          },
+                          {
+                            "keywords": [
+                              "justo",
+                              "sufrimiento",
+                              "muerte",
+                              "ovejas de matadero"
+                            ],
+                            "lineNumber": [
+                              10073
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 44:22 (LXX 43:22), también citado por San Pablo en Romanos 8:36, que describe el sufrimiento de los justos por causa de Dios."
+                            },
+                            "originalText": "Ἄν τε γὰρ δίκαιος ᾖς, καὶ πάσχῃς δεινὰ, ἀκούσῃ λέγοντος, ὅτι Ἕνεκεν σοῦ θανατούµεθα ὅλην τὴν ἡµέραν, ἐλογίσθηµεν ὡς πρόβατα σφαγῆς.",
+                            "spanishTranslation": "Pues si eres justo y sufres cosas terribles, oirás que dice: «Por causa tuya somos muertos todo el día; fuimos estimados como ovejas de matanza»."
+                          },
+                          {
+                            "keywords": [
+                              "sufrimiento",
+                              "olvido"
+                            ],
+                            "lineNumber": [
+                              10074
+                            ],
+                            "notes": {
+                              "notesBiblical": "Continuación de la cita de Salmos 44:17 (LXX 43:17) o 44:22, enfatizando la perseverancia a pesar de las aflicciones."
+                            },
+                            "originalText": "Ταῦτα πάντα ἦλθεν ἐφ' ἡµᾶς, καὶ οὐκ ἐπελαθόµεθά σου.",
+                            "spanishTranslation": "Todas estas cosas han venido sobre nosotros, y no nos hemos olvidado de ti."
+                          },
+                          {
+                            "keywords": [
+                              "logros",
+                              "exaltación"
+                            ],
+                            "lineNumber": [
+                              10075
+                            ],
+                            "notes": {},
+                            "originalText": "Κἂν ἐπάρῃ σε τὰ κατορθώµατα, ἀκούσῃ λέγοντος·",
+                            "spanishTranslation": "Y si tus logros te exaltan, oirás que dice:"
+                          },
+                          {
+                            "keywords": [
+                              "juicio",
+                              "siervo",
+                              "justificación"
+                            ],
+                            "lineNumber": [
+                              10076
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 143:2 (LXX 142:2), que subraya la imposibilidad de que cualquier ser humano se justifique ante Dios por sus propias obras."
+                            },
+                            "originalText": "Μὴ εἰσέλθῃς εἰς κρίσιν µετὰ τοῦ δούλου σου, ὅτι οὐ δικαιωθήσεται ἐνώπιόν σου πᾶς ζῶν·",
+                            "spanishTranslation": "«No entres en juicio con tu siervo, porque no se justificará delante de ti ningún viviente»."
+                          },
+                          {
+                            "keywords": [
+                              "humildad"
+                            ],
+                            "lineNumber": [
+                              10077
+                            ],
+                            "notes": {},
+                            "originalText": "καὶ εὐθέως ταπεινωθήσῃ.",
+                            "spanishTranslation": "Y al instante te humillarás."
+                          },
+                          {
+                            "keywords": [
+                              "pecador",
+                              "desesperación"
+                            ],
+                            "lineNumber": [
+                              10078
+                            ],
+                            "notes": {},
+                            "originalText": "Κἂν ἁµαρτωλὸς ᾖς, καὶ ἀπεγνωκὼς ἑαυτοῦ, ἀκούσῃ συνεχῶς ἐπᾴδοντος·",
+                            "spanishTranslation": "Y si eres pecador y desesperado de ti mismo, oirás que continuamente canta:"
+                          },
+                          {
+                            "keywords": [
+                              "voz de Dios",
+                              "corazón",
+                              "endurecimiento"
+                            ],
+                            "lineNumber": [
+                              10079
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 95:7-8 (LXX 94:7-8), también referenciada en Hebreos 3:7-8, exhortando a no endurecer el corazón ante la voz de Dios."
+                            },
+                            "originalText": "Σήµερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, µὴ σκληρύνητε τὰς καρδίας ὑµῶν, ὡς ἐν τῷ παραπικρασµῷ·",
+                            "spanishTranslation": "«Hoy, si escucháis su voz, no endurezcáis vuestros corazones, como en la provocación»."
+                          },
+                          {
+                            "keywords": [
+                              "levantarse"
+                            ],
+                            "lineNumber": [
+                              10080
+                            ],
+                            "notes": {},
+                            "originalText": "καὶ ἀναστήσῃ ταχέως.",
+                            "spanishTranslation": "Y te levantarás rápidamente."
+                          },
+                          {
+                            "keywords": [
+                              "corona",
+                              "orgullo",
+                              "rey",
+                              "gigante",
+                              "fuerza",
+                              "salvación"
+                            ],
+                            "lineNumber": [
+                              10081
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 33:16 (LXX 32:16), que niega que la salvación provenga de la fuerza o el poder humano, incluso para reyes o gigantes."
+                            },
+                            "originalText": "Κἂν διάδηµα ἔχῃς ἐπὶ τῆς κεφαλῆς, καὶ µέγα φρονῇς, µαθήσῃ ὅτι Οὐ σώζεται βασιλεὺς διὰ πολλὴν δύναµιν, καὶ γίγας οὐ σωθήσεται ἐν πλήθει ἰσχύος αὐτοῦ·",
+                            "spanishTranslation": "Y si tienes una corona sobre tu cabeza y piensas en grande, aprenderás que «el rey no es salvado por su gran poder, ni el gigante será salvado por la multitud de su fuerza»."
+                          },
+                          {
+                            "keywords": [
+                              "moderación"
+                            ],
+                            "lineNumber": [
+                              10082
+                            ],
+                            "notes": {},
+                            "originalText": "καὶ δυνήσῃ µετριάζειν.",
+                            "spanishTranslation": "Y podrás ser moderado."
+                          },
+                          {
+                            "keywords": [
+                              "rico",
+                              "ilustre",
+                              "salmista"
+                            ],
+                            "lineNumber": [
+                              10083
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐὰν πλούσιος ᾖς καὶ ἐπίδοξος, πάλιν ἀκούσῃ Ψάλλοντος·",
+                            "spanishTranslation": "Si eres rico e ilustre, de nuevo oirás al Salmista:"
+                          },
+                          {
+                            "keywords": [
+                              "ay",
+                              "confianza",
+                              "poder",
+                              "riqueza",
+                              "jactancia"
+                            ],
+                            "lineNumber": [
+                              10084
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 49:6 (LXX 48:7), condenando la confianza en la riqueza y el poder material."
+                            },
+                            "originalText": "Οὐαὶ οἱ πεποιθότες ἐπὶ τῇ δυνάµει αὐτῶν, καὶ ἐπὶ τῷ πλήθει τοῦ πλούτου αὐτῶν καυχώµενοι·",
+                            "spanishTranslation": "«¡Ay de los que confían en su poder y se jactan en la multitud de sus riquezas!»"
+                          },
+                          {
+                            "keywords": [
+                              "hombre",
+                              "hierba",
+                              "flor del campo"
+                            ],
+                            "lineNumber": [
+                              10085
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 103:15 (LXX 102:15), ilustrando la brevedad y la fragilidad de la vida humana comparándola con la hierba y la flor del campo."
+                            },
+                            "originalText": "καὶ, ὅτι Ἄνθρωπος, ὡσεὶ χόρτος αἱ ἡµέραι αὐτοῦ, ὡσεὶ ἄνθος τοῦ ἀγροῦ, οὕτως ἐξανθήσει·",
+                            "spanishTranslation": "Y que «el hombre, sus días son como la hierba; como flor del campo, así florece»."
+                          },
+                          {
+                            "keywords": [
+                              "gloria",
+                              "descenso"
+                            ],
+                            "lineNumber": [
+                              10086
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 49:17 (LXX 48:18), destacando que la gloria terrenal no acompaña al hombre después de la muerte."
+                            },
+                            "originalText": "καὶ, Οὐ συγκαταβήσεται ἡ δόξα αὐτοῦ ὀπίσω αὐτοῦ·",
+                            "spanishTranslation": "Y «su gloria no descenderá tras él»."
+                          },
+                          {
+                            "keywords": [
+                              "tierra",
+                              "grandeza"
+                            ],
+                            "lineNumber": [
+                              10087
+                            ],
+                            "notes": {},
+                            "originalText": "καὶ οὐδὲν ἡγήσῃ µέγα εἶναι τῶν ἐπὶ τῆς γῆς.",
+                            "spanishTranslation": "Y no considerarás nada en la tierra como grande."
+                          },
+                          {
+                            "keywords": [
+                              "esplendor",
+                              "gloria",
+                              "poder",
+                              "despreciable"
+                            ],
+                            "lineNumber": [
+                              10088
+                            ],
+                            "notes": {},
+                            "originalText": "Τὸ γὰρ πάντων λαµπρότερον, ἡ δόξα καὶ ἡ δυναστεία, ὅταν οὕτως εὐτελὴς ᾖ, τί ἕτερον ἄξιον ἂν εἴη λόγου τῶν ἐπὶ τῆς γῆς;",
+                            "spanishTranslation": "Porque si lo más espléndido de todo, la gloria y el poder, es así de despreciable, ¿qué otra cosa en la tierra sería digna de mención?"
+                          },
+                          {
+                            "keywords": [
+                              "desánimo"
+                            ],
+                            "lineNumber": [
+                              10089
+                            ],
+                            "notes": {},
+                            "originalText": "Ἀλλ' ἐν ἀθυµίᾳ κατέστης;",
+                            "spanishTranslation": "¿Pero has caído en el desánimo?"
+                          },
+                          {
+                            "keywords": [
+                              "tristeza",
+                              "turbación",
+                              "alma"
+                            ],
+                            "lineNumber": [
+                              10090
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 42:5 (LXX 41:5), que expresa la pregunta del salmista a su propia alma sobre su tristeza y turbación."
+                            },
+                            "originalText": "Ἄκουσον αὐτοῦ λέγοντος, Ἵνα τί περίλυπος εἶ, ἡ ψυχή µου, καὶ ἵνα τί συνταράσσεις µε;",
+                            "spanishTranslation": "Óyele decir: «¿Por qué estás triste, alma mía, y por qué me turbas?»"
+                          },
+                          {
+                            "keywords": [
+                              "esperanza",
+                              "Dios",
+                              "confesión"
+                            ],
+                            "lineNumber": [
+                              10091
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 42:5 (LXX 41:5), exhortando a poner la esperanza en Dios y a darle gracias."
+                            },
+                            "originalText": "Ἔλπισον ἐπὶ τὸν Θεὸν, ὅτι ἐξοµολογήσοµαι αὐτῷ.",
+                            "spanishTranslation": "«Espera en Dios, porque le confesaré»."
+                          },
+                          {
+                            "keywords": [
+                              "prosperidad",
+                              "injusticia"
+                            ],
+                            "lineNumber": [
+                              10092
+                            ],
+                            "notes": {},
+                            "originalText": "Ἀλλ' ὁρᾷς εὐδοκιµοῦντας παρ' ἀξίαν;",
+                            "spanishTranslation": "¿Pero ves a algunos prosperar inmerecidamente?"
+                          },
+                          {
+                            "keywords": [
+                              "envidia",
+                              "malhechores",
+                              "hierba",
+                              "verdura"
+                            ],
+                            "lineNumber": [
+                              10093
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 37:1-2 (LXX 36:1-2), aconsejando no envidiar a los malvados, cuya prosperidad es efímera."
+                            },
+                            "originalText": "Εἰπὲ, Μὴ παραζήλου ἐν πονηρευοµένοις, ὅτι ὡσεὶ χόρτος ξηρανθήσονται, καὶ ὡσεὶ λάχανα χλόης ταχὺ ἀποπεσοῦνται.",
+                            "spanishTranslation": "Di: «No te irrites a causa de los malhechores, porque como la hierba se secarán, y como la verdura del campo pronto se marchitarán»."
+                          },
+                          {
+                            "keywords": [
+                              "justos",
+                              "pecadores",
+                              "castigo"
+                            ],
+                            "lineNumber": [
+                              10094
+                            ],
+                            "notes": {},
+                            "originalText": "Ὁρᾷς καὶ δικαίους καὶ ἁµαρτωλοὺς κολαζοµένους;",
+                            "spanishTranslation": "¿Ves tanto a justos como a pecadores siendo castigados?"
+                          },
+                          {
+                            "keywords": [
+                              "causa",
+                              "diferencia"
+                            ],
+                            "lineNumber": [
+                              10095
+                            ],
+                            "notes": {},
+                            "originalText": "Ἄκουσον ὅτι οὐχ ἡ αὐτὴ αἰτία·",
+                            "spanishTranslation": "Oye que la razón no es la misma;"
+                          },
+                          {
+                            "keywords": [
+                              "pecador",
+                              "azotes"
+                            ],
+                            "lineNumber": [
+                              10096
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 32:10 (LXX 31:10), que establece que los azotes del impío son muchos."
+                            },
+                            "originalText": "Πολλαὶ γὰρ, φησὶν, αἱ µάστιγες τοῦ ἁµαρτωλοῦ.",
+                            "spanishTranslation": "Porque, dice: «Muchas son las plagas del impío»."
+                          },
+                          {
+                            "keywords": [
+                              "justos",
+                              "tribulaciones",
+                              "liberación",
+                              "Señor"
+                            ],
+                            "lineNumber": [
+                              10097
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 34:19 (LXX 33:20), contrastando los 'azotes' de los pecadores con las 'tribulaciones' de los justos, de las cuales el Señor los libra."
+                            },
+                            "originalText": "Ἐπὶ δὲ τῶν δικαίων οὐκ εἶπεν, Αἱ µάστιγες, ἀλλὰ, Πολλαὶ αἱ θλίψεις τῶν δικαίων, καὶ ἐκ πασῶν αὐτῶν ῥύσεται αὐτοὺς ὁ Κύριος·",
+                            "spanishTranslation": "Pero respecto a los justos no dijo «plagas», sino: «Muchas son las aflicciones de los justos, y de todas ellas los librará el Señor»."
+                          },
+                          {
+                            "keywords": [
+                              "muerte",
+                              "pecadores",
+                              "mal"
+                            ],
+                            "lineNumber": [
+                              10098
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 34:21 (LXX 33:22), que describe la muerte de los pecadores como un mal."
+                            },
+                            "originalText": "καὶ πάλιν, Θάνατος ἁµαρτωλῶν πονηρός·",
+                            "spanishTranslation": "Y de nuevo: «La muerte de los pecadores es mala»."
+                          },
+                          {
+                            "keywords": [
+                              "muerte",
+                              "santos",
+                              "honrosa",
+                              "Señor"
+                            ],
+                            "lineNumber": [
+                              10099
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Salmos 116:15 (LXX 114:6), afirmando que la muerte de los santos de Dios es preciosa o valiosa ante Sus ojos."
+                            },
+                            "originalText": "καὶ, Τίµιος ἐναντίον Κυρίου ὁ θάνατος τῶν ὁσίων αὐτοῦ.",
+                            "spanishTranslation": "Y: «Preciosa es a los ojos del Señor la muerte de sus santos»."
+                          },
+                          {
+                            "keywords": [
+                              "enseñanza",
+                              "continuo"
+                            ],
+                            "lineNumber": [
+                              10100
+                            ],
+                            "notes": {},
+                            "originalText": "Ταῦτα λέγε συνεχῶς, ἐντεῦθεν παιδεύου·",
+                            "spanishTranslation": "Di estas cosas continuamente, sé enseñado desde aquí."
+                          },
+                          {
+                            "keywords": [
+                              "palabras",
+                              "significados",
+                              "mar inmenso"
+                            ],
+                            "lineNumber": [
+                              10101
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra 'ῥηµάτων' (rhema) se refiere a las palabras o dichos. La expresión 'πέλαγος ἀχανὲς ἔχει νοηµάτων' (pelagos akhanes ekhei noēmatōn) utiliza una metáfora vívida: 'mar inmenso de significados', enfatizando la profundidad y la riqueza interpretativa de cada frase bíblica."
+                            },
+                            "originalText": "τούτων γὰρ ἕκαστον τῶν ῥηµάτων πέλαγος ἀχανὲς ἔχει νοηµάτων.",
+                            "spanishTranslation": "Porque cada una de estas palabras contiene un inmenso mar de significados."
+                          },
+                          {
+                            "keywords": [
+                              "simplificar",
+                              "pasar por alto"
+                            ],
+                            "lineNumber": [
+                              10102
+                            ],
+                            "notes": {},
+                            "originalText": "Ἡµεῖς µὲν γὰρ ἁπλῶς αὐτὰ παρεδράµοµεν·",
+                            "spanishTranslation": "Porque nosotros las hemos pasado simplemente por alto."
+                          },
+                          {
+                            "keywords": [
+                              "diligencia",
+                              "investigar",
+                              "riqueza"
+                            ],
+                            "lineNumber": [
+                              10103
+                            ],
+                            "notes": {},
+                            "originalText": "εἰ δὲ βουληθείητε µετὰ ἀκριβείας διερευνήσασθαι τὰ εἰρηµένα, πολὺν ὄψεσθε τὸν πλοῦτον.",
+                            "spanishTranslation": "Pero si queréis investigar con diligencia lo dicho, veréis una gran riqueza."
+                          },
+                          {
+                            "keywords": [
+                              "pasiones",
+                              "purificación"
+                            ],
+                            "lineNumber": [
+                              10104
+                            ],
+                            "notes": {},
+                            "originalText": "Ἀλλὰ τέως καὶ ἐκ τῶν εἰρηµένων δυνατὸν καθαίρεσθαι τῶν ἐπικειµένων παθῶν.",
+                            "spanishTranslation": "Pero por ahora, incluso de lo dicho, es posible purificarse de las pasiones que nos acosan."
+                          },
+                          {
+                            "keywords": [
+                              "envidia",
+                              "tristeza",
+                              "desánimo",
+                              "riqueza",
+                              "aflicción",
+                              "pobreza",
+                              "vida",
+                              "pasiones",
+                              "liberación"
+                            ],
+                            "lineNumber": [
+                              10105
+                            ],
+                            "notes": {},
+                            "originalText": "ὅταν γὰρ µήτε φθονεῖν ἐᾷ, µήτε λυπεῖσθαι καὶ ἀθυµεῖν ἀκαίρως, µήτε ἡγεῖσθαί τι πλοῦτον µήτε θλῖψιν µήτε πενίαν, µηδὲ αὐτὴν τὴν ζωὴν νοµίζειν τι εἶναι, πάντων σε ἀπαλλάττει τῶν παθῶν.",
+                            "spanishTranslation": "Porque cuando no permite ni envidiar, ni entristecerse y desanimarse inoportunamente, ni considerar la riqueza, ni la aflicción, ni la pobreza, ni la vida misma como algo, te libra de todas las pasiones."
+                          },
+                          {
+                            "keywords": [
+                              "gracias",
+                              "Dios",
+                              "tesoro",
+                              "paciencia",
+                              "consuelo",
+                              "Escrituras",
+                              "esperanza",
+                              "bienes futuros"
+                            ],
+                            "lineNumber": [
+                              10106
+                            ],
+                            "notes": {
+                              "notesBiblical": "La frase sobre la paciencia y el consuelo de las Escrituras para tener esperanza es una alusión a Romanos 15:4, donde San Pablo describe el propósito de las Escrituras."
+                            },
+                            "originalText": "Ὑπὲρ δὲ τούτων εὐχαριστήσωµεν τῷ Θεῷ, καὶ τὸν θησαυρὸν µεταχειριζώµεθα, Ἵνα διὰ τῆς ὑποµονῆς καὶ τῆς παρακλήσεως τῶν Γραφῶν τὴν ἐλπίδα ἔχωµεν, καὶ τῶν µελλόντων ἀπολαύσωµεν ἀγαθῶν·",
+                            "spanishTranslation": "Y por estas cosas demos gracias a Dios, y manejemos este tesoro, «para que por la perseverancia y el consuelo de las Escrituras tengamos esperanza», y disfrutemos de los bienes futuros."
+                          },
+                          {
+                            "keywords": [
+                              "gracia",
+                              "filantropía",
+                              "alcanzar"
+                            ],
+                            "lineNumber": [
+                              10107
+                            ],
+                            "notes": {},
+                            "originalText": "ὧν γένοιτο πάντας ἡµᾶς ἐπιτυχεῖν, χάριτι καὶ φιλανθρωπίᾳ, καὶ τὰ ἑξῆς.",
+                            "spanishTranslation": "Que todos nosotros podamos alcanzarlos, por gracia y benignidad, y lo que sigue."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

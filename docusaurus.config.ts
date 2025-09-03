@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Orígenes',
+  title: 'Orígenes Cristianos',
   tagline: 'Traducción de textos cristianos antiguos',
   favicon: 'img/write.png',
 
@@ -80,7 +80,7 @@ const config: Config = {
       }
     },
     navbar: {
-      title: 'Orígenes',
+      title: 'Orígenes Cristianos',
       logo: {
         alt: 'Orígenes Logo',
         src: 'img/write.png',
@@ -88,9 +88,21 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'textsSidebar',
+          sidebarId: 'crisostomoSidebar',
           position: 'left',
           label: 'San Juan Crisóstomo',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'maximoSidebar',
+          position: 'left',
+          label: 'San Máximo Confesor',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'efrenSidebar',
+          position: 'left',
+          label: 'San Efrén de Siria',
         },
         {
           type: 'docSidebar',
@@ -126,7 +138,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://github.com/Mauriceac/origenes',
             }
           ],
         }

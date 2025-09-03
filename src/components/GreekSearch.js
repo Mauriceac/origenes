@@ -84,7 +84,7 @@ export default function GreekLemmaSearch({ completedDictionary, lemmaDefinitions
       // Use CSS variable for highlight color
       highlighted = highlighted.replace(
         new RegExp(safeWord, 'g'),
-        `<span style="background: var(--ifm-color-primary-lightest); border-radius: 3px; padding: 0 2px;">${word}</span>`
+        `<span style="background: var(--highlight); border-radius: 3px; padding: 0 2px;">${word}</span>`
       );
     });
     return highlighted;

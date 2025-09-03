@@ -1,0 +1,171 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Maximi Confessoris",
+      "authorSpanish": "Máximo Confesor",
+      "originalTitle": "Mystagogia",
+      "titleSpanish": "Mistagogia",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish",
+      "source": "https://www.documentacatholicaomnia.eu/20vs/103_migne_gm/0580-0662,_Maximus_Confessor,_Mystagogia_(MPG_091_0657_0718),_GM.pdf",
+      "reference": "Patrologia Graeca, Tomo 91, Cols. 657-718"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 3,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Maximi Confessoris",
+                  "authorSpanish": "Máximo Confesor",
+                  "originalTitle": "Mystagogia",
+                  "titleSpanish": "Mistagogia",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 3,
+                    "chapterSummary": "Este capítulo establece la analogía fundamental entre la Iglesia y el mundo sensible, presentándolos como imágenes y símbolos recíprocos el uno del otro, y detallando sus correspondencias estructurales en términos de sacerdocio/cielo y templo/tierra.",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "capítulo"
+                            ],
+                            "lineNumber": [
+                              1
+                            ],
+                            "originalText": "ΚΕΦΑΛ. Γ΄.",
+                            "spanishTranslation": "CAPÍTULO III."
+                          },
+                          {
+                            "keywords": [
+                              "Iglesia",
+                              "Dios",
+                              "imagen",
+                              "mundo sensible"
+                            ],
+                            "lineNumber": [
+                              2
+                            ],
+                            "notes": {
+                              "notesGreek": "«αἰσθητοῦ κόσμου» (aisthetou kosmou): \"mundo sensible\", se refiere al mundo material o perceptible por los sentidos, en contraste con el mundo inteligible. «εἰκὼν» (eikōn): \"imagen\", un concepto clave en la teología de Máximo, que implica similitud y representación.",
+                              "notesLinguistics": "La partícula «Ὅτι» introduce una proposición causal o un contenido, que aquí inicia el tema principal del capítulo."
+                            },
+                            "originalText": "Ὅτι καὶ μόνου τοῦ αἰσθητοῦ κόσμου ἐστὶν εἰκὼν, ἡ ἁγία τοῦ Θεοῦ Ἐκκλησία.",
+                            "spanishTranslation": "Que la santa Iglesia de Dios es también imagen solo del mundo sensible."
+                          },
+                          {
+                            "keywords": [
+                              "Iglesia",
+                              "Dios",
+                              "símbolo",
+                              "mundo sensible"
+                            ],
+                            "lineNumber": [
+                              3
+                            ],
+                            "notes": {
+                              "notesGreek": "«σύμβολον» (symbolon): \"símbolo\". Junto con «εἰκὼν» (imagen), es un término crucial en la Mistagogia, donde la Iglesia es vista como el microcosmos que recapitula la creación y la economía divina."
+                            },
+                            "originalText": "Καὶ αὖθις μόνου τοῦ αἰσθητοῦ κόσμου καθ’ ἑαυτὸν τὴν ἁγίαν τοῦ Θεοῦ Ἐκκλησίαν εἶναι σύμβολον, ἔφασκεν·",
+                            "spanishTranslation": "Y de nuevo, decía que la santa Iglesia de Dios es por sí misma un símbolo solo del mundo sensible;"
+                          },
+                          {
+                            "keywords": [
+                              "cielo",
+                              "sacerdocio",
+                              "divino"
+                            ],
+                            "lineNumber": [
+                              4
+                            ],
+                            "notes": {
+                              "notesGeneral": "Máximo establece una analogía entre la estructura de la Iglesia y la del cosmos, donde el sacerdocio (la jerarquía divina y eclesiástica) corresponde al cielo."
+                            },
+                            "originalText": "ὡς οὐρανὸν μὲν, τὸ θεῖον ἱερατεῖον ἔχουσαν·",
+                            "spanishTranslation": "teniendo como cielo al divino sacerdocio;"
+                          },
+                          {
+                            "keywords": [
+                              "tierra",
+                              "belleza",
+                              "templo",
+                              "naos"
+                            ],
+                            "lineNumber": [
+                              5
+                            ],
+                            "notes": {
+                              "notesGeneral": "La belleza y el orden del templo físico representan la tierra en esta analogía.",
+                              "notesGreek": "«εὐπρέπειαν» (euprepeian): \"belleza\", \"decoro\", \"dignidad\". «ναοῦ» (naos): \"templo\" o \"nave del templo\", la parte principal donde se congregan los fieles."
+                            },
+                            "originalText": "γῆν δὲ, τὴν εὐπρέπειαν τοῦ ναοῦ κεκτημένην.",
+                            "spanishTranslation": "y como tierra, la belleza del templo."
+                          },
+                          {
+                            "keywords": [
+                              "mundo",
+                              "Iglesia"
+                            ],
+                            "lineNumber": [
+                              6
+                            ],
+                            "notes": {
+                              "notesGeneral": "Aquí se invierte la analogía, mostrando que no solo la Iglesia es una imagen del mundo, sino que el mundo mismo, en su orden y propósito, es como una Iglesia. Esto refuerza la visión cosmológica de Máximo, donde todo apunta a Dios y lo refleja."
+                            },
+                            "originalText": "Ὡσαύτως δὲ καὶ τὸν κόσμον ὑπάρχειν Ἐκκλησίαν·",
+                            "spanishTranslation": "De manera similar, el mundo mismo es una Iglesia;"
+                          },
+                          {
+                            "keywords": [
+                              "cielo",
+                              "sacerdocio"
+                            ],
+                            "lineNumber": [
+                              7
+                            ],
+                            "notes": {
+                              "notesGreek": "«ἐοικότα» (eoikota): \"semejante a\", \"parecido a\". Refuerza la idea de analogía.",
+                              "notesLinguistics": "El participio «ἔχοντα» (teniéndolo) se refiere al «κόσμον» (mundo) de la frase anterior, manteniendo la conexión de la analogía."
+                            },
+                            "originalText": "ἱερατείῳ μὲν ἐοικότα τὸν οὐρανὸν ἔχοντα·",
+                            "spanishTranslation": "teniendo el cielo semejante a un sacerdocio;"
+                          },
+                          {
+                            "keywords": [
+                              "templo",
+                              "disposición",
+                              "terrenal"
+                            ],
+                            "lineNumber": [
+                              8
+                            ],
+                            "notes": {
+                              "notesGreek": "«διακόσμησιν» (diakosmēsin): \"disposición\", \"orden\", \"adorno\". Se refiere al orden y la estructura de la creación terrenal."
+                            },
+                            "originalText": "ναῷ δὲ, τὴν κατὰ γῆν διακόσμησιν.",
+                            "spanishTranslation": "y el templo, la disposición terrenal."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

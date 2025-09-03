@@ -1,0 +1,852 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Maximi Confessoris",
+      "authorSpanish": "Máximo Confesor",
+      "originalTitle": "Mystagogia",
+      "titleSpanish": "Mistagogia",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish",
+      "source": "https://www.documentacatholicaomnia.eu/20vs/103_migne_gm/0580-0662,_Maximus_Confessor,_Mystagogia_(MPG_091_0657_0718),_GM.pdf",
+      "reference": "Patrologia Graeca, Tomo 91, Cols. 657-718"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 0,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Maximi Confessoris",
+                  "authorSpanish": "Máximo Confesor",
+                  "originalTitle": "Mystagogia",
+                  "titleSpanish": "Mistagogia",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 0,
+                    "chapterSummary": "El proemio introduce la obra, explicando la motivación del autor para escribir. A pesar de su reticencia inicial debido a su humildad y la dificultad del tema, el autor cede ante la insistencia de su interlocutor, reconociendo la necesidad de plasmar por escrito lo contemplado para preservar la memoria y como remedio al olvido. Reconoce la autoridad de Dionisio Areopagita y aclara que no pretende igualarlo, sino exponer verdades divinas de forma accesible. Concluye con una profunda reflexión apofática sobre la inefabilidad y trascendencia de Dios, que es la fuente de todo ser y conocimiento.",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "proemio"
+                            ],
+                            "lineNumber": [
+                              1
+                            ],
+                            "originalText": "ΠΡΟΟΙΜΙΟΝ.",
+                            "spanishTranslation": "PROEMIO."
+                          },
+                          {
+                            "keywords": [
+                              "sabio",
+                              "justo",
+                              "conocimiento",
+                              "Proverbio"
+                            ],
+                            "lineNumber": [
+                              2
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Proverbios 9:9: "
+                            },
+                            "originalText": "Πῶς σοφώτερος γίνεται λαβὼν ἀφορμὴν ὁ σοφός·",
+                            "spanishTranslation": "Cómo el sabio, al recibir una oportunidad, se hace más sabio;"
+                          },
+                          {
+                            "keywords": [
+                              "justo",
+                              "conocer",
+                              "aumentar",
+                              "saber",
+                              "Proverbio"
+                            ],
+                            "lineNumber": [
+                              3
+                            ],
+                            "notes": {
+                              "notesBiblical": "«Da instrucción al sabio, y se hará más sabio; enseña al justo, y aumentará su saber». (Proverbios 9:9)"
+                            },
+                            "originalText": "καὶ δίκαιος γνοῦς, προσθήσει τοῦ δέχεσθαι, κατὰ τὴν θείαν Παροιμίαν·",
+                            "spanishTranslation": "y el justo, al conocer, aumentará su saber, según el Divino Proverbio."
+                          },
+                          {
+                            "keywords": [
+                              "sabio",
+                              "experiencia",
+                              "palabra divina"
+                            ],
+                            "lineNumber": [
+                              4
+                            ],
+                            "originalText": "σαφῶς αὐτός, πάντων μοι τιμιώτατε, κατ’ αὐτὴν ἔδειξας τὴν πεῖραν·",
+                            "spanishTranslation": "Claramente tú mismo, el más honorable para mí de todos, lo demostraste por experiencia;"
+                          },
+                          {
+                            "keywords": [
+                              "enseñar",
+                              "hechos",
+                              "palabra divina"
+                            ],
+                            "lineNumber": [
+                              5
+                            ],
+                            "originalText": "ἔργῳ διδάξας ὅπερ ὁ θεῖος 2 σοφῶς ὑπαινίσσεται λόγος.",
+                            "spanishTranslation": "enseñando con hechos lo que la divina palabra sabiamente insinúa."
+                          },
+                          {
+                            "keywords": [
+                              "relatar",
+                              "anciano",
+                              "Iglesia",
+                              "asamblea"
+                            ],
+                            "lineNumber": [
+                              6
+                            ],
+                            "notes": {
+                              "notesLinguistics": "«κατ’ ἐπιδρομὴν ἐπιτόμως» significa "
+                            },
+                            "originalText": "Ἄπαξ γὰρ ἀκούσας μου κατ’ ἐπιδρομὴν ἐπιτόμως, ὡς οἷόν τε ἦν, ἀφηγουμένου τῷ ἄλλῳ τινὶ μεγάλῳ γέροντι, καὶ ὄντως τὰ θεῖα σοφῷ περὶ τε τῆς ἁγίας Ἐκκλησίας, καὶ τῆς ἐν αὐτῇ ἐπιτελουμένης ἁγίας συνάξεως, καλῶς τε καὶ μυστικῶς θεωρηθέντα·",
+                            "spanishTranslation": "Porque habiendo oído una vez, brevemente y de paso, según fue posible, mientras yo relataba a otro gran anciano, verdaderamente sabio en cosas divinas, sobre la Santa Iglesia y la santa asamblea que se celebra en ella, cosas bien y místicamente contempladas;"
+                          },
+                          {
+                            "keywords": [
+                              "didáctico",
+                              "insistencia",
+                              "escrito",
+                              "narración"
+                            ],
+                            "lineNumber": [
+                              7
+                            ],
+                            "originalText": "καὶ, ὡς ἐνῆν μάλιστα διδασκαλικῶς· ᾔτησας με κατεπεί- -γων ἐξαύτης, ἐγγραφόν σοι ποιεῖσθαι τὴν τούτων διήγησιν·",
+                            "spanishTranslation": "y, de la manera más didáctica posible, me pediste inmediatamente con insistencia que te hiciera un escrito de esta narración;"
+                          },
+                          {
+                            "keywords": [
+                              "olvido",
+                              "memoria",
+                              "escrito",
+                              "tiempo"
+                            ],
+                            "lineNumber": [
+                              8
+                            ],
+                            "notes": {
+                              "notesLinguistics": "«φάρμακον» puede significar tanto "
+                            },
+                            "originalText": "λήθης φάρμακον καὶ βοήθειαν μνήμης ἔχειν τὸ γράμμα βεβουλημένος, φυσικῶς τὸν χρόνον ἐχούσης φάσκων δαμάζοντα·",
+                            "spanishTranslation": "deseando tener el escrito como remedio para el olvido y ayuda para la memoria, afirmando que el tiempo, por su naturaleza, lo domina;"
+                          },
+                          {
+                            "keywords": [
+                              "olvido",
+                              "destruir",
+                              "formas",
+                              "imágenes"
+                            ],
+                            "lineNumber": [
+                              9
+                            ],
+                            "originalText": "καὶ ἀνεπαισθήτως διὰ λήθης τῶν ἐναποκειμένων καλῶν συλᾶν τε καὶ ἀφανίζειν παντελῶς τοὺς τύπους καὶ τὰς εἰκόνας δυνάμενον·",
+                            "spanishTranslation": "y que imperceptiblemente, a través del olvido, puede saquear y aniquilar completamente las formas y las imágenes de los bienes almacenados."
+                          },
+                          {
+                            "keywords": [
+                              "renovar",
+                              "palabra",
+                              "memoria",
+                              "inalterable"
+                            ],
+                            "lineNumber": [
+                              10
+                            ],
+                            "originalText": "καὶ διὰ τοῦτο πάντως δεομένης τοῦ ἀνακαινίζοντος τρόπου, καθ’ ὃν ἡ τοῦ λόγου δύναμις διὰ παντὸς ἀκμάζουσα συντηρεῖν πέφυκε τὴν μνήμην ἀπαθῆ καὶ ἀμείωτον.",
+                            "spanishTranslation": "Y por esta razón, es absolutamente necesario un modo que renueve, por el cual el poder de la palabra, floreciendo constantemente, naturalmente preserva la memoria inalterable e inmutable."
+                          },
+                          {
+                            "keywords": [
+                              "sabiduría",
+                              "razón",
+                              "palabra",
+                              "permanencia"
+                            ],
+                            "lineNumber": [
+                              11
+                            ],
+                            "notes": {
+                              "notesLinguistics": "«λόγος» (logos) tiene un significado muy amplio en griego, que puede abarcar "
+                            },
+                            "originalText": "Ὅσον δὲ τοῦ ἁπλῶς ἀκούειν, τὸ καὶ διαμονὴν ἀκαθαίρετον τῶν ἀκουσθέντων ἐπιζητεῖν, ἐστὶ σοφώτερον, ἐπίσταται πάντως πᾶς ὁ καὶ μικρὸν εὐγενείας λογικῆς ἐπιμελούμενος, καὶ μὴ πάντῃ τῆς πρὸς τὸν λόγον οἰκειότητος ὑπάρχων ἀλλότριος.",
+                            "spanishTranslation": "Y es más sabio buscar también la permanencia inquebrantable de lo oído que simplemente oír, algo que sabe sin duda todo aquel que se preocupa un poco por la nobleza racional y no es completamente ajeno a la familiaridad con la razón (o palabra)."
+                          },
+                          {
+                            "keywords": [
+                              "dudar",
+                              "rechazar",
+                              "discurso"
+                            ],
+                            "lineNumber": [
+                              12
+                            ],
+                            "originalText": "Κἀγὼ μὲν ὤκνουν παρὰ τὴν ἀρχήν, τοῦ λόγου (εἰρήσεται γὰρ τἀληθές) τὴν ὑπόθεσιν παραιτούμενος·",
+                            "spanishTranslation": "Yo, al principio, dudaba, rechazando el tema del discurso (pues se dirá la verdad);"
+                          },
+                          {
+                            "keywords": [
+                              "gracia",
+                              "dignos"
+                            ],
+                            "lineNumber": [
+                              13
+                            ],
+                            "originalText": "οὐ τῷ μὴ θέλειν ὑμῖν, ἠγαπημένοι, παντὶ τρόπῳ διδόναι κατὰ δύναμιν τὰ καταθύμιον, ἀλλὰ τῷ μήτε τῆς ἐναγούσης πρὸς τοῦτο τοὺς ἀξίους μετειληφέναι χάριτος·",
+                            "spanishTranslation": "no porque no quisiera daros, amados, de toda manera y según mi capacidad lo que deseáis, sino porque no he participado de la gracia que conduce a esto a los dignos;"
+                          },
+                          {
+                            "keywords": [
+                              "inexperto",
+                              "discursos técnicos",
+                              "elocuencia"
+                            ],
+                            "lineNumber": [
+                              14
+                            ],
+                            "notes": {
+                              "notesLinguistics": "«ἰδιωτεία» puede traducirse como "
+                            },
+                            "originalText": "μήτε μὴν πεῖραν ἔχειν τῆς πρὸς τὸ λέγειν δυνάμεώς τε καὶ τριβῆς, ἰδιωτεία συντεθραμμένος, καὶ λόγων τεχνικῶν παντελῶς ἀμύητος ὑπάρχων, τῶν ἐν μόνη τῇ προφορᾷ τὴν χάριν ἐχόντων·",
+                            "spanishTranslation": "ni tampoco tener experiencia en la capacidad y práctica de hablar, habiéndome criado en la simplicidad (o vida privada), y siendo completamente inexperto en discursos técnicos, los cuales tienen su encanto solo en la elocuencia oral;"
+                          },
+                          {
+                            "keywords": [
+                              "placer",
+                              "oído",
+                              "superficialidad"
+                            ],
+                            "lineNumber": [
+                              15
+                            ],
+                            "originalText": "οἷς τί πολλοὶ μάλιστα χαίρουσι, τῇ ἀκοῇ τὴν ἡδονὴν περιγράφοντες, κἂν εἰ μηδὲν τῶν τιμίων διὰ βάθους πολλάκις ἔχοιεν·",
+                            "spanishTranslation": "en los que muchos se deleitan, limitando el placer al oído, aunque a menudo no contengan nada de valor en profundidad;"
+                          },
+                          {
+                            "keywords": [
+                              "humildad",
+                              "respeto",
+                              "Dionisio Areopagita"
+                            ],
+                            "lineNumber": [
+                              16
+                            ],
+                            "notes": {
+                              "notesFromSource": "El "
+                            },
+                            "originalText": "καὶ τὸ, κυριώτερον εἰπεῖν καὶ ἀληθέστερον, δεδιότα μὴ καθυβρίσειν τῇ εὐτελείᾳ τοῦ ἡμετέρου λόγου τὴν ἐκείνου τοῦ μακαρίου ἀνδρὸς περὶ τῶν θείων ὑψηγορίαν τε καὶ νόησιν·",
+                            "spanishTranslation": "y lo que es más importante y verdadero decir, temiendo no deshonrar con la sencillez de nuestro lenguaje la sublimidad y la concepción divina de aquel varón bienaventurado en las cosas sagradas;"
+                          },
+                          {
+                            "keywords": [
+                              "amor",
+                              "obediencia",
+                              "encargo"
+                            ],
+                            "lineNumber": [
+                              17
+                            ],
+                            "originalText": "ὅμως δ’ οὖν ὕστερον τῇ βίᾳ τῆς ἀγάπης ἐξείξας, τῆς πάντων ἰσχυροτέρας, ἐδεξάμην ἐκὼν τὸ ἐπίταγμα·",
+                            "spanishTranslation": "sin embargo, después, cediendo a la fuerza del amor, que es más poderosa que todo, acepté de buen grado el encargo;"
+                          },
+                          {
+                            "keywords": [
+                              "ridículo",
+                              "audacia",
+                              "dilación",
+                              "colaboración"
+                            ],
+                            "lineNumber": [
+                              18
+                            ],
+                            "originalText": "γελᾶσθαι μᾶλλον ἐπ’ αὐθαδείᾳ τε καὶ ἀπαιδευσίᾳ, δι’ εὐπείθειαν παρὰ τῶν μεμψιμοίρων ἐλόμενος, ἢ ὑμῖν διὰ τῆς ἀναβολῆς ἐν παντὶ καλῷ μὴ συμπροθυμεῖσθαι βούλεσθαι νομισθῆναι·",
+                            "spanishTranslation": "prefiriendo ser ridiculizado por mi audacia e ineducación, por obediencia, por parte de los quejumbrosos, que ser considerado por vosotros, por la dilación, como no dispuesto a colaborar en todo lo bueno;"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "hablar",
+                              "milagro"
+                            ],
+                            "lineNumber": [
+                              19
+                            ],
+                            "originalText": "τὴν περὶ τοῦ πῶς εἰπεῖν μέριμναν τῷ Θεῷ ἐπιρρίψας, τῷ μόνῳ θαυματουργῷ·",
+                            "spanishTranslation": "arrojando al cuidado de Dios la preocupación sobre cómo hablar, a Él, el único hacedor de maravillas;"
+                          },
+                          {
+                            "keywords": [
+                              "conocimiento",
+                              "mudos",
+                              "hablar"
+                            ],
+                            "lineNumber": [
+                              20
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Salmos 94:10: «El que instruye a las naciones, ¿no castigará? ¿El que enseña al hombre la ciencia, no sabrá?» Y también a Isaías 35:6: «Entonces el cojo saltará como un ciervo, y cantará la lengua del mudo».",
+                              "notesGreek": "«μογιλάλων» (mogilálōn) significa "
+                            },
+                            "originalText": "καὶ διδάσκοντι μὲν ἀνθρώπου γνῶσιν, τραγῶντι δὲ γλώσσας μογιλάλων 3.",
+                            "spanishTranslation": "y que enseña al hombre el conocimiento, y hace cantar las lenguas de los que hablan con dificultad."
+                          },
+                          {
+                            "keywords": [
+                              "imposible",
+                              "camino",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              21
+                            ],
+                            "notes": {
+                              "notesLinguistics": "Este fragmento juega con las palabras griegas «ἀπόροις» (áporois, "
+                            },
+                            "originalText": "καὶ τοῖς ἀπόροις πόρον ἐπινοοῦντι·",
+                            "spanishTranslation": "y que idea un camino para los que no tienen salida;"
+                          },
+                          {
+                            "keywords": [
+                              "pobre",
+                              "humilde",
+                              "exaltar"
+                            ],
+                            "lineNumber": [
+                              22
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a 1 Samuel 2:8: «Él levanta del polvo al pobre, y del muladar exalta al menesteroso». Y Salmos 113:7: «Él levanta del polvo al pobre, y del muladar al menesteroso, para sentarlos con los príncipes, con los príncipes de su pueblo»."
+                            },
+                            "originalText": "καὶ ἐγείροντι μὲν ἀπὸ γῆς πτωχόν, ἀπὸ δὲ κοπρίας ἀνυψοῦντι πένητα·",
+                            "spanishTranslation": "y que levanta al pobre del polvo (de la tierra), y exalta al necesitado del muladar;"
+                          },
+                          {
+                            "keywords": [
+                              "mentalidad carnal",
+                              "pasiones",
+                              "fango"
+                            ],
+                            "lineNumber": [
+                              23
+                            ],
+                            "originalText": "τοῦ σαρκικοῦ λέγω φρονήματος, καὶ τῆς δυσώδους τῶν παθῶν ιλύος·",
+                            "spanishTranslation": "me refiero a la mentalidad carnal y al fango maloliente de las pasiones;"
+                          },
+                          {
+                            "keywords": [
+                              "pobre de espíritu",
+                              "maldad"
+                            ],
+                            "lineNumber": [
+                              24
+                            ],
+                            "notes": {
+                              "notesBiblical": "«Pobres de espíritu» es una referencia a Mateo 5:3, la primera bienaventuranza."
+                            },
+                            "originalText": "τὸν πτωχὸν τῷ πνεύματι ἢ τὸν κακίας πτωχεύοντα, καὶ τῆς κατ’ αὐτὴν πενόμενον ἕξεως·",
+                            "spanishTranslation": "al pobre de espíritu o al que es pobre en maldad, y carece de disposición hacia ella;"
+                          },
+                          {
+                            "keywords": [
+                              "ley de la carne",
+                              "virtud",
+                              "conocimiento",
+                              "gracia"
+                            ],
+                            "lineNumber": [
+                              25
+                            ],
+                            "originalText": "ἢ τοὐναντίον, καὶ τὸν ἔτι τῷ νόμῳ τῆς σαρκὸς καὶ τοῖς πάθεσιν ἐνεχόμενον, καὶ διὰ τοῦτο τῆς κατ’ ἀρετὴν καὶ γνῶσιν πτωχεύοντα καὶ πενόμενον χάριτος.",
+                            "spanishTranslation": "o, al contrario, también al que todavía está sujeto a la ley de la carne y a las pasiones, y por ello es pobre y necesitado de la gracia en cuanto a virtud y conocimiento."
+                          },
+                          {
+                            "keywords": [
+                              "Dionisio Areopagita",
+                              "Jerarquía Eclesiástica",
+                              "símbolos",
+                              "liturgia"
+                            ],
+                            "lineNumber": [
+                              26
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dionisio Areopagita, a quien se refiere, es Pseudo-Dionisio, un teólogo neoplatónico cristiano de los siglos V-VI cuyas obras tuvieron una inmensa influencia en la teología mística medieval. Su obra "
+                            },
+                            "originalText": "Ἀλλ’ ἐπειδὴ τῷ παναγίῳ καὶ ὄντως θεοφάντορι Διονυσίῳ τῷ Ἀρεοπαγίτῃ ἐν τῇ περὶ τῆς ἐκκλησια- -στικῆς Ἱεραρχίας πραγματείᾳ, καὶ τὰ κατὰ τὴν ἱερὰν τῆς ἁγίας συνάξεως τελετὴν ἀξίως τῆς αὐτοῦ μεγαλονοίας τεθεώρηται σύμβολα·",
+                            "spanishTranslation": "Pero puesto que en la obra sobre la Jerarquía Eclesiástica del santísimo y verdaderamente teofánico Dionisio Areopagita, los símbolos de la sagrada celebración de la santa asamblea han sido contemplados dignamente de su gran intelecto;"
+                          },
+                          {
+                            "keywords": [
+                              "discurso",
+                              "Dionisio",
+                              "temas"
+                            ],
+                            "lineNumber": [
+                              27
+                            ],
+                            "originalText": "ἰστέον, ὡς οὐ τὰ αὐτὰ νῦν ὁ λόγος διέρχεται, οὔτε διὰ τῶν αὐτῶν ἐκείνῳ πρόερχεται.",
+                            "spanishTranslation": "hay que saber que el presente discurso no trata los mismos temas, ni procede por los mismos medios que aquel."
+                          },
+                          {
+                            "keywords": [
+                              "atrevimiento",
+                              "presunción",
+                              "Dionisio",
+                              "comprensión"
+                            ],
+                            "lineNumber": [
+                              28
+                            ],
+                            "originalText": "Τομηρὸν γὰρ καὶ αὐθαδὲς καὶ ἀπονοίας ἐγγύς, ἐγχειρεῖν τοῖς ἐκείνου πειρᾶσθαι, τὸν μήτε χωρεῖν αὐτὸν ἢ νοεῖν δυνάμενον 4·",
+                            "spanishTranslation": "Pues es atrevido, presuntuoso y cercano a la desesperación (o locura) intentar abordar los temas de aquel, quien no es capaz ni de comprenderlos ni de concebirlos;"
+                          },
+                          {
+                            "keywords": [
+                              "revelación",
+                              "Espíritu Santo",
+                              "misterios"
+                            ],
+                            "lineNumber": [
+                              29
+                            ],
+                            "originalText": "καὶ ὡς ἴδια προκομίζειν, τὰ ἐνθέως ἐκείνῳ μόνῳ διὰ τοῦ Πνεύματος φανερωθέντα μυστήρια·",
+                            "spanishTranslation": "y presentar como propios los misterios que le fueron revelados divinamente solo a él por medio del Espíritu;"
+                          },
+                          {
+                            "keywords": [
+                              "exposición",
+                              "ejercicio",
+                              "disposición divina"
+                            ],
+                            "lineNumber": [
+                              30
+                            ],
+                            "originalText": "ἀλλ’ ὅσα καὶ ἄλλοις ὡς ληπτὰ παρ’ αὐτοῦ φιλανθρώπως βουλήσει Θεοῦ παρελείφθη πρὸς ἔκθεσιν 5 καὶ γυμνασίαν τῆς αὐτῶν ἐκείνων περὶ τὰ θεῖα κατὰ τὴν ἔφεσιν ἕξεως·",
+                            "spanishTranslation": "sino aquello que, para otros, fue dejado por él de manera humana y por voluntad de Dios para exposición y ejercicio de su propia disposición hacia las cosas divinas según su deseo;"
+                          },
+                          {
+                            "keywords": [
+                              "rayo divino",
+                              "comprensión",
+                              "deseo",
+                              "ociosidad"
+                            ],
+                            "lineNumber": [
+                              31
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia a la "
+                            },
+                            "originalText": "καὶ δι’ ὧν σύμμετρος αὐτοῖς ἡ παμφαὴς τῶν τελουμένων ἀκτὶς κατανοουμένη καθίσταται γνώριμος, καὶ πρὸς ἑαυτὴν κατέχει τῷ πόθῳ περιληφθέντας, ἵνα μὴ παντελῶς οἱ μετ’ αὐτὸν ὦσιν ἀργοί, τὴν πᾶσαν τοῦ χρόνου τῆς παρούσης ζωῆς ἡμέραν, οὐκ ἔχοντες τὸν πρὸς τὴν θείαν ἐκείνην ἀμπελουργίαν μισθούμενον λόγον, τὸν ὑπὲρ τῆς πνευματικῆς ἐργασίας·",
+                            "spanishTranslation": "y por medio de lo cual el brillante rayo de las cosas realizadas, al ser comprendido proporcionalmente a ellos, se hace cognoscible y los atrae hacia sí mismos al ser abrazados por el deseo, para que los que le suceden no estén completamente ociosos, durante todo el tiempo de la vida presente, al no tener la razón (o palabra) que los contrata para aquella divina viña, para el trabajo espiritual;"
+                          },
+                          {
+                            "keywords": [
+                              "viña espiritual",
+                              "denario",
+                              "imagen divina",
+                              "engaño"
+                            ],
+                            "lineNumber": [
+                              32
+                            ],
+                            "notes": {
+                              "notesBiblical": "El "
+                            },
+                            "originalText": "τοῦ πνευματικοῦ ἀμπελῶνος, τὸ συλωθὲν κατ’ ἀρχὰς ὑπὸ τοῦ πονηροῦ δι’ ἀπάτης κατὰ τὴν τῆς ἐντολῆς παράβασιν, πνευματικὸν τῆς θείας καὶ βασιλικωτάτης εἰκόνος· δηνάριον ἀποδιδόντα.",
+                            "spanishTranslation": "de la viña espiritual, devolviendo el denario espiritual de la imagen divina y más real, que al principio fue robado por el maligno mediante el engaño en la transgresión del mandamiento."
+                          },
+                          {
+                            "keywords": [
+                              "Dionisio",
+                              "contemplación mística"
+                            ],
+                            "lineNumber": [
+                              33
+                            ],
+                            "originalText": "Οὐ πάντα δὲ τὰ τῷ μακαρίῳ γέροντι μυστικῶς θεωρηθέντα λέγειν καθεξῆς ἐπαγγέλλομαι·",
+                            "spanishTranslation": "Pero no prometo exponer en orden todo lo que el bendito anciano contempló místicamente;"
+                          },
+                          {
+                            "keywords": [
+                              "concepción",
+                              "expresión"
+                            ],
+                            "lineNumber": [
+                              34
+                            ],
+                            "originalText": "οὐδ’ αὐτὰ τὰ λεγόμενα, ὡς ἐνενοήθη τε παρ’ ἐκείνου καὶ ἐλέχθη:",
+                            "spanishTranslation": "ni siquiera las cosas que se dicen, tal como fueron concebidas y expresadas por él:"
+                          },
+                          {
+                            "keywords": [
+                              "filósofo",
+                              "sabiduría",
+                              "virtud",
+                              "intelecto divino"
+                            ],
+                            "lineNumber": [
+                              35
+                            ],
+                            "originalText": "Ἐκεῖνος γάρ, πρὸς τὸ φιλόσοφος εἶναι, καὶ πάσης παιδείας διδάσκαλος, δι’ ἀρετῆς περιουσίαν καὶ τῆς περὶ τὰ θεῖα χρονιωτέρας τε καὶ ἐπιστημονικωτέρας τριβῆς καὶ φιλοπονίας, τῶν τῆς ὕλης δεσμῶν καὶ τῶν κατ’ αὐτὴν φαντασιῶν ἐλεύθερον ἑαυτὸν καταστήσας, τὸν τε νοῦν εἰκότως εἶχε ταῖς θείαις αὐγαῖς περιλαμπόμενον, καὶ διὰ τοῦτο δυνάμενον εὐθέως 6 ὁρᾶν τὰ τοῖς πολλοῖς μὴ ὁρώμενα, καὶ τὸν λόγον ἑρμηνευτὴν ἀκριβέστατον τῶν νοηθέντων·",
+                            "spanishTranslation": "Porque aquel, siendo filósofo y maestro de toda sabiduría, por la abundancia de virtud y por una práctica y laboriosidad más duradera y científica en las cosas divinas, habiéndose liberado de las ataduras de la materia y de las fantasías que de ella proceden, tenía naturalmente su intelecto iluminado por los rayos divinos, y por ello era capaz de ver inmediatamente lo que no es visto por la mayoría, y su discurso era el más exacto intérprete de lo concebido;"
+                          },
+                          {
+                            "keywords": [
+                              "espejo",
+                              "pasiones",
+                              "pureza",
+                              "inefable"
+                            ],
+                            "lineNumber": [
+                              36
+                            ],
+                            "originalText": "καὶ ἐσόπτρου δίκην ὑπ’ οὐδεμιᾶς κηλῖδος παθῶν ἐμποδιζόμενον, ἀκραιφνῶς τὰ ἄλλοις μήτε νοηθῆναι δυνάμενα, καὶ φέρειν καὶ λέγειν ἰσχύοντα·",
+                            "spanishTranslation": "y, como un espejo no impedido por ninguna mancha de pasiones, era capaz de percibir y expresar con pureza lo que para otros no es concebible;"
+                          },
+                          {
+                            "keywords": [
+                              "intelecto",
+                              "razón",
+                              "comprensión"
+                            ],
+                            "lineNumber": [
+                              37
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La traducción de «ἀκρατῶς» (akratōs) es compleja aquí. Normalmente significa "
+                            },
+                            "originalText": "ὡς δύνασθαι τοὺς ἀκρατῶς ὅλον μὲν τῷ λόγῳ τὸν νοῦν ὁρᾶν ἐποχούμενον·",
+                            "spanishTranslation": "de modo que los que sin reservas pueden ver el intelecto completamente entregado a la razón (o Logos);"
+                          },
+                          {
+                            "keywords": [
+                              "pensamiento",
+                              "intelecto",
+                              "Logos",
+                              "mediación"
+                            ],
+                            "lineNumber": [
+                              38
+                            ],
+                            "originalText": "ὅλα δὲ ὅλῳ τῷ νῷ καθαρῶς ἐμφαίνεσθαι τὰ νοηθέντα, καὶ διὰ τῆς τοῦ λόγου μεσιτείας αὐτοῖς διαπορθμευόμενα δέξασθαι·",
+                            "spanishTranslation": "y ver todas las cosas concebidas manifestarse puramente a todo el intelecto, y recibirlas, siendo transmitidas a ellos por la mediación del discurso (o Logos);"
+                          },
+                          {
+                            "keywords": [
+                              "memoria",
+                              "conocimiento oscuro"
+                            ],
+                            "lineNumber": [
+                              39
+                            ],
+                            "originalText": "ἀλλ’ ὅσα διὰ μνήμης τε φέρω, καὶ ὡς νοεῖν ἀμυδρῶς, καὶ λέγειν ἀμυδρότερον δύναμαι·",
+                            "spanishTranslation": "pero yo (expondré) todo lo que retengo por la memoria, y lo que puedo concebir oscuramente y expresar aún más oscuramente;"
+                          },
+                          {
+                            "keywords": [
+                              "gracia divina",
+                              "iluminación"
+                            ],
+                            "lineNumber": [
+                              40
+                            ],
+                            "originalText": "πλὴν εὐσεβῶς, χάριτι τοῦ τὰ ἐσκοτισμένα φωτίζοντος Θεοῦ.",
+                            "spanishTranslation": "pero piadosamente, por la gracia de Dios que ilumina lo que está oscurecido."
+                          },
+                          {
+                            "keywords": [
+                              "juicio",
+                              "gracia",
+                              "capacidad"
+                            ],
+                            "lineNumber": [
+                              41
+                            ],
+                            "originalText": "Μηδὲ γὰρ οἴεσθαι δεῖν ὑμᾶς ὑπολαμβάνω, δικαίως κρίνειν εἰδότας, ἄλλως με νοεῖν ἢ λέγειν δύνασθαι, ἢ ὡς νοεῖν καὶ λέγειν δύναμαι, καὶ ἢ ἄνωθεν χάρις ἐνδίδωσιν, οἰκείως τῆς ἀναλογούσης μοι προνοουμένης δυνάμεως, κἂν ὁ παραδοὺς μάλιστα, καὶ διδάξας ἐστὶν ὑψηλότατος.",
+                            "spanishTranslation": "Pues no creo que debáis suponer, sabiendo juzgar con justicia, que yo pueda concebir o hablar de otra manera que como puedo concebir y hablar, y como la gracia de arriba me concede, previendo adecuadamente la capacidad que me corresponde, aunque quien me ha transmitido y enseñado sea en verdad altísimo."
+                          },
+                          {
+                            "keywords": [
+                              "virtud",
+                              "conocimiento",
+                              "igualdad",
+                              "sol y luna"
+                            ],
+                            "lineNumber": [
+                              42
+                            ],
+                            "originalText": "Ἐπεὶ τὸ τὰ ἴσα ζητεῖν παρὰ τῶν μὴ ἴσων τὴν ἀρετὴν καὶ τὴν γνῶσιν, οὐ πόρρω μοι δοκεῖ τυγχάνειν τῶν δείξειν πειρωμένων τῷ ἡλίῳ, κατὰ τὸ ἴσον τὴν σελήνην φωτίζουσαν·",
+                            "spanishTranslation": "Puesto que buscar la igualdad en virtud y conocimiento entre quienes no son iguales, no me parece muy diferente de aquellos que intentan mostrar que la luna ilumina al sol de igual manera;"
+                          },
+                          {
+                            "keywords": [
+                              "imposible",
+                              "coincidir"
+                            ],
+                            "lineNumber": [
+                              43
+                            ],
+                            "originalText": "καὶ τὸ μὴ πάντῃ ταῦτα συμβαίνειν ἀλλήλοις κατὰ πάντα δύνασθαι βιαζομένων·",
+                            "spanishTranslation": "y de quienes se empeñan en que estas cosas no pueden en absoluto coincidir completamente entre sí en todo;"
+                          },
+                          {
+                            "keywords": [
+                              "imposible",
+                              "irrealizable"
+                            ],
+                            "lineNumber": [
+                              44
+                            ],
+                            "originalText": "ὅπερ ἀμήχανον καὶ ἀδύνατον.",
+                            "spanishTranslation": "lo cual es imposible e irrealizable."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "mente",
+                              "Logos",
+                              "existencia"
+                            ],
+                            "lineNumber": [
+                              45
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este es el comienzo de una sección sobre la teología apofática, la cual describe a Dios por lo que no es, debido a Su absoluta trascendencia. Dios es la fuente de todo ser y conocimiento, pero Él mismo está más allá de ellos en el sentido creado."
+                            },
+                            "originalText": "Ἡγείσθω δὲ Θεὸς τῶν λεγομένων τε καὶ νοουμένων, ὁ μόνος νοῦς τῶν νοούντων καὶ νοουμένων, καὶ λόγος τῶν λεγόντων καὶ λεγομένων·",
+                            "spanishTranslation": "Que Dios sea el guía de lo que se dice y se concibe, Él, la única mente de los que piensan y de lo pensado, y la palabra (o Logos) de los que hablan y de lo hablado;"
+                          },
+                          {
+                            "keywords": [
+                              "vida",
+                              "ser",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              46
+                            ],
+                            "originalText": "καὶ ζωὴ τῶν ζώντων καὶ ζωουμένων, καὶ πᾶσι πάντα κατ’ ὂν καὶ γινόμενος, δι’ αὐτὰ τὰ ὄντα καὶ γινόμενα·",
+                            "spanishTranslation": "y la vida de los que viven y son vivificados, y que es y llega a ser todo para todos, por medio de los seres mismos y lo que llega a ser;"
+                          },
+                          {
+                            "keywords": [
+                              "trascendencia",
+                              "Dios",
+                              "no-ser"
+                            ],
+                            "lineNumber": [
+                              47
+                            ],
+                            "notes": {
+                              "notesGeneral": "Refleja el principio apofático: Dios no es parte de la categoría de "
+                            },
+                            "originalText": "δι’ ἑαυτὸν δὲ οὐδὲν κατ’ οὐδένα τρόπον οὐδαμῶς οὔτε ὂν οὔτε γινόμενος, τῶν ἅ τι τῶν ὄντων ἐστὶ καὶ γινομένων, οἷα μηδὲν τὸ παράπαν τῶν ὄντων φυσικῶς συντασσόμενος·",
+                            "spanishTranslation": "pero por sí mismo, de ninguna manera es ni llega a ser nada de lo que es o llega a ser entre los seres, ya que en absoluto se clasifica naturalmente con los seres;"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "sobre-ser",
+                              "apofatismo"
+                            ],
+                            "lineNumber": [
+                              48
+                            ],
+                            "notes": {
+                              "notesGreek": "«ὑπερεῖναι» (hypereinai) es un término clave en la teología apofática que significa "
+                            },
+                            "originalText": "καὶ διὰ τοῦτο, τὸ μὴ εἶναι μᾶλλον, διὰ τὸ ὑπερεῖναι, ὡς οἰκειότερον ἐπ’ αὐτοῦ λεγόμενον προσιέμενος.",
+                            "spanishTranslation": "y por ello, prefiere que se diga de Él más bien que "
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "criaturas",
+                              "diferencia",
+                              "apofatismo"
+                            ],
+                            "lineNumber": [
+                              49
+                            ],
+                            "notes": {
+                              "notesGeneral": "Aquí se presenta la distinción fundamental en la teología apofática: para afirmar la trascendencia de Dios (Su "
+                            },
+                            "originalText": "Δεῖ γάρ, εἴπερ ὡς ἀληθῶς τὸ γνῶναι διαφορὰν Θεοῦ καὶ κτισμάτων ἐστὶν ἀναγκαῖον ἡμῖν, θέσιν εἶναι τοῦ ὑπερόντος τὴν τῶν ὄντων ἀφαίρεσιν·",
+                            "spanishTranslation": "Pues si realmente nos es necesario conocer la diferencia entre Dios y las criaturas, la afirmación del "
+                          },
+                          {
+                            "keywords": [
+                              "ser",
+                              "no-ser",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              50
+                            ],
+                            "originalText": "καὶ τὴν τῶν ὄντων θέσιν, εἶναι τοῦ ὑπερόντος ἀφαίρεσιν·",
+                            "spanishTranslation": "y la afirmación de los seres, es la negación del "
+                          },
+                          {
+                            "keywords": [
+                              "denominaciones",
+                              "ser",
+                              "no-ser"
+                            ],
+                            "lineNumber": [
+                              51
+                            ],
+                            "originalText": "καὶ ἄμφω περὶ τὸν αὐτὸν κυρίως 7 θεωρεῖσθαι τὰς προσηγορίας, καὶ μηδεμίαν κυρίως δύνασθαι·",
+                            "spanishTranslation": "y ambas denominaciones se contemplan propiamente respecto a Él mismo, y ninguna puede ser propiamente..."
+                          },
+                          {
+                            "keywords": [
+                              "ser",
+                              "no-ser"
+                            ],
+                            "lineNumber": [
+                              52
+                            ],
+                            "originalText": "τὸ εἶναι 8 φημι, καὶ μὴ εἶναι.",
+                            "spanishTranslation": "...me refiero al ser y al no ser."
+                          },
+                          {
+                            "keywords": [
+                              "ser de Dios",
+                              "causa",
+                              "cataphatismo"
+                            ],
+                            "lineNumber": [
+                              53
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este punto explica la aplicación del cataphatismo (afirmación) y el apofatismo (negación) a Dios. Cataphatismo: Dios es la causa de todo lo que "
+                            },
+                            "originalText": "Ἄμφω μὲν κυρίως, ὡς τῆς μὲν τοῦ εἶναι τοῦ Θεοῦ κατ’ αἰτίαν τῶν ὄντων θετικῆς·",
+                            "spanishTranslation": "Ambas son propiamente (aplicables), ya que la del "
+                          },
+                          {
+                            "keywords": [
+                              "excelencia causal",
+                              "negación",
+                              "apofatismo"
+                            ],
+                            "lineNumber": [
+                              54
+                            ],
+                            "notes": {
+                              "notesGeneral": "Apophatismo: Debido a la trascendencia y superioridad de Dios como Causa, Él no puede ser delimitado por las categorías de "
+                            },
+                            "originalText": "τῆς δὲ καθ’ ὑπεροχὴν αἰτίας τοῦ εἶναι πάσης τῶν ὄντων ἀφαιρετικῆς·",
+                            "spanishTranslation": "y la de la excelencia causal es negativa de todo ser de los seres;"
+                          },
+                          {
+                            "keywords": [
+                              "esencia divina",
+                              "naturaleza",
+                              "inefabilidad"
+                            ],
+                            "lineNumber": [
+                              55
+                            ],
+                            "originalText": "καὶ μηδὲ μίαν κυρίως πάλιν, ὡς οὐδεμίας τὴν κατ’ οὐσίαν αὐτὴν καὶ φύσιν τὸ τί εἶναι τοῦ ζητουμένου θέσιν παριστώσης.",
+                            "spanishTranslation": "y ninguna es propiamente (aplicable) de nuevo, ya que ninguna de las afirmaciones que se buscan expresa su ser esencial y natural."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "causalidad",
+                              "ser",
+                              "no-ser"
+                            ],
+                            "lineNumber": [
+                              56
+                            ],
+                            "notes": {
+                              "notesGeneral": "Dado que Dios no está unido a nada por causalidad natural, Él trasciende todas las categorías de ser y no-ser tal como las entendemos en el mundo creado."
+                            },
+                            "originalText": "Ὧ γὰρ μηδὲν τὸ σύνολον φυσικῶς κατ’ αἰτίαν συνέζευκται, ἢ ὂν ἢ μὴ ὄν·",
+                            "spanishTranslation": "Pues a Aquel a quien nada en absoluto se une naturalmente por causalidad, ya sea ser o no ser;"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "cercanía",
+                              "categorías"
+                            ],
+                            "lineNumber": [
+                              57
+                            ],
+                            "originalText": "τούτῳ οὐδὲν τῶν ὄντων καὶ λεγομένων, οὐδὲ τῶν μὴ ὄντων καὶ μὴ λεγομένων, εἰκότως ἐστὶν ἐγγύς.",
+                            "spanishTranslation": "a Él, nada de lo que es y se dice, ni de lo que no es y no se dice, está lógicamente cerca."
+                          },
+                          {
+                            "keywords": [
+                              "existencia",
+                              "simple",
+                              "incognoscible",
+                              "inefable"
+                            ],
+                            "lineNumber": [
+                              58
+                            ],
+                            "notes": {
+                              "notesGeneral": "Esta es una descripción clásica de la existencia divina en la teología apofática, enfatizando la simplicidad, misterio e inaccesibilidad de Dios a la comprensión humana y al lenguaje discursivo."
+                            },
+                            "originalText": "Ἀπλῆν γὰρ καὶ ἄγνωστον καὶ πᾶσιν ἄβατον ἔχει τὴν ὕπαρξιν, καὶ παντελῶς ἀνερμήνευτον, καὶ πάσης καταφάσεώς τε καὶ ἀποφάσεως οὖσαν ἐπέκεινα.",
+                            "spanishTranslation": "Pues Su existencia es simple, incognoscible e inaccesible para todos, y completamente inefable, estando más allá de toda afirmación y negación."
+                          },
+                          {
+                            "keywords": [
+                              "conclusión",
+                              "introducción"
+                            ],
+                            "lineNumber": [
+                              59
+                            ],
+                            "originalText": "Καὶ ταῦτα μὲν περὶ τούτων·",
+                            "spanishTranslation": "Y esto, pues, sobre estos temas;"
+                          },
+                          {
+                            "keywords": [
+                              "tema principal",
+                              "discurso"
+                            ],
+                            "lineNumber": [
+                              60
+                            ],
+                            "originalText": "ἐπὶ δὲ τὴν προκειμένην τοῦ λόγου ὑπόθεσιν ἔλθωμεν.",
+                            "spanishTranslation": "pasemos ahora al tema principal del discurso."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

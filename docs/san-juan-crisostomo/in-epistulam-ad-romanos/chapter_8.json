@@ -1,0 +1,2533 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Iohannes Chrysostomus",
+      "authorSpanish": "San Juan Cristóstomo",
+      "originalTitle": "In Epistulam ad Romanos",
+      "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 8,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 8,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "Abraham",
+                              "carne",
+                              "padre"
+                            ],
+                            "lineNumber": [
+                              2429
+                            ],
+                            "notes": {
+                              "notesBiblical": "El pasaje hace eco de la pregunta fundamental que Pablo plantea en Romanos 4:1.",
+                              "notesGreek": "La expresión 'κατὰ σάρκα' (katá sárka), 'según la carne', se refiere aquí a una relación o búsqueda basada en la descendencia física, la ley o los esfuerzos humanos, en contraste con la gracia divina o la fe. Es un término clave en la teología paulina, que a menudo contrapone la 'carne' al 'espíritu'."
+                            },
+                            "originalText": "Τί οὖν ἐροῦµεν Ἀβραὰµ τὸν πατέρα ἡµῶν εὑρη κέναι κατὰ σάρκα;",
+                            "spanishTranslation": "Entonces, ¿qué diremos que Abraham, nuestro padre, ha hallado según la carne?"
+                          },
+                          {
+                            "keywords": [
+                              "justificación",
+                              "obras",
+                              "jactancia",
+                              "Dios",
+                              "Abraham"
+                            ],
+                            "lineNumber": [
+                              2430
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta afirmación es una cita directa de Romanos 4:2, donde Pablo argumenta que la justificación de Abraham no fue por obras, sino por fe, para que nadie pueda gloriarse ante Dios.",
+                              "notesGreek": "'Ἐδικαιώθη' (edikatiōthē), 'fue justificado', es un término teológico central que significa ser declarado justo o ser puesto en una relación correcta con Dios. 'Καύχημα' (kaúchēma), 'jactancia' o 'motivo de gloria', se refiere a aquello en lo que uno puede gloriarse.",
+                              "notesLinguistics": "La estructura condicional 'Εἰ γὰρ... ἔχει...' (Si... entonces tiene...) introduce una hipótesis para refutarla, un recurso retórico común en la argumentación paulina y patrística."
+                            },
+                            "originalText": "Εἰ γὰρ Ἀβραὰµ ἐξ ἔργων ἐδικαιώθη, ἔχει καύχηµα, ἀλλ' οὐ πρὸς τὸν Θεόν.",
+                            "spanishTranslation": "Porque si Abraham fue justificado por las obras, tiene de qué jactarse, pero no ante Dios."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 8,
+                    "chapterSummary": "Discusión sobre la justificación por la fe, utilizando a Abraham como ejemplo, y la superioridad de la gloria de la fe sobre la de las obras.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              2431,
+                              2432
+                            ],
+                            "originalText": "αʹ. Εἰπὼν, ὅτι ὑπόδικος ἐγένετο ὁ κόσµος τῷ Θεῷ, καὶ ὅτι πάντες ἥµαρτον, καὶ ὅτι οὐκ ἔνι σωθῆναι ἑτέρως, ἀλλ' ἢ διὰ πίστεως, σπουδάζει δεῖξαι λοιπὸν, ὅτι οὐδὲ αἰσχύνης ἡ σωτηρία αὕτη, ἀλλὰ καὶ δόξης λαµπρᾶς αἰτία, καὶ µείζονος τῆς διὰ τῶν ἔργων.",
+                            "spanishTranslation": "Primero. Habiendo dicho que el mundo se hizo responsable ante Dios, y que todos pecaron, y que no hay otra forma de ser salvado sino por la fe, se esfuerza ahora por demostrar que esta salvación no es causa de vergüenza, sino también de una gloria resplandeciente, y mayor que la que proviene de las obras."
+                          },
+                          {
+                            "lineNumber": [
+                              2433
+                            ],
+                            "originalText": "Ἐπειδὴ γὰρ τὸ µετ' αἰσχύνης σώζεσθαι εἶχέ τινα καὶ ἀθυµίαν, καὶ ταύτην ἀναιρεῖ τὴν ὑποψίαν λοιπόν·",
+                            "spanishTranslation": "Porque el ser salvado con vergüenza implicaba cierta desazón, ahora elimina esta sospecha;"
+                          },
+                          {
+                            "lineNumber": [
+                              2434,
+                              2435
+                            ],
+                            "originalText": "καίτοι γε καὶ ἤδη αὐτὸ ᾐνίξατο, οὐ σωτηρίαν µόνον, ἀλλὰ καὶ δικαιοσύνην καλέσας· ∆ικαιοσύνη γὰρ Θεοῦ, φησὶν, ἐν αὐτῷ ἀποκαλύπτεται·",
+                            "spanishTranslation": "aunque ya lo había insinuado, llamándolo no solo salvación, sino también justicia; pues la justicia de Dios, dice, se revela en ella; (Romanos 1:17)"
+                          },
+                          {
+                            "lineNumber": [
+                              2436
+                            ],
+                            "originalText": "ὁ γὰρ οὕτω σωζόµενος, ὡς δίκαιος µετὰ παῤῥησίας σώζεται.",
+                            "spanishTranslation": "porque el que así es salvado, es salvado como justo con confianza."
+                          },
+                          {
+                            "lineNumber": [
+                              2437,
+                              2438,
+                              2439
+                            ],
+                            "originalText": "Καὶ οὐ δικαιοσύνην µόνον, ἀλλὰ καὶ ἔνδειξιν Θεοῦ· Θεὸς δὲ ἐν τοῖς ἐνδόξοις ἐνδείκνυται καὶ λαµπροῖς καὶ µεγάλοις.",
+                            "spanishTranslation": "Y no solo justicia, sino también manifestación de Dios; porque Dios se manifiesta en lo glorioso, lo resplandeciente y lo grande."
+                          },
+                          {
+                            "lineNumber": [
+                              2440,
+                              2441,
+                              2442,
+                              2443,
+                              2444,
+                              2445,
+                              2446
+                            ],
+                            "originalText": "Πλὴν ἀλλὰ καὶ ἐκ τῶν προκειµένων αὐτὸ κατασκευάζει, κατὰ ἐρώτησιν προάγων τὸν λόγον, ὅπερ ἀεὶ ποιεῖν εἴωθε σαφηνείας τε ἕνεκεν καὶ τοῦ θαῤῥεῖν τοῖς λεγοµένοις. Καὶ γὰρ καὶ ἀνωτέρω οὕτω πεποίηκε, Τί οὖν τὸ περισσὸν τοῦ Ἰουδαίου; λέγων· καὶ, Τί οὖν προκατέχοµεν περισσόν; καὶ πάλιν, Ποῦ ἡ καύχησις; ἐξεκλείσθη· καὶ ἐνταῦθα, Τί οὖν ἐροῦµεν Ἀβραὰµ τὸν πατέρα ἡµῶν;",
+                            "spanishTranslation": "Pero lo establece también a partir de lo que se ha dicho, llevando adelante la discusión mediante preguntas, lo que siempre acostumbra hacer tanto por claridad como para infundir confianza en lo que se dice. Pues también lo hizo así más arriba, diciendo: ¿Qué ventaja tiene entonces el judío? (Romanos 3:1) y, ¿Qué superioridad tenemos entonces? (Romanos 3:9) y de nuevo, ¿Dónde está el jactarse? Ha sido excluido (Romanos 3:27); y aquí, ¿Qué diremos, entonces, de Abraham, nuestro padre? (Romanos 4:1)"
+                          },
+                          {
+                            "lineNumber": [
+                              2447,
+                              2448
+                            ],
+                            "originalText": "Ἐπειδὴ γὰρ ἄνω καὶ κάτω τοῦτο ἔστρεφον Ἰουδαῖοι, ὅτι ὁ πατριάρχης καὶ τῷ Θεῷ φίλος περιτοµὴν ἐδέξατο πρῶτος, βούλεται δεῖξαι, ὅτι καὶ ἐκεῖνος ἐκ πίστεως ἐδικαιώθη· ὅπερ ἦν περιουσία νίκης πολλῆς.",
+                            "spanishTranslation": "Porque los judíos giraban una y otra vez sobre esto, que el patriarca, amigo de Dios, fue el primero en recibir la circuncisión, quiere demostrar que también él fue justificado por la fe; lo cual era una gran ventaja para la victoria."
+                          },
+                          {
+                            "lineNumber": [
+                              2449,
+                              2450
+                            ],
+                            "originalText": "Τὸ µὲν γὰρ ἔργα µὴ ἔχοντα ἐκ πίστεως δικαιωθῆναί τινα, οὐδὲν ἀπεικός· τὸ δὲ κοµῶντα ἐν κατορθώµασι µὴ ἐντεῦθεν, ἀλλ' ἀπὸ πίστεως γενέσθαι δίκαιον, τοῦτο ἦν τὸ θαυµαστὸν καὶ µάλιστα τῆς πίστεως τὴν ἰσχὺν ἐµφαῖνον.",
+                            "spanishTranslation": "Pues que alguien sin obras sea justificado por la fe, no es nada improbable; pero que aquel que se jactaba de sus logros no fuera hecho justo por ellos, sino por la fe, esto era lo admirable y lo que más manifestaba la fuerza de la fe."
+                          },
+                          {
+                            "lineNumber": [
+                              2451,
+                              2452
+                            ],
+                            "originalText": "∆ιὸ δὴ τοὺς ἄλλους παραδραµὼν πάντας, ἐπὶ τοῦτον ἀνάγει τὸν λόγον. Πατέρα δὲ αὐτὸν κατὰ σάρκα ἐκάλεσεν, ἐκβάλλων αὐτοὺς τῆς πρὸς αὐτὸν γνησίας συγγενείας, καὶ προοδοποιῶν τοῖς ἔθνεσι τὴν πρὸς αὐτὸν ἀγχιστείαν.",
+                            "spanishTranslation": "Por esta razón, habiendo pasado por alto a todos los demás, dirige la discusión hacia él. Y lo llamó padre según la carne, excluyéndolos de la verdadera relación con él y preparando el camino para el parentesco de los gentiles con él."
+                          },
+                          {
+                            "lineNumber": [
+                              2453,
+                              2454
+                            ],
+                            "originalText": "Εἶτά φησιν· Εἰ γὰρ Ἀβραὰµ ἐξ ἔργων ἐδικαιώθη, ἔχει καύχηµα, ἀλλ' οὐ πρὸς τὸν Θεόν.",
+                            "spanishTranslation": "Luego dice: Porque si Abraham fue justificado por las obras, tiene de qué gloriarse, pero no delante de Dios. (Romanos 4:2)"
+                          },
+                          {
+                            "lineNumber": [
+                              2455,
+                              2456,
+                              2457
+                            ],
+                            "originalText": "Εἰπὼν οὖν, ὅτι δικαιοῖ περιτοµὴν ἐκ πίστεως ὁ Θεὸς, καὶ ἀκροβυστίαν διὰ τῆς πίστεως, καὶ κατασκευάσας αὐτὸ ἱκανῶς ἐν τοῖς ἔµπροσθεν, καὶ διὰ τοῦ Ἀβραὰµ µειζόνως αὐτὸ δείκνυσιν ἢ ἐπηγγείλατο, καὶ ποιεῖ τὴν µάχην τῇ πίστει πρὸς τὰ ἔργα, καὶ τὸν ἀγῶνα ὅλον περὶ τὸν δίκαιον ἵστησι· καὶ οὐχ ἁπλῶς. ∆ιὸ καὶ σφόδρα σεµνύνει προπάτορα καλῶν, καὶ ἀνάγκην αὐτοῖς ἐπιτιθεὶς τοῦ πείθεσθαι ἐν πᾶσιν αὐτῷ.",
+                            "spanishTranslation": "Así pues, habiendo dicho que Dios justifica al circuncidado por la fe, y al incircunciso por medio de la fe, y habiéndolo establecido suficientemente en lo anterior, y por medio de Abraham lo muestra de manera aún mayor de lo que había prometido, y establece el combate de la fe contra las obras, y toda la contienda la sitúa alrededor del justo; y no de manera simple. Por eso lo exalta grandemente llamándolo su progenitor, e imponiéndoles la necesidad de obedecerle en todo."
+                          },
+                          {
+                            "lineNumber": [
+                              2458,
+                              2459
+                            ],
+                            "originalText": "Μὴ γάρ µοι τὸν Ἰουδαῖον εἴπῃς, φησὶ, µηδὲ τὸν δεῖνα καὶ τὸν δεῖνα ἀγάγῃς εἰς µέσον· ἐγὼ γὰρ ἐπὶ τὴν κορυφὴν ἁπάντων, καὶ ὅθεν ἡ περιτοµὴ τὴν ἀρχὴν ἔλαβεν, ἄνειµι.",
+                            "spanishTranslation": "Pues no me digas, dice, ‘el judío’, ni traigas a fulano y a mengano a colación; porque yo me remonto a la cúspide de todos, y al origen mismo de la circuncisión."
+                          },
+                          {
+                            "lineNumber": [
+                              2460
+                            ],
+                            "originalText": "Εἰ γὰρ Ἀβραὰµ ἐξ ἔργων ἐδικαιώθη, φησὶν, ἔχει καύχηµα, ἀλλ' οὐ πρὸς τὸν Θεόν.",
+                            "spanishTranslation": "Porque si Abraham fue justificado por las obras, dice, tiene de qué gloriarse, pero no delante de Dios. (Romanos 4:2)"
+                          },
+                          {
+                            "lineNumber": [
+                              2461,
+                              2462
+                            ],
+                            "originalText": "Ἀσαφὲς τὸ εἰρηµένον· οὐκοῦν ἀναγκαῖον αὐτὸ ποιῆσαι σαφέστερον.",
+                            "spanishTranslation": "Lo dicho es oscuro; por lo tanto, es necesario hacerlo más claro."
+                          },
+                          {
+                            "lineNumber": [
+                              2463,
+                              2464
+                            ],
+                            "originalText": "∆ύο γάρ ἐστι καυχήµατα, τὸ µὲν ἀπὸ τῶν ἔργων, τὸ δὲ ἀπὸ τῆς πίστεως. Εἰπὼν τοίνυν, Εἰ ἐξ ἔργων ἐδικαιώθη, ἔχει καύχηµα, ἀλλ' οὐ πρὸς τὸν Θεὸν, ἔδειξεν, ὅτι καὶ ἀπὸ πίστεως δύναιτ' ἂν ἔχειν καύχηµα, καὶ πολλῷ µεῖζον.",
+                            "spanishTranslation": "Pues hay dos tipos de gloria: una que proviene de las obras, y otra que proviene de la fe. Habiendo dicho entonces, 'Si fue justificado por obras, tiene de qué gloriarse, pero no delante de Dios', demostró que también por la fe uno podría gloriarse, y de manera mucho mayor."
+                          },
+                          {
+                            "lineNumber": [
+                              2465,
+                              2466,
+                              2467
+                            ],
+                            "originalText": "Ἡ γὰρ πολλὴ τοῦ Παύλου δύναµις ἐν τούτῳ µάλιστα δείκνυται, ὅτι εἰς τοὐναντίον περιέτρεψε τὸ προκείµενον, καὶ ὅπερ εἶχεν ἡ διὰ τῶν ἔργων σωτηρία, τὸ καυχᾶσθαι καὶ παῤῥησιάζεσθαι, τοῦτο ἔδειξε πολλῷ πλέον τῆς πίστεως ὄν. Ὁ µὲν γὰρ ἐν τοῖς ἔργοις καυχώµενος, τοὺς οἰκείους ἔχει προβάλλεσθαι πόνους· ὁ δὲ ἐπὶ τῷ πιστεῦσαι τῷ Θεῷ καλλωπιζόµενος, πολλῷ µείζονα καυχήσεως ἀφορµὴν ἐπιδείκνυται, ἅτε δοξάσας καὶ µεγαλύνας τὸν Κύριον.",
+                            "spanishTranslation": "Pues el gran poder de Pablo se muestra especialmente en esto: que invirtió la cuestión planteada, y lo que la salvación por obras tenía —el jactarse y tener confianza—, esto lo mostró siendo mucho más propio de la fe. Porque el que se jacta en las obras, tiene sus propios esfuerzos para presentar; pero el que se gloría en haber creído a Dios, exhibe una causa mucho mayor de jactancia, puesto que glorificó y magnificó al Señor."
+                          },
+                          {
+                            "lineNumber": [
+                              2468,
+                              2469
+                            ],
+                            "originalText": "Ἃ γὰρ οὐχ ὑπηγόρευσεν ἡ φύσις τῶν ὁρωµένων, ταῦτα ἀπὸ τῆς πίστεως καταδεξάµενος τῆς εἰς αὐτὸν, καὶ τὴν γνησίαν ἀγάπην τὴν περὶ αὐτὸν ἐπεδείξατο, καὶ τὴν δύναµιν αὐτοῦ λαµπρῶς ἀνεκήρυξε. Τοῦτο δὲ γενναιοτάτης ψυχῆς καὶ φιλοσόφου γνώµης καὶ ὑψηλῆς διανοίας.",
+                            "spanishTranslation": "Pues las cosas que la naturaleza de lo visible no sugería, habiéndolas aceptado por la fe en Él, manifestó su amor genuino por Él y proclamó brillantemente su poder. Y esto es propio de un alma muy noble, de una mente filosófica y de un pensamiento elevado."
+                          },
+                          {
+                            "lineNumber": [
+                              2470,
+                              2471,
+                              2472
+                            ],
+                            "originalText": "Τὸ µὲν γὰρ µὴ κλέψαι µηδὲ φονεῦσαι, καὶ τῶν τυχόντων ἐστί· τὸ δὲ πιστεῦσαι, ὅτι τὰ ἀδύνατα δύναται Θεὸς, µεγαλοφυοῦς τινος δεῖται ψυχῆς, καὶ σφόδρα περὶ αὐτὸν διακειµένης· καὶ γὰρ ἀγάπης γνησίας τοῦτο σηµεῖόν ἐστι.",
+                            "spanishTranslation": "Pues el no robar ni matar es incluso propio de personas comunes; pero el creer que Dios puede hacer lo imposible requiere de un alma de gran nobleza, y que esté muy dispuesta hacia Él; porque esto es señal de amor genuino."
+                          },
+                          {
+                            "lineNumber": [
+                              2473,
+                              2474
+                            ],
+                            "originalText": "Τιµᾷ µὲν γὰρ τὸν Θεὸν καὶ ὁ τὰς ἐντολὰς πληρῶν, πολλῷ δὲ µειζόνως οὗτος ὁ διὰ τῆς πίστεως φιλοσοφῶν· ἐκεῖνος µὲρ γὰρ ὑπήκουσεν αὐτῷ, οὗτος δὲ τὴν προσήκουσαν ἔλαβε περὶ αὐτοῦ δόξαν, καὶ τῆς διὰ τῶν ἔργων ἐπιδείξεως µειζόνως ἐδόξασε καὶ ἐθαύµασεν.",
+                            "spanishTranslation": "Pues honra a Dios también el que cumple los mandamientos, pero mucho más este que filosofa por medio de la fe; porque aquel le obedeció, pero este recibió la gloria debida a Él, y lo glorificó y admiró de manera mayor que por la demostración de las obras."
+                          },
+                          {
+                            "lineNumber": [
+                              2475,
+                              2476
+                            ],
+                            "originalText": "Ἐκεῖνο µὲν οὖν τὸ καύχηµα τοῦ κατορθοῦντός ἐστι, τοῦτο δὲ τὸν Θεὸν δοξάζει, καὶ ὅλον ἐστὶν αὐτοῦ· καυχᾶται γὰρ ἐπὶ τῷ περὶ αὐτοῦ µεγάλα φαντάζεσθαι, ἅπερ εἰς τὴν ἐκείνου διαβαίνει δόξαν.",
+                            "spanishTranslation": "Aquella jactancia es del que actúa correctamente, pero esta glorifica a Dios y es toda suya; porque se gloría en concebir grandes cosas sobre Él, las cuales redundan en su gloria."
+                          },
+                          {
+                            "lineNumber": [
+                              2477,
+                              2478
+                            ],
+                            "originalText": "∆ιὰ τοῦτό φησι, πρὸς τὸν Θεὸν ἔχειν αὐτὸν τὸ καύχηµα· οὐ διὰ τοῦτο δὲ µόνον, ἀλλὰ καὶ δι' ἕτερον.",
+                            "spanishTranslation": "Por eso dice que él tiene su gloria delante de Dios; y no solo por esto, sino también por otra razón."
+                          },
+                          {
+                            "lineNumber": [
+                              2479,
+                              2480,
+                              2481,
+                              2482
+                            ],
+                            "originalText": "Καυχᾶται γὰρ πάλιν ὁ πιστὸς, οὐχ ὅτι τὸν Θεὸν ἐφίλησε µόνον γνησίως, ἀλλ' ὅτι καὶ πολλῆς παρ' αὐτοῦ τιµῆς ἀπήλαυσε καὶ ἀγάπης. Ὥσπερ γὰρ αὐτὸς αὐτὸν ἠγάπησε µεγάλα περὶ αὐτοῦ φαντασθείς· τοῦτο γὰρ ἀγάπης δεῖγµα· οὕτω καὶ ὁ Θεὸς αὐτὸν ἐφίλησε µυρίοις ὑπεύθυνον ὄντα, οὐχὶ κολάσεως ἀπαλλάξας µόνον, ἀλλὰ καὶ δίκαιον ἐργασάµενος, Ἔχει τοίνυν καυχᾶσθαι ὡς µεγάλης καταξιωθεὶς ἀγάπης.",
+                            "spanishTranslation": "Pues el creyente se jacta de nuevo, no solo porque amó genuinamente a Dios, sino porque también disfrutó de mucho honor y amor de su parte. Porque así como él amó a Dios concibiendo grandes cosas sobre Él —pues esto es una señal de amor—, así también Dios lo amó a él, siendo responsable de innumerables cosas, no solo librándolo del castigo, sino también haciéndolo justo. Por lo tanto, tiene de qué gloriarse, como digno de un gran amor."
+                          },
+                          {
+                            "lineNumber": [
+                              2483,
+                              2484
+                            ],
+                            "originalText": "Τί γὰρ ἡ Γραφὴ λέγει; Ἐπίστευσεν Ἀβραὰµ τῷ Θεῷ καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην.",
+                            "spanishTranslation": "¿Qué dice la Escritura? Creyó Abraham a Dios, y le fue contado por justicia. (Romanos 4:3)"
+                          },
+                          {
+                            "lineNumber": [
+                              2485,
+                              2486
+                            ],
+                            "originalText": "Τῷ δὲ ἐργαζοµένῳ ὁ µισθὸς οὐ λογίζεται κατὰ χάριν, ἀλλὰ κατὰ ὀφείληµα. Οὐκοῦν τοῦτο µεῖζον, φησίν;",
+                            "spanishTranslation": "Al que trabaja, el salario no se le cuenta como gracia, sino como deuda. (Romanos 4:4) ¿Acaso esto es mayor, dice?"
+                          },
+                          {
+                            "lineNumber": [
+                              2487,
+                              2488,
+                              2489
+                            ],
+                            "originalText": "Οὐδαµῶς· καὶ γὰρ τῷ πιστεύοντι λογίζεται· οὐκ ἂν δὲ ἐλογίσθη, εἰ µὴ καὶ αὐτός τι εἰσήνεγκεν.",
+                            "spanishTranslation": "De ninguna manera; pues también al que cree se le cuenta; pero no se le habría contado si él mismo no hubiera aportado algo."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 8,
+                    "chapterSummary": "En esta sección, Crisóstomo explora la justificación por la fe, utilizando a Abraham y David como ejemplos bíblicos. Argumenta que Dios es un 'deudor' en un sentido espiritual por Sus promesas, y que la fe, especialmente en la justificación del impío, es superior a las obras, y que la justicia es más grande que una simple recompensa. Destaca la intencionalidad de Pablo al citar a David para mostrar que la bienaventuranza y el perdón de los pecados preceden a la circuncisión y a las obras, y que Abraham fue justificado siendo incircunciso, estableciéndolo como padre de creyentes tanto circuncidados como incircuncisos por medio de la fe.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "Dios",
+                              "deudor",
+                              "magnanimidad",
+                              "mente espiritual",
+                              "creyente",
+                              "justifica",
+                              "impío",
+                              "fe",
+                              "justicia"
+                            ],
+                            "lineNumber": [
+                              2490,
+                              2491,
+                              2492,
+                              2493
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 4:5, donde se habla de la fe que se le cuenta al impío por justicia. Crisóstomo explica cómo Dios se convierte en 'deudor' del creyente en el sentido de que cumplirá sus promesas, no por obligación, sino por Su fidelidad y las grandes cosas que ha preparado.",
+                              "notesGreek": "La partícula 'βʹ' (beta con acento) simplemente indica la segunda parte o sección de la homilía o capítulo. 'ὀφειλέτην' (opheileten) significa 'deudor', y Crisóstomo lo usa en un sentido teológico profundo, no legal.",
+                              "notesLinguistics": "La construcción 'Τῷ πιστεύοντι ἐπὶ τὸν δικαιοῦντα τὸν ἀσεβῆ' (To pisteuonti epi ton dikaiounta ton asebē) es una forma de participio dativo que indica 'al que cree en el que justifica al impío', subrayando el objeto específico de la fe."
+                            },
+                            "originalText": "βʹ.Ὥστε καὶ οὗτος ὀφειλέτην ἔχει τὸν Θεὸν, καὶ οὐ τῶν τυχόντων ὀφειλέτην, ἀλλὰ µεγάλων καὶ ὑψηλῶν πραγµάτων.∆εικνὺς γὰρ αὐτοῦ τὴν µεγαλόνοιαν καὶ τὴν πνευµατικὴν διάνοιαν, οὐχ ἁπλῶς εἶπε, Τῷ πιστεύοντι, ἀλλὰ, Τῷ πιστεύοντι ἐπὶ τὸν δικαιοῦντα τὸν ἀσεβῆ.Λογίζεται ἡ πίστις αὐτοῦ εἰς δικαιοσύνην.",
+                            "spanishTranslation": "Así, también este tiene a Dios como deudor, y no como deudor de cosas insignificantes, sino de asuntos grandes y sublimes. Pues, mostrando su magnanimidad y su mente espiritual, no dijo simplemente: 'Al que cree', sino: 'Al que cree en el que justifica al impío'. Su fe le es contada por justicia."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "impiedad",
+                              "castigo",
+                              "justo",
+                              "honores inmortales",
+                              "gracia",
+                              "fiel",
+                              "ilustre",
+                              "fe"
+                            ],
+                            "lineNumber": [
+                              2494,
+                              2495,
+                              2496
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo resalta la naturaleza radical de la justificación por la fe: Dios no solo libera al impío del castigo, sino que lo declara justo y digno de honores celestiales, lo cual eleva al creyente a una posición gloriosa."
+                            },
+                            "originalText": "Ἐννόησον γὰρ ἡλίκον ἐστὶ πεισθῆναι καὶ πληροφορηθῆναι, ὅτι δύναται ὁ Θεὸς τὸν ἐν ἀσεβείᾳ βεβιωκότα τοῦτον ἐξαίφνης οὐχὶ κολάσεως ἐλευθερῶσαι µόνον, ἀλλὰ καὶ δίκαιον ποιῆσαι, καὶ τῶν ἀθανάτων ἐκείνων ἀξιῶσαι τιµῶν.Μὴ τοίνυν νοµίσῃς τοῦτον ἐλαττοῦσθαι, ἐπειδὴ ἐκείνῳ οὐ κατὰ χάριν λογίζεται.Αὐτὸ γὰρ τοῦτο µάλιστα ποιεῖ τὸν πιστὸν εἶναι λαµπρὸν, τὸ τοσαύτης ἀπολαῦσαι χάριτος, τὸ τοιαύτην πίστιν ἐπιδείξασθαι.",
+                            "spanishTranslation": "Considera cuán grande es ser persuadido y estar plenamente convencido de que Dios puede, de repente, no solo liberar del castigo a aquel que ha vivido en impiedad, sino también hacerlo justo y digno de aquellos honores inmortales. No pienses, entonces, que este es disminuido porque a aquel no se le cuenta por gracia. Pues esto mismo es lo que hace que el fiel sea ilustre: el haber disfrutado de tanta gracia y haber manifestado tal fe."
+                          },
+                          {
+                            "keywords": [
+                              "recompensa",
+                              "justicia",
+                              "mayor",
+                              "múltiples recompensas"
+                            ],
+                            "lineNumber": [
+                              2497,
+                              2498,
+                              2499,
+                              2500
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra 'ἀντίδοσιν' (antídosin) se refiere a 'recompensa' o 'retribución'. Crisóstomo distingue entre 'µισθὸς' (misthos, salario o recompensa por obra) y 'δικαιοσύνη' (dikaiosýnē, justicia), argumentando que la justicia es una retribución más abarcadora y valiosa."
+                            },
+                            "originalText": "Καὶ ὅρα καὶ τὴν ἀντίδοσιν µείζονα.Ἐκείνῳ µὲν γὰρ µισθὸς δίδοται, τούτῳ δὲ δικαιοσύνη·πολὺ δὲ µείζων µισθοῦ δικαιοσύνη·πολλῶν γάρ ἐστι µισθῶν περιεκτικωτάτη ἀντίδοσις ἡ δικαιοσύνη.",
+                            "spanishTranslation": "Y mira también la recompensa, que es mayor. Porque a aquel se le da una recompensa, pero a este se le da justicia; y la justicia es mucho mayor que la recompensa; porque la justicia es una retribución que abarca muchísimas recompensas."
+                          },
+                          {
+                            "keywords": [
+                              "Abraham",
+                              "David",
+                              "bienaventurado",
+                              "obras",
+                              "gracia",
+                              "perdón",
+                              "don",
+                              "bienaventuranza",
+                              "cumbre de los bienes",
+                              "justicia"
+                            ],
+                            "lineNumber": [
+                              2501,
+                              2502,
+                              2503,
+                              2504,
+                              2505
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se hace referencia a Romanos 4:6-8, donde Pablo cita el Salmo 32:1-2 para demostrar que David también habla de la bienaventuranza de la justificación sin obras, por la remisión de los pecados."
+                            },
+                            "originalText": "∆είξας τοίνυν ἀπὸ τοῦ Ἀβραὰµ τοῦτο, καὶ τὸν ∆αυῒδ ἐπάγει λοιπὸν ψηφιζόµενον τοῖς εἰρηµένοις.Τί οὖν φησιν ὁ ∆αυῒδ, καὶ τίνα µακαρίζει;τὸν ἐν ἔργοις κοµῶντα, ἢ τὸν χάριτος ἀπολελαυκότα, τὸν ἀφέσεως καὶ δωρεᾶς τετυχηκότα;Μακαριότητα δὲ ὅταν εἴπω, τὴν κορυφὴν λέγω τῶν ἀγαθῶν ἁπάντων.Ὥσπερ γὰρ µισθοῦ πλέον ἡ δικαιοσύνη, οὕτω δικαιοσύνης πλέον ὁ µακαρισµός.",
+                            "spanishTranslation": "Habiendo mostrado esto, pues, a partir de Abraham, Pablo introduce ahora a David, que corrobora lo dicho. ¿Qué dice, entonces, David, y a quién declara bienaventurado? ¿Al que se jacta de las obras, o al que ha disfrutado de la gracia, al que ha obtenido el perdón y el don? Y cuando digo 'bienaventuranza', me refiero a la cumbre de todos los bienes. Porque así como la justicia es más que una recompensa, así la bienaventuranza es más que la justicia."
+                          },
+                          {
+                            "keywords": [
+                              "justicia",
+                              "Abraham",
+                              "jactancia",
+                              "Dios",
+                              "David",
+                              "justificado",
+                              "bienaventurado",
+                              "iniquidades",
+                              "perdonadas"
+                            ],
+                            "lineNumber": [
+                              2506,
+                              2507,
+                              2508,
+                              2509
+                            ],
+                            "notes": {
+                              "notesBiblical": "Crisóstomo cita Romanos 4:2, 'porque si Abraham fue justificado por obras, tiene de qué jactarse, pero no para con Dios'. La cita de David es Salmo 32:1, 'Bienaventurado aquel cuyas iniquidades son perdonadas', también citada en Romanos 4:7."
+                            },
+                            "originalText": "∆είξας τοίνυν τὴν δικαιοσύνην βελτίω, οὐ τῷ τὸν Ἀβραὰµ αὐτὴν εἰληφέναι µόνον, ἀλλὰ καὶ ἀπὸ λογισµῶν (Ἔχει γὰρ καύχηµα, φησὶν, ἀλλ' οὐ πρὸς τὸν Θεόν)·καὶ ἑτέρῳ τρόπῳ πάλιν αὐτὴν ἀποφαίνει σεµνοτέραν, τὸν ∆αυῒδ εἰσάγων αὐτῇ ψηφιζόµενον·καὶ γὰρ οὗτος, φησὶ, τὸν οὕτω δικαιωθέντα µακαρίζει λέγων·Μακάριοι ὧν ἀφέθησαν αἱ ἀνοµίαι.",
+                            "spanishTranslation": "Habiendo mostrado, pues, que la justicia es superior, no solo porque Abraham la recibió, sino también por medio de razonamientos (pues dice: 'tiene de qué jactarse, pero no para con Dios'); y de otra manera, la manifiesta nuevamente como más venerable, introduciendo a David que la corrobora; pues este también, dice, declara bienaventurado al que así fue justificado, diciendo: 'Bienaventurados aquellos cuyas iniquidades son perdonadas'."
+                          },
+                          {
+                            "keywords": [
+                              "testimonio",
+                              "fe",
+                              "justicia",
+                              "exceso",
+                              "bienaventurado",
+                              "perdón",
+                              "gracia",
+                              "justificado",
+                              "fe",
+                              "vergüenza",
+                              "gloria",
+                              "recompensas",
+                              "bienaventuranza"
+                            ],
+                            "lineNumber": [
+                              2510,
+                              2511,
+                              2512,
+                              2513,
+                              2514,
+                              2515,
+                              2516
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo explica la estrategia retórica de Pablo al citar a David. Aunque la cita no menciona explícitamente la fe contada por justicia, al hablar de perdón por gracia, enfatiza la magnitud de la justificación: si el perdonado por gracia es bienaventurado, ¡cuánto más el que es justificado y ha mostrado fe!"
+                            },
+                            "originalText": "Καὶ δοκεῖ µὲν οὐ προσήκουσαν παράγειν µαρτυρίαν·οὐδὲ γὰρ εἶπε·Μακάριοι ὧν ἡ πίστις εἰς δικαιοσύνην ἐλογίσθη·ποιεῖ δὲ αὐτὸ ἑκὼν, οὐκ ἀγνοῶν, ἵνα πλείονα δείξῃ τὴν ὑπερβολήν.Εἰ γὰρ µακάριος οὗτος ὁ λαβὼν ἄφεσιν ἀπὸ χάριτος, πολλῷ µᾶλλον ὁ δικαιωθεὶς, καὶ ὁ πίστιν ἐπιδειξάµενος.Ὅπου δὲ µακαρισµὸς, αἰσχύνη πᾶσα ἀνῄρηται, καὶ πολλὴ ἡ δόξα·ἐπίτασις γάρ ἐστι καὶ µισθῶν καὶ δόξης ὁ µακαρισµός.",
+                            "spanishTranslation": "Y parece que no aduce un testimonio apropiado; porque no dijo: 'Bienaventurados aquellos cuya fe fue contada por justicia'; pero lo hace voluntariamente, no por ignorancia, para mostrar la mayor abundancia. Porque si bienaventurado es aquel que recibió el perdón por gracia, mucho más lo es el justificado y el que mostró fe. Y donde hay bienaventuranza, toda vergüenza es quitada, y hay mucha gloria; porque la bienaventuranza es una intensificación tanto de recompensas como de gloria."
+                          },
+                          {
+                            "keywords": [
+                              "ventaja",
+                              "trabajador",
+                              "recompensa",
+                              "gracia",
+                              "creyente",
+                              "testimonio escrito",
+                              "David",
+                              "iniquidades",
+                              "pecados",
+                              "perdón",
+                              "deuda"
+                            ],
+                            "lineNumber": [
+                              2517,
+                              2518,
+                              2519,
+                              2520,
+                              2521,
+                              2522
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se contrasta Romanos 4:4 ('Al que obra, el salario no se le cuenta como gracia, sino como deuda') con Romanos 4:7-8 (la cita de David sobre el perdón de los pecados)."
+                            },
+                            "originalText": "∆ιὰ τοῦτο, ὃ µέν ἐστιν ἐκείνου πλεονέκτηµα, ἄγραφον τίθησιν, εἰπών·Τῷ γὰρ ἐργαζοµένῳ ὁ µισθὸς οὐ λογίζεται κατὰ χάριν·ὃ δέ ἐστι τοῦ πιστοῦ προτέρηµα, τοῦτο δι' ἐγγράφου µαρτυρίας κατασκευάζει, λέγων·Καθὼς εἶπε ∆αυΐδ·Μακάριοι ὧν ἀφέθησαν αἱ ἀνοµίαι, καὶ ὧν ἐπεκαλύφθησαν αἱ ἁµαρτίαι.Τί γὰρ λέγεις, φησὶν, ὅτι οὐ κατὰ ὀφείληµα, ἀλλὰ κατὰ χάριν λαµβάνεις τὴν ἄφεσιν;",
+                            "spanishTranslation": "Por esta razón, lo que es la ventaja de aquel (el que obra), lo presenta como no escrito, diciendo: 'Al que obra, el salario no se le cuenta como gracia'; pero lo que es la prerrogativa del creyente, esto lo establece mediante testimonio escrito, diciendo: 'Como dijo David: Bienaventurados aquellos cuyas iniquidades son perdonadas, y cuyos pecados son cubiertos'. Pues, ¿qué dices?, pregunta, ¿que recibes el perdón no como deuda, sino como gracia?"
+                          },
+                          {
+                            "keywords": [
+                              "bienaventurado",
+                              "gloria"
+                            ],
+                            "lineNumber": [
+                              2523,
+                              2524
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "keywords": [
+                              "perdón",
+                              "circuncisión",
+                              "bienaventuranza",
+                              "incircuncisión",
+                              "bien",
+                              "grande"
+                            ],
+                            "lineNumber": [
+                              2525,
+                              2526,
+                              2527,
+                              2528,
+                              2529
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo introduce la pregunta central de Pablo en Romanos 4:9-10: si la bienaventuranza de la justificación se aplica a los circuncidados o a los incircuncisos. Aquí resalta que Pablo enfatiza 'bienaventuranza' (µακαρισµὸς), que es superior al mero 'perdón' (ἄφεσις)."
+                            },
+                            "originalText": "Καὶ οὐ λέγει·Ἡ ἄφεσις οὖν αὕτη ἐπὶ τὴν περιτοµήν·ἀλλὰ τί;Ὁ µακαρισµὸς οὖν οὗτος (ὅπερ πλέον ἦν) ἐπὶ τὴν περιτοµὴν, ἢ ἐπὶ τὴν ἀκροβυστίαν;Ζητεῖται γὰρ λοιπὸν τὸ ἀγαθὸν τοῦτο καὶ µέγα µετὰ τίνος ἕστηκεν, ἆρα µετὰ τῆς περιτοµῆς, ἢ µετὰ τῆς ἀκροβυστίας.",
+                            "spanishTranslation": "Y no dice: '¿Este perdón, entonces, es para los circuncisos?'; sino ¿qué? '¿Esta bienaventuranza, entonces (que era mayor), es para los circuncisos, o para los incircuncisos?' Porque se pregunta ahora con quién reside este bien grande: ¿acaso con la circuncisión, o con la incircuncisión?"
+                          },
+                          {
+                            "keywords": [
+                              "abundancia",
+                              "incircuncisión",
+                              "circuncisión"
+                            ],
+                            "lineNumber": [
+                              2530,
+                              2531
+                            ],
+                            "notes": {
+                              "notesGeneral": "El argumento de Pablo (y Crisóstomo) es que la justificación y la bienaventuranza no solo no se oponen a la incircuncisión, sino que históricamente se manifestaron en Abraham *antes* de que él fuera circuncidado."
+                            },
+                            "originalText": "Καὶ ὅρα τὴν ὑπερβολήν·δείκνυσι γὰρ αὐτὸ οὐ µόνον οὐ φεῦγον τὴν ἀκροβυστίαν, ἀλλὰ καὶ ἐµφιλοχωροῦν αὐτῇ πρὸ τῆς [[60.457]] περιτοµῆς.",
+                            "spanishTranslation": "Y mira la abundancia; pues muestra que esto no solo no huye de la incircuncisión, sino que incluso se asienta en ella antes de la circuncisión."
+                          },
+                          {
+                            "keywords": [
+                              "bienaventurado",
+                              "circuncidado",
+                              "David",
+                              "Pablo",
+                              "incircunciso",
+                              "justicia",
+                              "bienaventuranza",
+                              "Abraham",
+                              "justificado"
+                            ],
+                            "lineNumber": [
+                              2532,
+                              2533,
+                              2534
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo admira la habilidad retórica de Pablo para aplicar el Salmo de David (un rey circuncidado) a la justificación del incircunciso, un punto crucial en el debate con los judaizantes."
+                            },
+                            "originalText": "Ἐπειδὴ γὰρ ὁ µακαρίζων καὶ αὐτὸς ἐµπερίτοµος ἦν ὁ ∆αυῒδ, καὶ ἐµπεριτόµοις διελέγετο, ὅρα πῶς ἐφιλονείκησεν ὁ Παῦλος εἰς τὸν ἀκρόβυστον ἀγαγεῖν τὸ εἰρηµένον.Συνάψας γὰρ τῇ δικαιοσύνῃ τὸν µακαρισµὸν, καὶ δείξας ἀµφότερα ἓν, ζητεῖ πῶς ἐδικαιώθη ὁ Ἀβραάµ.Εἰ γὰρ ὁ µακαρισµὸς τοῦ δικαίου, ἐδικαιώθη δὲ ὁ Ἀβραὰµ, ἴδωµεν πῶς ἐδικαιώθη, ἀκρόβυστος ὢν ἢ ἐµπερίτοµος.",
+                            "spanishTranslation": "Puesto que el que declara bienaventurado, David, era circuncidado y hablaba a circuncidados, observa cómo Pablo se esforzó por aplicar lo dicho al incircunciso. Porque habiendo unido la bienaventuranza a la justicia, y habiendo mostrado que ambas son una sola cosa, pregunta cómo fue justificado Abraham. Si la bienaventuranza es del justo, y Abraham fue justificado, veamos cómo fue justificado: ¿siendo incircunciso o circuncidado?"
+                          },
+                          {
+                            "keywords": [
+                              "incircunciso",
+                              "contada",
+                              "circuncisión",
+                              "incircuncisión",
+                              "Abraham",
+                              "fe",
+                              "justicia"
+                            ],
+                            "lineNumber": [
+                              2535,
+                              2536,
+                              2537,
+                              2538
+                            ],
+                            "notes": {
+                              "notesBiblical": "Respuesta directa a la pregunta de Romanos 4:10, afirmando que Abraham fue justificado mientras estaba en incircuncisión."
+                            },
+                            "originalText": "Ἀκρόβυστος, φησί.Πῶς οὖν ἐλογίσθη;ἐν περιτοµῇ ὄντι, ἢ ἐν ἀκροβυστίᾳ;Οὐκ ἐν περιτοµῇ, ἀλλ' ἐν ἀκροβυστίᾳ καὶ λέγοµεν γὰρ, ὅτι ἐλογίσθη τῷ Ἀβραὰµ ἡ πίστις εἰς δικαιοσύνην.",
+                            "spanishTranslation": "Incircunciso, dice. Entonces, ¿cómo le fue contada? ¿Estando en circuncisión, o en incircuncisión? No en circuncisión, sino en incircuncisión; porque decimos que la fe le fue contada a Abraham por justicia."
+                          },
+                          {
+                            "keywords": [
+                              "Escritura",
+                              "Abraham",
+                              "Dios",
+                              "fe",
+                              "justicia",
+                              "incircuncisión"
+                            ],
+                            "lineNumber": [
+                              2539,
+                              2540,
+                              2541
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 4:3, que a su vez cita Génesis 15:6. Crisóstomo enfatiza que la Escritura misma establece la justificación de Abraham antes de la circuncisión."
+                            },
+                            "originalText": "Ἀνωτέρω τὴν Γραφὴν εἰπὼν (Τί γὰρ ἡ Γραφὴ λέγει;φησίν.Ἐπίστευσεν Ἀβραὰµ τῷ Θεῷ, καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην), ἐνταῦθα καὶ τὴν τῶν λεγόντων προσλαµβάνει κρίσιν λοιπὸν, καὶ δείκνυσιν ἐν τῇ ἀκροβυστίᾳ τὴν δικαιοσύνην γεγενηµένην.",
+                            "spanishTranslation": "Habiendo dicho antes la Escritura (porque dice: '¿Qué dice la Escritura? Creyó Abraham a Dios, y le fue contado por justicia'), aquí toma también el juicio de los que lo dicen, y muestra que la justicia tuvo lugar en la incircuncisión."
+                          },
+                          {
+                            "keywords": [
+                              "antítesis",
+                              "incircunciso",
+                              "justificado",
+                              "circuncisión",
+                              "señal",
+                              "sello",
+                              "justicia",
+                              "fe"
+                            ],
+                            "lineNumber": [
+                              2542,
+                              2543,
+                              2544
+                            ],
+                            "notes": {
+                              "notesBiblical": "Resuelve la objeción planteada en Romanos 4:10-11 sobre la razón de la circuncisión después de la justificación de Abraham. La circuncisión fue un 'signo y sello', no la causa, de la justicia."
+                            },
+                            "originalText": "Εἶτα ἀπὸ τούτων ἀντίθεσιν ἑτέραν ἀνακύπτουσαν λύει·εἰ γὰρ ἀκρόβυστος ὢν, φησὶν, ἐδικαιώθη, τίνος ἕνεκεν ἐπεισῆλθεν ἡ περιτοµή;Σηµεῖον ἔλαβε, φησὶ, καὶ σφραγῖδα τῆς δικαιοσύνης τῆς διὰ τῆς πίστεως τῆς, ἡνίκα ἦν ἀκρόβυστος, γενοµένης αὐτῷ.",
+                            "spanishTranslation": "Luego, a partir de estos puntos, resuelve otra antítesis que surge: si, siendo incircunciso, fue justificado, ¿por qué razón entró la circuncisión? Recibió, dice, una señal y un sello de la justicia de la fe, que le fue otorgada cuando era incircunciso."
+                          },
+                          {
+                            "keywords": [
+                              "judíos",
+                              "parásitos",
+                              "incircuncisión",
+                              "justificado",
+                              "coronado",
+                              "circuncisión",
+                              "Abraham",
+                              "padre",
+                              "fe",
+                              "doble antepasado"
+                            ],
+                            "lineNumber": [
+                              2545,
+                              2546,
+                              2547,
+                              2548
+                            ],
+                            "notes": {
+                              "notesGeneral": "La metáfora de los 'parásitos' para los judíos subraya que su identidad basada en la circuncisión y la Ley llegó *después* de que Abraham ya había sido justificado por fe siendo incircunciso. Esto invierte la prioridad que los judíos daban a la circuncisión. Abraham es 'doble antepasado' (Romanos 4:12) porque es padre de creyentes tanto incircuncisos como circuncidados."
+                            },
+                            "originalText": "Εἶδες πῶς ἔδειξεν ὡς ἐν τάξει παρασίτων τοὺς Ἰουδαίους ὄντας;ἢ καὶ τούτους τοὺς ἐν ἀκροβυστίᾳ ἐκείνοις προσεῤῥιµµένους;Εἰ γὰρ ἐδικαιώθη µὲν ἀκρόβυστος ὢν καὶ ἐστεφανώθη, ὕστερον δὲ τὴν περιτοµὴν ἔλαβεν, ὕστερον δὲ ἐπεισῆλθον οἱ Ἰουδαῖοι, οὐκοῦν τῶν ἀκροβύστων πρῶτόν ἐστι πατὴρ ὁ Ἀβραὰµ τῶν διὰ τῆς πίστεως αὐτῷ προσηκόντων, καὶ τότε τῶν ἐν περιτοµῇ·διπλοῦς γάρ ἐστι πρόγονος.",
+                            "spanishTranslation": "¿Ves cómo mostró que los judíos eran como parásitos? ¿O también a estos incircuncisos arrojados junto a aquellos? Porque si fue justificado siendo incircunciso y coronado, y después recibió la circuncisión, y después vinieron los judíos, entonces Abraham es primero padre de los incircuncisos que le pertenecen por medio de la fe, y luego de los circuncidados; porque es un doble antepasado."
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "patriarca",
+                              "incircuncisión",
+                              "justificado",
+                              "circuncisión"
+                            ],
+                            "lineNumber": [
+                              2549,
+                              2550,
+                              2551,
+                              2552,
+                              2553
+                            ],
+                            "notes": {
+                              "notesGeneral": "Conclusión del argumento, enfatizando la preeminencia de la fe sobre la circuncisión y la irrelevancia de la incircuncisión como impedimento para la justificación."
+                            },
+                            "originalText": "Εἶδες τὴν πίστιν λάµπουσαν;Ἕως γὰρ ἦλθεν αὕτη, οὐκ ἐδικαιώθη ὁ πατριάρχης.Εἶδες τὴν ἀκροβυστίαν οὐδὲν ἐµποδίζουσαν;Καὶ γὰρ ἀκρόβυστος ἦν, καὶ οὐκ ἐκωλύθη δικαιωθῆναι.Ὑστέρα ἄρα τῆς πίστεως ἡ περιτοµή.",
+                            "spanishTranslation": "¿Ves la fe resplandeciendo? Porque hasta que esta llegó, el patriarca no fue justificado. ¿Ves que la incircuncisión no impedía nada? Porque era incircunciso y no se le impidió ser justificado. Por lo tanto, la circuncisión es posterior a la fe."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 8,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              2555
+                            ],
+                            "originalText": "Καὶ τί θαυµάζεις εἰ τῆς πίστεως ἡ περιτοµὴ, ὅπου γε καὶ τῆς ἀκροβυστίας;",
+                            "spanishTranslation": "Y, ¿qué te asombra si la circuncisión es de la fe, cuando también lo es la incircuncisión?"
+                          },
+                          {
+                            "lineNumber": [
+                              2556,
+                              2557
+                            ],
+                            "originalText": "Οὐχ ὑστέρα δὲ µόνον τῆς πίστεως, ἀλλὰ καὶ σφόδρα αὐτῆς καταδεεστέρα, καὶ τοσοῦτον, ὅσον σηµεῖον τοῦ πράγµατος οὗπέρ ἐστι σηµεῖον· οἷον ὅσον ἡ σφραγὶς τοῦ στρατιώτου.",
+                            "spanishTranslation": "No solo es posterior a la fe, sino que es muy inferior a ella, y tanto como lo es un signo de la cosa de la que es signo; como lo es el sello de un soldado."
+                          },
+                          {
+                            "lineNumber": [
+                              2558,
+                              2559,
+                              2560
+                            ],
+                            "originalText": "Καὶ τίνος ἕνεκεν σφραγῖδος ἐδεῖτο, φησίν; Οὐκ αὐτὸς ἐδεῖτο. Τίνος οὖν ἕνεκεν αὐτὴν ἐδέξατο;",
+                            "spanishTranslation": "Y, ¿por qué razón necesitaba un sello?, pregunta. Él mismo no lo necesitaba. ¿Para qué, entonces, lo recibió?"
+                          },
+                          {
+                            "lineNumber": [
+                              2561,
+                              2562,
+                              2563,
+                              2564
+                            ],
+                            "originalText": "Εἰς τὸ γενέσθαι αὐτὸν πατέρα κοινὸν καὶ τῶν πιστευόντων δι' ἀκροβυστίας, καὶ τῶν ἐν περιτοµῇ· ἀλλ' οὐχ ἁπλῶς τῶν ἐν περιτοµῇ· διὸ καὶ ἐπάγει· Τοῖς οὐκ ἐκ περιτοµῆς µόνον.",
+                            "spanishTranslation": "Para que llegara a ser padre común tanto de los que creen por la incircuncisión como de los que están en la circuncisión; pero no simplemente de los que están en la circuncisión; por lo cual también añade: «A los que no solo son de la circuncisión»."
+                          },
+                          {
+                            "lineNumber": [
+                              2565
+                            ],
+                            "originalText": "Εἰ γὰρ τῶν ἀκροβύστων, οὐκ ἐπειδὴ ἀκρόβυστός ἐστι, διὰ τοῦτό ἐστι πατὴρ, καίτοι γε ἐν ἀκροβυστίᾳ δικαιωθεὶς, ἀλλ' ἐπειδὴ τὴν πίστιν αὐτοῦ ἐζήλωσαν, πολλῷ µᾶλλον τῶν ἐµπεριτόµων οὐκ ἔσται διὰ τὴν περιτοµὴν πρόγονος, εἰ µὴ προσγένοιτο καὶ ἡ πίστις.",
+                            "spanishTranslation": "Pues si de los incircuncisos no es padre porque él sea incircunciso, a pesar de haber sido justificado en la incircuncisión, sino porque ellos imitaron su fe, mucho menos será progenitor de los circuncidados por la circuncisión, a menos que también se añada la fe."
+                          },
+                          {
+                            "lineNumber": [
+                              2566
+                            ],
+                            "originalText": "Περιτοµὴν γὰρ ἔλαβεν, ἵνα ἑκάτεροι, φησὶν, αὐτὸν ἔχωµεν πρόγονον, καὶ οἱ ἀκρόβυστοι µὴ ἀπώσωνται τοὺς ἐµπεριτόµους.",
+                            "spanishTranslation": "Pues recibió la circuncisión, dice, para que ambos, nosotros, lo tengamos como progenitor, y los incircuncisos no rechacen a los circuncidados."
+                          },
+                          {
+                            "lineNumber": [
+                              2567
+                            ],
+                            "originalText": "Ὁρᾷς πῶς οὗτοι προπάτορα ἔσχον αὐτὸν πρῶτοι;",
+                            "spanishTranslation": "¿Ves cómo estos lo tuvieron a él como antepasado primero?"
+                          },
+                          {
+                            "lineNumber": [
+                              2568
+                            ],
+                            "originalText": "Εἰ δὲ σεµνὸν ἡ περιτοµὴ, ὅτι κηρύττει τὴν δικαιοσύνην, οὐ µικρὰν καὶ ἡ ἀκροβυστία προεδρίαν ἔχει πρὸ τῆς περιτοµῆς αὐτὴν δεξαµένη·",
+                            "spanishTranslation": "Y si la circuncisión es honorable porque proclama la justicia, la incircuncisión también tiene una preeminencia no pequeña al haberla recibido antes que la circuncisión;"
+                          },
+                          {
+                            "lineNumber": [
+                              2569
+                            ],
+                            "originalText": "τότε οὖν αὐτὸν δυνήσῃ προπάτορα ἔχειν, ὅταν στοιχήσῃς τοῖς ἴχνεσι τῆς πίστεως, καὶ µηδὲ φιλονεικῇς µηδὲ στασιάζῃς τὸν νόµον ἐπεισάγων.",
+                            "spanishTranslation": "Entonces, pues, podrás tenerlo como antepasado cuando sigas las huellas de la fe y no contiendas ni provoques división al introducir la ley."
+                          },
+                          {
+                            "lineNumber": [
+                              2570,
+                              2571
+                            ],
+                            "originalText": "Ποίας, εἰπέ µοι, πίστεως; Τῆς ἐν τῇ ἀκροβυστίᾳ.",
+                            "spanishTranslation": "¿De qué fe, dime? De la que se manifestó en la incircuncisión."
+                          },
+                          {
+                            "lineNumber": [
+                              2572
+                            ],
+                            "originalText": "Πάλιν καταστέλλει τὸ φύσηµα τὸ Ἰουδαϊκὸν, ἀναµιµνήσκων τοῦ χρόνου τῆς δικαιοσύνης.",
+                            "spanishTranslation": "De nuevo, refrena la arrogancia judía al recordar el tiempo de la justificación."
+                          },
+                          {
+                            "lineNumber": [
+                              2573
+                            ],
+                            "originalText": "Καὶ καλῶς εἶπε, Τοῖς ἴχνεσιν, ἵνα ὁµοίως ἐκείνῳ πιστεύσῃς εἰς νεκρῶν ἀνάστασιν σωµάτων.",
+                            "spanishTranslation": "Y bien dijo: «En las huellas», para que, al igual que él, creas en la resurrección de los cuerpos de los muertos."
+                          },
+                          {
+                            "lineNumber": [
+                              2574
+                            ],
+                            "originalText": "Καὶ γὰρ καὶ ἐκεῖνος περὶ τοῦτο τὴν πίστιν ἐπεδείξατο·",
+                            "spanishTranslation": "Porque también él mostró la fe en esto;"
+                          },
+                          {
+                            "lineNumber": [
+                              2575
+                            ],
+                            "originalText": "ὥστε εἰ τὴν ἀκροβυστίαν ἐκβάλλεις, µάνθανε σαφῶς, ὅτι οὐδέν σοι [[60.458]] οὐδὲ τῆς περιτοµῆς ὄφελος.",
+                            "spanishTranslation": "así que, si rechazas la incircuncisión, aprende claramente que tampoco te beneficia en nada la circuncisión."
+                          },
+                          {
+                            "lineNumber": [
+                              2576
+                            ],
+                            "originalText": "Ἂν γὰρ µὴ τοῖς ἴχνεσιν ἀκολουθήσῃς τῆς πίστεως, κἂν µυριάκις ᾖς ἐµπερίτοµος, οὐκ ἔσῃ τοῦ Ἀβραὰµ ἔκγονος·",
+                            "spanishTranslation": "Pues si no sigues las huellas de la fe, aunque estés circuncidado miles de veces, no serás descendiente de Abrahán;"
+                          },
+                          {
+                            "lineNumber": [
+                              2577
+                            ],
+                            "originalText": "ἐπεὶ καὶ τὴν περιτοµὴν διὰ τοῦτο ἔλαβεν, ἵνα σὲ ὁ ἐν ἀκροβυστίᾳ µὴ ἐκβάλλῃ.",
+                            "spanishTranslation": "puesto que también por esto recibió la circuncisión, para que el que está en incircuncisión no te excluya."
+                          },
+                          {
+                            "lineNumber": [
+                              2578,
+                              2579
+                            ],
+                            "originalText": "Μὴ δὴ καὶ ἐκεῖνον τοῦτο ἀπαίτει· σοὶ γὰρ τὸ πρᾶγµα βοήθεια γέγονεν, οὐκ ἐκείνῳ.",
+                            "spanishTranslation": "Así que no le exijas esto [la incircuncisión] a Abraham; porque este asunto [la circuncisión] ha sido una ayuda para ti, no para él."
+                          },
+                          {
+                            "lineNumber": [
+                              2580
+                            ],
+                            "originalText": "Ἀλλὰ σηµεῖον αὐτὸ δικαιοσύνης, φησί.",
+                            "spanishTranslation": "Pero es un signo de justicia, dice."
+                          },
+                          {
+                            "lineNumber": [
+                              2581,
+                              2582
+                            ],
+                            "originalText": "Καὶ τοῦτο διὰ σὲ, ἐπεὶ νῦν οὐδὲ τοῦτό ἐστι· τότε γὰρ σὺ τῶν σωµατικῶν ἔχρῃζες σηµείων, νῦν δὲ οὐ χρεία τούτων.",
+                            "spanishTranslation": "Y esto es por tu causa, puesto que ahora ni siquiera es esto; porque entonces tú necesitabas de signos corporales, pero ahora no hay necesidad de ellos."
+                          },
+                          {
+                            "lineNumber": [
+                              2583,
+                              2584
+                            ],
+                            "originalText": "Ἀπὸ γὰρ τῆς πίστεως, φησὶν, οὐκ ἦν δυνατὸν αὐτοῦ καταµαθεῖν τῆς ψυχῆς τὴν ἀρετήν; ∆υνατὸν µὲν ἦν, σὺ δὲ καὶ ταύτης ἔχρῃζες τῆς προσθήκης.",
+                            "spanishTranslation": "Pues, dice, ¿acaso no era posible conocer la virtud de su alma por la fe? Era posible, sí, pero tú también necesitabas de esta adición."
+                          },
+                          {
+                            "lineNumber": [
+                              2585
+                            ],
+                            "originalText": "Ἐπειδὴ γὰρ τῆς ψυχῆς τὴν ἀρετὴν οὐκ ἐζήλωσας οὐδὲ ἰδεῖν ἠδυνήθης, ἐδόθη σοι ἡ αἰσθητὴ περιτοµὴ, ἵνα ἐµµελετήσας τῷ σωµατικῷ τούτῳ, κατὰ µικρὸν χειραγωγηθῇς καὶ ἐπὶ τὴν τῆς ψυχῆς φιλοσοφίαν, καὶ µετὰ πολλῆς αὐτὴν ὑποδεξάµενος τῆς σπουδῆς ὡς ἀξίωµα µέγιστον, παιδευθῇς µιµεῖσθαι καὶ αἰδεῖσθαι τὸν πρόγονον.",
+                            "spanishTranslation": "Pues, dado que no imitaste la virtud del alma ni pudiste verla, te fue dada la circuncisión sensible para que, al ejercitarte en esta cosa corporal, fueras gradualmente guiado hacia la filosofía del alma y, recibiéndola con gran celo como un grandísimo honor, fueras enseñado a imitar y a reverenciar al progenitor."
+                          },
+                          {
+                            "lineNumber": [
+                              2586
+                            ],
+                            "originalText": "Καὶ τοῦτο οὐκ ἐν τῇ περιτοµῇ µόνον ὁ Θεὸς κατεσκεύασεν, ἀλλὰ καὶ ἐν τοῖς ἄλλοις ἅπασιν, οἷον θυσίαις λέγω καὶ σάββασι καὶ ἑορταῖς.",
+                            "spanishTranslation": "Y esto no lo instituyó Dios solo en la circuncisión, sino también en todas las demás cosas, como digo, en los sacrificios, los sábados y las fiestas."
+                          },
+                          {
+                            "lineNumber": [
+                              2587,
+                              2588,
+                              2589
+                            ],
+                            "originalText": "Ὅτι γὰρ διὰ σὲ περιτοµὴν ἔλαβεν, ἄκουσον τῶν ἑξῆς· εἰπὼν γὰρ, ὅτι σηµεῖον ἔλαβε καὶ σφραγῖδα, καὶ τὴν αἰτίαν τίθησι, λέγων· Εἰς τὸ γενέσθαι αὐτὸν πατέρα περιτοµῆς, τούτοις τοῖς καὶ τὴν νοητὴν προσλαµβάνουσιν·",
+                            "spanishTranslation": "Pues de que recibió la circuncisión por tu causa, escucha lo que sigue; porque, habiendo dicho que recibió un signo y un sello, también expone la razón, diciendo: «Para que llegara a ser padre de la circuncisión, para aquellos que también reciben la [circuncisión] inteligible»;"
+                          },
+                          {
+                            "lineNumber": [
+                              2590
+                            ],
+                            "originalText": "ὡς ἐὰν ταύτην µόνον ἔχῃς, οὐδέν σοι γενήσεται πλέον.",
+                            "spanishTranslation": "como si solo tienes esta [la circuncisión física], nada más te aprovechará."
+                          },
+                          {
+                            "lineNumber": [
+                              2591
+                            ],
+                            "originalText": "Σηµεῖον γὰρ τότε τοῦτό ἐστιν, ὅταν τὸ πρᾶγµα, οὗ τοῦτό ἐστι σηµεῖον, φαίνηται παρὰ σοὶ, τουτέστιν ἡ πίστις·",
+                            "spanishTranslation": "Porque entonces es un signo, cuando la realidad de la cual es signo aparece en ti, es decir, la fe;"
+                          },
+                          {
+                            "lineNumber": [
+                              2592,
+                              2593,
+                              2594,
+                              2595
+                            ],
+                            "originalText": "ὡς, ἂν µὴ ταύτην ἔχῃς, οὐδὲ τὸ σηµεῖον λοιπὸν εἶναι σηµεῖον δύναται. Τίνος γὰρ ἔσται σηµεῖον, τίνος δὲ σφραγὶς, οὐκ ὄντος τοῦ σφραγιζοµένου; ὡς ἂν εἰ καὶ βαλάντιον ἐπιδεικνύεις ἡµῖν σφραγῖδα ἔχον, µηδενὸς ἔνδον ἀποκειµένου· ὥστε καταγέλαστος ἡ περιτοµὴ, τῆς πίστεως ἔνδον οὐκ οὔσης.",
+                            "spanishTranslation": "de modo que, si no tienes esta [la fe], el signo mismo ya no puede ser un signo. Porque, ¿de qué será signo, y de qué sello, si no existe lo sellado? Como si nos mostraras un monedero con un sello, pero sin nada guardado dentro; de modo que la circuncisión es ridícula si la fe no está presente en el interior."
+                          },
+                          {
+                            "lineNumber": [
+                              2596
+                            ],
+                            "originalText": "Εἰ γὰρ δικαιοσύνης ἐστὶ σηµεῖον, δικαιοσύνην δὲ οὐκ ἔχεις, οὐδὲ σηµεῖον ἔχεις.",
+                            "spanishTranslation": "Porque si es un signo de justicia, pero tú no tienes justicia, tampoco tienes el signo."
+                          },
+                          {
+                            "lineNumber": [
+                              2597,
+                              2598
+                            ],
+                            "originalText": "∆ιὰ γὰρ τοῦτο ἔλαβες σηµεῖον, ἵνα τὸ πρᾶγµα ἐπιζητῇς, οὗ τὸ σηµεῖον ἔχεις· ὡς, εἴ γε ἔµελλες αὐτὸ χωρὶς τούτου ἐπιζητεῖν, οὐκ ἂν ἐδέησέ σοι τούτου.",
+                            "spanishTranslation": "Pues por esto recibiste un signo, para que busques la realidad de la cual tienes el signo; ya que, si fueras a buscarlo sin este, no lo habrías necesitado."
+                          },
+                          {
+                            "lineNumber": [
+                              2599
+                            ],
+                            "originalText": "Οὐ τοῦτο δὲ κηρύττει µόνον ἡ περιτοµὴ, τὴν δικαιοσύνην, ἀλλὰ καὶ τὴν ἐν ἀκροβυστίᾳ δικαιοσύνην.",
+                            "spanishTranslation": "La circuncisión no solo proclama esto, la justicia, sino también la justicia en la incircuncisión."
+                          },
+                          {
+                            "lineNumber": [
+                              2600
+                            ],
+                            "originalText": "Οὐδὲν οὖν ἄλλο κηρύττει ἡ περιτοµὴ, ἀλλ' ὅτι οὐ χρεία περιτοµῆς.",
+                            "spanishTranslation": "Por lo tanto, la circuncisión no proclama otra cosa sino que no hay necesidad de circuncisión."
+                          },
+                          {
+                            "lineNumber": [
+                              2601,
+                              2602
+                            ],
+                            "originalText": "Εἰ γὰρ οἱ ἐκ νόµου, κληρονόµοι· κεκένωται ἡ πίστις, καὶ κατήργηται ἡ ἐπαγγελία.",
+                            "spanishTranslation": "Porque si los de la ley son herederos, la fe ha sido vaciada y la promesa anulada."
+                          },
+                          {
+                            "lineNumber": [
+                              2603
+                            ],
+                            "originalText": "Ἔδειξεν, ὅτι ἀναγκαία ἡ πίστις, ὅτι πρεσβυτέρα περιτοµῆς, ὅτι νόµου ἰσχυροτέρα, ὅτι συνίστησι νόµον.",
+                            "spanishTranslation": "Demostró que la fe es necesaria, que es anterior a la circuncisión, que es más fuerte que la ley, que establece la ley."
+                          },
+                          {
+                            "lineNumber": [
+                              2604,
+                              2605,
+                              2606,
+                              2607
+                            ],
+                            "originalText": "Εἰ γὰρ πάντες ἥµαρτον, ἀναγκαία· εἰ ἀκρόβυστος ὢν ἐδικαιώθη, πρεσβυτέρα· εἰ διὰ νόµου ἐπίγνωσις ἁµαρτίας, χωρὶς δὲ νόµου πεφανέρωται, ἰσχυροτέρα· εἰ µαρτυρεῖται ὑπὸ τοῦ νόµου καὶ τὸν νόµον ἵστησιν, οὐκ ἐναντία, ἀλλὰ φίλη καὶ σύµµαχος.",
+                            "spanishTranslation": "Porque si todos pecaron, [la fe] es necesaria; si siendo incircunciso fue justificado, es anterior; si por la ley es el conocimiento del pecado, pero sin la ley se ha manifestado, es más fuerte; si es testificada por la ley y la establece, no es contraria, sino amiga y aliada."
+                          },
+                          {
+                            "lineNumber": [
+                              2608,
+                              2609,
+                              2610
+                            ],
+                            "originalText": "∆είκνυσι πάλιν καὶ ἑτέρωθεν, ὅτι οὐδὲ δυνατὸν ἦν διὰ νόµου τὴν κληρονοµίαν λαβεῖν· καὶ παραβαλὼν αὐτὴν τῇ περιτοµῇ, καὶ λαβὼν τὰ νικητήρια, ἀντεπεξάγει πάλιν αὐτὴν τῷ νόµῳ, οὕτω λέγων· Εἰ γὰρ οἱ ἐκ νόµου, κληρονόµοι, κεκένωται ἡ πίστις.",
+                            "spanishTranslation": "Muestra de nuevo desde otro punto que ni siquiera era posible recibir la herencia por medio de la ley; y habiéndola comparado con la circuncisión y habiendo obtenido los premios de la victoria, la opone de nuevo a la ley, diciendo así: «Porque si los de la ley son herederos, la fe ha sido vaciada»."
+                          },
+                          {
+                            "lineNumber": [
+                              2611
+                            ],
+                            "originalText": "Ἵνα γὰρ µή τις λέγῃ, ὅτι καὶ πίστιν δυνατὸν ἔχειν καὶ νόµον τηρῆσαι, δείκνυσιν ὅτι ἀµήχανον.",
+                            "spanishTranslation": "Pues para que nadie diga que es posible tener fe y también guardar la ley, demuestra que es imposible."
+                          },
+                          {
+                            "lineNumber": [
+                              2612
+                            ],
+                            "originalText": "Ὁ γὰρ ἐχόµενος τοῦ νόµου ὡς σώζοντος, ἀτιµάζει τῆς πίστεως τὴν δύναµιν.",
+                            "spanishTranslation": "Pues el que se aferra a la ley como salvadora, deshonra el poder de la fe."
+                          },
+                          {
+                            "lineNumber": [
+                              2613,
+                              2614,
+                              2615,
+                              2616,
+                              2617
+                            ],
+                            "originalText": "∆ιό φησι· Κεκένωται ἡ πίστις· τουτέστιν, οὐ χρεία τῆς κατὰ χάριν σωτηρίας· οὐδὲ γὰρ δύναται τὴν ἰσχὺν τὴν ἑαυτῆς ἐπιδείξασθαι· καὶ κατήργηται ἡ ἐπαγγελία.",
+                            "spanishTranslation": "Por eso dice: «La fe ha sido vaciada»; es decir, no hay necesidad de la salvación por gracia; pues tampoco puede mostrar su propia fuerza; y la promesa ha sido anulada."
+                          },
+                          {
+                            "lineNumber": [
+                              2618,
+                              2619
+                            ],
+                            "originalText": "Καὶ [[60.459]] γὰρ ὁ Ἰουδαῖος ἴσως ἂν εἴποι· Τί γάρ µοι χρεία πίστεως;",
+                            "spanishTranslation": "Pues el judío quizás diría: «¿Qué necesidad tengo yo de fe?»"
+                          },
+                          {
+                            "lineNumber": [
+                              2620
+                            ],
+                            "originalText": "Οὐκοῦν εἰ τοῦτο ἀληθὲς, µετὰ τῆς πίστεως καὶ τὰ τῆς ἐπαγγελίας ἀνῄρηται.",
+                            "spanishTranslation": "Así pues, si esto es verdad, junto con la fe, también han sido abolidas las cosas de la promesa."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 4,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 8,
+                    "chapterSummary": "En esta cuarta sección, Crisóstomo profundiza en el argumento de Pablo en Romanos sobre la justificación de Abraham por la fe, y no por la ley. Explica cómo la ley genera ira y transgresión, obstaculizando la herencia, mientras que la fe, impulsada por la gracia, asegura la promesa para toda la descendencia. Destaca que la verdadera paternidad de Abraham no es meramente biológica, sino espiritual, extendiéndose a todos los que comparten su fe. La promesa de ser 'padre de muchas naciones' se refiere así a los creyentes, reflejando la paternidad universal de Dios y revelando un plan salvífico que trasciende los lazos naturales.",
+                    "sections": [
+                      {
+                        "section": 4,
+                        "text": [
+                          {
+                            "keywords": [
+                              "cuarta",
+                              "patriarca"
+                            ],
+                            "lineNumber": [
+                              2621,
+                              2622
+                            ],
+                            "notes": {
+                              "notesGreek": "El número 'δʹ' (delta con el acento) indica 'cuatro' o 'cuarta', señalando una subdivisión dentro de la homilía."
+                            },
+                            "originalText": "δʹ. Ὅρα ἐν πᾶσιν αὐτοῖς ἄνωθεν ἀπὸ τοῦ πατριάρχου µαχόµενον.",
+                            "spanishTranslation": "Cuarta. Mira en todos ellos cómo contiende desde el patriarca."
+                          },
+                          {
+                            "keywords": [
+                              "justicia",
+                              "fe",
+                              "promesa"
+                            ],
+                            "lineNumber": [
+                              2623
+                            ],
+                            "notes": {},
+                            "originalText": "∆είξας γὰρ ἐκεῖθεν τὴν δικαιοσύνην τῇ πίστει συγκεκληρωµένην, δείκνυσι καὶ τὴν ἐπαγγελίαν ὁµοίως.",
+                            "spanishTranslation": "Porque habiendo mostrado desde allí que la justicia está unida a la fe por herencia, demuestra la promesa de la misma manera."
+                          },
+                          {
+                            "keywords": [
+                              "judío",
+                              "Abraham",
+                              "justificado"
+                            ],
+                            "lineNumber": [
+                              2624,
+                              2625
+                            ],
+                            "notes": {},
+                            "originalText": "Ἵνα γὰρ µὴ λέγῃ ὁ Ἰουδαῖος· Τί γάρ µοι µέλει, εἰ διὰ πίστεως ἐδικαιώθη Ἀβραάµ;",
+                            "spanishTranslation": "Para que no diga el judío: ¿Qué me importa a mí si Abraham fue justificado por la fe?"
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "herencia",
+                              "miedo"
+                            ],
+                            "lineNumber": [
+                              2626,
+                              2627
+                            ],
+                            "notes": {},
+                            "originalText": "λέγει ὁ Παῦλος, ὅτι Οὐδὲ τὸ σοὶ διαφέρον, ἡ ἐπαγγελία τῆς κληρονοµίας δύναται εἰς ἔργον ἐλθεῖν ἐκείνης χωρίς· ὃ µάλιστα αὐτοὺς ἐκφοβεῖ.",
+                            "spanishTranslation": "dice Pablo, que ni siquiera lo que te concierne a ti, la promesa de la herencia, puede realizarse sin ella; lo que más les asusta."
+                          },
+                          {
+                            "keywords": [
+                              "promesa"
+                            ],
+                            "lineNumber": [
+                              2628
+                            ],
+                            "notes": {},
+                            "originalText": "Ποίαν δὲ ἐπαγγελίαν, φησί;",
+                            "spanishTranslation": "Y ¿cuál promesa, dice?"
+                          },
+                          {
+                            "keywords": [
+                              "heredero",
+                              "mundo",
+                              "bendecidos"
+                            ],
+                            "lineNumber": [
+                              2629
+                            ],
+                            "notes": {},
+                            "originalText": "Τὸ κληρονόµον αὐτὸν εἶναι τοῦ κόσµου, καὶ ἐν αὐτῷ πάντας ἐνευλογεῖσθαι.",
+                            "spanishTranslation": "Que él sea heredero del mundo, y que en él todos sean bendecidos."
+                          },
+                          {
+                            "keywords": [
+                              "promesa",
+                              "ley",
+                              "ira"
+                            ],
+                            "lineNumber": [
+                              2630,
+                              2631
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ πῶς κατήργηται ἡ ἐπαγγελία αὕτη, φησίν· Ὅτι ὁ νόµος ὀργὴν κατεργάζεται·",
+                            "spanishTranslation": "Y ¿cómo se ha anulado esta promesa?, dice: Porque la ley produce ira;"
+                          },
+                          {
+                            "keywords": [
+                              "ley",
+                              "transgresión"
+                            ],
+                            "lineNumber": [
+                              2632
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Romanos 4:15. Este versículo es clave en la argumentación de Pablo sobre la ley y la promesa."
+                            },
+                            "originalText": "οὗ γὰρ οὐκ ἔστι νόµος, οὐδὲ παράβασις.",
+                            "spanishTranslation": "pues donde no hay ley, tampoco hay transgresión."
+                          },
+                          {
+                            "keywords": [
+                              "ira",
+                              "transgresión",
+                              "maldición"
+                            ],
+                            "lineNumber": [
+                              2633
+                            ],
+                            "notes": {},
+                            "originalText": "Εἰ δὲ ὀργὴν κατεργάζεται καὶ παραβάσει ὑπευθύνους ποιεῖ, εὔδηλον ὅτι καὶ κατάρᾳ·",
+                            "spanishTranslation": "Si produce ira y hace a los hombres responsables por la transgresión, es evidente que también por la maldición;"
+                          },
+                          {
+                            "keywords": [
+                              "responsables",
+                              "heredar",
+                              "castigo"
+                            ],
+                            "lineNumber": [
+                              2634
+                            ],
+                            "notes": {},
+                            "originalText": "οἱ δὲ κατάρᾳ καὶ τιµωρίᾳ καὶ παραβάσει ὄντες ὑπεύθυνοι, οὗτοι οὐ κληρονοµεῖν ἄξιοι, ἀλλὰ τοῦ δίκην διδόναι καὶ ἐκβάλλεσθαι.",
+                            "spanishTranslation": "y los que son responsables por maldición, castigo y transgresión, estos no son dignos de heredar, sino de pagar la pena y ser expulsados."
+                          },
+                          {
+                            "keywords": [
+                              "qué sucede"
+                            ],
+                            "lineNumber": [
+                              2635
+                            ],
+                            "notes": {},
+                            "originalText": "Τί οὖν γίνεται;",
+                            "spanishTranslation": "¿Qué sucede entonces?"
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "gracia",
+                              "perdón",
+                              "promesa"
+                            ],
+                            "lineNumber": [
+                              2636
+                            ],
+                            "notes": {},
+                            "originalText": "Ἔρχεται ἡ πίστις ἐφελκοµένη τῇ χάριτι, ὥστε τὴν ἐπαγγελίαν εἰς ἔργον ἐξελθεῖν, Ὅπου γὰρ χάρις, συγχώρησις·",
+                            "spanishTranslation": "Viene la fe, atraída por la gracia, para que la promesa se haga realidad, porque donde hay gracia, hay perdón;"
+                          },
+                          {
+                            "keywords": [
+                              "perdón",
+                              "castigo"
+                            ],
+                            "lineNumber": [
+                              2637
+                            ],
+                            "notes": {},
+                            "originalText": "ὅπου δὲ συγχώρησις, οὐδεµία κόλασις·",
+                            "spanishTranslation": "y donde hay perdón, no hay castigo;"
+                          },
+                          {
+                            "keywords": [
+                              "castigo",
+                              "justicia",
+                              "fe",
+                              "herederos",
+                              "promesa"
+                            ],
+                            "lineNumber": [
+                              2638
+                            ],
+                            "notes": {},
+                            "originalText": "κολάσεως δὲ ἀνῃρηµένης, καὶ δικαιοσύνης ἐπιγενοµένης ἀπὸ τῆς πίστεως, οὐδὲν τὸ κωλύον κληρονόµους ἡµᾶς γενέσθαι τῆς ἐπαγγελίας τῆς ἀπὸ τῆς πίστεως.",
+                            "spanishTranslation": "y al ser eliminado el castigo, y al sobrevenir la justicia de la fe, nada impide que seamos herederos de la promesa que proviene de la fe."
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "gracia",
+                              "promesa",
+                              "Dios",
+                              "descendencia",
+                              "Abraham",
+                              "padre"
+                            ],
+                            "lineNumber": [
+                              2639
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia directa a Romanos 4:16. Crisóstomo está desglosando y explicando el texto paulino."
+                            },
+                            "originalText": "∆ιὰ τοῦτο οὖν ἐκ πίστεως, φησὶν, ἵνα κατὰ χάριν, εἰς τὸ εἶναι βεβαίαν τὴν ἐπαγγελίαν τοῦ Θεοῦ παντὶ τῷ σπέρµατι, οὐ τῷ ἐκ τοῦ νόµου µόνον, ἀλλὰ καὶ τῷ ἐκ πίστεως Ἀβραὰµ, ὅς ἐστι πατὴρ πάντων ἡµῶν.",
+                            "spanishTranslation": "Por esto, entonces, es por fe, dice, para que sea por gracia, a fin de que la promesa de Dios sea firme para toda la descendencia, no solo para la que es de la ley, sino también para la que es de la fe de Abraham, quien es padre de todos nosotros."
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "ley",
+                              "promesa",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              2640
+                            ],
+                            "notes": {},
+                            "originalText": "Ὁρᾷς, ὅτι οὐ τὸν νόµον ἵστησι µόνον ἡ πίστις, ἀλλὰ καὶ τὴν ἐπαγγελίαν τοῦ Θεοῦ οὐκ ἀφίησι διαπεσεῖν·",
+                            "spanishTranslation": "¿Ves que la fe no solo no invalida la ley, sino que tampoco permite que la promesa de Dios se frustre?"
+                          },
+                          {
+                            "keywords": [
+                              "ley",
+                              "fe",
+                              "promesa"
+                            ],
+                            "lineNumber": [
+                              2641
+                            ],
+                            "notes": {},
+                            "originalText": "ὁ δὲ νόµος τοὐναντίον καὶ τὴν πίστιν καταργεῖ παρὰ καιρὸν τηρούµενος, καὶ τὴν ἐπαγγελίαν κωλύει;",
+                            "spanishTranslation": "Mientras que la ley, al contrario, si se observa fuera de tiempo, anula la fe e impide la promesa?"
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "necesaria",
+                              "salvación"
+                            ],
+                            "lineNumber": [
+                              2642
+                            ],
+                            "notes": {},
+                            "originalText": "∆ιὰ τούτων δείκνυσιν οὐ µόνον οὐ περιττὴν τὴν πίστιν, ἀλλὰ καὶ οὕτως ἀναγκαίαν, ὡς µηδὲ εἶναι ταύτης ἄνευ σωθῆναι.",
+                            "spanishTranslation": "Con esto demuestra que la fe no solo no es superflua, sino tan necesaria que sin ella no es posible ser salvado."
+                          },
+                          {
+                            "keywords": [
+                              "ley",
+                              "ira"
+                            ],
+                            "lineNumber": [
+                              2643
+                            ],
+                            "notes": {},
+                            "originalText": "Ὁ µὲν γὰρ νόµος ὀργὴν ποιεῖ·",
+                            "spanishTranslation": "Porque la ley produce ira;"
+                          },
+                          {
+                            "keywords": [
+                              "transgredieron"
+                            ],
+                            "lineNumber": [
+                              2644
+                            ],
+                            "notes": {},
+                            "originalText": "πάντες γὰρ αὐτὸν παρέβησαν·",
+                            "spanishTranslation": "pues todos la transgredieron;"
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "ira"
+                            ],
+                            "lineNumber": [
+                              2645
+                            ],
+                            "notes": {},
+                            "originalText": "αὕτη δὲ οὐδὲ συστῆναι τὴν ὀργὴν ἀφίησι τὴν ἀρχήν·",
+                            "spanishTranslation": "pero esta [la fe] no permite que la ira se establezca en primer lugar;"
+                          },
+                          {
+                            "keywords": [
+                              "ley",
+                              "transgresión"
+                            ],
+                            "lineNumber": [
+                              2646
+                            ],
+                            "notes": {
+                              "notesBiblical": "Reiteración de Romanos 4:15, enfatizando cómo la fe contrarresta la ira generada por la ley."
+                            },
+                            "originalText": "Οὗ γὰρ οὐκ ἔστι, φησι, νόµος οὐδὲ παράβασις.",
+                            "spanishTranslation": "porque, dice, donde no hay ley, tampoco hay transgresión."
+                          },
+                          {
+                            "keywords": [
+                              "pecado",
+                              "aniquila",
+                              "brotar"
+                            ],
+                            "lineNumber": [
+                              2647
+                            ],
+                            "notes": {},
+                            "originalText": "Εἶδες πῶς οὐ µόνον γενοµένην ἀφανίζει τὴν ἁµαρτίαν, ἀλλ' οὐδὲ φυῆναι αὐτὴν ἀφίησι;",
+                            "spanishTranslation": "¿Viste cómo no solo aniquila el pecado una vez que ha surgido, sino que ni siquiera permite que brote?"
+                          },
+                          {
+                            "keywords": [
+                              "gracia"
+                            ],
+                            "lineNumber": [
+                              2648,
+                              2649
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Romanos 4:16, donde 'por gracia' se vincula con la fe."
+                            },
+                            "originalText": "∆ιὰ τοῦτό φησι· Κατὰ χάριν.",
+                            "spanishTranslation": "Por esto dice: Por gracia."
+                          },
+                          {
+                            "keywords": [
+                              "avergonzados",
+                              "promesa",
+                              "firme",
+                              "descendencia"
+                            ],
+                            "lineNumber": [
+                              2650,
+                              2651
+                            ],
+                            "notes": {
+                              "notesBiblical": "Continuación de la explicación de Romanos 4:16, enfatizando la firmeza de la promesa a través de la gracia y la fe."
+                            },
+                            "originalText": "Εἰς τὸ τί; Οὐκ εἰς τὸ καταισχυνθῆναι, ἀλλ', Εἰς τὸ εἶναι βεβαίαν τὴν ἐπαγγελίαν παντὶ τῷ σπέρµατι.",
+                            "spanishTranslation": "¿Para qué? No para ser avergonzados, sino para que la promesa sea firme para toda la descendencia."
+                          },
+                          {
+                            "keywords": [
+                              "bienes",
+                              "firme",
+                              "descendencia",
+                              "naciones",
+                              "judíos",
+                              "fe"
+                            ],
+                            "lineNumber": [
+                              2652
+                            ],
+                            "notes": {},
+                            "originalText": "∆ύο τίθησιν ἐνταῦθα τὰ ἀγαθὰ, ὅτι καὶ βέβαια τὰ διδόµενα, καὶ παντὶ τῷ σπέρµατι, τοὺς ἐξ ἐθνῶν συνεισάγων, καὶ δεικνὺς Ἰουδαίους ἐκτὸς ὄντας, ἂν πρὸς τὴν πίστιν φιλονεικήσωσι.",
+                            "spanishTranslation": "Aquí expone dos bienes: que lo que se da es firme, y para toda la descendencia, incluyendo a los de las naciones, y mostrando que los judíos están fuera si contienden contra la fe."
+                          },
+                          {
+                            "keywords": [
+                              "firme"
+                            ],
+                            "lineNumber": [
+                              2653
+                            ],
+                            "notes": {},
+                            "originalText": "Τοῦτο γὰρ βέβαιον µᾶλλον ἢ ἐκεῖνο·",
+                            "spanishTranslation": "Porque esto es más firme que aquello;"
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "ley",
+                              "peligro",
+                              "salva"
+                            ],
+                            "lineNumber": [
+                              2654
+                            ],
+                            "notes": {},
+                            "originalText": "οὐ γὰρ ζηµιοῖ ἡ πίστις, µὴ φιλονείκει, ἀλλὰ καὶ κινδυνεύοντά σε ἐκ τοῦ νόµου διασώζει.",
+                            "spanishTranslation": "pues la fe no daña, no contiende, sino que incluso te salva cuando estás en peligro por la ley."
+                          },
+                          {
+                            "keywords": [
+                              "descendencia",
+                              "especifica"
+                            ],
+                            "lineNumber": [
+                              2655
+                            ],
+                            "notes": {},
+                            "originalText": "Εἶτα ἐπειδὴ εἶπε, Παντὶ τῷ σπέρµατι, διορίζει ποίῳ σπέρµατι.",
+                            "spanishTranslation": "Luego, puesto que dijo 'para toda la descendencia', especifica a qué descendencia se refiere."
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "naciones",
+                              "Abraham",
+                              "creen"
+                            ],
+                            "lineNumber": [
+                              2656
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo aquí aclara que la verdadera descendencia de Abraham no es solo biológica o legal, sino espiritual, basada en la fe."
+                            },
+                            "originalText": "Τῷ ἐκ τῆς πίστεως, φησὶ, συνάπτων τὴν πρὸς τὰ ἔθνη συγγένειαν, καὶ δεικνὺς, ὅτι οὐδὲ δύνανται φρονεῖν ἐπὶ τῷ Ἀβραὰµ οἱ µὴ πιστεύοντες ὁµοίως ἐκείνῳ.",
+                            "spanishTranslation": "A la que es de la fe, dice, uniendo la parentela con las naciones y mostrando que aquellos que no creen de la misma manera que él [Abraham] ni siquiera pueden pensar en Abraham."
+                          },
+                          {
+                            "keywords": [
+                              "fe",
+                              "relación",
+                              "justo",
+                              "progenitor",
+                              "numerosa"
+                            ],
+                            "lineNumber": [
+                              2657,
+                              2658
+                            ],
+                            "notes": {
+                              "notesGeneral": "La nota '[[60.460]]' es una referencia a la columna del Migne Patrologia Graeca (PG), indicando el volumen y la columna donde se encuentra el texto. No es parte del texto original en sí, por lo que no se incluye en la traducción literal ni en el JSON como un keyword o parte del original."
+                            },
+                            "originalText": "Ἰδοὺ καὶ τρίτον ἡ πίστις ἄλλο εἰργάσατο· τὴν γὰρ συγγένειαν τὴν πρὸς τὸν δίκαιον ἀκριβεστέραν [[60.460]] ἐποίησε, καὶ πλειόνων ἐκγόνων ἀπέφηνε πρόγονον·",
+                            "spanishTranslation": "He aquí, la fe también obró una tercera cosa: hizo más precisa la relación con el justo, y lo manifestó como progenitor de una descendencia más numerosa;"
+                          },
+                          {
+                            "keywords": [
+                              "Abraham",
+                              "padre",
+                              "creyentes"
+                            ],
+                            "lineNumber": [
+                              2659
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 4:16, 'quien es padre de todos nosotros'."
+                            },
+                            "originalText": "διὸ οὐδὲ ἁπλῶς εἶπεν, Ἀβραὰµ, ἀλλὰ, Τοῦ πατρὸς ἡµῶν τῶν πιστῶν.",
+                            "spanishTranslation": "por eso no dijo simplemente 'Abraham', sino 'Padre de nosotros los creyentes'."
+                          },
+                          {
+                            "keywords": [
+                              "escrito",
+                              "padre",
+                              "naciones"
+                            ],
+                            "lineNumber": [
+                              2660
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 4:17, que a su vez cita Génesis 17:5. Crisóstomo subraya la confirmación escriturística."
+                            },
+                            "originalText": "Εἶτα καὶ τῇ µαρτυρίᾳ ἐπισφραγίζων τὸ εἰρηµένον, Καθὼς γέγραπται, φησὶν, ὅτι πατέρα πολλῶν ἐθνῶν τέθεικά σε.",
+                            "spanishTranslation": "Luego, sellando lo dicho con el testimonio, dice: 'Como está escrito: Te he puesto por padre de muchas naciones'."
+                          },
+                          {
+                            "keywords": [
+                              "dispuesto",
+                              "arriba"
+                            ],
+                            "lineNumber": [
+                              2661
+                            ],
+                            "notes": {},
+                            "originalText": "Εἶδες ταῦτα ἄνωθεν οἰκονοµούµενα;",
+                            "spanishTranslation": "¿Viste cómo todo esto fue dispuesto desde arriba?"
+                          },
+                          {
+                            "keywords": [
+                              "ismaelitas",
+                              "amalecitas",
+                              "agarenos"
+                            ],
+                            "lineNumber": [
+                              2662
+                            ],
+                            "notes": {
+                              "notesGeneral": "Esta es una objeción que Crisóstomo anticipa o plantea, para luego refutarla. Se refiere a descendientes carnales de Abraham que no siguieron su fe."
+                            },
+                            "originalText": "Τί οὖν, φησὶν, εἰ περὶ τῶν Ἰσµαηλιτῶν ἢ τῶν Ἀµαληκιτῶν ἢ τῶν Ἀγαρηνῶνταῦτα λέγει;",
+                            "spanishTranslation": "¿Qué, entonces, dice, si se refiere a los ismaelitas, o a los amalecitas, o a los agarenos?"
+                          },
+                          {
+                            "keywords": [
+                              "demuestra",
+                              "no se dijo"
+                            ],
+                            "lineNumber": [
+                              2663
+                            ],
+                            "notes": {},
+                            "originalText": "Τοῦτο µὲν οὖν προϊὼν σαφέστερον δείκνυσιν οὐ περὶ ἐκείνων εἰρηµένον·",
+                            "spanishTranslation": "Esto, pues, lo demuestra más claramente a medida que avanza, que no se dijo acerca de aquellos;"
+                          },
+                          {
+                            "keywords": [
+                              "parentela",
+                              "magnificencia"
+                            ],
+                            "lineNumber": [
+                              2664
+                            ],
+                            "notes": {},
+                            "originalText": "τέως δὲ ἐφ' ἕτερον ἐπείγεται, δι' οὗ καὶ αὐτὸ τοῦτο δείκνυσιν, ὁριζόµενος τῆς τοιαύτης συγγενείας τὸν τρόπον, καὶ µετὰ πολλῆς αὐτὸ τῆς µεγαλονοίας κατασκευάζων.",
+                            "spanishTranslation": "pero por ahora se apresura a otro punto, por el cual demuestra también esto mismo, definiendo el modo de tal parentela y elaborándolo con gran magnificencia."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "creyó"
+                            ],
+                            "lineNumber": [
+                              2665,
+                              2666
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 4:17. 'Κατέναντι' significa 'delante de' o 'ante los ojos de', implicando una relación directa y aprobada por Dios."
+                            },
+                            "originalText": "Τί γάρ φησι; Κατέναντι οὗ ἐπίστευσε Θεοῦ·",
+                            "spanishTranslation": "¿Qué dice, pues? 'Delante del Dios en quien creyó';"
+                          },
+                          {
+                            "keywords": [
+                              "dice"
+                            ],
+                            "lineNumber": [
+                              2667
+                            ],
+                            "notes": {},
+                            "originalText": "ὃ δὲ λέγει, τοιοῦτόν ἐστιν·",
+                            "spanishTranslation": "Y lo que dice es esto:"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "padre",
+                              "todos"
+                            ],
+                            "lineNumber": [
+                              2668
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo traza un paralelismo entre la paternidad universal de Dios y la paternidad de Abraham a través de la fe."
+                            },
+                            "originalText": "Ὥσπερ ὁ Θεὸς οὐκ ἔστι µερικὸς Θεὸς, ἀλλὰ πάντων πατὴρ, οὕτω καὶ αὐτός.",
+                            "spanishTranslation": "Así como Dios no es un Dios parcial, sino Padre de todos, así también él."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "padre",
+                              "natural",
+                              "fe",
+                              "afinidad"
+                            ],
+                            "lineNumber": [
+                              2669
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ πάλιν, Ὥσπερ ὁ Θεὸς πατήρ ἐστιν οὐ κατὰ τὴν φυσικὴν συγγένειαν, ἀλλὰ κατ' οἰκείωσιν πίστεως, οὕτω καὶ αὐτός·",
+                            "spanishTranslation": "Y de nuevo: Así como Dios es Padre no por parentesco natural, sino por afinidad de fe, así también él;"
+                          },
+                          {
+                            "keywords": [
+                              "obediencia",
+                              "padre",
+                              "nosotros"
+                            ],
+                            "lineNumber": [
+                              2670
+                            ],
+                            "notes": {
+                              "notesGeneral": "El 'nosotros' se refiere a 'todos nosotros' (los creyentes). La obediencia (la fe obediente) es lo que establece esta paternidad espiritual universal de Abraham."
+                            },
+                            "originalText": "ἡ γὰρ ὑπακοὴ ποιεῖ πατέρα πάντων ἡµῶν.",
+                            "spanishTranslation": "porque la obediencia nos hace a todos sus hijos."
+                          },
+                          {
+                            "keywords": [
+                              "parentela",
+                              "carnal",
+                              "importante",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              2671
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐπειδὴ γὰρ οὐδὲν ἐνόµιζον εἶναι ταύτην τὴν συγγένειαν, τὴν παχυτέραν ἐκείνην κατασχόντες, δείκνυσι ταύτην κυριωτέραν, ἐπὶ τὸν Θεὸν τὸν λόγον ἀναγαγών.",
+                            "spanishTranslation": "Pues como no consideraban esta parentela como algo, aferrándose a aquella más carnal, demuestra que esta es más importante, elevando el argumento a Dios."
+                          },
+                          {
+                            "keywords": [
+                              "recompensa",
+                              "fe"
+                            ],
+                            "lineNumber": [
+                              2672
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ µετὰ τούτων κἀκεῖνο ἐµφαίνει, ὅτι καὶ ἀµοιβὴν τῆς πίστεως ταύτην ἔλαβεν·",
+                            "spanishTranslation": "Y además de esto, muestra aquello: que también recibió esto como recompensa de su fe;"
+                          },
+                          {
+                            "keywords": [
+                              "padre",
+                              "tierra",
+                              "don",
+                              "Dios",
+                              "mutilado"
+                            ],
+                            "lineNumber": [
+                              2673
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra 'ἠκρωτηρίασται' (ekrōtēríastai) significa 'ha sido mutilado', 'ha sido cortado'. Crisóstomo usa una imagen fuerte para indicar que la promesa de Dios se vería disminuida si se entendiera solo en términos de descendencia carnal."
+                            },
+                            "originalText": "ὥστε ἂν µὴ τοῦτο ᾖ, κἂν πάντων ᾖ πατὴρ τῶν τὴν γῆν οἰκούντων, τὸ, Κατέναντι, οὐκ ἔχει χώραν, ἀλλ' ἠκρωτηρίασται ἡ τοῦ Θεοῦ δωρεά·",
+                            "spanishTranslation": "de modo que si esto no fuera así, aunque fuera padre de todos los que habitan la tierra, la expresión 'Delante de' no tendría lugar, sino que el don de Dios habría sido mutilado;"
+                          },
+                          {
+                            "keywords": [
+                              "delante de",
+                              "similar"
+                            ],
+                            "lineNumber": [
+                              2674
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La interpretación de Crisóstomo de 'κατέναντι' (katenanti) aquí va más allá de 'frente a' o 'delante de'. Él sugiere que implica una correspondencia o similitud en la cualidad de la paternidad universal, tanto de Dios como de Abraham para con los creyentes."
+                            },
+                            "originalText": "τὸ γὰρ κατέναντι, ὁµοίως ἐστί.",
+                            "spanishTranslation": "porque 'delante de' significa 'de manera similar'."
+                          },
+                          {
+                            "keywords": [
+                              "admirable",
+                              "padre",
+                              "hombres"
+                            ],
+                            "lineNumber": [
+                              2675,
+                              2676
+                            ],
+                            "notes": {},
+                            "originalText": "Ποῦ γὰρ θαυµαστὸν, εἰπέ µοι, τῶν ἐξ αὐτοῦ πατέρα εἶναι; τοῦτο γὰρ ἕκαστος κέκτηται τῶν ἀνθρώπων.",
+                            "spanishTranslation": "¿Pues dónde está lo admirable, dime, en ser padre de los que proceden de él? Porque esto lo posee cada hombre."
+                          },
+                          {
+                            "keywords": [
+                              "paradójico",
+                              "Dios",
+                              "don",
+                              "naturaleza"
+                            ],
+                            "lineNumber": [
+                              2677
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo concluye la sección resaltando la verdadera maravilla del pacto con Abraham: su paternidad sobre una multitud de naciones no por linaje sanguíneo, sino por el don divino de la fe, que trasciende las barreras naturales."
+                            },
+                            "originalText": "Τὸ γὰρ παράδοξον ἐκεῖνό ἐστιν, οὓς οὐκ εἶχεν ἐκ φύσεως, τούτους ἀπὸ τῆς τοῦ Θεοῦ δωρεᾶς λαβεῖν.",
+                            "spanishTranslation": "Porque lo paradójico es aquello: recibir, por el don de Dios, a quienes no tenía por naturaleza."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 5,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 8,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 5,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              2679
+                            ],
+                            "originalText": "Ὥστε εἰ βούλει πιστεῦσαι, ὅτι ἐτιµήθη ὁ πατριάρχης, πίστευσον, ὅτι πάντων ἐστὶ πατήρ.",
+                            "spanishTranslation": "Por tanto, si quieres creer que el patriarca fue honrado, cree que es padre de todos."
+                          },
+                          {
+                            "lineNumber": [
+                              2680,
+                              2681,
+                              2682
+                            ],
+                            "notes": {
+                              "notesBiblical": "La frase \"Κατέναντι οὗ ἐπίστευσε Θεοῦ\" y \"Τοῦ ζωοποιοῦντος τοὺς νεκροὺς, καὶ καλοῦντος τὰ µὴ ὄντα ὡς ὄντα\" proviene de Romanos 4:17.",
+                              "notesGeneral": "San Juan Crisóstomo enfatiza la importancia de la fe de Abraham como fundamento para su designación como 'padre de todos', incluso antes de que tuviera descendencia física."
+                            },
+                            "originalText": "Εἰπὼν δὲ, Κατέναντι οὗ ἐπίστευσε Θεοῦ, οὐκ ἔστη µέχρι τούτου, ἀλλὰ καὶ ἐπήγαγε· Τοῦ ζωοποιοῦντος τοὺς νεκροὺς, καὶ καλοῦντος τὰ µὴ ὄντα ὡς ὄντα· ἤδη τὸν περὶ τῆς ἀναστάσεως προκαταβαλλόµενος λόγον.",
+                            "spanishTranslation": "Habiendo dicho: \"Delante de aquel en quien creyó, Dios\", no se detuvo ahí, sino que añadió: \"El que da vida a los muertos y llama a las cosas que no son como si fueran\"; preparando ya el argumento sobre la resurrección."
+                          },
+                          {
+                            "lineNumber": [
+                              2683
+                            ],
+                            "originalText": "Καὶ εἰς τὸ προκείµενον δὲ αὐτῷ χρήσιµος ἦν.",
+                            "spanishTranslation": "Y para el asunto que se le presentaba, esto le era útil."
+                          },
+                          {
+                            "lineNumber": [
+                              2684
+                            ],
+                            "originalText": "Εἰ γὰρ δυνατὸν αὐτῷ νεκροὺς ζωοποιῆσαι, καὶ τὰ µὴ ὄντα ὡς ὄντα παραγαγεῖν, δυνατὸν αὐτῷ καὶ τοὺς µὴ τεχθέντας ἐξ αὐτοῦ ποιῆσαι παῖδας αὐτοῦ.",
+                            "spanishTranslation": "Porque si le es posible a Él dar vida a los muertos y hacer que las cosas que no existen existan, también le es posible hacer que aquellos que no nacieron de él sean sus hijos."
+                          },
+                          {
+                            "lineNumber": [
+                              2685,
+                              2686
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La distinción entre 'παράγοντος' (produciendo) y 'καλοῦντος' (llamando) subraya la facilidad y el poder de Dios en la creación y en hacer que lo inexistente sea, sin esfuerzo."
+                            },
+                            "originalText": "∆ιὰ τοῦτο οὐδὲ εἶπε, Καὶ παράγοντος τὰ οὐκ ὄντα ὡς ὄντα, ἀλλὰ, Καλοῦντος, τὴν πλείονα εὐκολίαν δηλῶν. Ὥσπερ γὰρ ἡµῖν εὔκολον τὰ ὄντα καλέσαι, οὕτως αὐτῷ ῥᾴδιον, καὶ πολλῷ ῥᾷον, τὰ µὴ ὄντα ὑποστήσασθαι.",
+                            "spanishTranslation": "Por esta razón no dijo: \"Y produciendo las cosas que no existen como si existieran\", sino: \"Llamando\", indicando la mayor facilidad. Porque así como para nosotros es fácil llamar a las cosas que existen, así también para Él es sencillo, y mucho más fácil, hacer subsistir las cosas que no existen."
+                          },
+                          {
+                            "lineNumber": [
+                              2687
+                            ],
+                            "originalText": "Εἰπὼν δὲ τοῦ Θεοῦ τὴν δωρεὰν µεγάλην οὖσαν καὶ ἄφατον, καὶ περὶ τῆς δυνάµεως αὐτοῦ διαλεχθεὶς, δείκνυσι καὶ τοῦ Ἀβραὰµ τὴν πίστιν ἀξίαν οὖσαν τῆς δωρεᾶς, ἵνα µὴ νοµίσῃς αὐτὸν εἰκῆ τετιµῆσθαι.",
+                            "spanishTranslation": "Habiendo dicho que el don de Dios es grande e inefable, y habiendo hablado de su poder, muestra que la fe de Abraham también era digna del don, para que no pienses que fue honrado en vano."
+                          },
+                          {
+                            "lineNumber": [
+                              2688,
+                              2689
+                            ],
+                            "originalText": "Καὶ τὸν ἀκροατὴν δὲ ἀναστήσας, ἵνα µὴ θορυβῆται, µηδὲ ἀµφιβάλλῃ ὁ Ἰουδαῖος καὶ λέγῃ, Καὶ πῶς δυνατὸν τοὺς οὐκ ὄντας παῖδας γενέσθαι παῖδας; µετάγει τὸν λόγον ἐπὶ τὸν πατριάρχην, καί φησιν·",
+                            "spanishTranslation": "Y habiendo elevado al oyente, para que el judío no se turbe ni dude y diga: \"¿Y cómo es posible que los que no son hijos lleguen a ser hijos?\", traslada el argumento al patriarca, y dice:"
+                          },
+                          {
+                            "lineNumber": [
+                              2690,
+                              2691
+                            ],
+                            "notes": {
+                              "notesBiblical": "La frase \"Ὃς παρ' ἐλπίδα ἐπ' ἐλπίδι ἐπίστευσεν\" se encuentra en Romanos 4:18. La cita \"Οὕτως ἔσται τὸ σπέρµα σου\" proviene de Génesis 15:5, también citada en Romanos 4:18."
+                            },
+                            "originalText": "Ὃς παρ' ἐλπίδα ἐπ' ἐλπίδι ἐπίστευσεν εἰς τὸ γενέσθαι αὐτὸν πατέρα πολλῶν ἐθνῶν, κατὰ τὸ εἰρηµένον· Οὕτως ἔσται τὸ σπέρµα σου.",
+                            "spanishTranslation": "Quien contra toda esperanza creyó en esperanza, para llegar a ser padre de muchas naciones, conforme a lo dicho: \"Así será tu descendencia\"."
+                          },
+                          {
+                            "lineNumber": [
+                              2692,
+                              2693
+                            ],
+                            "originalText": "Πῶς παρ' ἐλπίδα ἐπ' ἐλπίδι ἐπίστευσε; Παρ' ἐλπίδα τὴν ἀνθρωπίνην, ἐπ' ἐλπίδι τῇ τοῦ Θεοῦ.",
+                            "spanishTranslation": "¿Cómo \"contra toda esperanza creyó en esperanza\"? Contra la esperanza humana, en la esperanza de Dios."
+                          },
+                          {
+                            "lineNumber": [
+                              2694,
+                              2695
+                            ],
+                            "originalText": "∆είκνυσι γὰρ καὶ τὸ µεγαλεῖον τοῦ πράγµατος, καὶ οὐκ ἀφίησιν ἀπιστηθῆναι τὸ λεγόµενον· ἅπερ ἐναντία ἀλλήλοις ἐστὶν, ἀλλ' ἡ πίστις αὐτὰ συνεκέρασεν.",
+                            "spanishTranslation": "Porque muestra también la grandeza del asunto, y no permite que lo dicho sea incrédulo; lo cual era contrario entre sí, pero la fe los unió."
+                          },
+                          {
+                            "lineNumber": [
+                              2696,
+                              2697
+                            ],
+                            "originalText": "Εἰ δὲ περὶ ἐκείνων ἔλεγε τῶν ἐκ τοῦ Ἰσραὴλ, περιττὸς οὗτος ὁ λόγος· ἐκεῖνοι γὰρ οὐ κατὰ πίστιν, ἀλλὰ κατὰ φύσιν ἐτέχθησαν.",
+                            "spanishTranslation": "Pero si hablara de aquellos de Israel, esta afirmación sería superflua; porque ellos no nacieron por fe, sino por naturaleza."
+                          },
+                          {
+                            "lineNumber": [
+                              2698,
+                              2699
+                            ],
+                            "originalText": "Ἀλλὰ καὶ τὸν Ἰσαὰκ εἰς µέσον ἄγει· οὐ γὰρ ὑπὲρ ἐκείνων ἐπίστευσε τῶν ἐθνῶν, ἀλλὰ τοῦ ἀπὸ τῆς στείρας γυναικὸς ἐσοµένου.",
+                            "spanishTranslation": "Sino que también trae a Isaac a colación; pues no creyó por aquellas naciones, sino por el que había de nacer de la mujer estéril."
+                          },
+                          {
+                            "lineNumber": [
+                              2700,
+                              2701
+                            ],
+                            "originalText": "Εἰ τοίνυν µισθός ἐστι τὸ πατέρα πολλῶν ἐθνῶν γενέσθαι, ἐκείνων τῶν ἐθνῶν ὑπὲρ ὧν ἐπίστευσε δῆλον ὅτι. Ἵνα γὰρ µάθῃς, ὅτι περὶ τούτων φησὶν, ἄκουσον τῶν ἑξῆς·",
+                            "spanishTranslation": "Si, entonces, ser padre de muchas naciones es una recompensa, es evidente que es de aquellas naciones por las cuales creyó. Porque para que sepas que habla de estas cosas, escucha lo siguiente:"
+                          },
+                          {
+                            "lineNumber": [
+                              2702
+                            ],
+                            "notes": {
+                              "notesBiblical": "El Crisóstomo cita y explica Romanos 4:19."
+                            },
+                            "originalText": "Καὶ µὴ ἀσθενήσας τῇ πίστει, οὐ κατενόησε τὸ ἑαυτοῦ σῶµα νενεκρωµένον, ἑκατονταέτης που ὑπάρχων, καὶ τὴν νέκρωσιν τῆς µήτρας τῆς Σάῤῥας.",
+                            "spanishTranslation": "Y no se debilitó en la fe, ni consideró su propio cuerpo ya como muerto (teniendo casi cien años), ni la esterilidad del vientre de Sara."
+                          },
+                          {
+                            "lineNumber": [
+                              2703
+                            ],
+                            "originalText": "Εἶδες πῶς τίθησι καὶ τὰ κωλύµατα, καὶ τὴν ὑψηλὴν τοῦ δικαίου γνώµην πάντα ὑπερβαίνουσαν;",
+                            "spanishTranslation": "¿Ves cómo presenta tanto los impedimentos como la elevada disposición del justo que supera todo?"
+                          },
+                          {
+                            "lineNumber": [
+                              2704,
+                              2705
+                            ],
+                            "originalText": "Παρ' ἐλπίδα, φησὶ, τὸ ἐπαγγελθέν. Τοῦτο κώλυµα πρῶτον·",
+                            "spanishTranslation": "Contra toda esperanza, dice, lo prometido. Este es el primer impedimento;"
+                          },
+                          {
+                            "lineNumber": [
+                              2706,
+                              2707,
+                              2708,
+                              2709
+                            ],
+                            "originalText": "οὐδὲ γὰρ εἶχεν αὐτὸς ἕτερον Ἀβραὰµ οὕτω λαβόντα παῖδα ἰδεῖν. Οἱ µὲν γὰρ µετ' αὐτὸν, εἰς αὐτὸν ἔβλεπον· ἐκεῖνος δὲ εἰς οὐδένα, ἀλλ' εἰς τὸν Θεὸν µόνον· διὸ καὶ, Παρ' ἐλπίδα, ἔλεγεν.",
+                            "spanishTranslation": "pues él mismo no había visto a otro Abraham que hubiera tenido un hijo de esta manera. Porque los que vinieron después de él, miraban a él; pero él a nadie, sino solo a Dios; por eso también decía: \"Contra toda esperanza\"."
+                          },
+                          {
+                            "lineNumber": [
+                              2710,
+                              2711
+                            ],
+                            "originalText": "Εἶτα τὸ σῶµα νενεκρωµένον· δεύτερον τοῦτο·",
+                            "spanishTranslation": "Luego, el cuerpo muerto; este es el segundo [impedimento];"
+                          },
+                          {
+                            "lineNumber": [
+                              2712,
+                              2713
+                            ],
+                            "originalText": "καὶ ἡ νέκρωσις τῆς µήτρας Σάῤῥας· τοῦτο καὶ τρίτον καὶ τέταρτον.",
+                            "spanishTranslation": "y la esterilidad del vientre de Sara; esto es tanto el tercero como el cuarto."
+                          },
+                          {
+                            "lineNumber": [
+                              2714
+                            ],
+                            "originalText": "Εἰς δὲ τὴν ἐπαγγελίαν τοῦ Θεοῦ οὐ διεκρίθη τῇ ἀπιστίᾳ.",
+                            "spanishTranslation": "Pero en la promesa de Dios no dudó por incredulidad."
+                          },
+                          {
+                            "lineNumber": [
+                              2715
+                            ],
+                            "originalText": "Οὐδὲ γὰρ ἀπόδειξιν ἔδωκεν, οὔτε σηµεῖον ἐποίησεν ὁ Θεὸς, ἀλλὰ ῥήµατα ἦν ψιλὰ µόνον, ἐπαγγελλόµενα ἅπερ οὐχ ὑπισχνεῖτο ἡ φύσις.",
+                            "spanishTranslation": "Porque ni Dios dio prueba ni hizo señal alguna, sino que eran solo palabras simples que prometían lo que la naturaleza no garantizaba."
+                          },
+                          {
+                            "lineNumber": [
+                              2716,
+                              2717,
+                              2718
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La distinción entre 'ἠπίστησεν' (no creyó, desconfió) y 'διεκρίθη' (dudó, discrepó) es sutil pero importante. Crisóstomo subraya que la fe de Abraham no solo superó la falta de creencia, sino que ni siquiera permitió la más mínima vacilación o indecisión."
+                            },
+                            "originalText": "Ἀλλ' ὅµως Οὐ διεκρίθη, φησίν. Οὐκ εἶπεν, ὅτι Οὐκ ἠπίστησεν, ἀλλ', Οὐ διεκρίθη· τουτέστιν, οὐδὲ ἐνεδοίασεν, οὐδὲ ἀµφέβαλε, καὶ τοσούτων ὄντων τῶν κωλυµάτων.",
+                            "spanishTranslation": "Sin embargo, \"no dudó\", dice. No dijo: \"No desconfió\", sino: \"No dudó\"; es decir, ni vaciló ni desconfió, a pesar de tantos impedimentos."
+                          },
+                          {
+                            "lineNumber": [
+                              2719
+                            ],
+                            "originalText": "Ἀπὸ τούτων µανθάνοµεν, ὅτι κἂν µυρία ὁ Θεὸς ἀδύνατα ἐπαγγέλληται, µὴ καταδέξηται δὲ ὁ ἀκούων, οὐ τῆς τῶν πραγµάτων φύσεώς ἐστιν ἡ ἀσθένεια, ἀλλὰ τῆς ἀνοίας τῆς τοῦ µὴ δεχοµένου.",
+                            "spanishTranslation": "De esto aprendemos que, aunque Dios prometa innumerables cosas imposibles, si el que escucha no las acepta, la debilidad no es de la naturaleza de las cosas, sino de la insensatez del que no las recibe."
+                          },
+                          {
+                            "lineNumber": [
+                              2720
+                            ],
+                            "notes": {
+                              "notesBiblical": "Continuando con Romanos 4:20."
+                            },
+                            "originalText": "Ἀλλ' ἐνεδυναµώθη τῇ πίστει.",
+                            "spanishTranslation": "Sino que se fortaleció en la fe."
+                          },
+                          {
+                            "lineNumber": [
+                              2721,
+                              2722,
+                              2723,
+                              2724
+                            ],
+                            "originalText": "Ὅρα Παύλου φιλοσοφίαν. Ἐπειδὴ γὰρ περὶ τῶν ἐργαζοµένων καὶ τῶν πιστευόντων ἦν ὁ λόγος, δείκνυσι τὸν πιστεύοντα ἐργαζόµενον µᾶλλον ἢ ἐκεῖνον, καὶ πλείονος δεόµενον δυνάµεως καὶ πολλῆς τῆς ἰσχύος, καὶ οὐ τὸν τυχόντα ὑποµένοντα πόνον. Καὶ γὰρ ἐξευτέλιζον τὴν πίστιν ὡς οὐκ ἔχουσαν πόνον. Πρὸς τοῦτο τοίνυν ἱστάµενος δείκνυσιν, ὅτι οὐ µόνον ὁ σωφροσύνην κατορθῶν ἢ ἄλλο τι τῶν τοιούτων, ἀλλὰ καὶ ὁ πίστιν ἐπιδεικνύµενος, δυνάµεως δεῖται πλείονος.",
+                            "spanishTranslation": "Observa la filosofía de Pablo. Porque, puesto que el discurso era sobre los que obran y los que creen, muestra que el que cree obra más que aquel, y necesita mayor poder y mucha fuerza, y no soporta un esfuerzo cualquiera. Y es que despreciaban la fe como si no implicara esfuerzo. Por tanto, al abordar esto, demuestra que no solo el que practica la templanza o algo similar, sino también el que muestra fe, necesita mayor poder."
+                          },
+                          {
+                            "lineNumber": [
+                              2725,
+                              2726
+                            ],
+                            "originalText": "Ὥσπερ γὰρ ἐκεῖνος χρείαν ἔχει ἰσχύος, ἵνα τοὺς τῆς ἀκολασίας διακρούσηται λογισµούς· οὕτω καὶ οὗτος χρείαν ἔχει δυνατῆς ψυχῆς, ἵνα τὰς τῆς ἀπιστίας ἐξωθήσηται ἐννοίας.",
+                            "spanishTranslation": "Porque así como aquel necesita fuerza para repeler los pensamientos de intemperancia, así también este necesita un alma fuerte para expulsar las ideas de incredulidad."
+                          },
+                          {
+                            "lineNumber": [
+                              2727,
+                              2728,
+                              2729
+                            ],
+                            "originalText": "Πῶς οὖν ἐγένετο ἰσχυρός; Τῇ πίστει, φησὶν, οὐ λογισµοῖς τὸ πρᾶγµα ἐπιτρέψας· ἐπεὶ ἂν κατέπεσε.",
+                            "spanishTranslation": "¿Cómo, entonces, se hizo fuerte? \"Por la fe\", dice, no confiando el asunto a razonamientos; de otro modo, habría caído."
+                          },
+                          {
+                            "lineNumber": [
+                              2730,
+                              2731
+                            ],
+                            "notes": {
+                              "notesBiblical": "Explicación de Romanos 4:20-21."
+                            },
+                            "originalText": "Πῶς δὲ αὐτὴν τὴν πίστιν κατώρθωσε; ∆οὺς δόξαν τῷ Θεῷ, φησὶ, καὶ πληροφορηθεὶς, ὅτι ὃ ἐπήγγελται, δυνατός ἐστι καὶ ποιῆσαι.",
+                            "spanishTranslation": "¿Y cómo perfeccionó esa misma fe? \"Dando gloria a Dios\", dice, \"y plenamente convencido de que aquello que había prometido, Él era poderoso para también cumplirlo\"."
+                          },
+                          {
+                            "lineNumber": [
+                              2732
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La palabra 'περιεργάζεσθαι' implica una curiosidad excesiva o entrometida, especialmente en asuntos que no le corresponden a uno, o en los que no se tiene derecho a inquirir. Crisóstomo la contrasta con la actitud de glorificar a Dios."
+                            },
+                            "originalText": "Ἄρα τὸ µὴ περιεργάζεσθαι, δοξάζειν ἐστὶ τὸν Θεὸν, ὥσπερ οὖν τὸ περιεργάζεσθαι, πληµµελεῖν.",
+                            "spanishTranslation": "Así pues, no indagar curiosamente es glorificar a Dios, del mismo modo que indagar curiosamente es pecar."
+                          },
+                          {
+                            "lineNumber": [
+                              2733
+                            ],
+                            "notes": {
+                              "notesLinguistics": "El término 'πολυπραγµονοῦντες' es similar a 'περιεργάζεσθαι', enfatizando la intromisión o la excesiva indagación en asuntos complejos o sagrados. En este contexto, se refiere a cuestionar indebidamente el misterio del nacimiento de Cristo."
+                            },
+                            "originalText": "Εἰ δὲ τὰ κάτω περιεργαζόµενοι καὶ ζητοῦντες οὐ δοξάζοµεν, πολλῷ µᾶλλον τὴν τοῦ ∆εσπότου γέννησιν πολυπραγµονοῦντες, ὡς ὑβρίζοντες τὰ ἔσχατα πεισόµεθα.",
+                            "spanishTranslation": "Si al indagar y buscar curiosamente en las cosas de abajo no glorificamos, mucho más al inquirir con excesiva curiosidad sobre el nacimiento del Señor, sufriremos lo peor como quienes injurian."
+                          },
+                          {
+                            "lineNumber": [
+                              2734
+                            ],
+                            "originalText": "Εἰ γὰρ τὸν τύπον τῆς ἀναστάσεως οὐ χρὴ ζητεῖν, πολλῷ µᾶλλον τὰ ἀπόῤῥητα ἐκεῖνα καὶ φρικτά.",
+                            "spanishTranslation": "Porque si no es necesario indagar en el modo de la resurrección, mucho menos en aquellos misterios inefables y terribles."
+                          },
+                          {
+                            "lineNumber": [
+                              2735
+                            ],
+                            "notes": {
+                              "notesLinguistics": "'Πληροφορηθείς' (Rom 4:21) no significa solo 'creyendo' (πιστεύσας) sino 'estando plenamente convencido' o 'completamente asegurado', implicando una fe inquebrantable y sin dudas."
+                            },
+                            "originalText": "Καὶ οὐκ εἶπε πιστεύσας ἁπλῶς, ἀλλὰ, Πληροφορηθείς.",
+                            "spanishTranslation": "Y no dijo simplemente 'creyendo', sino 'plenamente convencido'."
+                          },
+                          {
+                            "lineNumber": [
+                              2736,
+                              2737
+                            ],
+                            "originalText": "Τοιοῦτον γὰρ ἡ πίστις, τῆς ἀπὸ λογισµῶν ἀποδείξεως, σαφεστέρα, καὶ µᾶλλον πείθει· οὐ γὰρ ἔστι λογισµὸν ἕτερον ἐπεισελθόντα αὐτῇ διασαλεῦσαι λοιπόν.",
+                            "spanishTranslation": "Porque tal es la fe: más clara que la demostración basada en razonamientos, y más convincente; pues ya no es posible que otro razonamiento la sacuda al penetrar en ella."
+                          },
+                          {
+                            "lineNumber": [
+                              2738,
+                              2739
+                            ],
+                            "originalText": "Ὁ µὲν γὰρ λόγοις πειθόµενος καὶ µεταπεισθῆναι δύναται· ὁ δὲ τῇ πίστει βεβαιούµενος ἀπετείχισε λοιπὸν αὐτοῦ τὴν ἀκοὴν τοῖς λυµαινοµένοις αὐτὴν λόγοις.",
+                            "spanishTranslation": "Porque el que se persuade con palabras también puede ser persuadido a cambiar; pero el que se afianza en la fe ya ha fortificado su oído contra las palabras que la dañan."
+                          },
+                          {
+                            "lineNumber": [
+                              2740,
+                              2741
+                            ],
+                            "originalText": "Εἰπὼν τοίνυν, ὅτι ἀπὸ πίστεως ἐδικαιώθη, δείκνυσιν, ὅτι καὶ ἐδόξασε τὸν Θεὸν ἀπὸ τῆς πίστεως· ὃ βίου µάλιστά ἐστιν ἴδιον.",
+                            "spanishTranslation": "Habiendo dicho, entonces, que fue justificado por la fe, muestra que también glorificó a Dios por la fe; lo cual es muy característico de una vida."
+                          },
+                          {
+                            "lineNumber": [
+                              2742
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Mateo 5:16."
+                            },
+                            "originalText": "Λαµψάτω γὰρ ὑµῶν τὸ φῶς ἔµπροσθεν τῶν ἀνθρώπων, ὅπως ἴδωσι τὰ καλὰ ἔργα ὑµῶν, καὶ δοξάσωσι τὸν Πατέρα ὑµῶν τὸν ἐν τοῖς οὐρανοῖς.",
+                            "spanishTranslation": "Porque así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras y glorifiquen a vuestro Padre que está en los cielos."
+                          },
+                          {
+                            "lineNumber": [
+                              2743
+                            ],
+                            "originalText": "Ἰδοὺ τοῦτο τῆς πίστεως ὂν ἐφάνη.",
+                            "spanishTranslation": "He aquí que esto apareció siendo de la fe."
+                          },
+                          {
+                            "lineNumber": [
+                              2744
+                            ],
+                            "originalText": "Πάλιν δὲ ὥσπερ τὰ ἔργα δεῖται δυνάµεως, οὕτω καὶ ἡ πίστις.",
+                            "spanishTranslation": "De nuevo, así como las obras necesitan poder, así también la fe."
+                          },
+                          {
+                            "lineNumber": [
+                              2745,
+                              2746,
+                              2747
+                            ],
+                            "originalText": "Ἐνταῦθα µὲν γὰρ πολλάκις καὶ τὸ σῶµα µερίζεται τὸν ἱδρῶτα· ἐκεῖ δὲ τῆς ψυχῆς γυµνῆς ἐστι τὸ κατόρθωµα. Ὥστε µείζων ὁ πόνος, ὅταν µηδὲ τὸν διανεµόµενον πρὸς αὐτὴν ἔχῃ τοὺς ἀγῶνας.",
+                            "spanishTranslation": "Porque aquí, muchas veces también el cuerpo comparte el sudor; pero allí la proeza es del alma desnuda. Así que el esfuerzo es mayor cuando no tiene a nadie que comparta las luchas con ella."
+                          },
+                          {
+                            "lineNumber": [
+                              2749
+                            ],
+                            "originalText": "Εἶδες πῶς πάντα, ἅπερ ἦν ἔργων, ἔδειξε µετὰ πλείονος περιουσίας τῇ πίστει προσόντα, οἷον τὸ καυχᾶσθαι πρὸς τὸν Θεὸν, τὸ δυνάµεως δεῖσθαι καὶ πόνου, τὸ δοξάζειν πάλιν τὸν Θεόν;",
+                            "spanishTranslation": "¿Ves cómo demostró que todas las cosas que eran de las obras, estaban presentes en la fe con mayor abundancia, como el gloriarse en Dios, el necesitar poder y esfuerzo, el glorificar de nuevo a Dios?"
+                          },
+                          {
+                            "lineNumber": [
+                              2750,
+                              2751,
+                              2752
+                            ],
+                            "originalText": "Εἰπὼν δὲ, Ὅτι ὃ ἐπήγγελται, δυνατός ἐστι καὶ ποιῆσαι, δοκεῖ µοι καὶ περὶ τῶν µελλόντων προαναφωνεῖν· οὐ γὰρ τὰ παρόντα ἐπηγγείλατο µόνον, ἀλλὰ καὶ τὰ µέλλοντα· ταῦτα γὰρ τύπος ἐκείνων.",
+                            "spanishTranslation": "Y al decir: \"Porque Él es poderoso para cumplir lo que ha prometido\", me parece que también preanuncia sobre las cosas futuras; pues no solo prometió las presentes, sino también las futuras; porque estas son un tipo de aquellas."
+                          },
+                          {
+                            "lineNumber": [
+                              2753
+                            ],
+                            "originalText": "Ἄρα ἀσθενοῦς διανοίας τὸ µὴ πιστεύειν, καὶ µικρᾶς καὶ ταλαιπώρου.",
+                            "spanishTranslation": "Por tanto, no creer es propio de una mente débil, pequeña y miserable."
+                          },
+                          {
+                            "lineNumber": [
+                              2754
+                            ],
+                            "originalText": "Ὥστε ὅταν ἡµῖν ἐγκαλῶσι τὴν πίστιν τινὲς, ἀντεγκαλῶµεν ἡµεῖς τὴν ἀπιστίαν αὐτοῖς, ὡς ταλαιπώροις καὶ µικροψύχοις καὶ ἀνοήτοις καὶ ἀσθενέσιν καὶ ὄνων οὐδὲν ἄµεινον διακειµένοις.",
+                            "spanishTranslation": "Así que, cuando algunos nos reprochen la fe, nosotros les reprochemos a ellos la incredulidad, como a personas miserables, pusilánimes, insensatas, débiles y que no están mejor que los asnos."
+                          },
+                          {
+                            "lineNumber": [
+                              2755,
+                              2756
+                            ],
+                            "originalText": "Ὥσπερ γὰρ τὸ πιστεύειν ὑψηλῆς καὶ µεγαλοφυοῦς ψυχῆς· οὕτω τὸ ἀπιστεῖν ἀλογωτάτης καὶ εὐτελοῦς καὶ πρὸς τὴν τῶν κτηνῶν ἄνοιαν κατενηνεγµένης.",
+                            "spanishTranslation": "Porque así como creer es propio de un alma elevada y magnánima, así también no creer es de un alma irracional, vil y hundida en la insensatez de las bestias."
+                          },
+                          {
+                            "lineNumber": [
+                              2757
+                            ],
+                            "originalText": "∆ιόπερ ἐκείνους ἀφέντες, τὸν πατριάρχην ζηλώσωµεν, καὶ δοξάσωµεν τὸν Θεὸν, καθάπερ ἐκεῖνος ἔδωκεν αὐτῷ δόξαν.",
+                            "spanishTranslation": "Por lo tanto, dejando a aquellos, emulemos al patriarca y glorifiquemos a Dios, así como él le dio gloria."
+                          },
+                          {
+                            "lineNumber": [
+                              2758,
+                              2759,
+                              2760
+                            ],
+                            "originalText": "Τί δέ ἐστιν, Ἔδωκεν αὐτῷ δόξαν; Ἐνενόησεν αὐτοῦ τὴν δικαιοσύνην, τὴν ἄπειρον δύναµιν· καὶ τὴν προσήκουσαν περὶ αὐτοῦ ἔννοιαν λαβὼν, οὕτως ἐπληροφορήθη περὶ τῶν ὑποσχέσεων.",
+                            "spanishTranslation": "¿Y qué significa: \"Le dio gloria\"? Comprendió su justicia, su poder infinito; y habiendo concebido la idea apropiada acerca de Él, así fue plenamente convencido de las promesas."
+                          },
+                          {
+                            "lineNumber": [
+                              2761,
+                              2762
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita \"Τοὺς δοξάζοντας γάρ µε δοξάσω\" se encuentra en 1 Samuel 2:30 (Septuaginta)."
+                            },
+                            "originalText": "∆οξάσωµεν τοίνυν αὐτὸν καὶ ἡµεῖς καὶ διὰ πίστεως καὶ διὰ ἔργων, ἵνα καὶ µισθὸν λάβωµεν τὸ παρ' αὐτοῦ δοξασθῆναι· Τοὺς δοξάζοντας γάρ µε δοξάσω, φησί.",
+                            "spanishTranslation": "Glorifiquémosle, pues, también nosotros, tanto por la fe como por las obras, para que también recibamos la recompensa de ser glorificados por Él; porque \"Yo honraré a los que me honran\", dice."
+                          },
+                          {
+                            "lineNumber": [
+                              2763
+                            ],
+                            "originalText": "Καίτοι εἰ καὶ µηδεὶς ἔκειτο µισθὸς, αὐτὸ τοῦτο δόξα ἦν τὸ καταξιωθῆναι δοξάσαι Θεόν.",
+                            "spanishTranslation": "Y sin embargo, aunque no hubiera recompensa alguna, esto mismo era gloria: ser considerado digno de glorificar a Dios."
+                          },
+                          {
+                            "lineNumber": [
+                              2764,
+                              2765
+                            ],
+                            "originalText": "Εἰ γὰρ εἰς βασιλέας εὐφηµίας λέγοντες ἄνθρωποι, αὐτῷ τούτῳ καλλωπίζονται µόνῳ, κἂν µηδὲν ᾖ καρπώσασθαι ἕτερον· ἐννόησον πόσης ἂν εἴη δόξης τὸ δι' ἡµᾶς τὸν ∆εσπότην δοξάζεσθαι τὸν ἡµέτερον, ὥσπερ οὖν καὶ κολάσεως τὸ ποιεῖν αὐτὸν βλασφηµεῖσθαι δι' ἡµᾶς·",
+                            "spanishTranslation": "Porque si los hombres, al pronunciar elogios a los reyes, se enorgullecen solo de esto, aunque no obtengan ningún otro fruto; considera de cuánta gloria sería que el Señor nuestro sea glorificado por medio de nosotros, así como es también de castigo el hacer que Él sea blasfemado por nosotros."
+                          },
+                          {
+                            "lineNumber": [
+                              2766,
+                              2767
+                            ],
+                            "originalText": "καίτοι καὶ τοῦτο αὐτὸ τὸ δοξάζεσθαι, δι' ἡµᾶς βούλεται γίνεσθαι· αὐτὸς γὰρ οὐ δεῖται τοῦ πράγµατος.",
+                            "spanishTranslation": "Y sin embargo, incluso esto, el ser glorificado, quiere que suceda por nosotros; pues Él no necesita de ello."
+                          },
+                          {
+                            "lineNumber": [
+                              2768,
+                              2769,
+                              2770,
+                              2771
+                            ],
+                            "originalText": "Πόσον γὰρ οἴει τὸ µέσον εἶναι Θεοῦ καὶ ἀνθρώπων; ἆρα ὅσον ἀνθρώπων καὶ σκωλήκων; Ἀλλ' οὐδὲν οὐδέπω εἴρηκα, καὶ τοσοῦτον τὸ µέσον θείς· οὐδὲ γὰρ εἰπεῖν δυνατὸν ὅσον.",
+                            "spanishTranslation": "Porque, ¿cuán grande crees que es la distancia entre Dios y los hombres? ¿Acaso tanta como entre hombres y gusanos? Pero aún no he dicho nada, y he puesto tanta distancia; pues ni siquiera es posible decir cuán grande es."
+                          },
+                          {
+                            "lineNumber": [
+                              2772,
+                              2773
+                            ],
+                            "originalText": "Ἆρ' οὖν θελήσεις σὺ παρὰ σκώληξιν δόξαν ἔχειν µεγάλην καὶ λαµπράν; Οὐδαµῶς.",
+                            "spanishTranslation": "¿Querrías tú, acaso, tener gran y resplandeciente gloria entre gusanos? De ninguna manera."
+                          },
+                          {
+                            "lineNumber": [
+                              2774,
+                              2775,
+                              2776
+                            ],
+                            "originalText": "Εἰ τοίνυν ὁ δόξης ἐρῶν σὺ οὐκ ἂν θελήσαις τοῦτο· ὁ τοῦ πάθους ἀπηλλαγµένος τούτου, καὶ τοσοῦτον ἀνώτερος ὢν, πῶς ἂν ἐδεήθη τῆς παρὰ σοῦ δόξης; Ἀλλ' ὅµως καὶ µὴ δεόµενος, φησὶν αὐτῆς ἐφίεσθαι διὰ σέ.",
+                            "spanishTranslation": "Si, pues, tú, que amas la gloria, no querrías esto; ¿cómo el que está libre de esta pasión, y siendo tan superior, habría necesitado la gloria de tu parte? Sin embargo, aun no necesitándola, dice que la anhela por ti."
+                          },
+                          {
+                            "lineNumber": [
+                              2777
+                            ],
+                            "originalText": "Εἰ γὰρ γενέσθαι δοῦλος ὑπέµεινε διὰ σὲ, τί θαυµάζεις, εἰ καὶ τῶν ἄλλων ἀντέχεται τῆς αὐτῆς ἕνεκεν ὑποθέσεως;",
+                            "spanishTranslation": "Porque si Él soportó hacerse siervo por ti, ¿qué te asombra si también se aferra a las demás cosas por la misma razón?"
+                          },
+                          {
+                            "lineNumber": [
+                              2778
+                            ],
+                            "originalText": "Οὐδὲν γὰρ ἡγεῖται ἀνάξιον ἑαυτοῦ, ὅπερ ἂν πρὸς τὴν σωτηρίαν φέρῃ τὴν ἡµετέραν.",
+                            "spanishTranslation": "Porque nada considera indigno de sí, lo quequiera que conduzca a nuestra salvación."
+                          },
+                          {
+                            "lineNumber": [
+                              2779
+                            ],
+                            "originalText": "Ταῦτα οὖν εἰδότες, φεύγωµεν ἁµαρτίαν πᾶσαν, δι' ἧς αὐτὸς βλασφηµεῖται.",
+                            "spanishTranslation": "Sabiendo, pues, esto, huyamos de todo pecado, por el cual Él es blasfemado."
+                          },
+                          {
+                            "lineNumber": [
+                              2780,
+                              2781
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta frase es una alusión a Eclesiástico/Sirácides 21:2."
+                            },
+                            "originalText": "Ὡς γὰρ ἀπὸ προσώπου ὄφεως, φησὶ, φεῦγε ἀπὸ ἁµαρτίας. Ἐὰν προσέλθῃς πρὸς αὐτὴν, δήξεταί σε·",
+                            "spanishTranslation": "Porque, como de la faz de una serpiente, dice, huye del pecado. Si te acercas a ella, te morderá;"
+                          },
+                          {
+                            "lineNumber": [
+                              2782
+                            ],
+                            "originalText": "οὐδὲ γὰρ αὐτὴ πρὸς ἡµᾶς ἔρχεται, ἀλλ' ἡµεῖς πρὸς αὐτὴν αὐτοµολοῦµεν.",
+                            "spanishTranslation": "pues ella misma no viene a nosotros, sino que nosotros desertamos hacia ella."
+                          },
+                          {
+                            "lineNumber": [
+                              2783,
+                              2784
+                            ],
+                            "originalText": "Ὁ γὰρ Θεὸς καὶ τοῦτο κατεσκεύασεν ὥστε µὴ τυραννίδι περιγίνεσθαι τὸν διάβολον· ἦ γὰρ ἂν οὐδεὶς ἔστη πρὸς τὴν ἰσχὺν ἐκείνου.",
+                            "spanishTranslation": "Porque Dios también dispuso esto para que el diablo no prevaleciera por tiranía; pues de lo contrario, nadie podría resistir su fuerza."
+                          },
+                          {
+                            "lineNumber": [
+                              2785,
+                              2786,
+                              2787,
+                              2788
+                            ],
+                            "originalText": "∆ιὰ τοῦτο αὐτὸν ἀπῴκισεν ὥσπερ λῃστήν τινα καὶ τύραννον· κἂν µή τινα λάβῃ γυµνὸν καὶ ἔρηµον εἰς τὰς αὐτοῦ καταδύσεις, οὐ τολµᾷ ἐπελθεῖν· ἂν µὴ τὴν ἔρηµον ὁδεύοντας ἡµᾶς ἴδῃ, οὐ θαῤῥεῖ προσελθεῖν· ἔρηµος δὲ καὶ διαβόλου τόπος οὐδὲν ἕτερον ἢ ἡ ἁµαρτία.",
+                            "spanishTranslation": "Por eso lo desterró como a un ladrón y tirano; y si no encuentra a alguien desnudo y desprovisto en sus escondites, no se atreve a atacarlo; si no nos ve deambulando por el desierto, no se atreve a acercarse; y el desierto y el lugar del diablo no es otra cosa que el pecado."
+                          },
+                          {
+                            "lineNumber": [
+                              2789,
+                              2790,
+                              2791
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencias a la armadura de Dios (Efesios 6:10-17) y al aplastamiento de Satanás (Romanos 16:20)."
+                            },
+                            "originalText": "∆εῖ τοίνυν ἡµῖν τοῦ θυρεοῦ τῆς πίστεως, τῆς περικεφαλαίας τοῦ σωτηρίου, τῆς µαχαίρας τοῦ πνεύµατος· οὐχ ἵνα µὴ πάθωµεν µόνον κακῶς, ἀλλ' ἵνα, κἂν ἐπιπηδῆσαι θελήσῃ, τὴν κεφαλὴν ἀποτέµωµεν ἐκείνου· δεῖ συνεχῶν ἡµῖν εὐχῶν, ἵνα συντριβῇ ὑπὸ τοὺς πόδας ἡµῶν.",
+                            "spanishTranslation": "Necesitamos, pues, el escudo de la fe, el yelmo de la salvación, la espada del Espíritu; no solo para no sufrir mal, sino para que, si él quiere saltar sobre nosotros, le cortemos la cabeza; necesitamos oraciones continuas para que sea aplastado bajo nuestros pies."
+                          },
+                          {
+                            "lineNumber": [
+                              2792,
+                              2793,
+                              2794,
+                              2795,
+                              2796,
+                              2797
+                            ],
+                            "originalText": "Ἀναίσχυντος γάρ ἐστι καὶ µιαρὸς, καὶ ταῦτα κάτωθεν µαχόµενος· ἀλλ' ὅµως καὶ οὕτω νικᾷ. Τὸ δὲ αἴτιον, ὅτι οὐ σπουδάζοµεν ἡµεῖς ὑψηλότεροι τῶν ἐκείνου γενέσθαι πληγῶν· οὐδὲ γὰρ οἷός τέ ἐστιν ἐπαρθῆναι µέγα, ἀλλὰ κάτω σύρεται. Καὶ τούτου τύπος ὁ ὄφις. Εἰ δὲ ἐξ ἀρχῆς οὕτως αὐτὸν ἔταξεν ὁ Θεὸς, πολλῷ µᾶλλον νῦν.",
+                            "spanishTranslation": "Porque es desvergonzado y abyecto, y lucha desde abajo; pero aun así, de esta manera vence. Y la razón es que nosotros no nos esforzamos por elevarnos por encima de sus golpes; pues no es capaz de levantarse mucho, sino que se arrastra por abajo. Y de esto es tipo la serpiente. Y si Dios lo dispuso así desde el principio, mucho más ahora."
+                          },
+                          {
+                            "lineNumber": [
+                              2798,
+                              2799,
+                              2800,
+                              2801
+                            ],
+                            "originalText": "Εἰ δὲ ἀγνοεῖς τί ποτέ ἐστι τὸ κάτωθεν µάχεσθαι, ἐγώ σοι καὶ ἑρµηνεῦσαι τοῦ πολέµου τούτου τὸν τρόπον πειράσοµαι. Τί ποτ' οὖν ἐστι τὸ κάτωθεν µάχεσθαι; Τὸ ἀπὸ τῶν κάτω πυκτεύειν πραγµάτων, ἀπὸ τῆς ἡδονῆς, ἀπὸ τοῦ πλούτου, ἀπὸ τῶν βιωτικῶν ἁπάντων.",
+                            "spanishTranslation": "Y si ignoras qué significa 'luchar desde abajo', intentaré explicarte el modo de esta guerra. ¿Qué es, entonces, luchar desde abajo? Es pugnar desde las cosas de abajo: desde el placer, desde la riqueza, desde todas las cosas mundanas."
+                          },
+                          {
+                            "lineNumber": [
+                              2802,
+                              2803
+                            ],
+                            "originalText": "∆ιὰ τοῦτο, ἂν ἴδῃ τινὰ πρὸς τὸν οὐρανὸν πετόµενον, πρῶτον µὲν οὐδὲ ἐπιπηδῆσαι πρὸς αὐτὸν δυνήσεται· δεύτερον δὲ, κἂν ἐπιχειρήσῃ, ταχέως πεσεῖται·",
+                            "spanishTranslation": "Por esta razón, si ve a alguien volando hacia el cielo, primero, ni siquiera podrá saltar sobre él; y segundo, si lo intenta, caerá rápidamente;"
+                          },
+                          {
+                            "lineNumber": [
+                              2804,
+                              2805,
+                              2806
+                            ],
+                            "originalText": "οὐ γὰρ ἔχει πόδας, µὴ φοβηθῇς· οὐκ ἔχει πτερὰ, µὴ δείσῃς· ἐπὶ τῆς γῆς σύρεται, καὶ τοῖς ἐν τῇ γῇ πράγµασι.",
+                            "spanishTranslation": "pues no tiene pies, no temas; no tiene alas, no te asustes; se arrastra por la tierra y por las cosas que están en la tierra."
+                          },
+                          {
+                            "lineNumber": [
+                              2807
+                            ],
+                            "originalText": "Μηδὲν οὖν σοι πρὸς τὴν γῆν ἔστω κοινὸν, καὶ οὐδὲ πόνου δεήσει.",
+                            "spanishTranslation": "Que nada, pues, tengas en común con la tierra, y ni siquiera necesitarás esfuerzo."
+                          },
+                          {
+                            "lineNumber": [
+                              2808
+                            ],
+                            "originalText": "Οὐδὲ γὰρ οἶδε τὴν ἐξ ἐναντίας µάχην, ἀλλ' ὥσπερ ὄφις ταῖς ἀκάνθαις ἐγκρύπτεται τῇ ἀπάτῃ τοῦ πλούτου συνεχῶς ἐµφωλεύων.",
+                            "spanishTranslation": "Porque tampoco conoce la lucha de frente, sino que, como una serpiente, se esconde entre las espinas, anidando continuamente en el engaño de la riqueza."
+                          },
+                          {
+                            "lineNumber": [
+                              2809
+                            ],
+                            "originalText": "Κἂν ἐκτέµῃς τὰς ἀκάνθας, φεύξεται ῥᾳδίως δειλὸς γενόµενος, κἂν ἐπᾴδειν εἰδῇς αὐτῷ τὰς θείας ἐπῳδὰς, τρωθήσεται εὐθέως.",
+                            "spanishTranslation": "Y si cortas las espinas, huirá fácilmente, volviéndose cobarde, y si sabes conjurarle con los encantamientos divinos, será herido al instante."
+                          },
+                          {
+                            "lineNumber": [
+                              2810
+                            ],
+                            "originalText": "Εἰσὶ γὰρ ἡµῖν, εἰσὶν ἐπῳδαὶ πνευµατικαὶ, τὸ ὄνοµα τοῦ Κυρίου ἡµῶν Ἰησοῦ Χριστοῦ, καὶ ἡ τοῦ σταυροῦ δύναµις.",
+                            "spanishTranslation": "Porque tenemos, sí tenemos, encantamientos espirituales: el nombre de nuestro Señor Jesucristo y el poder de la cruz."
+                          },
+                          {
+                            "lineNumber": [
+                              2811
+                            ],
+                            "originalText": "Αὕτη ἡ ἐπῳδὴ οὐχὶ τῶν χηραµῶν ἐξάγει µόνον, καὶ εἰς πῦρ ἐµβάλλει τὸν δράκοντα, ἀλλὰ καὶ τραύµατα ἰᾶται.",
+                            "spanishTranslation": "Este encantamiento no solo saca al dragón de las grietas y lo arroja al fuego, sino que también sana heridas."
+                          },
+                          {
+                            "lineNumber": [
+                              2812
+                            ],
+                            "originalText": "Εἰ δὲ καὶ πολλοὶ λέγοντες οὐκ ἰάθησαν, παρὰ τὴν αὐτῶν ὀλιγοπιστίαν, οὐ παρὰ τὴν ἀσθένειαν τοῦ λεχθέντος·",
+                            "spanishTranslation": "Y si muchos que lo decían no fueron sanados, fue por su poca fe, no por la debilidad de lo dicho;"
+                          },
+                          {
+                            "lineNumber": [
+                              2813,
+                              2814
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a la historia de la mujer con flujo de sangre que toca el manto de Jesús (Marcos 5:25-34, Mateo 9:20-22, Lucas 8:43-48)."
+                            },
+                            "originalText": "ἐπεὶ καὶ τὸν Ἰησοῦν οἱ µὲν ὤθουν καὶ ἔθλιβον, καὶ οὐδὲν ἐκέρδαινον· ἡ δὲ αἱµοῤῥοοῦσα οὐδὲ τοῦ σώµατος ἁψαµένη, ἀλλ' αὐτοῦ τοῦ κρασπέδου µόνον, χρονίους ἔστησεν αἱµάτων πηγάς.",
+                            "spanishTranslation": "puesto que a Jesús unos lo empujaban y oprimían, y nada ganaban; mientras que la mujer con flujo de sangre, sin tocar ni siquiera su cuerpo, sino solo el borde de su manto, detuvo crónicas fuentes de sangre."
+                          },
+                          {
+                            "lineNumber": [
+                              2815
+                            ],
+                            "originalText": "Τοῦτο τὸ ὄνοµα καὶ δαίµοσι φοβερὸν καὶ πάθεσι καὶ νοσήµασι.",
+                            "spanishTranslation": "Este nombre es temible para los demonios, las pasiones y las enfermedades."
+                          },
+                          {
+                            "lineNumber": [
+                              2816
+                            ],
+                            "originalText": "Τούτῳ τοίνυν καλλωπιζώµεθα, τούτῳ τειχίζωµεν ἑαυτούς.",
+                            "spanishTranslation": "Con esto, pues, adornémonos, con esto fortifiquemos nosotros mismos."
+                          },
+                          {
+                            "lineNumber": [
+                              2817
+                            ],
+                            "notes": {
+                              "notesBiblical": "Alusión a los milagros de Pablo a través de sus pañuelos o delantales (Hechos 19:11-12)."
+                            },
+                            "originalText": "Οὕτω καὶ ὁ Παῦλος ἐγένετο µέγας, καίτοι τῆς αὐτῆς φύσεως ἡµῖν κἀκεῖνος ἦν, ἀλλ' ἡ πίστις αὐτὸν ἄλλον ἀντ' ἄλλου πεποίηκε, καὶ τοσαύτη ἦν ἡ περιουσία, ὡς καὶ τὰ ἱµάτια αὐτοῦ πολλὴν ἔχειν ἰσχύν.",
+                            "spanishTranslation": "Así también Pablo se hizo grande, aunque él también era de la misma naturaleza que nosotros, pero la fe lo hizo diferente, y tan grande era su abundancia que incluso sus vestiduras tenían mucho poder."
+                          },
+                          {
+                            "lineNumber": [
+                              2818,
+                              2819,
+                              2820,
+                              2821,
+                              2822,
+                              2823
+                            ],
+                            "originalText": "Ποίας οὖν ἂν εἴηµεν ἀπολογίας ἄξιοι, εἴ γε ἐκείνων µὲν καὶ αἱ σκιαὶ καὶ τὰ ἱµάτια θάνατον ἤλαυνον, ἡµῶν δὲ οὐδὲ αἱ εὐχαὶ τὰ πάθη καταστέλλουσι; Τί οὖν τὸ αἴτιον; Πολλὴ τῆς γνώµης ἡ διαφορά· ὡς τά γε τῆς φύσεως ἴσα καὶ κοινά· καὶ γὰρ ὁµοίως ἡµῖν καὶ ἐτέχθη καὶ ἐτράφη, καὶ τὴν γῆν ᾤκησε, καὶ ἀέρα ἀνέπνευσεν· ἀλλὰ τὰ ἄλλα πολὺ µείζων ἡµῶν ἦν καὶ βελτίων, τὸν ζῆλον, τὴν πίστιν, τὴν ἀγάπην.",
+                            "spanishTranslation": "¿De qué defensa seríamos dignos, si las sombras y las vestiduras de aquellos expulsaban la muerte, mientras que nuestras oraciones ni siquiera aplacan las pasiones? ¿Cuál es, entonces, la causa? Una gran diferencia de disposición; ya que las cosas de la naturaleza son iguales y comunes; pues nació y fue nutrido de la misma manera que nosotros, y habitó la tierra, y respiró el aire; pero en lo demás era mucho mayor y mejor que nosotros, en celo, en fe, en amor."
+                          },
+                          {
+                            "lineNumber": [
+                              2824
+                            ],
+                            "originalText": "Μιµησώµεθα τοίνυν αὐτὸν, δῶµεν καὶ δι' ἡµῶν φθέγξασθαι τῷ Χριστῷ·",
+                            "spanishTranslation": "Imitémosle, pues, y permitamos que Cristo hable también por medio de nosotros;"
+                          },
+                          {
+                            "lineNumber": [
+                              2825,
+                              2826
+                            ],
+                            "originalText": "ἐπιθυµεῖ µᾶλλον τοῦτο ἡµῶν αὐτὸς, καὶ διὰ τοῦτο τὸ ὄργανον κατεσκεύασε τοῦτο, καὶ οὐ θέλει µένειν ἄχρηστον αὐτὸ καὶ ἀργὸν, ἀλλ' ἀεὶ µετὰ χεῖρας ἔχειν αὐτὸ βούλεται.",
+                            "spanishTranslation": "Él mismo desea esto más de nosotros, y por esto preparó este instrumento, y no quiere que permanezca inútil y ocioso, sino que siempre quiere tenerlo en sus manos."
+                          },
+                          {
+                            "lineNumber": [
+                              2827
+                            ],
+                            "originalText": "Τί τοίνυν οὐ παρασκευάζεις ἕτοιµον αὐτὸ τῇ τοῦ τεχνίτου χειρὶ, ἀλλὰ χαλᾷς τὰς νευρὰς, καὶ µαλακωτέρας ποιεῖς τῇ τρυφῇ, καὶ ἄχρηστον ὅλην κατασκευάζεις αὐτῷ τὴν κιθάραν, δέον ἐπισφίγγειν καὶ νευροῦν τὰ µέλη, καὶ ἐπιστύφειν τῷ ἅλατι τῷ πνευµατικῷ;",
+                            "spanishTranslation": "¿Por qué, entonces, no lo preparas listo para la mano del artesano, sino que aflojas las cuerdas y las vuelves más suaves con el lujo, y le dejas la lira completamente inútil, cuando es necesario tensar y fortalecer los miembros, y astringirlos con la sal espiritual?"
+                          },
+                          {
+                            "lineNumber": [
+                              2828
+                            ],
+                            "originalText": "Ἂν γὰρ οὕτως ἡρµοσµένην αὐτὴν ἴδῃ, ἠχήσει καὶ διὰ τῆς ἡµετέρας ψυχῆς ὁ Χριστός.",
+                            "spanishTranslation": "Porque si la ve así armonizada, Cristo resonará también a través de nuestra alma."
+                          },
+                          {
+                            "lineNumber": [
+                              2829
+                            ],
+                            "originalText": "Τοιούτου δὲ γενοµένου, καὶ ἀγγέλους ὄψει σκιρτῶντας καὶ ἀρχαγγέλους καὶ τὰ Χερουβίµ.",
+                            "spanishTranslation": "Y si esto sucede, verás a ángeles saltando, y a arcángeles y a los querubines."
+                          },
+                          {
+                            "lineNumber": [
+                              2830,
+                              2831,
+                              2832,
+                              2833
+                            ],
+                            "originalText": "Γενώµεθα τοίνυν ἄξιοι τῶν χειρῶν τῶν ἀµώµων· παρακαλέσωµεν αὐτὸν καὶ εἰς τὴν ἡµετέραν κροῦσαι καρδίαν· µᾶλλον δὲ οὐδὲ παρακλήσεως δεῖται· µόνον ἀξίαν αὐτὴν κατασκεύασον τῆς ἁφῆς ἐκείνης, καὶ αὐτὸς ἐπιδραµεῖταί σοι πρότερος.",
+                            "spanishTranslation": "Seamos, pues, dignos de las manos inmaculadas; supliquémosle que toque también nuestro corazón; o mejor dicho, ni siquiera necesita súplica; solo hazlo digno de aquel toque, y Él mismo se apresurará a ti primero."
+                          },
+                          {
+                            "lineNumber": [
+                              2834
+                            ],
+                            "originalText": "Εἰ γὰρ ὑπὲρ τῶν µελλόντων ἐπιτρέχει (οὔπω γὰρ τῷ Παύλῳ τοιούτῳ γεγενηµένῳ τὸ ἐγκώµιον ὕφανεν), ὅταν ἀπηρτισµένον ἴδῃ, τί οὐκ ἐργάσεται;",
+                            "spanishTranslation": "Porque si Él se anticipa por lo que está por venir (pues todavía no había tejido el elogio para Pablo siendo tal), cuando vea algo perfeccionado, ¿qué no hará?"
+                          },
+                          {
+                            "lineNumber": [
+                              2835
+                            ],
+                            "originalText": "Ἂν δὲ Χριστὸς ἠχήσῃ, καὶ τὸ Πνεῦµα ἐπιπτήσεται πάντως, καὶ ἐσόµεθα τοῦ οὐρανοῦ βελτίους, οὐχ ἥλιον ἔχοντες ἐνεστιγµένον τῷ σώµατι καὶ σελήνην, ἀλλὰ τὸν ἡλίου καὶ σελήνης καὶ ἀγγέλων ∆εσπότην ἐνοικοῦντα καὶ ἐµπεριπατοῦντα ἡµῖν.",
+                            "spanishTranslation": "Y si Cristo resuena, el Espíritu ciertamente se posará sobre nosotros, y seremos mejores que el cielo, no teniendo el sol grabado en el cuerpo ni la luna, sino al Señor del sol, de la luna y de los ángeles morando y caminando en nosotros."
+                          },
+                          {
+                            "lineNumber": [
+                              2836
+                            ],
+                            "originalText": "Ταῦτα δὲ λέγω, οὐχ ἵνα νεκροὺς ἀναστήσωµεν, οὐδὲ λεπροὺς ἵνα καθάρωµεν, ἀλλ' ἵνα τὸ πάντων τούτων σηµεῖον µεῖζον ἐπιδειξώµεθα, τὴν ἀγάπην.",
+                            "spanishTranslation": "Y digo esto, no para que resucitemos muertos, ni para que limpiemos leprosos, sino para que mostremos la señal mayor de todas estas cosas: el amor."
+                          },
+                          {
+                            "lineNumber": [
+                              2837
+                            ],
+                            "originalText": "Ὅπου γὰρ ἂν ᾖ τοῦτο τὸ καλὸν, εὐθέως καὶ ὁ Υἱὸς ἐφίσταται µετὰ τοῦ Πατρὸς, καὶ ἡ τοῦ Πνεύµατος ἐπιφοιτᾷ χάρις.",
+                            "spanishTranslation": "Porque dondequiera que esté este bien, inmediatamente el Hijo se presenta con el Padre, y la gracia del Espíritu viene."
+                          },
+                          {
+                            "lineNumber": [
+                              2838
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Mateo 18:20."
+                            },
+                            "originalText": "Οὗ γὰρ ἐὰν ὦσι, φησὶ, δύο ἢ τρεῖς συνηγµένοι εἰς τὸ ἐµὸν ὄνοµα, ἐκεῖ εἰµι ἐν µέσῳ αὐτῶν.",
+                            "spanishTranslation": "Porque donde estén, dice, dos o tres congregados en mi nombre, allí estoy yo en medio de ellos."
+                          },
+                          {
+                            "lineNumber": [
+                              2839
+                            ],
+                            "originalText": "Ὃ πολλῆς διαθέσεώς ἐστι καὶ τῶν σφόδρα φιλούντων, τοὺς φιλουµένους ἑκατέρωθεν ἔχειν.",
+                            "spanishTranslation": "Lo cual es de una gran disposición y de quienes aman intensamente, el tener a los amados por ambos lados."
+                          },
+                          {
+                            "lineNumber": [
+                              2840,
+                              2841
+                            ],
+                            "originalText": "Καὶ τίς οὕτως ἄθλιος, φησὶν, ὡς µὴ βούλεσθαι τὸν Χριστὸν ἔχειν µέσον; Ἡµεῖς οἱ πρὸς ἀλλήλους στασιάζοντες.",
+                            "spanishTranslation": "¿Y quién es tan miserable, dice, como para no querer tener a Cristo en medio? Nosotros, los que estamos en disensión unos con otros."
+                          },
+                          {
+                            "lineNumber": [
+                              2842,
+                              2843
+                            ],
+                            "originalText": "Καὶ τάχα µου καταγελάσεταί τις καὶ ἐρεῖ, Τί λέγεις; ὁρᾷς πάντας ἡµᾶς ὑπὸ τοῖς αὐτοῖς τείχεσιν ὄντας, ὑπὸ τὸν αὐτὸν τῆς ἐκκλησίας σηκὸν, ὑπὸ τὴν αὐτὴν µάνδραν µεθ' ὁµονοίας ἑστῶτας, οὐδένα µαχόµενον, ὑπὸ τῷ αὐτῷ ποιµένι κοινῇ βοῶντας, κοινῇ τῶν λεγοµένων ἀκροωµένους, κοινῇ τὰς εὐχὰς ἀναπέµποντας, καὶ µάχης µέµνησαι καὶ στάσεως;",
+                            "spanishTranslation": "Y quizás alguien se reirá de mí y dirá: \"¿Qué dices? ¿Ves que todos estamos bajo los mismos muros, bajo el mismo recinto de la iglesia, bajo el mismo rebaño, de pie en armonía, nadie luchando, clamando juntos bajo el mismo pastor, escuchando juntos lo que se dice, elevando juntos las oraciones, y tú te acuerdas de la lucha y la disensión?\""
+                          },
+                          {
+                            "lineNumber": [
+                              2844,
+                              2845,
+                              2846
+                            ],
+                            "originalText": "Μάχης µέµνηµαι, καὶ οὐ µαίνοµαι οὐδὲ ἐξέστηκα. Ὁρῶ µὲν γὰρ ἃ ὁρῶ, καὶ οἶδα ὅτι ὑπὸ τὸν σηκὸν τὸν αὐτόν ἐσµεν καὶ τὸν ποιµένα. ∆ιὰ τοῦτο δὲ µάλιστα θρηνῶ, ὅτι τοσούτων ἡµᾶς συναγόντων πραγµάτων, στασιάζοµεν.",
+                            "spanishTranslation": "Me acuerdo de la lucha, y no estoy loco ni fuera de mí. Pues veo lo que veo, y sé que estamos bajo el mismo recinto y el mismo pastor. Y por esto lamento más, porque, a pesar de tantas cosas que nos unen, estamos en disensión."
+                          },
+                          {
+                            "lineNumber": [
+                              2847,
+                              2848,
+                              2849,
+                              2850,
+                              2851
+                            ],
+                            "originalText": "Καὶ ποίαν στάσιν, φησὶν, εἶδες ἐνταῦθα; Ἐνταῦθα µὲν οὐδεµίαν· ἐπειδὰν δὲ διαλυθῶµεν, ὁ δεῖνα τὸν δεῖνα κατηγορεῖ, ἕτερος ὑβρίζει φανερῶς, ἄλλος βασκαίνει, πλεονεκτεῖ καὶ ἁρπάζει. καὶ βιάζεται ἕτερος, ἄλλος ἐρᾷ κακῶς, ἄλλος µυρίους ῥάπτει δόλους. Καὶ εἰ τὰς ψυχὰς ἡµῶν ἐκκαλύψαι ἐνῆν, τότε ἂν εἴδετε ταῦτα πάντα ἀκριβῶς, καὶ ἔγνωτε ὅτι οὐ µαίνοµαι.",
+                            "spanishTranslation": "¿Y qué disensión, dice, has visto aquí? Aquí, ninguna; pero cuando nos separamos, este acusa a aquel, otro insulta abiertamente, otro envidia, codicia y roba. Y otro usa la violencia, otro ama mal, otro teje innumerables engaños. Y si fuera posible descubrir nuestras almas, entonces veríais todo esto con precisión, y sabríais que no estoy loco."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

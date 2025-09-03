@@ -1,0 +1,874 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Iohannes Chrysostomus",
+      "authorSpanish": "San Juan Cristóstomo",
+      "originalTitle": "In Epistulam ad Romanos",
+      "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 30,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 30,
+                    "chapterSummary": "Homilía 30",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "Jerusalén",
+                              "santos",
+                              "servicio"
+                            ],
+                            "lineNumber": [
+                              10382
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Romanos 15:25, donde Pablo habla de su viaje a Jerusalén para llevar una colecta.",
+                              "notesGreek": "διακονῶν (diakonôn): participio presente activo de διακονέω, 'servir, ministrar'. Subraya la naturaleza de servicio de la misión de Pablo, no solo como mensajero, sino como servidor activo de la comunidad."
+                            },
+                            "originalText": "Νυνὶ δὲ πορεύοµαι εἰς Ἱερουσαλὴµ, διακονῶν τοῖς ἁγίοις.",
+                            "spanishTranslation": "Ahora bien, me dirijo a Jerusalén, sirviendo a los santos."
+                          },
+                          {
+                            "keywords": [
+                              "Macedonia",
+                              "Acaya",
+                              "contribución",
+                              "pobres",
+                              "santos",
+                              "Jerusalén"
+                            ],
+                            "lineNumber": [
+                              10383
+                            ],
+                            "notes": {
+                              "notesBiblical": "Continúa el tema de la colecta para los santos en Jerusalén, mencionado en Romanos 15:26. Destaca la interdependencia y caridad entre las iglesias, donde las comunidades gentiles apoyan a la iglesia madre.",
+                              "notesGreek": "κοινωνίαν (koinōnian): 'comunión, participación, contribución'. Aquí se refiere a una ayuda material, reflejando la solidaridad y el compartir de recursos entre las comunidades cristianas, un acto de comunión práctica."
+                            },
+                            "originalText": "Εὐδόκησαν γὰρ Μακεδονία καὶ Ἀχαΐα κοινωνίαν τινὰ ποιήσασθαι εἰς τοὺς πτωχοὺς τῶν ἁγίων τῶν ἐν Ἱερουσαλήµ.",
+                            "spanishTranslation": "Porque Macedonia y Acaya tuvieron a bien hacer una cierta contribución para los pobres entre los santos que están en Jerusalén."
+                          },
+                          {
+                            "keywords": [
+                              "deudores",
+                              "gracia",
+                              "obligación"
+                            ],
+                            "lineNumber": [
+                              10384
+                            ],
+                            "notes": {
+                              "notesBiblical": "Alusión a Romanos 15:27, donde Pablo explica la lógica teológica detrás de la colecta: si los gentiles han participado de los bienes espirituales de los judíos (recibiendo el Evangelio de Jerusalén), es justo y una obligación de su parte que les sirvan también en los bienes materiales.",
+                              "notesGeneral": "Crisóstomo enfatiza aquí no solo la buena voluntad ('les plugo') de Macedonia y Acaya, sino también su obligación moral y espiritual ('son deudores de ellos'), al haber recibido los beneficios espirituales del Evangelio que provino de Jerusalén, la cuna del cristianismo."
+                            },
+                            "originalText": "Εὐ δόκησαν γὰρ, καὶ ὀφειλέται αὐτῶν εἰσιν.",
+                            "spanishTranslation": "Porque les plugo, y son deudores de ellos."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 30,
+                    "chapterSummary": "Cristóstomo comenta sobre Romanos 15:23-30, enfocándose en la explicación de Pablo sobre su viaje a Jerusalén para llevar una ofrenda, su deseo de visitar Roma y luego España, y la importancia de la caridad y la interconexión entre las comunidades cristianas.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "introducción",
+                              "Pablo",
+                              "demora",
+                              "regiones"
+                            ],
+                            "lineNumber": [
+                              10385,
+                              10386
+                            ],
+                            "notes": {
+                              "notesGeneral": "El marcado 'αʹ.' (1º) indica el inicio de un nuevo punto o subsección en la homilía. Las palabras de Pablo citadas son de Romanos 15:23."
+                            },
+                            "originalText": "αʹ. Ἐπειδὴ εἶπεν, ὅτι Τόπον οὐκ ἔτι ἔχω ἐν τοῖς κλίµασι τούτοις, καὶ ἐπιποθίαν ἔχω ἐκ πολλῶν ἐτῶν ἐλθεῖν πρὸς ὑµᾶς, ἔµελλε δὲ ἔτι βραδύνειν·",
+                            "spanishTranslation": "Dado que dijo: 'Ya no tengo más lugar en estas regiones' y 'He deseado por muchos años ir a vosotros', y estaba a punto de demorarse aún más;"
+                          },
+                          {
+                            "keywords": [
+                              "razón",
+                              "demora",
+                              "Jerusalén"
+                            ],
+                            "lineNumber": [
+                              10387
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita 'Voy a Jerusalén' es de Romanos 15:25."
+                            },
+                            "originalText": "ἵνα µὴ νοµίζηται διαχλευάζειν αὐτοὺς, λέγει καὶ τὴν αἰτίαν, δι' ἣν ἀναβάλλεται τέως, καί φησιν, ὅτι Πορεύοµαι εἰς Ἱεροσόλυµα.",
+                            "spanishTranslation": "Para que no se pensara que se estaba burlando de ellos, dice también la razón por la que por ahora se retrasa, y afirma: 'Voy a Jerusalén'."
+                          },
+                          {
+                            "keywords": [
+                              "excusa",
+                              "caridad",
+                              "diligencia",
+                              "Jerusalén",
+                              "santos",
+                              "servicio"
+                            ],
+                            "lineNumber": [
+                              10388,
+                              10389,
+                              10390,
+                              10391
+                            ],
+                            "notes": {
+                              "notesBiblical": "Las citas de Pablo son de Romanos 15:25 y 15:25 (referencia a servir a los santos)."
+                            },
+                            "originalText": "Καὶ δοκεῖ µὲν τὴν πρόφασιν λέγειν τῆς µελλήσεως, διὰ δὲ τούτων καὶ ἕτερόν τι κατασκευάζει, τὸ προτρέψαι ἐκείνους εἰς ἐλεηµοσύνην, καὶ σπουδαιοτέρους ποιῆσαι· ἐπεὶ εἰ µὴ τοῦτο ἐσπούδαζε κατορθῶσαι, ἤρκει εἰπεῖν, ὅτι Πορεύοµαι εἰς Ἱερουσαλήµ· νυνὶ δὲ καὶ τὴν αἰτίαν προστίθησι τῆς ἀποδηµίας· Πορεύοµαι γὰρ, φησὶ, διακονῶν τοῖς ἁγίοις.",
+                            "spanishTranslation": "Y aunque parece estar dando la excusa de su demora, a través de estas palabras también prepara algo más: exhortarlos a la caridad y hacerlos más diligentes. Porque si no se hubiera esforzado por lograr esto, bastaría con decir: 'Voy a Jerusalén'; pero ahora añade también la razón de su viaje: 'Porque voy', dice, 'sirviendo a los santos'."
+                          },
+                          {
+                            "keywords": [
+                              "deudores",
+                              "gentiles",
+                              "espiritual",
+                              "material",
+                              "ministrar",
+                              "emular"
+                            ],
+                            "lineNumber": [
+                              10392,
+                              10393
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita es de Romanos 15:27.",
+                              "notesGreek": "La palabra griega 'λειτουργῆσαι' (leitourgesai) puede traducirse como 'ministrar' o 'servir', implicando un servicio oficial o religioso."
+                            },
+                            "originalText": "Καὶ ἐνδιατρίβει τῷ λόγῳ, καὶ λογισµοὺς κινεῖ λέγων, ὅτι Ὀφειλέται εἰσὶ, καὶ ὅτι, Εἰ τοῖς πνευµατικοῖς αὐτῶν ἐκοινώνησαν τὰ ἔθνη, ὀφείλουσι καὶ ἐν τοῖς σαρκικοῖς λειτουργῆσαι· ἵνα µάθωσιν ἐκεῖνοι τούτους ζηλοῦν.",
+                            "spanishTranslation": "Y se detiene en la palabra, y mueve la razón diciendo que son deudores, y que, 'si los gentiles participaron en sus bienes espirituales, deben también ministrar a ellos en los materiales'; para que aquellos aprendan a emular a estos."
+                          },
+                          {
+                            "keywords": [
+                              "sabiduría",
+                              "consejo",
+                              "exhortación"
+                            ],
+                            "lineNumber": [
+                              10394,
+                              10395
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "keywords": [
+                              "insulto",
+                              "Corintios",
+                              "Macedonios",
+                              "gracia",
+                              "celo"
+                            ],
+                            "lineNumber": [
+                              10396,
+                              10397,
+                              10398,
+                              10399,
+                              10400
+                            ],
+                            "notes": {
+                              "notesBiblical": "Las citas son de 2 Corintios 8:1 y 2 Corintios 9:2."
+                            },
+                            "originalText": "Καὶ γὰρ ἔδοξαν ἂν ὑβρίζεσθαι, εἰ εἰς προτροπὴν αὐτῶν Κορινθίους παρῆγεν εἰς µέσον καὶ Μακεδόνας. ∆ιὰ δὴ τοῦτο ἐκεῖ ἐκείνους µὲν οὕτω προτρέπει, λέγων· Γνωρίζω δὲ ὑµῖν τὴν χάριν τοῦ Θεοῦ τὴν δεδοµένην ταῖς Ἐκκλησίαις τῆς Μακεδονίας· καὶ Μακεδόνας δὲ διὰ τούτων πάλιν· Ὁ γὰρ ἐξ ὑµῶν ζῆλος ἠρέθισε τοὺς πλείονας.",
+                            "spanishTranslation": "Pues habrían pensado que se les estaba insultando si, para exhortarlos, hubiera traído a colación a los Corintios y a los Macedonios. Por esta razón, allí, exhorta a aquellos de este modo, diciendo: 'Os hago saber la gracia de Dios que se ha concedido a las iglesias de Macedonia'; y a los macedonios, a su vez, por medio de estos: 'Porque vuestro celo ha estimulado a la mayoría'."
+                          },
+                          {
+                            "keywords": [
+                              "Gálatas",
+                              "iglesias",
+                              "discreción",
+                              "Romanos"
+                            ],
+                            "lineNumber": [
+                              10401,
+                              10402,
+                              10403
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita 'Así como ordené...' es de 1 Corintios 16:1."
+                            },
+                            "originalText": "Καὶ διὰ Γαλατῶν δὲ ὁµοίως τοῦτο ποιεῖ, ὡς ὅταν λέγῃ· Ὥσπερ διέταξα ταῖς Ἐκκλησίαις τῆς Γαλατίας, οὕτω καὶ ὑµεῖς ποιήσατε· ἐπὶ δὲ Ῥωµαίων οὐχ οὕτως, ἀλλ' ὑπεσταλµένως µᾶλλον.",
+                            "spanishTranslation": "Y de manera similar lo hace por medio de los Gálatas, como cuando dice: 'Así como ordené a las iglesias de Galacia, así haced también vosotros'; pero con los Romanos no es así, sino más bien con discreción."
+                          },
+                          {
+                            "keywords": [
+                              "predicación",
+                              "palabra de Dios",
+                              "celo",
+                              "poderoso"
+                            ],
+                            "lineNumber": [
+                              10404,
+                              10405,
+                              10406,
+                              10407
+                            ],
+                            "notes": {
+                              "notesBiblical": "Las citas son de 1 Corintios 14:36."
+                            },
+                            "originalText": "Ποιεῖ δὲ αὐτὸ καὶ ἐπὶ τοῦ κηρύγµατος, ὡς ὅταν λέγῃ· Ἢ ἀφ' ὑµῶν ὁ λόγος τοῦ Θεοῦ ἐξῆλθεν; ἢ εἰς ὑµᾶς µόνους κατήντησεν; οὐδὲν γὰρ οὕτως, ὡς ζῆλος, ἰσχυρόν.",
+                            "spanishTranslation": "Y lo hace también con respecto a la predicación, como cuando dice: '¿O salió de vosotros la palabra de Dios? ¿O llegó solo a vosotros?'; porque nada es tan poderoso como el celo."
+                          },
+                          {
+                            "keywords": [
+                              "iglesias",
+                              "evangelio",
+                              "fruto",
+                              "creciendo",
+                              "mundo"
+                            ],
+                            "lineNumber": [
+                              10408,
+                              10409,
+                              10410,
+                              10411
+                            ],
+                            "notes": {
+                              "notesBiblical": "Las citas son de 1 Corintios 7:17, 1 Corintios 4:17 (o una referencia general a la enseñanza paulina) y Colosenses 1:6."
+                            },
+                            "originalText": "∆ιὸ πολλαχοῦ αὐτὸ τίθησι· καὶ γὰρ καὶ ἀλλαχοῦ φησι, Καθὼς ἐν πάσαις ταῖς Ἐκκλησίαις διατάσσοµαι· καὶ πάλιν, Καθὼς πανταχοῦ ἐν πάσῃ Ἐκκλησίᾳ διδάσκω. Καὶ Κολοσσαεῦσι δὲ ἔλεγεν, ὅτι Ἐστὶ καρποφορούµενον καὶ αὐξανόµενον τὸ εὐαγγέλιον τοῦ Θεοῦ ἐν παντὶ κόσµῳ.",
+                            "spanishTranslation": "Por eso lo menciona en muchos lugares; pues también en otra parte dice: 'Así como ordeno en todas las iglesias'; y de nuevo: 'Así como enseño en todas partes, en cada iglesia'. Y a los Colosenses les decía que 'el evangelio de Dios está dando fruto y creciendo en todo el mundo'."
+                          },
+                          {
+                            "keywords": [
+                              "caridad",
+                              "magnífico",
+                              "sirviendo",
+                              "diaconía"
+                            ],
+                            "lineNumber": [
+                              10412,
+                              10413,
+                              10414
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra '∆ιακονῶν' (diakonōn) significa 'sirviendo' o 'ministrando', enfatizando el aspecto de servicio humilde y dedicado."
+                            },
+                            "originalText": "Τοῦτο δὴ καὶ ἐνταῦθα ποιεῖ ἐπὶ τῆς ἐλεηµοσύνης. Καὶ σκόπει πῶς µεγαλοπρεπῶς ταῖς λέξεσι κέχρηται· οὐ γὰρ εἶπε, Πορεύοµαι ἐλεηµοσύνην ἀποφέρων, ἀλλὰ, ∆ιακονῶν.",
+                            "spanishTranslation": "Esto es lo que también hace aquí con respecto a la caridad. Y observa cuán magníficamente utiliza las palabras; pues no dijo: 'Voy llevando caridad', sino: 'Sirviendo'."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "maestro",
+                              "mundo",
+                              "Roma",
+                              "ofrenda",
+                              "preferencia"
+                            ],
+                            "lineNumber": [
+                              10415
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "keywords": [
+                              "Macedonia",
+                              "Acaya",
+                              "comunión",
+                              "caridad"
+                            ],
+                            "lineNumber": [
+                              10416,
+                              10417
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita es de Romanos 15:26.",
+                              "notesGreek": "La palabra 'Κοινωνίαν' (koinonian) significa 'comunión' o 'participación', dándole un sentido más profundo y espiritual que simplemente 'caridad' (ἐλεηµοσύνην)."
+                            },
+                            "originalText": "Ηὐδόκησαν γὰρ Μακεδονία καὶ Ἀχαΐα, τουτέστιν, ἐδοκίµασαν, ἐπεθύµησαν, κοινωνίαν τινά. Πάλιν οὐκ εἶπεν Ἐλεηµοσύνην, ἀλλὰ Κοινωνίαν.",
+                            "spanishTranslation": "Porque Macedonia y Acaya se complacieron, es decir, aprobaron, desearon una cierta comunión. De nuevo no dijo 'caridad', sino 'comunión'."
+                          },
+                          {
+                            "keywords": [
+                              "cierta",
+                              "reproche"
+                            ],
+                            "lineNumber": [
+                              10418
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "keywords": [
+                              "pobres",
+                              "santos",
+                              "virtud",
+                              "pobreza",
+                              "recomendación"
+                            ],
+                            "lineNumber": [
+                              10419,
+                              10420
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita es de Romanos 15:26."
+                            },
+                            "originalText": "Καὶ οὐκ εἶπεν ἁπλῶς, Εἰς τοὺς πτωχοὺς, ἀλλ' Εἰς τοὺς πτωχοὺς τῶν ἁγίων· διπλῆν ποιῶν τὴν σύστασιν, καὶ τὴν ἀπὸ τῆς ἀρετῆς καὶ τὴν ἀπὸ τῆς πενίας.",
+                            "spanishTranslation": "Y no dijo simplemente 'a los pobres', sino 'a los pobres de los santos'; haciendo una doble recomendación, tanto por la virtud como por la pobreza."
+                          },
+                          {
+                            "keywords": [
+                              "deudores",
+                              "cómo"
+                            ],
+                            "lineNumber": [
+                              10421,
+                              10422
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "keywords": [
+                              "gentiles",
+                              "espiritual",
+                              "material",
+                              "ministrar"
+                            ],
+                            "lineNumber": [
+                              10423
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta es una repetición de la cita de Romanos 15:27."
+                            },
+                            "originalText": "Εἰ γὰρ τοῖς πνευµατικοῖς ἐκοινώνησαν αὐτῶν, φησὶ, τὰ ἔθνη, ὀφείλουσι καὶ ἐν τοῖς σαρκικοῖς λειτουργῆσαι αὐτοῖς.",
+                            "spanishTranslation": "Pues si los gentiles, dice, participaron en sus bienes espirituales, deben también ministrarles en los materiales."
+                          },
+                          {
+                            "keywords": [
+                              "Cristo",
+                              "promesas",
+                              "Judea",
+                              "salvación",
+                              "apóstoles",
+                              "profetas",
+                              "mundo"
+                            ],
+                            "lineNumber": [
+                              10424,
+                              10425,
+                              10426,
+                              10427,
+                              10428
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita 'La salvación viene de los judíos' es de Juan 4:22."
+                            },
+                            "originalText": "Ὃ δὲ λέγει, τοῦτό ἐστι· ∆ι' αὐτοὺς ἦλθεν ὁ Χριστὸς, αὐτοῖς ἦν ἅπαντα ἐπηγγελµένα τοῖς ἐξ Ἰουδαίων, ἐξ αὐτῶν ὁ Χριστός· διὸ καὶ ἔλεγεν, Ἐκ τῶν Ἰουδαίων ἐστὶν ἡ σωτηρία· ἐκεῖθεν οἱ ἀπόστολοι, ἐκεῖθεν οἱ προφῆται, ἐκεῖθεν τὰ ἀγαθὰ πάντα. Τούτων οὖν ἁπάντων ἐκοινώνησεν ἡ οἰκουµένη.",
+                            "spanishTranslation": "Y lo que dice es esto: 'Por ellos vino Cristo, a ellos se les había prometido todo a los de Judea, de ellos es Cristo'; por eso también decía: 'La salvación viene de los judíos'; de allí los apóstoles, de allí los profetas, de allí todas las cosas buenas. De todas estas cosas, pues, participó el mundo entero."
+                          },
+                          {
+                            "keywords": [
+                              "participar",
+                              "banquetes",
+                              "evangelio",
+                              "parábola",
+                              "materiales",
+                              "dar"
+                            ],
+                            "lineNumber": [
+                              10429,
+                              10430
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia a los 'banquetes' y la 'parábola del evangelio' alude a parábolas como la del gran banquete (Lucas 14:15-24) o las bodas (Mateo 22:1-14), donde los gentiles son invitados tras el rechazo de los primeros convidados."
+                            },
+                            "originalText": "Εἰ τοίνυν ἐν τοῖς µείζοσιν ἐκοινωνήσατε, φησὶ, καὶ τῶν δείπνων τῶν ἐκείνοις παρεσκευασµένων ὑµεῖς εἰσελθόντες ἀπηλαύσατε τῶν προκειµένων κατὰ τὴν τοῦ εὐαγγελίου παραβολήν· ὀφείλετε καὶ τῶν σαρκικῶν κοινωνῆσαι καὶ µεταδοῦναι αὐτοῖς.",
+                            "spanishTranslation": "Si, pues, participasteis en las cosas mayores, dice, y vosotros, habiendo entrado, disfrutasteis de los banquetes preparados para ellos, de lo que estaba puesto, según la parábola del evangelio; debéis también participar en los bienes materiales y dárselos a ellos."
+                          },
+                          {
+                            "keywords": [
+                              "participar",
+                              "ministrar",
+                              "diáconos",
+                              "tributos",
+                              "reyes"
+                            ],
+                            "lineNumber": [
+                              10431,
+                              10432
+                            ],
+                            "notes": {
+                              "notesLinguistics": "Se subraya la diferencia entre 'κοινωνῆσαι' (participar) y 'λειτουργῆσαι' (ministrar), esta última implicando un servicio más formal y obligado, como el de los diáconos o el pago de tributos."
+                            },
+                            "originalText": "Καὶ οὐκ εἶπε, Κοινωνῆσαι, ἀλλὰ Λειτουργῆσαι· ἐν τάξει διακόνων αὐτοὺς καθιστὰς, καὶ τῶν βασιλεῦσι τελούντων φόρους.",
+                            "spanishTranslation": "Y no dijo 'participar', sino 'ministrar'; poniéndolos en la posición de diáconos, y de quienes pagan tributos a los reyes."
+                          },
+                          {
+                            "keywords": [
+                              "espiritual",
+                              "material",
+                              "común",
+                              "dinero",
+                              "poseedores"
+                            ],
+                            "lineNumber": [
+                              10433,
+                              10434,
+                              10435
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "keywords": [
+                              "cumplir",
+                              "sellar",
+                              "fruto",
+                              "tesoros reales",
+                              "seguro",
+                              "inviolable",
+                              "caridad",
+                              "ganancia"
+                            ],
+                            "lineNumber": [
+                              10436,
+                              10437,
+                              10438,
+                              10439
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra 'σφραγισάµενος' (sphragisamenos) significa 'habiendo sellado', que en este contexto implica asegurar o confirmar el 'fruto' de la ofrenda, como si se depositara en un lugar inviolable.",
+                              "notesLinguistics": "El uso de 'fruto' en lugar de 'caridad' enfatiza la recompensa y el beneficio para quienes dan."
+                            },
+                            "originalText": "Τοῦτο οὖν ἐπιτελέσας, καὶ σφραγισάµενος αὐτοῖς τὸν καρπὸν τοῦτον· τουτέστιν, ὡς εἰς βασιλικὰ ταµιεῖα ἐναποθέµενος, ὡς ἐν ἀσύλῳ καὶ ἀσφαλεῖ χωρίῳ· καὶ οὐκ εἶπεν, Ἐλεηµοσύνην, ἀλλὰ πάλιν, Τὸν καρπόν· δεικνὺς κερδαίνοντας τοὺς παρέχοντας.",
+                            "spanishTranslation": "Habiendo, pues, cumplido esto, y habiéndoles sellado este fruto; es decir, habiéndolo depositado como en tesoros reales, como en un lugar seguro e inviolable; y no dijo 'caridad', sino de nuevo 'el fruto'; mostrando que los que dan, ganan."
+                          },
+                          {
+                            "keywords": [
+                              "España",
+                              "celo",
+                              "fervor",
+                              "incansable"
+                            ],
+                            "lineNumber": [
+                              10440,
+                              10441
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita 'Iré por vosotros a España' es de Romanos 15:28."
+                            },
+                            "originalText": "Ἀπελεύσοµαι δι' ὑµῶν εἰς Σπανίαν. Πάλιν µέµνηται τῆς Σπανίας, δεικνὺς τὸ ἄοκνον καὶ τὸ περὶ ἐκείνους θερµόν.",
+                            "spanishTranslation": "'Iré por vosotros a España'. De nuevo menciona España, mostrando su incansable celo y su fervor por aquellos."
+                          },
+                          {
+                            "keywords": [
+                              "plenitud",
+                              "bendición",
+                              "evangelio",
+                              "Cristo"
+                            ],
+                            "lineNumber": [
+                              10442
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita es de Romanos 15:29."
+                            },
+                            "originalText": "Οἶδα δὲ, ὅτι ἐρχόµενος πρὸς ὑµᾶς, ἐν πληρώµατι εὐλογίας τοῦ εὐαγγελίου τοῦ Χριστοῦ ἐλεύσοµαι.",
+                            "spanishTranslation": "Y sé que cuando vaya a vosotros, iré en la plenitud de la bendición del evangelio de Cristo."
+                          },
+                          {
+                            "keywords": [
+                              "plenitud",
+                              "bendición",
+                              "dinero",
+                              "logros"
+                            ],
+                            "lineNumber": [
+                              10443,
+                              10444
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "keywords": [
+                              "bendición",
+                              "caridad",
+                              "codicia",
+                              "costumbre antigua"
+                            ],
+                            "lineNumber": [
+                              10445,
+                              10446,
+                              10447
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita 'como bendición, y no como codicia' es de 2 Corintios 9:5."
+                            },
+                            "originalText": "Εὐλογίαν γὰρ, ὡς τὰ πολλὰ, τὴν ἐλεηµοσύνην εἴωθε λέγειν· ὡς ὅταν λέγῃ, Ὡς εὐλογίαν, µὴ ὡς πλεονεξίαν· καὶ ἔθος δὲ παλαιὸν οὕτως ἦν καλεῖσθαι τὸ πρᾶγµα.",
+                            "spanishTranslation": "Pues 'bendición', a menudo, suele llamarla 'caridad'; como cuando dice: 'como bendición, y no como codicia'; y era una antigua costumbre llamar así a la cosa."
+                          },
+                          {
+                            "keywords": [
+                              "Evangelio",
+                              "dinero",
+                              "prosperar",
+                              "florecer",
+                              "alabanzas"
+                            ],
+                            "lineNumber": [
+                              10448,
+                              10449
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "keywords": [
+                              "consejo",
+                              "elogios",
+                              "exhortación",
+                              "corrección"
+                            ],
+                            "lineNumber": [
+                              10450,
+                              10451
+                            ],
+                            "notes": {}
+                          },
+                          {
+                            "keywords": [
+                              "ruego",
+                              "Jesucristo",
+                              "amor",
+                              "Espíritu"
+                            ],
+                            "lineNumber": [
+                              10452
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita es de Romanos 15:30."
+                            },
+                            "originalText": "Παρακαλῶ δὲ ὑµᾶς διὰ τοῦ Κυρίου ἡµῶν Ἰησοῦ Χριστοῦ, καὶ διὰ τῆς ἀγάπης τοῦ Πνεύµατος.",
+                            "spanishTranslation": "Pero os ruego, por nuestro Señor Jesucristo, y por el amor del Espíritu."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 30,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              10454
+                            ],
+                            "originalText": "Πάλιν ἐνταῦθα τὸν Χριστὸν καὶ τὸ Πνεῦµα προβάλλεται, καὶ οὐδαµῶς µέµνηται τοῦ Πατρός.",
+                            "spanishTranslation": "De nuevo aquí presenta a Cristo y al Espíritu, y de ninguna manera menciona al Padre."
+                          },
+                          {
+                            "lineNumber": [
+                              10455
+                            ],
+                            "originalText": "Ταῦτα δὲ εἶπον, ἵν' ὅταν ἴδῃς αὐτὸν Πατρὸς καὶ Υἱοῦ µεµνηµένον, ἢ Πατρὸς µόνου, µήτε Υἱὸν µήτε Πνεῦµα ἀθετῇς.",
+                            "spanishTranslation": "Y dije esto, para que cuando lo veas mencionar al Padre y al Hijo, o solo al Padre, no deseches ni al Hijo ni al Espíritu."
+                          },
+                          {
+                            "lineNumber": [
+                              10456
+                            ],
+                            "originalText": "Καὶ οὐκ εἶπε, Πνεύµατος, ἀλλ' Ἀγάπης Πνεύµατος.",
+                            "spanishTranslation": "Y no dijo 'del Espíritu', sino 'del Espíritu de amor'."
+                          },
+                          {
+                            "lineNumber": [
+                              10457
+                            ],
+                            "originalText": "Καθάπερ γὰρ ὁ Χριστὸς ἠγάπησε τὸν κόσµον καὶ ὁ Πατὴρ, οὕτω καὶ τὸ Πνεῦµα.",
+                            "spanishTranslation": "Porque así como Cristo amó al mundo, y el Padre, así también el Espíritu."
+                          },
+                          {
+                            "lineNumber": [
+                              10458,
+                              10459
+                            ],
+                            "originalText": "Τί δέ ἐστιν ὃ παρακαλεῖς, εἰπέ µοι; Συναγωνίσασθαί µοι [[60.663]] ἐν ταῖς προσευχαῖς ὑπὲρ ἐµοῦ πρὸς τὸν Θεὸν, ἵνα ῥυσθῶ ἀπὸ τῶν ἀπειθούντων ἐν τῇ Ἰουδαίᾳ.",
+                            "spanishTranslation": "¿Qué es lo que pides, dime? Que luchen conmigo en las oraciones a Dios por mí, para que sea librado de los desobedientes en Judea. No es una lucha por la violencia, sino por la piedad en la oración. El término 'συναγωνίσασθαί' implica 'luchar juntos', 'colaborar en la lucha'."
+                          },
+                          {
+                            "lineNumber": [
+                              10460,
+                              10461
+                            ],
+                            "originalText": "Μέγας ἄρα ἀγὼν αὐτῷ προὔκειτο· διὸ καὶ τὰς εὐχὰς αὐτῶν καλεῖ.",
+                            "spanishTranslation": "Un gran combate le esperaba, entonces; por eso también apela a sus oraciones."
+                          },
+                          {
+                            "lineNumber": [
+                              10462,
+                              10463
+                            ],
+                            "originalText": "Καὶ οὐκ εἶπεν, Ἵνα συµπλακῶ, ἀλλ' Ἵνα ῥυσθῶ· ὡς ὁ Χριστὸς ἐκέλευσεν, Εὔχεσθε µὴ εἰσελθεῖν εἰς πειρασµόν.",
+                            "spanishTranslation": "Y no dijo: 'para que me enfrente', sino: 'para que sea librado', como Cristo ordenó: 'Orad para no entrar en tentación'. El uso de 'ῥυσθῶ' (ser librado, rescatado) en lugar de 'συµπλακῶ' (luchar, enredarse) resalta la dependencia de la intervención divina. Referencia bíblica: Mateo 26:41; Marcos 14:38; Lucas 22:40, 22:46. "
+                          },
+                          {
+                            "lineNumber": [
+                              10464
+                            ],
+                            "originalText": "Ταῦτα δὲ λέγων, ἐδείκνυ πονηρούς τινας λύκους ἐπιθησοµένους αὐτῷ, καὶ θηρία µᾶλλον ἢ ἄνδρας.",
+                            "spanishTranslation": "Y al decir esto, mostraba que unos lobos malvados se le echarían encima, y más bien bestias que hombres."
+                          },
+                          {
+                            "lineNumber": [
+                              10465
+                            ],
+                            "originalText": "Ἀπὸ δὲ τούτου καὶ ἕτερον παρεσκεύαζε, τὸ δεῖξαι ὅτι δικαίως ἀνεδέξατο τὸ διακονῆσαι τοῖς ἁγίοις, εἴ γε τοσοῦτοι οἱ ἀπειθοῦντες, ὡς καὶ αὐτῶν εὔχεσθαι ῥυσθῆναι.",
+                            "spanishTranslation": "Y con esto preparaba también otra cosa: mostrar que justamente había asumido el servicio a los santos, si es que eran tantos los desobedientes que incluso oraba por ser librado de ellos."
+                          },
+                          {
+                            "lineNumber": [
+                              10466,
+                              10467
+                            ],
+                            "originalText": "Οἱ γὰρ µεταξὺ τοσούτων ὄντες πολεµίων, καὶ λιµῷ ἀπόλλυσθαι ἔµελλον· διὸ ἀναγκαίως ἑτέρωθεν αὐτοῖς ἐκοµίζετο.",
+                            "spanishTranslation": "Porque los que estaban entre tantos enemigos también iban a perecer de hambre; por eso les llegaba [el socorro] necesariamente de otro lugar."
+                          },
+                          {
+                            "lineNumber": [
+                              10468,
+                              10469
+                            ],
+                            "originalText": "Καὶ ἵνα ἡ διακονία µου ἐν Ἱερουσαλὴµ εὐπρόσδεκτος γένηται τοῖς ἁγίοις· τουτέστιν, ἵνα δεκτή µου γένηται ἡ θυσία, ἵνα µετὰ προθυµίας ὑποδέξωνται τὰ διδόµενα.",
+                            "spanishTranslation": "'Y para que mi servicio en Jerusalén sea bien recibido por los santos'; es decir, para que mi ofrenda sea aceptada, para que reciban con buena disposición lo que se les da. Crisóstomo equipara la 'διακονία' (servicio/ministerio) con una 'θυσία' (sacrificio/ofrenda), destacando el valor espiritual del acto de dar ayuda material."
+                          },
+                          {
+                            "lineNumber": [
+                              10470
+                            ],
+                            "originalText": "Ὁρᾷς πῶς πάλιν ἐπῆρε τὸ ἀξίωµα τῶν λαµβανόντων, εἴ γε εὐχῶν δεῖται παρὰ δήµου τοσούτου, εἰς τὸ δεχθῆναι τὰ πεµπόµενα;",
+                            "spanishTranslation": "¿Ves cómo de nuevo realza la dignidad de los que reciben, si es que necesita oraciones de un pueblo tan grande para que lo enviado sea aceptado?"
+                          },
+                          {
+                            "lineNumber": [
+                              10471,
+                              10472
+                            ],
+                            "originalText": "Ἀπὸ δὲ τούτου δείκνυσι καὶ ἕτερόν τι, ὅτι οὐκ ἀρκεῖ τὸ δοῦναι ἐλεηµοσύνην εἰς τὸ δεχθῆναι. Ὅταν γὰρ µετὰ ἀνάγκης τις παρέχῃ, ὅταν ἐξ ἀδικίας, ὅταν πρὸς κενοδοξίαν, οἴχεται ὁ καρπός.",
+                            "spanishTranslation": "Y con esto muestra también otra cosa: que no basta con dar limosna para que sea aceptada. Porque cuando alguien la da por obligación, cuando es por injusticia, cuando es por vanagloria, el fruto se pierde."
+                          },
+                          {
+                            "lineNumber": [
+                              10473,
+                              10474,
+                              10475
+                            ],
+                            "originalText": "Ἵνα ἐν χαρᾷ ἔλθω πρὸς ὑµᾶς διὰ θελήµατος Θεοῦ. Ὥσπερ ἀρχόµενος ἔλεγεν, Εἴ πως ἤδη ποτὲ εὐοδωθήσοµαι ἐν τῷ θελήµατι τοῦ Θεοῦ ἐλθεῖν πρὸς ὑµᾶς· οὕτω καὶ ἐνταῦθα ἐπὶ τὸ αὐτὸ καταφεύγει θέληµα, καί φησιν, ὅτι ∆ιὰ τοῦτο ἐπείγοµαι, καὶ ῥυσθῆναι ἐκεῖθεν εὔχοµαι, ἵνα ταχέως ὑµᾶς ἴδω, καὶ ἴδω µεθ' ἡδονῆς, µηδεµίαν ἐκεῖθεν ἐπισυρόµενος ἀθυµίαν.",
+                            "spanishTranslation": "'Para que vaya a vosotros con alegría por la voluntad de Dios.' Así como al principio decía: 'Si por algún medio, ya alguna vez, se me franquea el camino por la voluntad de Dios para ir a vosotros' (Romanos 1:10), así también aquí recurre a la misma voluntad, y dice: 'Por esto me apresuro, y ruego ser librado de allí, para veros pronto, y veros con gozo, sin arrastrar de allí ninguna aflicción'."
+                          },
+                          {
+                            "lineNumber": [
+                              10476,
+                              10477,
+                              10478
+                            ],
+                            "originalText": "Καὶ συναναπαύσωµαι ὑµῖν. Ὅρα πῶς πάλιν τὸ ἄτυφον δείκνυσιν. Οὐ γὰρ εἶπε, Ἵνα διδάξω ὑµᾶς καὶ κατηχήσω, ἀλλ', Ἵνα συναναπαύσωµαι ὑµῖν.",
+                            "spanishTranslation": "'Y descanse con vosotros'. Observa cómo de nuevo muestra su humildad. Pues no dijo: 'Para enseñaros y catequizaros', sino: 'Para descansar con vosotros'. El término 'ἄτυφον' (humildad, ausencia de arrogancia) subraya la modestia de Pablo a pesar de su apostolado."
+                          },
+                          {
+                            "lineNumber": [
+                              10479,
+                              10480,
+                              10481
+                            ],
+                            "originalText": "Καίτοι αὐτὸς ἦν ὁ ἀγωνιζόµενος, καὶ πυκτεύων· πῶς οὖν φησι, Συναναπαύσωµαι; Χαριζόµενος αὐτοῖς κἀν τούτῳ, καὶ προθυµοτέρους ποιῶν τῷ κοινωνοὺς ποιεῖν τῶν στεφάνων καὶ δεικνύναι καὶ αὐτοὺς ἀγωνιζοµένους καὶ πονοῦντας.",
+                            "spanishTranslation": "Y eso que él era el que luchaba y boxeaba; ¿cómo, entonces, dice: 'Que descanse con vosotros'? Favoreciéndolos también en esto, y haciéndolos más diligentes al hacerlos partícipes de las coronas y al mostrar que ellos mismos también luchaban y trabajaban."
+                          },
+                          {
+                            "lineNumber": [
+                              10482,
+                              10483,
+                              10484
+                            ],
+                            "originalText": "Εἶτα, ὅπερ ἀεὶ ποιεῖν εἴωθε, τὴν εὐχὴν µετὰ τὴν παραίνεσιν προστίθησι λέγων· Ὁ δὲ Θεὸς τῆς εἰρήνης µετὰ πάντων ὑµῶν. Ἀµήν.",
+                            "spanishTranslation": "Luego, lo que siempre acostumbra a hacer, añade la oración después de la exhortación, diciendo: 'Y el Dios de paz sea con todos vosotros. Amén.' Referencia bíblica: Romanos 15:33."
+                          },
+                          {
+                            "lineNumber": [
+                              10485
+                            ],
+                            "originalText": "Συνίστηµι δὲ ὑµῖν Φοίβην τὴν ἀδελφὴν, διάκονον οὖσαν τῆς Ἐκκλησίας τῆς ἐν Κεγχρεαῖς.",
+                            "spanishTranslation": "'Os recomiendo a nuestra hermana Febe, diaconisa de la iglesia de Cencreas.' Referencia bíblica: Romanos 16:1. El término 'διάκονον' se refiere aquí a una mujer que ejercía un ministerio en la iglesia, traducido como 'diaconisa'."
+                          },
+                          {
+                            "lineNumber": [
+                              10486,
+                              10487,
+                              10488
+                            ],
+                            "originalText": "Ὅρα διὰ πόσων αὐτὴν σεµνύνει· καὶ γὰρ πρὸ τῶν ἄλλων αὐτῆς ἐµνήσθη πάντων, καὶ ἀδελφὴν ἐκάλεσεν· οὐ µικρὸν δὲ Παύλου κληθῆναι ἀδελφήν.",
+                            "spanishTranslation": "Observa por cuántas cosas la honra; pues la menciona antes que a todos los demás, y la llama hermana. Y no es poca cosa ser llamada hermana de Pablo."
+                          },
+                          {
+                            "lineNumber": [
+                              10489
+                            ],
+                            "originalText": "Καὶ τὸ ἀξίωµα προσέθηκε, διάκονον εἰπών·",
+                            "spanishTranslation": "Y añadió su dignidad, llamándola diaconisa."
+                          },
+                          {
+                            "lineNumber": [
+                              10490,
+                              10491
+                            ],
+                            "originalText": "Ἵνα αὐτὴν προσδέξησθε ἐν Κυρίῳ ἀξίως τῶν ἁγίων. Τουτέστι, διὰ τὸν Κύριον, ἵνα τιµῆς ἀπολαύσῃ παρ' ὑµῖν.",
+                            "spanishTranslation": "'Para que la recibáis en el Señor de manera digna de los santos.' Es decir, por causa del Señor, para que goce de honor entre vosotros. Referencia bíblica: Romanos 16:2."
+                          },
+                          {
+                            "lineNumber": [
+                              10492,
+                              10493
+                            ],
+                            "originalText": "Ὁ γὰρ διὰ τὸν Κύριον δεχόµενος, κἂν µὴ µέγαν τινὰ δέξηται, µετὰ σπουδῆς δέχεται· ὅταν δὲ καὶ ἁγία ᾖ, ἐννόησον ἡλίκης αὐτὴν ἀπολαῦσαι δίκαιον θεραπείας.",
+                            "spanishTranslation": "Porque el que recibe por causa del Señor, aunque no reciba a alguien grande, lo recibe con diligencia; y cuando es santa, considera de qué gran atención es justo que goce."
+                          },
+                          {
+                            "lineNumber": [
+                              10494,
+                              10495
+                            ],
+                            "originalText": "∆ιὰ τοῦτο προσέθηκε, Ἀξίως τῶν ἁγίων, ὡς δεῖ τοὺς τοιούτους ὑποδέχεσθαι. ∆ιπλῆν γὰρ ἔχει ἀφορµὴν τοῦ θεραπευθῆναι παρ' ὑµῶν, καὶ τὸ διὰ τὸν Κύριον δεχθῆναι, καὶ τὸ αὐτὴν ἁγίαν εἶναι.",
+                            "spanishTranslation": "Por eso añadió: 'dignamente de los santos', como conviene recibir a tales personas. Pues tiene un doble motivo para ser atendida por vosotros: el ser recibida por causa del Señor, y el ser ella misma santa."
+                          },
+                          {
+                            "lineNumber": [
+                              10496,
+                              10497,
+                              10498,
+                              10499,
+                              10500
+                            ],
+                            "originalText": "Καὶ παραστῆτε αὐτῇ ἐν ᾧ ἂν ὑµῶν πράγµατι χρῄζῃ. Εἶδες τὸ ἀνεπαχθές; Οὐδὲ γὰρ εἶπεν, Ἵνα ἀπαλλάξητε, ἀλλ', Ἵνα τὰ παρ'ὑµῶν εἰσενέγκητε, καὶ χεῖρα ὀρέξητε, καὶ ἐν ᾧ ἂν ὑµῶν χρῄζῃ· οὐκ ἐν οἷς ἂν ᾖ πάντως, ἀλλ' ἐν οἷς ἂν ὑµῶν δέηται· δεήσεται δὲ ἐν ἐκείνοις, ἐν οἷς ἂν ὑµεῖς ἦτε κύριοι.",
+                            "spanishTranslation": "'Y asistidla en cualquier asunto en que os necesite.' ¿Ves lo poco gravoso? Porque no dijo: 'Para que la libréis', sino: 'Para que aportéis de lo vuestro, y le tendáis la mano, y en lo que os necesite'; no en todo lo que le acontezca, sino en lo que os necesite; y os necesitará en aquello en que vosotros tengáis autoridad. Referencia bíblica: Romanos 16:2."
+                          },
+                          {
+                            "lineNumber": [
+                              10501,
+                              10502,
+                              10503,
+                              10504
+                            ],
+                            "originalText": "Εἶτα πάλιν ὁ ἔπαινος ἄφατος· Καὶ γὰρ αὐτὴ προστάτις πολλῶν ἐγενήθη, καὶ αὐτοῦ ἐµοῦ. Εἶδες τὴν σύνεσιν; Πρῶτον µὲν τὰ ἐγκώµια, [[60.664]] εἶτα µέσην τὴν παράκλησιν, εἶτα πάλιν τὰ ἐγκώµια τέθεικεν, ἑκατέρωθεν περιστέλλων τὴν χρείαν τοῖς ἐπαίνοις τῆς γυναικὸς τῆς µακαρίας ἐκείνης.",
+                            "spanishTranslation": "Luego, de nuevo, el elogio inefable: 'Porque ella misma ha sido protectora de muchos, y también mía.' ¿Ves su discernimiento? Primero puso los elogios, luego en medio la súplica, y luego de nuevo los elogios, cubriendo así la necesidad por ambos lados con las alabanzas a aquella bienaventurada mujer. Referencia bíblica: Romanos 16:2."
+                          },
+                          {
+                            "lineNumber": [
+                              10505,
+                              10506,
+                              10507
+                            ],
+                            "originalText": "Πῶς γὰρ οὐ µακαρία ἡ τοσαύτης ἀπολαῦσασα παρὰ Παύλου µαρτυρίας, ἡ καὶ αὐτῷ βοηθῆσαι δυνηθεῖσα τῷ τὴν οἰκουµένην διορθώσαντι; Τοῦτο γὰρ ὁ κολοφὼν αὐτῆς τῶν ἀγαθῶν· διὸ καὶ ὕστερον αὐτὸ τέθεικε λέγων, Καὶ αὐτοῦ ἐµοῦ.",
+                            "spanishTranslation": "Pues, ¿cómo no sería bienaventurada la que recibió tal testimonio de Pablo, la que incluso pudo ayudar al que corrigió el mundo entero? Porque este es el colmo de sus virtudes; por eso lo puso al final, diciendo: 'Y también mía'."
+                          },
+                          {
+                            "lineNumber": [
+                              10508,
+                              10509
+                            ],
+                            "originalText": "Τί δέ ἐστι, Καὶ αὐτοῦ ἐµοῦ; Τοῦ κήρυκος τῆς οἰκουµένης, τοῦ τοσαῦτα παθόντος, τοῦ µυρίοις ἀρκοῦντος.",
+                            "spanishTranslation": "¿Y qué significa 'Y también mía'? Del predicador del orbe, del que tanto sufrió, del que era suficiente para innumerables personas."
+                          },
+                          {
+                            "lineNumber": [
+                              10510,
+                              10511
+                            ],
+                            "originalText": "Μιµησώµεθα τοίνυν καὶ ἄνδρες καὶ γυναῖκες τὴν ἁγίαν ἐκείνην, καὶ τὴν µετ' αὐτὴν δὲ σὺν τῷ ἀνδρί. Τίνες δὲ οὗτοί εἰσιν;",
+                            "spanishTranslation": "Imiten, pues, tanto hombres como mujeres a aquella santa, y a la que la sigue junto con su marido. ¿Y quiénes son estos?"
+                          },
+                          {
+                            "lineNumber": [
+                              10512
+                            ],
+                            "originalText": "Ἀσπάσασθε, φησὶ, Πρίσκιλλαν καὶ Ἀκύλαν, τοὺς συλλειτουργούς µου ἐν Χριστῷ Ἰησοῦ.",
+                            "spanishTranslation": "Dice: 'Saludad a Priscila y Aquila, mis colaboradores en Cristo Jesús.' Referencia bíblica: Romanos 16:3."
+                          },
+                          {
+                            "lineNumber": [
+                              10513,
+                              10514,
+                              10515,
+                              10516
+                            ],
+                            "originalText": "Τούτων τῇ ἀρετῇ καὶ ὁ Λουκᾶς µαρτυρεῖ· τοῦτο µὲν, ὅταν λέγῃ, ὅτι Ἔµεινε πρὸς αὐτοὺς ὁ Παῦλος· ἦσαν γὰρ σκηνοποιοὶ τὴν τέχνην· τοῦτο δὲ, ὅταν δεικνύῃ τὴν γυναῖκα τὸν Ἀπολλὼ προσλαµβανοµένην καὶ κατηχήσασαν τὴν ὁδὸν τοῦ Κυρίου.",
+                            "spanishTranslation": "De la virtud de estos también testifica Lucas; primero, cuando dice que Pablo se quedó con ellos (Hechos 18:3), pues eran fabricantes de tiendas por oficio; y segundo, cuando muestra a la mujer [Priscila] acogiendo a Apolo y enseñándole el camino del Señor (Hechos 18:26)."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

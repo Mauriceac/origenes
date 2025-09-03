@@ -1,0 +1,1055 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Iohannes Chrysostomus",
+      "authorSpanish": "San Juan Cristóstomo",
+      "originalTitle": "In Epistulam ad Romanos",
+      "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 4,
+        "sections": [
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 4,
+                    "chapterSummary": "Crisóstomo profundiza en el pecado de la homosexualidad, no solo como concupiscencia sino como una perversión de la naturaleza y una guerra contra el orden divino. Argumenta que la \"gratificación\" de tales actos es en sí misma un castigo y que la falta de conciencia de su gravedad los hace aún más deplorables, comparándolos con la locura y prácticas inmorales de la antigüedad griega. Concluye que este pecado es peor que el asesinato, pues destruye el alma junto con el cuerpo.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "concupiscencia",
+                              "negligencia",
+                              "enfermedad"
+                            ],
+                            "lineNumber": [
+                              995,
+                              996
+                            ],
+                            "notes": {},
+                            "originalText": "Μὴ γὰρ ἐπειδὴ ἤκουσας, φησὶν, ὅτι Ἐξεκαύθησαν, τῆς ἐπιθυµίας µόνης εἶναι νοµίσῃς τὸ νόσηµα· καὶ γὰρ τὸ πλέον τῆς αὐτῶν ῥᾳθυµίας ἐστὶν, ἣ καὶ τὴν ἐπιθυµίαν ἀνῆψε.",
+                            "spanishTranslation": "Porque no, dice, al haber escuchado que \"se encendieron\", vayas a pensar que la enfermedad es solo de la concupiscencia; pues la mayor parte es de su propia negligencia, la cual encendió también la concupiscencia."
+                          },
+                          {
+                            "keywords": [
+                              "arrastrados",
+                              "tomados por sorpresa",
+                              "obrando",
+                              "realizando"
+                            ],
+                            "lineNumber": [
+                              997,
+                              998
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"Κατεργαζόµενοι\" (katergazomenoi) es un participio presente medio/pasivo que implica una acción deliberada, activa y continua, a diferencia de ser \"arrastrados\" (παρασυρέντες) o \"tomados por sorpresa\" (προληφθέντες), lo que subraya la responsabilidad de la voluntad en el pecado."
+                            },
+                            "originalText": "∆ιὰ τοῦτο οὐκ εἶπε, Παρασυρέντες, ἢ Προληφθέντες, ὅπερ ἀλλαχοῦ φησιν, ἀλλὰ τί; Κατεργαζόµενοι.",
+                            "spanishTranslation": "Por eso no dijo: \"arrastrados\" o \"tomados por sorpresa\", como dice en otro lugar, sino ¿qué? \"Obrando\" (Cometiendo)."
+                          },
+                          {
+                            "keywords": [
+                              "pecado",
+                              "obra",
+                              "procurada",
+                              "deliberada"
+                            ],
+                            "lineNumber": [
+                              999
+                            ],
+                            "notes": {},
+                            "originalText": "Ἔργον ἔθεντο τὴν ἁµαρτίαν, καὶ οὐχ ἁπλῶς ἔργον, ἀλλὰ καὶ ἐσπουδασµένον.",
+                            "spanishTranslation": "Hicieron del pecado una obra, y no una obra cualquiera, sino una diligentemente procurada."
+                          },
+                          {
+                            "keywords": [
+                              "concupiscencia",
+                              "desvergüenza",
+                              "indecencia",
+                              "naturaleza",
+                              "leyes",
+                              "avergonzaron",
+                              "pisotearon"
+                            ],
+                            "lineNumber": [
+                              1000,
+                              1001
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ οὐκ εἶπεν, Ἐπιθυµίαν, ἀλλ' Ἀσχηµοσύνην, κυρίως· καὶ γὰρ καὶ τὴν φύσιν ᾔσχυναν, καὶ τοὺς νόµους ἐπάτησαν.",
+                            "spanishTranslation": "Y no dijo \"concupiscencia\", sino propiamente \"desvergüenza\" (indecencia); porque avergonzaron la naturaleza y pisotearon las leyes."
+                          },
+                          {
+                            "keywords": [
+                              "confusión",
+                              "partes",
+                              "cabeza",
+                              "pies",
+                              "enemigos",
+                              "guerra civil",
+                              "lucha",
+                              "perversa",
+                              "dividida",
+                              "variada"
+                            ],
+                            "lineNumber": [
+                              1002,
+                              1003
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ ὅρα πολλὴν τὴν σύγχυσιν ἐξ ἀµφοτέρου τοῦ µέρους γινοµένην. Οὐ γὰρ ἡ κεφαλὴ µόνη κάτω γέγονεν, ἀλλὰ καὶ οἱ πόδες ἄνω, καὶ πολέµιοι ἑαυτῶν καὶ ἀλλήλων ἐγένοντο, χαλεπήν τινα καὶ παντὸς ἐµφυλίου πολέµου παρανοµωτέραν εἰσάγοντες µάχην καὶ πολυσχιδῆ καὶ ποικίλην.",
+                            "spanishTranslation": "Y observa la gran confusión que surge de ambas partes. Pues no solo la cabeza se puso abajo, sino también los pies arriba, y se hicieron enemigos de sí mismos y de los demás, introduciendo una lucha difícil, más perversa que cualquier guerra civil, y muy dividida y variada."
+                          },
+                          {
+                            "keywords": [
+                              "dividieron",
+                              "clases",
+                              "vanas",
+                              "ilegítimas",
+                              "guerra",
+                              "cuádruple"
+                            ],
+                            "lineNumber": [
+                              1004,
+                              1005
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ γὰρ εἰς τέσσαρα ταύτην διεῖλον εἴδη κενὰ καὶ παράνοµα· οὐ γὰρ διπλοῦς καὶ τριπλοῦς, ἀλλὰ καὶ τετραπλοῦς οὗτος ὁ πόλεµος ἦν.",
+                            "spanishTranslation": "Y la dividieron en cuatro clases vanas e ilegítimas; porque esta guerra no era doble ni triple, sino cuádruple."
+                          },
+                          {
+                            "keywords": [
+                              "considera"
+                            ],
+                            "lineNumber": [
+                              1006
+                            ],
+                            "notes": {},
+                            "originalText": "Σκόπει δέ·",
+                            "spanishTranslation": "Considera, pues:"
+                          },
+                          {
+                            "keywords": [
+                              "unidad",
+                              "mujer",
+                              "hombre",
+                              "una sola carne",
+                              "matrimonio"
+                            ],
+                            "lineNumber": [
+                              1007,
+                              1008
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia directa a Génesis 2:24: \"Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una sola carne.\", pasaje fundamental para la teología del matrimonio cristiano, citado por Jesús (Mt 19:5) y Pablo (Ef 5:31)."
+                            },
+                            "originalText": "Ἔδει τοὺς δύο ἕνα εἶναι, γυναῖκα καὶ ἄνδρα λέγω· Ἔσονται γὰρ, φησὶν, οἱ δύο εἰς σάρκα µίαν.",
+                            "spanishTranslation": "Los dos debían ser uno, me refiero a la mujer y el hombre; porque \"serán\", dice, \"los dos en una sola carne\"."
+                          },
+                          {
+                            "keywords": [
+                              "deseo",
+                              "unión",
+                              "géneros"
+                            ],
+                            "lineNumber": [
+                              1009
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐποίει δὲ τοῦτο ἡ τῆς ὁµιλίας ἐπιθυµία, καὶ συνῆπτε τὰ γένη πρὸς ἄλληλα.",
+                            "spanishTranslation": "Y el deseo de la unión [sexual] hacía esto, uniendo los géneros entre sí."
+                          },
+                          {
+                            "keywords": [
+                              "diablo",
+                              "deseo",
+                              "separación",
+                              "géneros",
+                              "ley de Dios",
+                              "división"
+                            ],
+                            "lineNumber": [
+                              1010,
+                              1011,
+                              1012
+                            ],
+                            "notes": {
+                              "notesBiblical": "Crisóstomo contrasta la acción del diablo que \"divide la única carne en dos\" con la ley divina que establece que \"serán los dos en una sola carne\" (Génesis 2:24), enfatizando la perversión del orden natural y divino."
+                            },
+                            "originalText": "Ταύτην ἀνελὼν ὁ διάβολος τὴν ἐπιθυµίαν, καὶ ἐφ' ἕτερον µετοχετεύσας τρόπον, ἀπέσχισεν οὕτως ἀπ' ἀλλήλων τὰ γένη, καὶ ἐποίησε τὸ ἓν δύο γενέσθαι µέρη, ἀπεναντίας τῷ τοῦ Θεοῦ νόµῳ· ὁ µὲν γάρ φησιν, Ἔσονται οἱ δύο εἰς σάρκα µίαν· ὁ δὲ τὴν µίαν εἰς δύο διεῖλεν.",
+                            "spanishTranslation": "El diablo, habiendo suprimido este deseo y desviándolo hacia otra forma, así separó los géneros entre sí, e hizo que el uno se convirtiera en dos partes, en oposición a la ley de Dios; porque aquella [la ley de Dios] dice: \"Serán los dos en una sola carne\"; mientras que este [el diablo] dividió la única [carne] en dos."
+                          },
+                          {
+                            "keywords": [
+                              "guerra"
+                            ],
+                            "lineNumber": [
+                              1013
+                            ],
+                            "notes": {},
+                            "originalText": "Ἰδοὺ πόλεµος εἷς.",
+                            "spanishTranslation": "He aquí una guerra."
+                          },
+                          {
+                            "keywords": [
+                              "guerra",
+                              "partes",
+                              "contra sí mismas",
+                              "entre sí",
+                              "mujeres",
+                              "injuriaban",
+                              "hombres",
+                              "género femenino",
+                              "batalla nocturna"
+                            ],
+                            "lineNumber": [
+                              1014,
+                              1015
+                            ],
+                            "notes": {},
+                            "originalText": "Πάλιν αὐτὰ τὰ δύο µέρη ταῦτα καὶ πρὸς αὐτοὺς καὶ πρὸς ἀλλήλους ἐξεπολέµωσεν· αἵ τε γὰρ γυναῖκες γυναῖκας ὕβριζον πάλιν, οὐκ ἄνδρας µόνον, οἵ τε ἄνδρες κατά τε ἀλλήλων ἵσταντο, καὶ κατὰ τοῦ γυναικείου γένους, καθάπερ ἐν νυκτοµαχίᾳ τινί·",
+                            "spanishTranslation": "De nuevo, estas dos mismas partes se declararon la guerra tanto contra sí mismas como entre sí; pues las mujeres, a su vez, injuriaban a las mujeres, no solo a los hombres; y los hombres se levantaban unos contra otros, y contra el género femenino, como en una especie de batalla nocturna."
+                          },
+                          {
+                            "keywords": [
+                              "guerra",
+                              "segunda",
+                              "tercera",
+                              "cuarta",
+                              "quinta"
+                            ],
+                            "lineNumber": [
+                              1016
+                            ],
+                            "notes": {},
+                            "originalText": "εἶδες δεύτερον καὶ τρίτον πόλεµον, καὶ τέταρτον καὶ πέµπτον;",
+                            "spanishTranslation": "¿Viste la segunda y tercera guerra, y la cuarta y quinta?"
+                          },
+                          {
+                            "keywords": [
+                              "guerra",
+                              "pecaron",
+                              "contra naturaleza"
+                            ],
+                            "lineNumber": [
+                              1017,
+                              1018
+                            ],
+                            "notes": {},
+                            "originalText": "Ἔστι καὶ ἕτερος· µετὰ γὰρ τῶν εἰρηµένων καὶ εἰς τὴν φύσιν αὐτὴν παρηνόµησαν.",
+                            "spanishTranslation": "Hay también otra [guerra]; pues además de lo dicho, pecaron también contra la propia naturaleza."
+                          },
+                          {
+                            "keywords": [
+                              "diablo",
+                              "deseo",
+                              "unir",
+                              "romper",
+                              "vínculo",
+                              "procrear",
+                              "sublevarse",
+                              "géneros"
+                            ],
+                            "lineNumber": [
+                              1019
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐπειδὴ γὰρ εἶδεν ὁ διάβολος, ὅτι αὕτη µάλιστα συνάγει τὰ γένη ἡ ἐπιθυµία, τὸν δεσµὸν ἐσπούδασε διακόψαι, ὥστε οὐ τῷ µὴ σπείρεσθαι µόνον κατὰ νόµον τὸ γένος διαλῦσαι, ἀλλὰ καὶ τῷ πρὸς ἀλλήλους ἐκπεπολεµῶσθαι τὸ γένος καὶ στασιάζειν.",
+                            "spanishTranslation": "Porque al ver el diablo que este deseo es lo que más une a los géneros, se esforzó por romper el vínculo, no solo para disolver el género al no procrear según la ley, sino también al hacer que el género se opusiera y se sublevara entre sí."
+                          },
+                          {
+                            "keywords": [
+                              "retribución",
+                              "error",
+                              "impiedad",
+                              "dogmas",
+                              "paga",
+                              "transgresión",
+                              "fuente del mal"
+                            ],
+                            "lineNumber": [
+                              1020,
+                              1021
+                            ],
+                            "notes": {
+                              "notesBiblical": "La frase \"recibiendo en sí mismos la justa retribución de su error\" es una cita o paráfrasis directa de Romanos 1:27, el pasaje que Crisóstomo está comentando, lo cual subraya la conexión teológica."
+                            },
+                            "originalText": "Καὶ τὴν ἀντιµισθίαν, ἣν ἔδει, τῆς πλάνης αὐτῶν ἐν ἑαυτοῖς ἀπολαµβάνοντες. Ὅρα πῶς πάλιν ἐπὶ τὴν πηγὴν ἔρχεται τοῦ κακοῦ, τὴν ἀσέβειαν τὴν ἀπὸ τῶν δογµάτων, καὶ µισθὸν τοῦτον εἶναί φησι τῆς παρανοµίας ἐκείνης.",
+                            "spanishTranslation": "Y recibiendo en sí mismos la justa retribución de su error. Observa cómo vuelve otra vez a la fuente del mal, la impiedad que proviene de los dogmas, y dice que esta es la paga de aquella transgresión."
+                          },
+                          {
+                            "keywords": [
+                              "Gehena",
+                              "castigo",
+                              "impíos",
+                              "placer",
+                              "ridículo"
+                            ],
+                            "lineNumber": [
+                              1022
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐπειδὴ γὰρ περὶ γεέννης καὶ κολάσεως λέγων, νῦν οὐκ ἐδόκει πιστὸς εἶναι τοῖς ἀσεβέσι καὶ οὕτω ζῇν προαιρουµένοις, ἀλλὰ καὶ καταγέλαστος, δείκνυσιν ἐν αὐτῇ τῇ ἡδονῇ ταύτην τὴν κόλασιν οὖσαν.",
+                            "spanishTranslation": "Porque al hablar de la Gehena y el castigo, ahora no parecía ser creíble para los impíos que eligen vivir así, sino incluso ridículo, muestra que este castigo está en la misma \"gozosa\" acción (o \"en el mismo placer\")."
+                          },
+                          {
+                            "keywords": [
+                              "sentir",
+                              "disfrutar",
+                              "asombro",
+                              "enloquecen",
+                              "frenesí",
+                              "daño",
+                              "lamentable",
+                              "ríen",
+                              "deleitan",
+                              "castigo",
+                              "severo",
+                              "ignorancia"
+                            ],
+                            "lineNumber": [
+                              1023,
+                              1024,
+                              1025
+                            ],
+                            "notes": {},
+                            "originalText": "Εἰ δὲ οὐκ αἰσθάνονται, ἀλλ' ἥδονται, µὴ θαυµάσῃς· καὶ γὰρ καὶ οἱ µαινόµενοι καὶ οἱ φρενίτιδι κατεχόµενοι νόσῳ πολλὰ ἑαυτοὺς ἀδικοῦντες, καὶ ἐλεεινὰ πράσσοντες, ἐφ' οἷς αὐτοὺς ἕτεροι δακρύουσι, γελῶσι καὶ ἐντρυφῶσι τοῖς γινοµένοις αὐτοί. Ἀλλ' οὐ διὰ τοῦτό φαµεν αὐτοὺς ἀπηλλάχθαι κολάσεως, ἀλλὰ καὶ δι' αὐτὸ µὲν οὖν τοῦτο ἐν χαλεπωτέρᾳ εἶναι τιµωρίᾳ, ὅτι οὐδὲ ἴσασιν ἐν οἷς εἰσιν.",
+                            "spanishTranslation": "Y si no lo sienten, sino que disfrutan, no te asombres; pues también los que enloquecen y los afligidos por la enfermedad de la frenesí, haciéndose mucho daño a sí mismos y cometiendo actos lamentables por los que otros lloran, ellos mismos ríen y se deleitan en lo que sucede. Pero no por esto decimos que estén libres de castigo, sino que, de hecho, por esto mismo se encuentran en un castigo más severo, porque ni siquiera saben en qué estado se hallan."
+                          },
+                          {
+                            "keywords": [
+                              "enfermos",
+                              "sanos",
+                              "juicios"
+                            ],
+                            "lineNumber": [
+                              1026
+                            ],
+                            "notes": {},
+                            "originalText": "Οὐ γὰρ ἀπὸ τῶν νοσούντων, ἀλλ' ἀπὸ τῶν ὑγιαινόντων δεῖ φέρειν τὰς ψήφους·",
+                            "spanishTranslation": "Pues no de los enfermos, sino de los sanos se deben tomar los juicios."
+                          },
+                          {
+                            "keywords": [
+                              "ley",
+                              "sirvientes",
+                              "libres",
+                              "pederastia",
+                              "indecencia",
+                              "venerable",
+                              "dignidad",
+                              "Atenas",
+                              "Solón",
+                              "legislador"
+                            ],
+                            "lineNumber": [
+                              1027,
+                              1028,
+                              1029
+                            ],
+                            "notes": {
+                              "notesFromSource": "Crisóstomo alude a ciertas leyes atenienses que diferenciaban el estatus social y las prácticas permitidas entre hombres libres y esclavos, incluyendo la pederastia. Su mención de Solón y el \"sabio pueblo de Atenas\" es sarcástica, criticando la perversión moral de una sociedad tan aclamada por su sabiduría y leyes."
+                            },
+                            "originalText": "ἐπεὶ τό γε παλαιὸν καὶ νόµος εἶναι τὸ πρᾶγµα ἐδόκει, καὶ νοµοθέτης τις παρ' αὐτοῖς οἰκέτας ἐκέλευσε µήτε ξηραλοιφεῖν µήτε παιδεραστεῖν, τοῖς ἐλευθέροις τῆς προεδρείας παραχωρήσας ταύτης, µᾶλλον δὲ τῆς ἀσχηµοσύνης. Ἀλλ' ὅµως οὐκ ἐνόµισαν ἀσχηµοσύνην εἶναι τὸ πρᾶγµα, ἀλλ' ὡς σεµνὸν καὶ µεῖζον ἢ κατ' οἰκετῶν ἀξίωµα, τοῖς ἐλευθέροις ἐπέτρεψαν· καὶ τοῦτο ὁ σοφώτατος τῶν Ἀθηναίων δῆµος, καὶ ὁ µέγας παρ' αὐτοῖς Σόλων.",
+                            "spanishTranslation": "Antiguamente, la práctica incluso parecía ser una ley, y un legislador entre ellos ordenó a los sirvientes no ungirse con aceite ni practicar la pederastia, concediendo a los libres esta preeminencia, o más bien, esta indecencia. Pero aún así, no consideraron la práctica una indecencia, sino que, como algo venerable y superior a la dignidad de los sirvientes, la permitieron a los libres; y esto, el sabio pueblo de Atenas, y su gran Solón."
+                          },
+                          {
+                            "keywords": [
+                              "filósofos",
+                              "libros",
+                              "enfermedad",
+                              "lícita",
+                              "ley",
+                              "piedad",
+                              "lágrimas"
+                            ],
+                            "lineNumber": [
+                              1030,
+                              1031
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ ἕτερα δὲ πολλὰ τῶν φιλοσόφων βιβλία ταύτης ἄν τις εὕροι γέµοντα τῆς νόσου· ἀλλ' οὐ διὰ τοῦτο νενοµισµένον εἶναι τὸ πρᾶγµά φαµεν, ἀλλὰ καὶ τοὺς τὸν νόµον δεξαµένους τοῦτον ἐλεεινοὺς καὶ δακρύων ἀξίους εἶναι πολλῶν.",
+                            "spanishTranslation": "Y muchos otros libros de filósofos se encontrarían llenos de esta enfermedad; pero no por esto decimos que la práctica sea lícita, sino que aquellos que aceptaron esta ley son dignos de mucha piedad y lágrimas."
+                          },
+                          {
+                            "keywords": [
+                              "prostitución",
+                              "sufrimiento",
+                              "miserable",
+                              "unión",
+                              "ilegal",
+                              "según naturaleza",
+                              "contra naturaleza"
+                            ],
+                            "lineNumber": [
+                              1032,
+                              1033,
+                              1034,
+                              1035
+                            ],
+                            "notes": {},
+                            "originalText": "Ἃ γὰρ αἱ πορνευόµεναι πάσχουσι γυναῖκες, ταῦτα καὶ οὗτοι· µᾶλλον δὲ ἐκείνων ἀθλιώτερα. Ταῖς µὲν γὰρ εἰ καὶ παράνοµος, ἀλλὰ κατὰ φύσιν ἡ µίξις· αὕτη δὲ καὶ παράνοµος, καὶ παρὰ φύσιν.",
+                            "spanishTranslation": "Porque lo que sufren las mujeres que se prostituyen, esto mismo sufren también estos; más bien, sufren cosas más miserables que aquellas. Para aquellas, aunque la unión sea ilegal, es según la naturaleza; pero esta [unión] es tanto ilegal como contra la naturaleza."
+                          },
+                          {
+                            "keywords": [
+                              "Gehena",
+                              "castigo",
+                              "peor",
+                              "disfrute",
+                              "aumento"
+                            ],
+                            "lineNumber": [
+                              1036,
+                              1037
+                            ],
+                            "notes": {},
+                            "originalText": "Εἰ γὰρ µὴ γέεννα ἦν, µηδὲ κόλασις ἠπείλητο, τοῦτο πάσης κολάσεως χεῖρον ἦν. Εἰ δὲ ἥδονται, τὴν προσθήκην µοι λέγεις τῆς τιµωρίας.",
+                            "spanishTranslation": "Porque si no hubiera Gehena ni se amenazara con castigo, esto sería peor que cualquier castigo. Y si disfrutan, me estás diciendo el aumento del castigo."
+                          },
+                          {
+                            "keywords": [
+                              "desnudo",
+                              "lodo",
+                              "indecencia",
+                              "lamentar",
+                              "inconsciencia"
+                            ],
+                            "lineNumber": [
+                              1038
+                            ],
+                            "notes": {},
+                            "originalText": "Οὐδὲ γὰρ εἴ τινα εἶδον γυµνὸν τρέχοντα, βορβόρῳ τὸ σῶµα ἀνακεχρωσµένον ἅπαν, εἶτα οὐκ ἐγκαλυπτόµενον, ἀλλὰ καὶ ἐγκαλλωπιζόµενον, συνήσθην ἂν αὐτῷ, ἀλλὰ καὶ µᾶλλον ἂν αὐτὸν ἐθρήνησα, ὅτι οὐδὲ αἰσθάνεται ἀσχηµονῶν.",
+                            "spanishTranslation": "Pues si viera a alguien corriendo desnudo, con todo el cuerpo manchado de lodo, y luego no cubriéndose, sino incluso adornándose, no me alegraría con él, sino que más bien lo lamentaría, porque ni siquiera se da cuenta de su indecencia."
+                          },
+                          {
+                            "keywords": [
+                              "afrenta",
+                              "ejemplo",
+                              "paciencia",
+                              "virgen",
+                              "animales",
+                              "unión",
+                              "deleite",
+                              "enfermedad",
+                              "lágrimas",
+                              "inconsciencia",
+                              "evidente"
+                            ],
+                            "lineNumber": [
+                              1039,
+                              1040,
+                              1041
+                            ],
+                            "notes": {},
+                            "originalText": "Ἵνα δὲ καὶ σαφεστέραν δείξω τὴν ὕβριν, ἀνάσχεσθέ µου καὶ ἑτέρου παραδείγµατος. Εἰ γὰρ παρθένον τις κατεδίκασε θαλαµευοµένην ἀλόγοις µιγῆναι ζώοις, εἶτα ἥδετο ἐκείνη τῇ µίξει, οὐ διὰ τοῦτο µάλιστα δακρύων ἦν ἀξία, ὅτι οὐδὲ ἀπαλλαγῆναι τῆς νόσου ταύτης ἠδύνατο τῷ µηδὲ αἰσθάνεσθαι τῆς νόσου; Παντί που δῆλόν ἐστιν.",
+                            "spanishTranslation": "Y para mostrar más claramente la afrenta, tengan paciencia conmigo y con otro ejemplo. Porque si alguien condenara a una virgen en su lecho nupcial a unirse con animales irracionales, y luego ella se deleitara en la unión, ¿no sería por esto mismo más digna de lágrimas, porque ni siquiera podía liberarse de esta enfermedad al no sentirla? Es evidente para todos, supongo."
+                          },
+                          {
+                            "keywords": [
+                              "grave",
+                              "menor",
+                              "injuria",
+                              "propios",
+                              "extraños",
+                              "lamentable"
+                            ],
+                            "lineNumber": [
+                              1042,
+                              1043
+                            ],
+                            "notes": {},
+                            "originalText": "Εἰ δὲ ἐκεῖνο χαλεπὸν, οὐδὲ τοῦτο ἔλαττον ἐκείνου· τὸ γὰρ ὑπὸ τῶν οἰκείων ὑβρίζεσθαι ἐλεεινότερον τοῦ παρὰ τῶν ἀλλοτρίων.",
+                            "spanishTranslation": "Y si aquello es grave, esto tampoco es menor que aquello; pues ser injuriado por los propios es más lamentable que por extraños."
+                          },
+                          {
+                            "keywords": [
+                              "peores",
+                              "asesinos",
+                              "morir",
+                              "vivir",
+                              "injuriado",
+                              "alma",
+                              "cuerpo",
+                              "perder",
+                              "separar"
+                            ],
+                            "lineNumber": [
+                              1044,
+                              1045,
+                              1046
+                            ],
+                            "notes": {},
+                            "originalText": "Τούτους ἐγὼ καὶ ἀνδροφόνων χείρους εἶναί φηµι· καὶ γὰρ βέλτιον ἀποθανεῖν, ἢ ζῇν ὑβριζόµενον οὕτως. Ὁ µὲν γὰρ ἀνδροφόνος τὴν ψυχὴν ἀπὸ τοῦ σώµατος διέῤῥηξεν, οὗτος δὲ τὴν ψυχὴν µετὰ τοῦ σώµατος ἀπώλεσε.",
+                            "spanishTranslation": "Yo digo que estos son incluso peores que los asesinos; porque es mejor morir que vivir siendo injuriado de tal manera. Pues el asesino separó el alma del cuerpo, pero este perdió el alma junto con el cuerpo."
+                          },
+                          {
+                            "keywords": [
+                              "pecado",
+                              "transgresión",
+                              "igual",
+                              "sufrimiento",
+                              "percepción",
+                              "muertes",
+                              "padecer"
+                            ],
+                            "lineNumber": [
+                              1047,
+                              1048
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ ὅπερ ἂν εἴποις ἁµάρτηµα, οὐδὲν ἴσον ἐρεῖς τῆς παρανοµίας ταύτης· καὶ εἰ ἐπῃσθάνοντο τῶν γινοµένων οἱ πάσχοντες, µυρίους ἂν κατεδέξαντο θανάτους, ὥστε µὴ τοῦτο παθεῖν.",
+                            "spanishTranslation": "Y cualquier pecado que menciones, no dirás que es igual a esta transgresión; y si los que la sufren percibieran lo que sucede, aceptarían innumerables muertes con tal de no padecer esto."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 4,
+                    "chapterSummary": "San Juan Crisóstomo lamenta la perversión de la naturaleza humana por pecados sexuales que superan la fornicación, usando analogías impactantes y la destrucción de Sodoma como prefiguración del juicio final. Argumenta que la transgresión de los límites naturales es peor que la mutilación física y subraya que tales males nacen de la suntuosidad y el desconocimiento de Dios.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "tercero",
+                              "número"
+                            ],
+                            "lineNumber": [
+                              1049
+                            ],
+                            "originalText": "γʹ.",
+                            "spanishTranslation": "Tercero."
+                          },
+                          {
+                            "keywords": [
+                              "afrenta",
+                              "insensato",
+                              "grave",
+                              "Pablo",
+                              "fornicación",
+                              "pecado",
+                              "cuerpo",
+                              "locura"
+                            ],
+                            "lineNumber": [
+                              1050,
+                              1051,
+                              1052,
+                              1053
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita es de 1 Corintios 6:18.",
+                              "notesGeneral": "Cristóstomo aquí compara la fornicación con pecados de perversión sexual, argumentando que estos últimos son peores por su antinaturalidad y por no solo afectar el cuerpo, sino también la identidad y la naturaleza misma del ser humano, lo que va más allá del simple 'pecar contra el propio cuerpo'."
+                            },
+                            "originalText": "Οὐ γὰρ ἔστιν, οὐκ ἔστι ταύτης τῆς ὕβρεως ἀλογώτερόν τε καὶ χαλεπώτερον. Εἰ γὰρ περὶ πορνείας διαλεγόµενος ὁ Παῦλος ἔλεγεν, ὅτι Πᾶν ἁµάρτηµα, ὃ ἐὰν ποιήσῃ ἄνθρωπος, ἐκτὸς τοῦ σώµατός ἐστιν· ὁ δὲ πορνεύων εἰς τὸ ἴδιον σῶµα ἁµαρτάνει· τί ἂν εἴποιµεν περὶ τῆς µανίας ταύτης, ἣ τοσοῦτον πορνείας χείρων ἐστὶν, ὅσον οὐδὲ ἔστιν εἰπεῖν;",
+                            "spanishTranslation": "Pues no hay, no hay nada más insensato y grave que esta afrenta. Porque si Pablo, al hablar de la fornicación, dijo que “Todo pecado que el hombre comete, fuera del cuerpo es”; “pero el que fornica, contra su propio cuerpo peca”; ¿qué diremos entonces de esta locura, que es tan peor que la fornicación que ni siquiera se puede expresar?"
+                          },
+                          {
+                            "keywords": [
+                              "mujer",
+                              "hombre",
+                              "naturaleza",
+                              "traidor",
+                              "expulsado",
+                              "lapidado",
+                              "injuria",
+                              "perro",
+                              "destructor",
+                              "deshonroso",
+                              "prostituido",
+                              "inútil"
+                            ],
+                            "lineNumber": [
+                              1054,
+                              1055,
+                              1056,
+                              1057
+                            ],
+                            "originalText": "Οὐδὲ γὰρ τοῦτο λέγω µόνον, ὅτι γέγονας γυνὴ, ἀλλ' ὅτι ἀπώλεσας καὶ τὸ εἶναι ἀνὴρ, καὶ οὔτε εἰς ταύτην µετέστης τὴν φύσιν, οὔτε ἣν εἶχες διετήρησας, ἀλλὰ κοινὸς ἑκατέρας ἐγένου προδότης, καὶ παρὰ ἀνδρῶν καὶ γυναικῶν ἄξιος ἐλαύνεσθαι, καὶ καταλεύεσθαι, ἅτε ἑκάτερον ἀδικήσας τὸ γένος. Καὶ ἵνα µάθῃς ἡλίκον τοῦτό ἐστιν, εἴ τις ἐλθὼν ἐπηγγέλλετο ἐξ ἀνθρώπων κύνα ποιεῖν σε, ἆρα οὐκ ἂν ὡς λυµεῶνα ἔφυγες; Ἀλλ' ἰδοὺ οὐ κύνα ἐξ ἀνθρώπων σαυτὸν ἐποίησας, ἀλλὰ τὸ τούτου ζῶον ἀτιµότερον· ἐκεῖνο µὲν γὰρ εἰς χρῆσιν ἐπιτήδειον, ὁ δὲ ἡταιρηκὼς οὐδαµοῦ χρήσιµος.",
+                            "spanishTranslation": "Pues no digo solo esto, que te has vuelto mujer, sino que también has perdido el ser hombre, y ni te has transformado en esa naturaleza, ni has conservado la que tenías, sino que te has convertido en un traidor común de ambas, y digno de ser expulsado por hombres y mujeres, y de ser lapidado, por haber injuriado a ambos géneros. Y para que aprendas cuán grande es esto, si alguien viniera y te prometiera convertirte de hombre en perro, ¿acaso no huirías de él como de un destructor? Pero he aquí que no te has convertido de hombre en perro, sino en un animal más deshonroso que este; pues aquel es apto para el uso, pero el que se ha prostituido no es útil para nada."
+                          },
+                          {
+                            "keywords": [
+                              "amenaza",
+                              "dar a luz",
+                              "hombres",
+                              "ira",
+                              "naturaleza femenina"
+                            ],
+                            "lineNumber": [
+                              1058,
+                              1059,
+                              1060
+                            ],
+                            "originalText": "Τί δὲ, εἰπέ µοι, εἴ τις ἠπείλει ποιεῖν τίκτειν ἄνδρας καὶ λοχεύεσθαι, οὐκ ἂν ἐπλήσθηµεν θυµοῦ; Ἀλλ' ἰδοὺ νῦν χαλεπώτερα ἑαυτοὺς κατειργάσαντο οἱ τὰ τοιαῦτα λυττῶντες· οὐ γάρ ἐστιν ἴσον εἰς γυναικείαν µεταβαλεῖν φύσιν, καὶ µένοντα ἄνδρα γενέσθαι γυναῖκα, [[60.420]] µᾶλλον δὲ µήτε τοῦτο µήτε ἐκεῖνο.",
+                            "spanishTranslation": "¿Y dime, si alguien amenazara con hacer que los hombres dieran a luz y fueran paridos, ¿no nos llenaríamos de ira? Pero he aquí que ahora aquellos que se enfurecen con tales cosas se han causado a sí mismos cosas más graves; pues no es lo mismo transformarse en una naturaleza femenina y, permaneciendo hombre, convertirse en mujer, o más bien, ni esto ni aquello."
+                          },
+                          {
+                            "keywords": [
+                              "mal",
+                              "legisladores",
+                              "eunucos",
+                              "mutilan",
+                              "naturaleza",
+                              "injusticia",
+                              "útiles",
+                              "inútil",
+                              "prostituido",
+                              "alma",
+                              "cuerpo",
+                              "deshonrado",
+                              "expulsado"
+                            ],
+                            "lineNumber": [
+                              1061,
+                              1062,
+                              1063,
+                              1064,
+                              1065
+                            ],
+                            "originalText": "Εἰ δὲ βούλει καὶ ἑτέρωθεν µαθεῖν τοῦ κακοῦ τὴν ὑπερβολὴν, ἐρώτησον τίνος ἕνεκεν τοὺς εὐνούχους ποιοῦντας κολάζουσιν οἱ νοµοθέται, καὶ εἴσῃ, ὅτι δι' οὐδὲν ἕτερον πάντως, ἢ ὅτι τὴν φύσιν ἀκρωτηριάζουσι. Καίτοι γε οὐδὲν ἀδικοῦσιν ἐκεῖνοι τοσοῦτον· ἐγένοντο γὰρ οἱ ἀκρωτηριασθέντες καὶ µετὰ τὸν ἀκρωτηριασµὸν πολλαχοῦ χρήσιµοι· ἀνθρώπου δὲ πεπορνευµένου οὐδὲν ἀχρηστότερον γένοιτ' ἄν· οὐ γὰρ ἡ ψυχὴ µόνον, ἀλλὰ καὶ τὸ σῶµα τοῦ τὰ τοιαῦτα παθόντος ἄτιµον καὶ ἄξιον ἐλαύνεσθαι πανταχόθεν.",
+                            "spanishTranslation": "Pero si quieres aprender la magnitud de este mal de otra fuente, pregunta por qué los legisladores castigan a quienes hacen eunucos, y sabrás que ciertamente no es por otra razón que porque mutilan la naturaleza. Y sin embargo, aquellos no cometen una injusticia tan grande; pues los mutilados han llegado a ser útiles en muchos lugares incluso después de la mutilación; pero nada podría ser más inútil que un hombre que se ha prostituido; pues no solo el alma, sino también el cuerpo de quien ha sufrido tales cosas es deshonrado y digno de ser expulsado de todas partes."
+                          },
+                          {
+                            "keywords": [
+                              "Gehennas",
+                              "fuego",
+                              "Sodoma",
+                              "imagen",
+                              "vida"
+                            ],
+                            "lineNumber": [
+                              1066,
+                              1067,
+                              1068
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere al concepto del infierno o castigo eterno (Gehenna) y a la destrucción de Sodoma y Gomorra, que es narrada en el Antiguo Testamento (Génesis 19) como un acto de juicio divino ejemplar.",
+                              "notesGreek": "Γέεννα (Gehenna) es un término griego derivado del hebreo Ge Hinnom (Valle de Hinón), que se usaba para describir un lugar de desecho y quema continua, y en el Nuevo Testamento, se convierte en metáfora del infierno."
+                            },
+                            "originalText": "Πόσαι γέενναι τούτοις ἀρκέσουσιν; Εἰ δὲ γεέννης καταγελᾷς ἀκούων καὶ ἀπιστεῖς, ἐκεῖνο τὸ πῦρ ἀναµνήσθητι τῶν Σοδόµων· εἴδοµεν γὰρ, εἴδοµεν καὶ ἐν τῷ παρόντι βίῳ γεέννης εἰκόνα.",
+                            "spanishTranslation": "¿Cuántas Gehennas serán suficientes para estos? Pero si te ríes de la Gehenna al oírla y no crees, recuerda aquel fuego de Sodoma; porque hemos visto, hemos visto incluso en esta vida presente una imagen de la Gehenna."
+                          },
+                          {
+                            "keywords": [
+                              "resurrección",
+                              "fuego inextinguible",
+                              "Dios",
+                              "Sodoma",
+                              "plaga divina",
+                              "pecado",
+                              "Gehenna",
+                              "palabras",
+                              "obras"
+                            ],
+                            "lineNumber": [
+                              1069,
+                              1070,
+                              1071,
+                              1072,
+                              1073
+                            ],
+                            "originalText": "Ἐπειδὴ γὰρ πολλοὶ τοῖς µετὰ τὴν ἀνάστασιν ἔµελλον διαπιστεῖν, νῦν ἀκούοντες πῦρ ἄσβεστον εἶναι, ἀπὸ τῶν παρόντων αὐτοὺς ἐσωφρόνισεν ὁ Θεός. Τοιοῦτος γοῦν ἐστιν ὁ Σοδόµων ἐµπρησµὸς καὶ ἡ πυρπόλησις ἐκείνη· καὶ ἴσασιν οἱ παραγενόµενοι, καὶ τῇ θέᾳ τὴν πληγὴν ἐκείνην τὴν θεήλατον καὶ τῶν ἄνωθεν κεραυνῶν τὸ ἔργον ἰδόντες. Ἐννόησον ἡλίκον ἐστὶ τὸ ἁµάρτηµα, ὡς βιάσασθαι καὶ πρὸ καιροῦ τὴν γέενναν φανῆναι. Ἐπειδὴ γὰρ πολλοὶ τῶν λόγων κατεφρόνουν, διὰ τῶν ἔργων αὐτοῖς τὴν ἐκείνης εἰκόνα ἐπέδειξεν ὁ Θεὸς καινῷ τινι τρόπῳ.",
+                            "spanishTranslation": "Porque como muchos iban a desconfiar de las cosas después de la resurrección, ahora, oyendo que hay un fuego inextinguible, Dios los hizo reflexionar a partir de las cosas presentes. Tal es, pues, la quema de Sodoma y aquella conflagración; y lo saben los que estuvieron presentes, habiendo visto con sus propios ojos aquella plaga enviada por Dios y la obra de los rayos de arriba. Considera cuán grande es el pecado, que forzó a que la Gehenna apareciera incluso antes de tiempo. Porque como muchos despreciaban las palabras, Dios les mostró una imagen de ella a través de las obras de una manera novedosa."
+                          },
+                          {
+                            "keywords": [
+                              "lluvia",
+                              "paradójico",
+                              "mezcla",
+                              "antinatural",
+                              "tierra",
+                              "deseo",
+                              "almas"
+                            ],
+                            "lineNumber": [
+                              1074,
+                              1075
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La palabra 'µίξις' (mixis) en este contexto se refiere explícitamente a la 'mezcla sexual' o 'coito', en línea con la discusión de la homosexualidad en Sodoma, enfatizando su carácter antinatural."
+                            },
+                            "originalText": "Καὶ γὰρ παράδοξος ἦν ὁ ὑετὸς ἐκεῖνος, ἐπειδὴ καὶ παρὰ φύσιν ἡ µίξις· καὶ κατέκλυσε τὴν γῆν, ἐπειδὴ καὶ τὰς ἐκείνων ψυχὰς ἡ ἐπιθυµία.",
+                            "spanishTranslation": "Pues aquella lluvia también fue paradójica, porque la mezcla [sexual] era contra la naturaleza; y anegó la tierra, así como el deseo anegó las almas de aquellos."
+                          },
+                          {
+                            "keywords": [
+                              "lluvia",
+                              "contraria",
+                              "tierra",
+                              "frutos",
+                              "semillas",
+                              "inútil",
+                              "mezcla",
+                              "Sodoma",
+                              "cuerpo"
+                            ],
+                            "lineNumber": [
+                              1076,
+                              1077,
+                              1078
+                            ],
+                            "originalText": "∆ιὸ καὶ ἀπεναντίας ἦν ὁ ὑετὸς τῷ συνήθει· οὐ γὰρ µόνον οὐ διήγειρε τὴν γαστέρα τῆς γῆς πρὸς τὴν τῶν καρπῶν γένεσιν, ἀλλὰ καὶ πρὸς τὴν ὑποδοχὴν αὐτὴν τῶν σπερµάτων ἄχρηστον ἐποίει. Τοιαύτη γὰρ ἦν ἡ µίξις τῶν ἀνδρῶν τῆς γῆς Σοδόµων, τὸ τοιοῦτον σῶµα ἀχρηστότερον ἀποφαίνουσα.",
+                            "spanishTranslation": "Por eso la lluvia era contraria a lo habitual; pues no solo no estimulaba el vientre de la tierra para la generación de frutos, sino que también lo hacía inútil incluso para la recepción de semillas. Tal era, pues, la mezcla [sexual] de los hombres de la tierra de Sodoma, declarando tal cuerpo aún más inútil."
+                          },
+                          {
+                            "keywords": [
+                              "inmundo",
+                              "abominable",
+                              "locura",
+                              "demencia",
+                              "deseo",
+                              "naturaleza humana",
+                              "enemigos",
+                              "alma",
+                              "cuerpo",
+                              "animales irracionales",
+                              "perros",
+                              "desvergonzados",
+                              "límites"
+                            ],
+                            "lineNumber": [
+                              1079,
+                              1080,
+                              1081,
+                              1082,
+                              1083
+                            ],
+                            "originalText": "Τί γὰρ ἀνδρὸς πεπορνευµένου µυσαρώτερον; τί δὲ ἐναγέστερον; Ὢ τῆς µανίας! ὢ τῆς παραπληξίας! πόθεν εἰσεκώµασεν ἡ ἐπιθυµία αὕτη, τὰ τῶν πολεµίων διατιθεῖσα τὴν ἀνθρωπίνην φύσιν, µᾶλλον δὲ καὶ ἐκείνων χαλεπωτέρα, ὅσῳ καὶ ψυχὴ σώµατος ἀµείνων; Ὦ καὶ ἀλόγων ὑµεῖς ἀνοητότεροι, καὶ κυνῶν ἀναιδέστεροι! Οὐδαµοῦ γὰρ τοιαύτη µίξις παρ' ἐκείνοις, ἀλλ' ἐπιγινώσκει τοὺς ἰδίους ὅρους ἡ φύσις· ὑµεῖς δὲ καὶ τῶν ἀλόγων ἀτιµότερον τὸ γένος εἰργάσασθε τὸ ὑµέτερον καθυβρίζοντες.",
+                            "spanishTranslation": "¿Qué hay, pues, más inmundo que un hombre que se ha prostituido? ¿Y qué más abominable? ¡Oh locura! ¡Oh demencia! ¿De dónde se introdujo este deseo, tratando la naturaleza humana como si fuera de enemigos, o más bien, incluso más grave que eso, por cuanto el alma es mejor que el cuerpo? ¡Oh, y vosotros, más insensatos que los animales irracionales, y más desvergonzados que los perros! Pues en ninguna parte entre ellos hay tal mezcla [sexual], sino que la naturaleza reconoce sus propios límites; pero vosotros habéis hecho vuestro propio género más deshonroso que el de los animales irracionales al ultrajarlo."
+                          },
+                          {
+                            "keywords": [
+                              "males",
+                              "suntuosidad",
+                              "Dios",
+                              "temor",
+                              "bienes"
+                            ],
+                            "lineNumber": [
+                              1084,
+                              1085,
+                              1086
+                            ],
+                            "originalText": "Πόθεν οὖν ταῦτα ἐτέχθη τὰ κακά; Ἀπὸ τρυφῆς, ἀπὸ τοῦ µὴ εἰδέναι Θεόν· ὅταν γὰρ ἐκβάλωσί τινες αὐτοῦ τὸν φόβον, πάντα οἴχεται λοιπὸν τὰ καλά.",
+                            "spanishTranslation": "¿De dónde, pues, nacieron estos males? De la suntuosidad, de no conocer a Dios; porque cuando algunos desechan el temor de Él, todas las cosas buenas se pierden entonces."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 4,
+                    "chapterSummary": "El autor contrasta la seguridad que brinda el temor de Dios con la peligrosa distracción por las riquezas y las cosas mundanas, exhortando a buscar la virtud y el deleite espiritual.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              1087
+                            ],
+                            "originalText": "δʹ.",
+                            "spanishTranslation": "Cuarto."
+                          },
+                          {
+                            "lineNumber": [
+                              1088
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra \"φόβον\" (fóbon) aquí se refiere a un temor reverencial, un respeto profundo y pío hacia Dios, más que a un miedo paralizante."
+                            },
+                            "originalText": "Ἵν' οὖν µὴ τοῦτο γένηται, ἔχωµεν πρὸ ὀφθαλµῶν ἀκριβῆ τὸν τοῦ Θεοῦ φόβον.",
+                            "spanishTranslation": "Para que esto no suceda, tengamos ante nuestros ojos el preciso temor de Dios."
+                          },
+                          {
+                            "lineNumber": [
+                              1089
+                            ],
+                            "notes": {
+                              "notesGeneral": "La 'ancla' es una metáfora poderosa que simboliza la estabilidad y la seguridad que proporciona el temor reverencial de Dios, contrastando con el peligro de desviarse de Él."
+                            },
+                            "originalText": "Οὐδὲν γὰρ, οὐδὲν οὕτως ἀπόλλυσιν ἄνθρωπον, ὡς τὸ ταύτης ἐκπεσεῖν τῆς ἀγκύρας·",
+                            "spanishTranslation": "Porque nada, nada destruye tanto al hombre como el caer de esta ancla;"
+                          },
+                          {
+                            "lineNumber": [
+                              1090
+                            ],
+                            "originalText": "ὥσπερ οὐδὲν σώζει, ὡς τὸ διηνεκῶς ἐκεῖ βλέπειν.",
+                            "spanishTranslation": "así como nada salva tanto como el mirar continuamente hacia allí."
+                          },
+                          {
+                            "lineNumber": [
+                              1091
+                            ],
+                            "originalText": "Εἰ γὰρ ἄνθρωπον ἔχοντες πρὸ ὀφθαλµῶν, ὀκνηρότεροι γινόµεθα περὶ τὰ ἁµαρτήµατα, πολλάκις δὲ καὶ οἰκέτας ἐρυθριάσαντες ἐπιεικεστέρους, οὐδὲν πράττοµεν ἄτοπον, ἐννόησον πόσης ἀπολαύσοµεν ἀσφαλείας, τὸν Θεὸν πρὸ ὀφθαλµῶν ἔχοντες.",
+                            "spanishTranslation": "Porque si, teniendo a un hombre ante nuestros ojos, nos volvemos más reacios a pecar, y a menudo incluso al avergonzarnos ante los sirvientes, no hacemos nada indebido, considera cuánta seguridad disfrutaremos teniendo a Dios ante nuestros ojos."
+                          },
+                          {
+                            "lineNumber": [
+                              1092
+                            ],
+                            "originalText": "Οὐδαµοῦ γὰρ ὁ διάβολος ἡµῖν οὕτω διακειµένοις ἐπιθήσεται, ἅτε ἀνόνητα πονῶν·",
+                            "spanishTranslation": "Porque el diablo no nos atacará en ningún lugar si estamos así dispuestos, ya que sus esfuerzos serían inútiles;"
+                          },
+                          {
+                            "lineNumber": [
+                              1093
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra \"ἀποβουκολῆσαι\" (apoboukolēsai) literalmente significa 'llevar a pastar lejos del rebaño'. En sentido figurado, implica desviar, engañar o guiar a la perdición.",
+                              "notesLinguistics": "La construcción del texto sugiere que si el diablo encuentra al hombre sin control (sin freno), es el propio hombre quien le da la 'entrada' o 'principio' (τὴν ἀρχὴν) para ser desviado."
+                            },
+                            "originalText": "ἂν δὲ πλανωµένους ἔξω, καὶ χωρὶς χαλινοῦ περιιόντας ἴδῃ, παρ' ἡµῶν λαβὼν τὴν ἀρχὴν, πανταχοῦ λοιπὸν ἡµᾶς ἀποβουκολῆσαι δυνήσεται.",
+                            "spanishTranslation": "pero si nos ve vagando afuera y andando sin freno, tomando de nosotros el punto de partida, entonces podrá pastorearnos (guiarnos mal) por todas partes."
+                          },
+                          {
+                            "lineNumber": [
+                              1094
+                            ],
+                            "notes": {
+                              "notesFromSource": "La referencia '[[60.421]]' indica una numeración de página en la edición de Migne del texto original, no parte del contenido a traducir."
+                            },
+                            "originalText": "Καὶ ὅπερ οἱ ῥᾴθυµοι τῶν οἰκετῶν πάσχουσιν ἐπ' ἀγορᾶς, τὰς µὲν ἀναγκαίας ἀφέντες διακονίας, ἐφ' ἅς εἰσιν ἀπεσταλµένοι παρὰ τῶν δεσποτῶν, ἁπλῶς δὲ καὶ εἰκῆ τοῖς παρεµπίπτουσι προσ [[60.421]] ηλούµενοι, καὶ τὴν σχολὴν ἐκεῖ καταναλίσκοντες, τοῦτο καὶ ἡµεῖς ὑποµένοµεν, ὅταν ἀποστῶµεν τῶν ἐπιταγµάτων τοῦ Θεοῦ.",
+                            "spanishTranslation": "Y lo que sufren los siervos perezosos en el mercado, abandonando los servicios necesarios para los que fueron enviados por sus amos, y sin más, al azar, se dedican a lo que se les presenta, y allí consumen su tiempo libre, esto mismo padecemos nosotros cuando nos apartamos de los mandatos de Dios."
+                          },
+                          {
+                            "lineNumber": [
+                              1095
+                            ],
+                            "originalText": "Ἑστήκαµεν γὰρ λοιπὸν πλοῦτον θαυµάζοντες, καὶ κάλλος σώµατος, καὶ τὰ ἄλλα τὰ µηδὲν πρὸς ἡµᾶς, ὥσπερ ἐκεῖνοι οἱ οἰκέται τῶν ἐπαιτῶν τοῖς θαυµατοποιοῦσι προσέχουσιν, εἶτα ἐλθόντες βραδέως, οἴκοι τὰς ἐσχάτας ὑποµένουσι πληγάς.",
+                            "spanishTranslation": "Pues entonces nos quedamos maravillándonos de la riqueza, y de la belleza del cuerpo, y de las demás cosas que nada tienen que ver con nosotros, así como aquellos siervos de los mendigos prestan atención a los que hacen maravillas, y luego, llegando tarde, en casa sufren los últimos azotes."
+                          },
+                          {
+                            "lineNumber": [
+                              1096
+                            ],
+                            "originalText": "Πολλοὶ δὲ καὶ τὴν ὁδὸν τὴν προκειµένην παρῆλθον, ἑτέροις τοιαῦτα ἀσχηµονοῦσιν ἀκολουθοῦντες.",
+                            "spanishTranslation": "Y muchos incluso han pasado de largo el camino que tenían delante, siguiendo a otros que actúan de tal manera deshonrosa."
+                          },
+                          {
+                            "lineNumber": [
+                              1097
+                            ],
+                            "originalText": "Ἀλλὰ µὴ ἡµεῖς τοῦτο ποιῶµεν·",
+                            "spanishTranslation": "Pero no hagamos nosotros esto;"
+                          },
+                          {
+                            "lineNumber": [
+                              1098
+                            ],
+                            "originalText": "καὶ γὰρ ἀπεστάλµεθα ἀνύσαι πολλὰ τῶν κατεπειγόντων, κἂν ἀφέντες ἐκεῖνα στῶµεν κεχηνότες πρὸς τὰ ἀνόνητα ταῦτα, ἀναλωθέντος ἡµῖν τοῦ καιροῦ παντὸς εἰκῆ καὶ µάτην, τὴν ἐσχάτην δώσοµεν δίκην.",
+                            "spanishTranslation": "pues fuimos enviados a cumplir muchas cosas urgentes, y si abandonamos aquello y nos quedamos boquiabiertos ante estas cosas inútiles, habiéndose consumido todo nuestro tiempo en vano y sin provecho, pagaremos la última pena."
+                          },
+                          {
+                            "lineNumber": [
+                              1099
+                            ],
+                            "originalText": "Εἰ γὰρ καὶ ἀσχολεῖν βούλει σαυτὸν, ἔχεις ἃ θαυµάζειν ὀφείλεις, καὶ περὶ ἃ κεχηνέναι πάντα τὸν χρόνον·",
+                            "spanishTranslation": "Pues si también quieres ocuparte, tienes cosas que debes admirar, y en las que debes pasar todo el tiempo boquiabierto;"
+                          },
+                          {
+                            "lineNumber": [
+                              1100
+                            ],
+                            "originalText": "ἅπερ οὐ γέλωτός ἐστιν ἄξια, ἀλλὰ θαύµατος καὶ ἐπαίνων πολλῶν, ὡς ὅ γε τὰ καταγέλαστα θαυµάζων, καὶ αὐτὸς ἔσται τοιοῦτος, καὶ τοῦ γελωτοποιοῦντος χείρων·",
+                            "spanishTranslation": "cosas que no son dignas de risa, sino de admiración y muchas alabanzas, ya que quien admira lo ridículo, él mismo será tal, e incluso peor que el que hace reír;"
+                          },
+                          {
+                            "lineNumber": [
+                              1101
+                            ],
+                            "originalText": "ὅπερ ἵνα µὴ πάθῃς, ἀποπήδησον ταχέως.",
+                            "spanishTranslation": "para que no sufras esto, salta rápidamente (apártate sin demora)."
+                          },
+                          {
+                            "lineNumber": [
+                              1102
+                            ],
+                            "notes": {
+                              "notesGreek": "La expresión \"ἀνεπτερωµένος\" (aneptērōmenos) significa literalmente 'con las alas levantadas' o 'excitado', 'elevado'. Aquí se usa para denotar estar fascinado o extasiado ante algo."
+                            },
+                            "originalText": "Τί γὰρ καὶ ἕστηκας, εἰπέ µοι, πρὸς τὸν πλοῦτον κεχηνὼς καὶ ἀνεπτερωµένος;",
+                            "spanishTranslation": "Porque ¿qué haces de pie, dime, boquiabierto y fascinado (literalmente 'con las alas levantadas') ante la riqueza?"
+                          },
+                          {
+                            "lineNumber": [
+                              1103
+                            ],
+                            "originalText": "τί θαυµαστὸν ὁρᾷς καὶ ἱκανόν σου τοὺς ὀφθαλµοὺς κατασχεῖν;",
+                            "spanishTranslation": "¿Qué cosa admirable ves que sea capaz de retener tus ojos?"
+                          },
+                          {
+                            "lineNumber": [
+                              1104
+                            ],
+                            "notes": {
+                              "notesGreek": "\"καταµαλακιζοµένην\" (katamalakizomenēn) se refiere a ablandarse, afeminarse, o volverse débil e indolente por el lujo. \"ἀνεσπασµένην ὀφρῦν\" (anespasmenēn ophrŷn) se refiere a la ceja levantada, un signo de arrogancia o desdén.",
+                              "notesLinguistics": "La lista de elementos describe el fausto y la vanidad de los ricos de la época, incluyendo los caballos lujosamente adornados, los sirvientes (bárbaros o eunucos, que a menudo servían en casas ricas), y la ostentación de la moda y el comportamiento arrogante."
+                            },
+                            "originalText": "τοὺς χρυσοφοροῦντας ἵππους, καὶ τοὺς οἰκέτας τοὺς µὲν βαρβάρους, τοὺς δὲ εὐνούχους, καὶ τὰ ἱµάτια τὰ πολυτελῆ, καὶ τὴν καταµαλακιζοµένην ἐν τούτοις ψυχὴν, καὶ τὴν ἀνεσπασµένην ὀφρὺν, καὶ τὰς περιδροµὰς, καὶ τοὺς θορύβους;",
+                            "spanishTranslation": "¿Los caballos que llevan oro, y los sirvientes, algunos bárbaros, otros eunucos, y las vestiduras costosas, y el alma que se afemina (se debilita) en todo esto, y la ceja levantada (arrogancia), y los rodeos (el movimiento constante), y los ruidos?"
+                          },
+                          {
+                            "lineNumber": [
+                              1105
+                            ],
+                            "originalText": "Καὶ ποῦ ταῦτα ἄξια θαύµατος;",
+                            "spanishTranslation": "¿Y dónde están estas cosas dignas de admiración?"
+                          },
+                          {
+                            "lineNumber": [
+                              1106
+                            ],
+                            "notes": {
+                              "notesFromSource": "La referencia '[[60.422]]' indica una numeración de página en la edición de Migne del texto original, no parte del contenido a traducir."
+                            },
+                            "originalText": "τί δὲ [[60.422]] οὗτοι τῶν ἐπαιτῶν διεστήκασι τῶν ὀρχουµένων, καὶ συριζόντων ἐπὶ τῆς ἀγορᾶς;",
+                            "spanishTranslation": "¿Y en qué se diferencian estos de los mendigos que danzan y silban en el mercado?"
+                          },
+                          {
+                            "lineNumber": [
+                              1107
+                            ],
+                            "notes": {
+                              "notesGreek": "La frase \"ἑταιριζοµένων γυναικῶν καταγώγιον\" (hetairizomenōn gynaikōn katagōgion) se refiere a un lugar de alojamiento o reunión de mujeres de vida disoluta, es decir, un burdel. La comparación es fuerte, equiparando la vida vana de los ricos con la de los mendigos, y peor aún, con una vida de disipación y búsqueda de placeres bajos."
+                            },
+                            "originalText": "Καὶ γὰρ καὶ οὗτοι πολλῷ τῷ λιµῷ τῆς ἀρετῆς κατεχόµενοι, χορεύουσιν ἐκείνων χορείαν καταγελαστοτέραν, ἀγόµενοι καὶ περιαγόµενοι, νῦν µὲν εἰς τραπέζας πολυτελεῖς, νῦν δὲ εἰς ἑταιριζοµένων γυναικῶν καταγώγιον, νῦν δὲ εἰς κολάκων ἐσµοὺς καὶ παρασίτων πλῆθος.",
+                            "spanishTranslation": "Pues también estos, dominados por una gran hambruna de virtud, danzan una danza más ridícula que aquellos, siendo llevados y conducidos de un lado a otro, ahora a mesas suntuosas, ahora a burdeles de mujeres rameras, ahora a multitudes de aduladores y parásitos."
+                          },
+                          {
+                            "lineNumber": [
+                              1108
+                            ],
+                            "originalText": "Εἰ δὲ χρυσοφοροῦσι, διὰ τοῦτο µάλιστα ἐλεεινοὶ, ὅτι τὰ µηδὲν πρὸς αὐτοὺς περισπούδαστα αὐτοῖς µᾶλλόν εἰσι.",
+                            "spanishTranslation": "Y si llevan oro, por esto mismo son más dignos de compasión, porque lo que nada tiene que ver con ellos es para ellos más digno de afán."
+                          },
+                          {
+                            "lineNumber": [
+                              1109
+                            ],
+                            "notes": {
+                              "notesGeneral": "Esta es una potente metáfora sobre el estado espiritual y moral. Por fuera, las vestiduras de oro simbolizan la riqueza, pero por dentro, el alma está 'vestida de harapos' y llena de 'heridas', representando la corrupción moral y la carencia espiritual."
+                            },
+                            "originalText": "Μὴ γάρ µοι τὰ ἱµάτια ἴδῃς, ἀλλὰ ἀνακάλυψον αὐτῶν τὴν ψυχὴν, καὶ σκόπησον εἰ µὴ µυρίων γέµει τραυµάτων, καὶ ῥάκια περιβέβληται, καὶ ἔστιν ἔρηµος καὶ ἀπροστάτευτος.",
+                            "spanishTranslation": "No mires sus vestiduras, sino descubre su alma, y observa si no está llena de innumerables heridas, y vestida de harapos, y si no está desolada y desprotegida."
+                          },
+                          {
+                            "lineNumber": [
+                              1110
+                            ],
+                            "originalText": "Τί οὖν ὄφελος τῆς ἔξω µανίας;",
+                            "spanishTranslation": "¿De qué sirve, pues, esa locura exterior?"
+                          },
+                          {
+                            "lineNumber": [
+                              1111
+                            ],
+                            "originalText": "Καὶ γὰρ πολλῷ βέλτιον πένητα εἶναι ἐν ἀρετῇ ζῶντα, ἢ βασιλέα ὄντα µετὰ πονηρίας.",
+                            "spanishTranslation": "Porque es mucho mejor ser pobre viviendo en virtud, que ser rey con maldad."
+                          },
+                          {
+                            "lineNumber": [
+                              1112
+                            ],
+                            "originalText": "Ὁ µὲν γὰρ πένης παρ' ἑαυτῷ ἀπολαύει πάσης τῆς κατὰ ψυχὴν τρυφῆς, καὶ οὐδὲ τῆς ἔξωθεν αἰσθάνεται πενίας διὰ τὸν ἔνδον πλοῦτον·",
+                            "spanishTranslation": "Porque el pobre disfruta en sí mismo de todo el deleite del alma, y ni siquiera siente la pobreza externa debido a la riqueza interior;"
+                          },
+                          {
+                            "lineNumber": [
+                              1113
+                            ],
+                            "originalText": "ὁ δὲ βασιλεὺς τρυφῶν ἐν τοῖς οὐδὲν αὐτῷ προσήκουσιν, ἐν τοῖς µάλιστα αὐτῷ διαφέρουσι κολάζεται, ἐν ψυχῇ καὶ λογισµοῖς καὶ τῷ συνειδότι, τοῖς ἐκεῖ συναποδηµοῦσιν αὐτῷ.",
+                            "spanishTranslation": "mientras que el rey, deleitándose en lo que nada le pertenece, es castigado en lo que más le importa, en su alma, en sus pensamientos y en su conciencia, cosas que le acompañarán allí (en el más allá)."
+                          },
+                          {
+                            "lineNumber": [
+                              1114
+                            ],
+                            "originalText": "Ταῦτ' οὖν εἰδότες, τὰ µὲν ἱµάτια ἀποθώµεθα τὰ χρυσᾶ, ἀνελώµεθα δὲ ἀρετὴν καὶ τὴν ἐκ ταύτης ἡδονήν.",
+                            "spanishTranslation": "Sabiendo, pues, estas cosas, depongamos las vestiduras de oro, y vistámonos de virtud y del placer que de ella proviene."
+                          },
+                          {
+                            "lineNumber": [
+                              1115
+                            ],
+                            "originalText": "Οὕτω γὰρ καὶ ἐνταῦθα καὶ ἐκεῖ πολλῆς ἀπολαύσοµεν τῆς τρυφῆς, καὶ τῶν ἐπηγγελµένων ἐπιτύχωµεν ἀγαθῶν, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡµῶν Ἰησοῦ Χριστοῦ, µεθ' οὗ τῷ Πατρὶ καὶ τῷ ἁγίῳ Πνεύµατι δόξα, τιµὴ, κράτος νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων.",
+                            "spanishTranslation": "Porque así tanto aquí como allá disfrutaremos de gran deleite, y alcanzaremos los bienes prometidos, por la gracia y la filantropía de nuestro Señor Jesucristo, con quien al Padre y al Espíritu Santo sea la gloria, el honor y el poder ahora y siempre y por los siglos de los siglos."
+                          },
+                          {
+                            "lineNumber": [
+                              1116
+                            ],
+                            "originalText": "Ἀµήν.",
+                            "spanishTranslation": "Amén."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

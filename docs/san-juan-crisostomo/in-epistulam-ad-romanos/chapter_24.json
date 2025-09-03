@@ -1,0 +1,1841 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Iohannes Chrysostomus",
+      "authorSpanish": "San Juan Cristóstomo",
+      "originalTitle": "In Epistulam ad Romanos",
+      "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 24,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 24,
+                    "chapterSummary": "Introducción a la Homilía XXIV, que aborda la urgencia de despertar espiritualmente.",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "homilía",
+                              "24"
+                            ],
+                            "lineNumber": [
+                              8835
+                            ],
+                            "originalText": "ΟΜΙΛΙΑ Κ∆ʹ.",
+                            "spanishTranslation": "HOMILÍA XXIV."
+                          },
+                          {
+                            "keywords": [
+                              "tiempo",
+                              "despertar",
+                              "sueño"
+                            ],
+                            "lineNumber": [
+                              8836
+                            ],
+                            "notes": {
+                              "notesBiblical": "Este versículo es el inicio de Romanos 13:11. El apóstol Pablo exhorta a los creyentes a la vigilancia y a vivir de acuerdo con su fe, conscientes de la cercanía de la salvación final.",
+                              "notesGreek": "El término griego \"καιρὸν\" (kairon) se refiere a un tiempo oportuno, un momento decisivo o el tiempo fijado, no simplemente el tiempo cronológico (chronos). \"ἐγερθῆναι\" (egerthēnai) es un aoristo pasivo infinitivo de \"ἐγείρω\" (egeirō), que significa ser despertado, levantarse."
+                            },
+                            "originalText": "Καὶ τοῦτο, εἰδότες τὸν καιρὸν, ὅτι ὥρα ἡµᾶς ἤδη ἐξ ὕπνου ἐγερθῆναι.",
+                            "spanishTranslation": "Y esto, conociendo el tiempo, que ya es hora de que nosotros despertemos del sueño."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 24,
+                    "chapterSummary": "Esta sección, correspondiente a la homilía 24, explica la exhortación de Pablo en Romanos 13:11-13 sobre la inminencia de la salvación y el juicio. Crisóstomo insta a la vigilia espiritual y la renuncia a la indolencia, usando analogías cotidianas como el amanecer y corredores. Exhorta a abandonar las 'obras de las tinieblas' y vestirse con las 'armas de la luz', describiendo la batalla espiritual no como una carga, sino como una fiesta. Aclara las prohibiciones paulinas contra las orgías, la embriaguez, la inmoralidad sexual, las contiendas y la envidia, enfatizando que se busca erradicar las fuentes de las pasiones, no las acciones naturales en sí mismas.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              8838
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐπειδὴ πάντα ἅπερ ἐχρῆν ἐπέταξεν, ὠθεῖ πάλιν αὐτοὺς εἰς τὴν τῶν ἀγαθῶν ἐργασίαν ἀπὸ τοῦ κατεπείγοντος.",
+                            "spanishTranslation": "Puesto que ya ha ordenado todo lo que era necesario, los impulsa de nuevo a la realización de las obras buenas, a partir de la urgencia."
+                          },
+                          {
+                            "lineNumber": [
+                              8839
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐπὶ θύραις γὰρ, φησὶν, ὁ τῆς κρίσεως ἕστηκε καιρός·",
+                            "spanishTranslation": "Pues, dice, el tiempo del juicio está a las puertas."
+                          },
+                          {
+                            "lineNumber": [
+                              8840
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a 1 Corintios 7:29. La frase 'ὁ καιρὸς συνεσταλµένος' (ho kairos synestalmenos) se traduce como 'el tiempo se ha acortado' o 'el tiempo es ya corto', enfatizando la inminencia escatológica."
+                            },
+                            "originalText": "καθάπερ καὶ Κορινθίοις ἔγραφεν, ὅτι Ὁ καιρὸς συνεσταλµένος τὸ λοιπόν ἐστι·",
+                            "spanishTranslation": "como también escribió a los Corintios: \"El tiempo es ya corto.\""
+                          },
+                          {
+                            "lineNumber": [
+                              8841
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Hebreos 10:37, que a su vez cita Habacuc 2:3. Subraya la certeza e inminencia de la segunda venida de Cristo."
+                            },
+                            "originalText": "καὶ Ἑβραίοις δὲ πάλιν, Ἔτι µικρὸν ὅσον ὅσον, ὁ ἐρχόµενος ἥξει, καὶ οὐ χρονιεῖ.",
+                            "spanishTranslation": "Y de nuevo a los Hebreos: \"Todavía un poquito, y el que ha de venir vendrá, y no tardará.\""
+                          },
+                          {
+                            "lineNumber": [
+                              8842
+                            ],
+                            "notes": {},
+                            "originalText": "Ἀλλ' ἐκεῖ µὲν τοὺς πονουµένους ἀνιστὰς, καὶ τοὺς ἱδρῶτας τῶν ἐπαλλήλων πειρασµῶν παραµυθούµενος ταῦτα ἔλεγεν, ἐνταῦθα δὲ τοὺς καθεύδοντας διεγείρων·",
+                            "spanishTranslation": "Pero allí (aquéllos), al levantar a los que sufrían y consolar los sudores de las repetidas pruebas, decía estas cosas; aquí, en cambio, al despertar a los que duermen."
+                          },
+                          {
+                            "lineNumber": [
+                              8843
+                            ],
+                            "notes": {},
+                            "originalText": "καὶ γὰρ πρὸς ἀµφότερα χρήσιµος ἡµῖν οὗτος ὁ λόγος.",
+                            "spanishTranslation": "Porque esta palabra es útil para nosotros en ambos casos."
+                          },
+                          {
+                            "lineNumber": [
+                              8844
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 13:11."
+                            },
+                            "originalText": "Τί δέ ἐστιν, ὅ φησιν, Ὥρα ἡµᾶς ἤδη ἐξ ὕπνου ἐγερθῆναι;",
+                            "spanishTranslation": "¿Y qué significa lo que dice: \"Ya es hora de que nos levantemos del sueño\"?"
+                          },
+                          {
+                            "lineNumber": [
+                              8845
+                            ],
+                            "notes": {
+                              "notesBiblical": "La expresión 'ἡ ἡµέρα ἡ ὡς κλίβανος καιοµένη' (hē hēmera hē hōs klibanos kaiomenē) evoca pasajes como Malaquías 4:1 (3:19 en algunas versiones), que habla del 'día que viene, ardiente como un horno'."
+                            },
+                            "originalText": "Τουτέστιν, ἐγγὺς ἡ ἀνάστασις, ἐγγὺς ἡ κρίσις ἡ φοβερὰ, ἐγγὺς ἡ ἡµέρα ἡ ὡς κλίβανος καιοµένη·",
+                            "spanishTranslation": "Es decir, cercana está la resurrección, cercano el juicio terrible, cercana la día que arde como horno."
+                          },
+                          {
+                            "lineNumber": [
+                              8846
+                            ],
+                            "notes": {
+                              "notesGreek": "El término 'ῥᾳθυµία' (rhythymia) se refiere a la indolencia, negligencia, pereza o despreocupación, lo opuesto a la diligencia espiritual."
+                            },
+                            "originalText": "καὶ δεῖ λοιπὸν ἡµᾶς ἀπαλλαγῆναι τῆς ῥᾳθυµίας.",
+                            "spanishTranslation": "Y es necesario que ahora nos libremos de la indolencia."
+                          },
+                          {
+                            "lineNumber": [
+                              8847
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 13:11. Este versículo es central en la exhortación de Pablo que Crisóstomo está explicando."
+                            },
+                            "originalText": "Νῦν γὰρ ἐγγύτερον ἡµῶν ἡ σωτηρία, ἢ ὅτε ἐπιστεύσαµεν.",
+                            "spanishTranslation": "Porque ahora nuestra salvación está más cerca que cuando creímos."
+                          },
+                          {
+                            "lineNumber": [
+                              8848
+                            ],
+                            "notes": {},
+                            "originalText": "Ὁρᾷς πῶς ἐφίστησιν αὐτοῖς ἤδη τὴν ἀνάστασιν;",
+                            "spanishTranslation": "¿Ves cómo les presenta ya la resurrección?"
+                          },
+                          {
+                            "lineNumber": [
+                              8849
+                            ],
+                            "notes": {},
+                            "originalText": "Τοῦ χρόνου γὰρ προϊόντος, φησὶν, ὁ µὲν τοῦ παρόντος βίου δαπανᾶται καιρὸς, ὁ δὲ τοῦ µέλλοντος αἰῶνος ἐγγύτερος γίνεται.",
+                            "spanishTranslation": "Pues, dice, a medida que el tiempo avanza, el período de esta vida presente se consume, y el del siglo futuro se acerca."
+                          },
+                          {
+                            "lineNumber": [
+                              8850
+                            ],
+                            "notes": {},
+                            "originalText": "Ἂν µὲν οὖν ᾖς παρεσκευασµένος, καὶ πάντα πεποιηκὼς ὅσα ἐπέταξε, σωτηρίας γίνεται ἡ ἡµέρα·",
+                            "spanishTranslation": "Así pues, si estás preparado y has hecho todo lo que él ordenó, el día se convierte en salvación."
+                          },
+                          {
+                            "lineNumber": [
+                              8851
+                            ],
+                            "notes": {},
+                            "originalText": "ἂν δὲ τοὐναντίον, οὐκέτι.",
+                            "spanishTranslation": "Pero si es lo contrario, ya no."
+                          },
+                          {
+                            "lineNumber": [
+                              8852
+                            ],
+                            "notes": {},
+                            "originalText": "Ἀλλ' οὐκ ἀπὸ τῶν λυπηρῶν, ἀλλ' ἀπὸ τῶν χρηστῶν προτρέπει τέως, καὶ ταύτῃ τῆς τῶν παρόντων αὐτοὺς ἀπολύων συµπαθείας.",
+                            "spanishTranslation": "Pero por ahora no exhorta a partir de cosas dolorosas, sino de las buenas, y de este modo los libera de la afición por las cosas presentes."
+                          },
+                          {
+                            "lineNumber": [
+                              8853
+                            ],
+                            "notes": {},
+                            "originalText": "Εἶτα, ἐπειδὴ εἰκὸς ἦν αὐτοὺς ἐν µὲν ἀρχῇ καὶ προοιµίοις σπουδαιοτέρους εἶναι, ἅτε ἀκµάζοντος αὐτοῖς τοῦ πόθου, τοῦ χρόνου δὲ προελθόντος καταµαρανθῆναι τὴν πᾶσαν σπουδὴν, φησὶν ὅτι τοὐναντίον µὲν οὖν δεῖ ποιεῖν, οὐχὶ ἐκλύεσθαι προϊόντος τοῦ χρόνου, ἀλλὰ µᾶλλον ἀκµάζειν.",
+                            "spanishTranslation": "Luego, puesto que era probable que al principio y en los inicios fueran más diligentes, floreciendo en ellos el deseo, pero que con el paso del tiempo todo su celo se marchitara, dice que, al contrario, es necesario hacer lo opuesto: no desfallecer al transcurrir el tiempo, sino más bien florecer."
+                          },
+                          {
+                            "lineNumber": [
+                              8854
+                            ],
+                            "notes": {},
+                            "originalText": "Ὅσῳ γὰρ ἂν ὁ βασιλεὺς ἐγγίζῃ, τοσούτῳ µᾶλλον δεῖ παρασκευάσασθαι·",
+                            "spanishTranslation": "Porque cuanto más se acerque el Rey, tanto más es necesario prepararse."
+                          },
+                          {
+                            "lineNumber": [
+                              8855
+                            ],
+                            "notes": {},
+                            "originalText": "ὅσῳ µᾶλλον ἐγγὺς τὸ βραβεῖον, τοσούτῳ µᾶλλον διεγείρεσθαι χρὴ πρὸς τοὺς ἀγῶνας·",
+                            "spanishTranslation": "Cuanto más cerca esté el premio, tanto más debemos ser estimulados para las contiendas."
+                          },
+                          {
+                            "lineNumber": [
+                              8856
+                            ],
+                            "notes": {},
+                            "originalText": "ἐπεὶ καὶ οἱ δροµεῖς τοῦτο ποιοῦσιν·",
+                            "spanishTranslation": "Porque esto mismo hacen también los corredores."
+                          },
+                          {
+                            "lineNumber": [
+                              8857
+                            ],
+                            "notes": {},
+                            "originalText": "ὅταν πρὸς τῷ τέλει τοῦ δρόµου γίνωνται καὶ τῇ τοῦ βραβείου λήψει, τότε διανίστανται µειζόνως.",
+                            "spanishTranslation": "Cuando llegan al final de la carrera y a la obtención del premio, entonces se esfuerzan con mayor vigor."
+                          },
+                          {
+                            "lineNumber": [
+                              8858
+                            ],
+                            "notes": {
+                              "notesBiblical": "Reiteración de Romanos 13:11."
+                            },
+                            "originalText": "∆ιὰ τοῦτο ἔλεγε, Νῦν ἐγγύτερον ἡµῶν ἡ σωτηρία, ἢ ὅτε ἐπιστεύσαµεν.",
+                            "spanishTranslation": "Por eso decía: \"Ahora nuestra salvación está más cerca que cuando creímos.\""
+                          },
+                          {
+                            "lineNumber": [
+                              8859
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 13:12. La expresión 'La noche ha avanzado' (Ἡ νὺξ προέκοψεν) sugiere que el tiempo de la oscuridad, la ignorancia y el pecado está terminando, y la 'luz' de Cristo y su día de juicio/salvación está por manifestarse."
+                            },
+                            "originalText": "Ἡ νὺξ προέκοψεν, ἡ δὲ ἡµέρα ἤγγικεν.",
+                            "spanishTranslation": "La noche ha avanzado, y el día se ha acercado."
+                          },
+                          {
+                            "lineNumber": [
+                              8860,
+                              8861
+                            ],
+                            "notes": {},
+                            "originalText": "Οὐκοῦν εἰ αὕτη µὲν τελευτᾷ, ἐκείνη δὲ πλησιάζει· τὰ ἐκείνης πράττωµεν λοιπὸν, µὴ τὰ ταύτης.",
+                            "spanishTranslation": "Por consiguiente, si esta (noche) termina y aquella (día) se acerca, hagamos ya las cosas de aquella, no las de esta."
+                          },
+                          {
+                            "lineNumber": [
+                              8862
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ γὰρ καὶ ἐν τοῖς βιωτικοῖς τοῦτο γίνεται·",
+                            "spanishTranslation": "Pues también en las cosas de la vida cotidiana esto sucede."
+                          },
+                          {
+                            "lineNumber": [
+                              8863
+                            ],
+                            "notes": {
+                              "notesGreek": "'πρὸς ὄρθρον' (pros orthron) se refiere al amanecer, el alba. La mención de la golondrina cantando es un detalle vívido de la vida cotidiana que Chrysostom usa para ilustrar su punto."
+                            },
+                            "originalText": "καὶ ὅταν ἴδωµεν πρὸς ὄρθρον τὴν νύκτα ἐπειγοµένην, καὶ χελιδόνος ᾀδούσης ἀκούσωµεν, τὸν πλησίον ἕκαστος διεγείροµεν, καίτοιγε ἔτι τῆς νυκτὸς οὔσης·",
+                            "spanishTranslation": "Y cuando al amanecer vemos que la noche se apresura a irse, y oímos cantar a la golondrina, cada uno de nosotros despierta a su prójimo, aunque todavía sea de noche."
+                          },
+                          {
+                            "lineNumber": [
+                              8864
+                            ],
+                            "notes": {},
+                            "originalText": "ἀλλ' ἐπειδὴ λοιπὸν ἄπεισιν, ἐπειγόµεθα λοιπὸν λέγοντες ἀλλήλοις, ὅτι Ἡµέρα γέγονε, καὶ τὰ τῆς ἡµέρας ἅπαντα πράττοµεν, ἐνδυόµενοι καὶ ὀνείρων ἀπαλλαττόµενοι καὶ ὕπνον διακρουόµενοι, ἵνα παρεσκευασµένους ἡ ἡµέρα εὕρῃ, καὶ µὴ ἀνισχούσης ἀκτῖνος τότε ἀρξώµεθα ἀνίστασθαι καὶ διατείνεσθαι.",
+                            "spanishTranslation": "Pero puesto que ya se va (la noche), nos apresuramos a decirnos unos a otros: \"Ha amanecido\", y hacemos todas las cosas del día, vistiéndonos, librándonos de los sueños y rechazando el sueño, para que el día nos encuentre preparados, y no empecemos a levantarnos y estirarnos solo cuando el rayo de sol ya está saliendo."
+                          },
+                          {
+                            "lineNumber": [
+                              8865
+                            ],
+                            "notes": {},
+                            "originalText": "Ὅπερ οὖν ἐκεῖ ποιοῦµεν, τοῦτο καὶ ἐνταῦθα πράξωµεν·",
+                            "spanishTranslation": "Así pues, lo que hacemos en aquel ámbito, hagámoslo también en este."
+                          },
+                          {
+                            "lineNumber": [
+                              8866
+                            ],
+                            "notes": {
+                              "notesLinguistics": "Crisóstomo utiliza una metáfora de vestimenta para la transformación espiritual, un recurso retórico común en la exhortación cristiana."
+                            },
+                            "originalText": "ἀποδυσώµεθα τὰς φαντασίας, ἀπαλλαγῶµεν τῶν ὀνειράτων τοῦ παρόντος βίου, ἀποθώµεθα τὸν βαθὺν ὕπνον, καὶ ἐνδυσώµεθα ἀντὶ ἱµατίων τὴν ἀρετήν·",
+                            "spanishTranslation": "Despojémonos de las ilusiones, librémonos de los sueños de esta vida presente, depongamos el sueño profundo, y vistámonos de virtud en lugar de vestidos."
+                          },
+                          {
+                            "lineNumber": [
+                              8867
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 13:12. La referencia a 'obras de las tinieblas' y 'armas de la luz' son claves para entender la exhortación paulina."
+                            },
+                            "originalText": "ταῦτα γὰρ ἅπαντα δηλῶν ἔλεγεν, Ἀποθώµεθα γοῦν τὰ ἔργα τοῦ σκότους, καὶ ἐνδυσώµεθα τὰ ὅπλα τοῦ φωτός.",
+                            "spanishTranslation": "Porque, señalando todas estas cosas, decía: \"Despojémonos, pues, de las obras de las tinieblas y vistámonos de las armas de la luz.\""
+                          },
+                          {
+                            "lineNumber": [
+                              8868
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ γὰρ πρὸς παράταξιν καὶ µάχην ἡ ἡµέρα ἡµᾶς καλεῖ.",
+                            "spanishTranslation": "Porque el día nos llama a la formación para la batalla y al combate."
+                          },
+                          {
+                            "lineNumber": [
+                              8869
+                            ],
+                            "notes": {},
+                            "originalText": "Ἀλλὰ µὴ δείσῃς παράταξιν καὶ ὅπλα ἀκούσας.",
+                            "spanishTranslation": "Pero no temas al oír \"formación para la batalla\" y \"armas\"."
+                          },
+                          {
+                            "lineNumber": [
+                              8870
+                            ],
+                            "notes": {
+                              "notesGreek": "'Παντευχίας' (panteuchías) significa 'armadura completa', 'panoplia'. Chrysostom contrasta la carga de la armadura literal con la ligereza y el beneficio de las 'armas de la luz'."
+                            },
+                            "originalText": "Ἐπὶ µὲν γὰρ τῆς αἰσθητῆς παντευχίας βαρὺ καὶ ἀπευκτὸν τὸ ὁπλίζεσθαι, ἐνταῦθα δὲ ποθεινὸν καὶ εὐχῆς ἄξιον·",
+                            "spanishTranslation": "Pues en el caso de la armadura material, armarse es pesado y detestable; aquí, en cambio, es deseable y digno de oración."
+                          },
+                          {
+                            "lineNumber": [
+                              8871
+                            ],
+                            "notes": {},
+                            "originalText": "φωτὸς γάρ ἐστι τὰ ὅπλα·",
+                            "spanishTranslation": "Porque las armas son de luz."
+                          },
+                          {
+                            "lineNumber": [
+                              8872
+                            ],
+                            "notes": {},
+                            "originalText": "διὸ καὶ τῆς ἀκτῖνος λαµπρότερόν σε ἀποφαίνει πολλὴν ἀφιέντα τὴν ἀστραπὴν, καὶ ἐν ἀσφαλείᾳ σε καθίστησιν·",
+                            "spanishTranslation": "Por eso te muestra más resplandeciente que un rayo de sol, emitiendo mucho fulgor, y te pone en seguridad."
+                          },
+                          {
+                            "lineNumber": [
+                              8873
+                            ],
+                            "notes": {},
+                            "originalText": "ὅπλα γάρ ἐστι·",
+                            "spanishTranslation": "Porque son armas."
+                          },
+                          {
+                            "lineNumber": [
+                              8874
+                            ],
+                            "notes": {},
+                            "originalText": "καὶ καταλάµπεσθαι ποιεῖ·",
+                            "spanishTranslation": "Y hace que seas iluminado por completo."
+                          },
+                          {
+                            "lineNumber": [
+                              8875
+                            ],
+                            "notes": {},
+                            "originalText": "φωτὸς γάρ ἐστιν ὅπλα.",
+                            "spanishTranslation": "Porque son armas de luz."
+                          },
+                          {
+                            "lineNumber": [
+                              8876
+                            ],
+                            "notes": {},
+                            "originalText": "Τί οὖν;",
+                            "spanishTranslation": "¿Qué, entonces?"
+                          },
+                          {
+                            "lineNumber": [
+                              8877
+                            ],
+                            "notes": {},
+                            "originalText": "οὐκ ἀνάγκη πολεµεῖν;",
+                            "spanishTranslation": "¿No es necesario combatir?"
+                          },
+                          {
+                            "lineNumber": [
+                              8878
+                            ],
+                            "notes": {},
+                            "originalText": "Ἀνάγκη µὲν πολεµεῖν, οὐ µὴν ταλαιπωρεῖσθαι καὶ πονεῖν·",
+                            "spanishTranslation": "Es necesario combatir, sí, pero no con sufrimiento y fatiga."
+                          },
+                          {
+                            "lineNumber": [
+                              8879
+                            ],
+                            "notes": {
+                              "notesGreek": "'Χορεία' (choreia) se refiere a la danza, especialmente la danza ritual o en coro. 'Πανήγυρις' (panēgyris) es una asamblea festiva o una gran celebración. Chrysostom usa estos términos para describir la naturaleza gozosa y gloriosa de la batalla espiritual para el cristiano."
+                            },
+                            "originalText": "οὐδὲ γὰρ πόλεµος τοῦτό ἐστιν, ἀλλὰ χορεία καὶ πανήγυρις.",
+                            "spanishTranslation": "Porque esto no es guerra, sino danza y fiesta."
+                          },
+                          {
+                            "lineNumber": [
+                              8880
+                            ],
+                            "notes": {},
+                            "originalText": "Τοιαύτη τῶν ὅπλων τούτων ἡ φύσις, τοιαύτη ἡ τοῦ στρατηγοῦ δύναµις.",
+                            "spanishTranslation": "Tal es la naturaleza de estas armas, tal es el poder del General."
+                          },
+                          {
+                            "lineNumber": [
+                              8881
+                            ],
+                            "notes": {
+                              "notesGreek": "'Παστάδος' (pastados) se refiere a la cámara nupcial o alcoba. La imagen del novio es de esplendor y alegría, contrastando con la visión mundana de la batalla."
+                            },
+                            "originalText": "Καὶ καθάπερ νυµφίος καλλωπιζόµενος ἀπὸ τῆς παστάδος πρόεισιν, οὕτω καὶ ὁ τούτοις φραττόµενος τοῖς ὅπλοις·",
+                            "spanishTranslation": "Y así como un novio, engalanado, sale de la cámara nupcial, así también el que está protegido con estas armas."
+                          },
+                          {
+                            "lineNumber": [
+                              8882
+                            ],
+                            "notes": {},
+                            "originalText": "καὶ γὰρ στρατιώτης ὁµοῦ καὶ νυµφίος ἐστίν.",
+                            "spanishTranslation": "Porque es a la vez soldado y novio."
+                          },
+                          {
+                            "lineNumber": [
+                              8883
+                            ],
+                            "notes": {
+                              "notesBiblical": "Continúa la referencia a Romanos 13:12."
+                            },
+                            "originalText": "Εἰπὼν δὲ, ὅτι Ἡ ἡµέρα ἤγγικεν, οὐδὲ ἐγγὺς εἶναι αὐτὴν ἀφίησιν, ἀλλ' ἤδη αὐτὴν ἐφίστησι·",
+                            "spanishTranslation": "Y habiendo dicho que \"El día se ha acercado\", no la deja simplemente cerca, sino que ya la presenta como presente."
+                          },
+                          {
+                            "lineNumber": [
+                              8884
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 13:13. La 'honestidad' (εὐσχημόνως) implica conducta moralmente recta y decorosa, apropiada para la luz del día."
+                            },
+                            "originalText": "φησὶ γὰρ, Ὡς ἐν ἡµέρᾳ εὐσχηµόνως περιπατήσωµεν.",
+                            "spanishTranslation": "Porque dice: \"Andemos honestamente, como de día.\""
+                          },
+                          {
+                            "lineNumber": [
+                              8885
+                            ],
+                            "notes": {},
+                            "originalText": "Ἤδη γὰρ πάρεστιν ἡ ἡµέρα.",
+                            "spanishTranslation": "Porque el día ya está presente."
+                          },
+                          {
+                            "lineNumber": [
+                              8886
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ ἀφ' ὧν µάλιστα οἱ πολλοὶ προτρέπονται, ἀπὸ τούτων καὶ αὐτοὺς ἐφέλκεται, τῆς εὐσχηµοσύνης·",
+                            "spanishTranslation": "Y a partir de aquello que más atrae a la mayoría, la decencia, los atrae también a ellos."
+                          },
+                          {
+                            "lineNumber": [
+                              8887
+                            ],
+                            "notes": {},
+                            "originalText": "πολὺς γὰρ αὐτοῖς τῆς παρὰ τῶν πολλῶν δόξης ὁ λόγος.",
+                            "spanishTranslation": "Porque mucho valor le dan ellos a la buena reputación entre la gente."
+                          },
+                          {
+                            "lineNumber": [
+                              8888
+                            ],
+                            "notes": {
+                              "notesLinguistics": "Análisis de la retórica paulina, destacando el uso del subjuntivo de primera persona del plural ('περιπατήσωμεν', andemos) en lugar del imperativo ('περιπατεῖτε', andad) para incluirse a sí mismo en la exhortación, suavizando el tono. Esto es un ejemplo de la 'synkatabasis' de Pablo, es decir, su condescendencia pedagógica."
+                            },
+                            "originalText": "Καὶ οὐκ εἶπε, Περιπατεῖτε, ἀλλὰ, Περιπατήσωµεν, ὥστε ἀνεπαχθῆ ποιῆσαι τὴν παραίνεσιν, καὶ κούφην τὴν ἐπίπληξιν.",
+                            "spanishTranslation": "Y no dijo: \"Andad\", sino: \"Andemos\", para hacer la exhortación menos gravosa y la reprimenda más ligera."
+                          },
+                          {
+                            "lineNumber": [
+                              8889
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 13:13.",
+                              "notesGreek": "'Κώµοις' (kōmois) se refiere a banquetes ruidosos, juergas, o excesos festivos; 'μέθαις' (methais) a embriagueces."
+                            },
+                            "originalText": "Μὴ κώµοις καὶ µέθαις·",
+                            "spanishTranslation": "No en orgías y borracheras."
+                          },
+                          {
+                            "lineNumber": [
+                              8890
+                            ],
+                            "notes": {},
+                            "originalText": "οὐ τὸ πίνειν κωλύων, ἀλλὰ τὸ ἀµέτρως·",
+                            "spanishTranslation": "No prohibiendo el beber, sino el beber inmoderadamente."
+                          },
+                          {
+                            "lineNumber": [
+                              8891
+                            ],
+                            "notes": {
+                              "notesGreek": "'Παροινίας' (paroinias) denota el comportamiento violento o insolente asociado con la embriaguez."
+                            },
+                            "originalText": "οὐ τὸ ἀπολαύειν οἴνου, ἀλλὰ τὸ µετὰ παροινίας·",
+                            "spanishTranslation": "No el disfrutar del vino, sino el hacerlo con insolencia por embriaguez."
+                          },
+                          {
+                            "lineNumber": [
+                              8892
+                            ],
+                            "notes": {},
+                            "originalText": "ὥσπερ οὖν καὶ τὸ ἑξῆς µετὰ τοῦ αὐτοῦ µέτρου τίθησι λέγων·",
+                            "spanishTranslation": "Del mismo modo, establece lo siguiente con la misma medida, diciendo:"
+                          },
+                          {
+                            "lineNumber": [
+                              8893
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 13:13.",
+                              "notesGreek": "'Κοίταις' (koitais) se refiere a lechos, en este contexto, a la inmoralidad sexual; 'ἀσελγείαις' (aselgeiais) a la lascivia, libertinaje, desenfreno, especialmente con un sentido de desvergüenza pública."
+                            },
+                            "originalText": "Μὴ κοίταις καὶ ἀσελγείαις.",
+                            "spanishTranslation": "No en concupiscencias y lascivias."
+                          },
+                          {
+                            "lineNumber": [
+                              8894
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo aclara que la prohibición de Pablo no es contra la relación sexual dentro del matrimonio, sino contra la inmoralidad sexual extramatrimonial, es decir, la fornicación."
+                            },
+                            "originalText": "Οὐδὲ γὰρ ἐνταῦθα τὸ µίγνυσθαι γυναιξὶν ἀναιρεῖ, ἀλλὰ τὸ πορνεύειν.",
+                            "spanishTranslation": "Porque tampoco aquí suprime la unión con las mujeres, sino la fornicación."
+                          },
+                          {
+                            "lineNumber": [
+                              8895
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 13:13.",
+                              "notesGreek": "'Ἔριδι' (eridi) se refiere a la disputa, contienda; 'ζήλῳ' (zēlō) a los celos o envidia."
+                            },
+                            "originalText": "Μὴ ἔριδι καὶ ζήλῳ.",
+                            "spanishTranslation": "No en contiendas y envidias."
+                          },
+                          {
+                            "lineNumber": [
+                              8896,
+                              8897
+                            ],
+                            "notes": {},
+                            "originalText": "Τὰ γὰρ καίρια τῶν παθῶν σβέννυσι τὴν ἐπιθυµίαν καὶ τὸν θυµόν. ∆ιόπερ οὐκ αὐτὰ µόνον, ἀλλὰ καὶ τὰς πηγὰς αὐτῶν ἀναιρεῖ.",
+                            "spanishTranslation": "Pues sofoca el deseo y la ira, que son los momentos críticos de las pasiones. Por lo tanto, no suprime solo estas cosas mismas, sino también sus fuentes."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 24,
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [
+                              "vicios",
+                              "deseo",
+                              "ira",
+                              "embriaguez",
+                              "intemperancia"
+                            ],
+                            "lineNumber": [
+                              8899
+                            ],
+                            "notes": {
+                              "notesGreek": "El término griego \"μέθη\" (methe) se refiere a la embriaguez o borrachera, mientras que \"παροινία\" (paroinia) denota la intemperancia en la bebida y el comportamiento desenfrenado que a menudo la acompaña, como el jolgorio o el escándalo provocado por el vino.",
+                              "notesLinguistics": "La repetición de \"ἀνάπτει\" (enciende) y \"ἐκκαίει\" (aviva) enfatiza la intensidad con la que estos vicios activan las pasiones negativas. Esto es un recurso retórico común en Crisóstomo."
+                            },
+                            "originalText": "Οὐδὲν γὰρ οὕτω καὶ ἐπιθυµίαν ἀνάπτει καὶ ὀργὴν ἐκκαίει, ὡς µέθη καὶ παροινία.",
+                            "spanishTranslation": "Nada, en efecto, enciende tanto el deseo y aviva la ira como la embriaguez y la intemperancia en la bebida."
+                          },
+                          {
+                            "keywords": [
+                              "mandamientos",
+                              "vicios",
+                              "orgías",
+                              "borracheras",
+                              "inmoralidad",
+                              "contiendas",
+                              "envidia"
+                            ],
+                            "lineNumber": [
+                              8900,
+                              8901
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 13:13: \"Andemos honestamente, como de día; no en glotonerías y borracheras, no en lujurias y lascivias, no en contiendas y envidias.\"",
+                              "notesGreek": "\"Κώµοις\" (komois) son orgías o juergas ruidosas, y \"μέθαις\" (metheis) son borracheras. \"Κοίταις\" (koitais) se refiere a la fornicación o a las inmoralidades sexuales, y \"ἀσελγείαις\" (aselgeiais) a la lascivia o el desenfreno. \"Ἔριδι\" (eridi) es contienda o disputa, y \"ζήλῳ\" (zēlō) es celos o envidia."
+                            },
+                            "originalText": "∆ιὰ τοῦτο πρότερον εἰπὼν, Μὴ κώµοις καὶ µέθαις, τότε ἐπήγαγε· Μὴ κοίταις καὶ ἀσελγείαις, µὴ ἔριδι καὶ ζήλῳ.",
+                            "spanishTranslation": "Por eso, habiendo dicho antes: 'No en orgías y borracheras', luego añadió: 'No en libertinajes y desenfrenos, no en contiendas y envidias'."
+                          },
+                          {
+                            "keywords": [
+                              "vestirse de Cristo",
+                              "vestidura",
+                              "transformación",
+                              "pecado"
+                            ],
+                            "lineNumber": [
+                              8902,
+                              8903
+                            ],
+                            "notes": {
+                              "notesBiblical": "La exhortación \"vestíos del Señor Jesucristo\" se encuentra en Romanos 13:14, inmediatamente después de la lista de vicios. Es una metáfora central para la transformación cristiana.",
+                              "notesLinguistics": "La imagen de 'despojarse de las vestiduras del mal' y 'vestirse de Cristo' es un potente tropo en la literatura patrística, simbolizando el abandono de la vieja vida de pecado y la adopción de una nueva vida en Cristo."
+                            },
+                            "originalText": "Καὶ οὐδὲ ἐνταῦθα ἔστη, ἀλλ' ἀποδύσας ἡµᾶς τῶν πονηρῶν ἱµατίων, ἄκουσον πῶς καλλωπίζει λοιπὸν λέγων· Ἀλλ' ἐνδύσασθε τὸν Κύριον ἡµῶν Ἰησοῦν Χριστόν.",
+                            "spanishTranslation": "Y no se detuvo ahí, sino que, habiéndonos despojado de las vestiduras del mal, escucha cómo nos embellece finalmente diciendo: 'Antes bien, vestíos del Señor Jesucristo'."
+                          },
+                          {
+                            "keywords": [
+                              "obras",
+                              "virtud",
+                              "armas de luz",
+                              "seguridad",
+                              "brillantez"
+                            ],
+                            "lineNumber": [
+                              8904,
+                              8905,
+                              8906
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esto conecta con Romanos 13:12: \"Desechemos, pues, las obras de las tinieblas, y vistámonos las armas de la luz.\"",
+                              "notesGreek": "Crisóstomo juega con los términos \"ἔργα\" (erga - obras) para la maldad y \"ὅπλα\" (hopla - armas) para la virtud. La virtud no solo embellece, sino que también protege como armadura."
+                            },
+                            "originalText": "Οὐκέτι εἶπεν ἔργα, ἀλλὰ µειζόνως αὐτοὺς ἀνέστησεν. Ὅτε µὲν γὰρ περὶ τῆς κακίας ἔφησεν, ἔργα ἔλεγεν· ὅτε δὲ περὶ τῆς ἀρετῆς, οὐκέτι ἔργα, ἀλλ' ὅπλα, δεικνὺς ὅτι ἐν πάσῃ ἀσφαλείᾳ καθίστησιν ἡ ἀρετὴ τὸν ἔχοντα αὐτὴν, καὶ ἐν πάσῃ λαµπρότητι.",
+                            "spanishTranslation": "Ya no dijo 'obras', sino que los elevó de manera más grandiosa. Pues cuando habló de la maldad, decía 'obras'; pero cuando habló de la virtud, ya no dijo 'obras', sino 'armas', mostrando que la virtud establece a quien la posee en toda seguridad y en toda brillantez."
+                          },
+                          {
+                            "keywords": [
+                              "Cristo",
+                              "vestidura",
+                              "Señor",
+                              "Rey",
+                              "virtud total"
+                            ],
+                            "lineNumber": [
+                              8907
+                            ],
+                            "notes": {
+                              "notesGeneral": "La idea de Cristo como la vestidura definitiva va más allá de un simple conjunto de acciones morales; implica una identificación total con Su persona y carácter."
+                            },
+                            "originalText": "Καὶ οὐδὲ ἐνταῦθα ἔστη, ἀλλ' ἐπὶ τὸ µεῖζον ἄγων τὸν λόγον, ὃ πολλῷ φρικωδέστερον ἦν, αὐτὸν τὸν ∆εσπότην δίδωσιν ἡµῖν ἱµάτιον, αὐτὸν τὸν βασιλέα.",
+                            "spanishTranslation": "Y no se detuvo ahí, sino que, llevando el discurso a un nivel superior, lo cual era mucho más admirable, nos da al mismo Señor como vestidura, al mismo Rey."
+                          },
+                          {
+                            "keywords": [
+                              "Cristo",
+                              "virtud",
+                              "revestido"
+                            ],
+                            "lineNumber": [
+                              8908
+                            ],
+                            "originalText": "Ὁ γὰρ τοῦτον περιβεβληµένος, ἅπασαν ἔχει καθόλου τὴν ἀρετήν.",
+                            "spanishTranslation": "Pues el que está revestido de Él, posee toda la virtud en su totalidad."
+                          },
+                          {
+                            "keywords": [
+                              "vestirse",
+                              "totalidad",
+                              "Cristo"
+                            ],
+                            "lineNumber": [
+                              8909
+                            ],
+                            "originalText": "Ὅταν δὲ εἴπῃ, Ἐνδύσασθε, πάντοθεν ἡµᾶς αὐτὸν περιβαλέσθαι κελεύει·",
+                            "spanishTranslation": "Y cuando dice: 'Vestíos', nos manda que nos lo pongamos por completo, por todas partes."
+                          },
+                          {
+                            "keywords": [
+                              "Cristo en nosotros",
+                              "hombre interior",
+                              "habitar"
+                            ],
+                            "lineNumber": [
+                              8910,
+                              8911
+                            ],
+                            "notes": {
+                              "notesBiblical": "Hace referencia a Romanos 8:10 (\"Pero si Cristo está en vosotros...\") y Efesios 3:16-17 (\"...que os dé, conforme a las riquezas de su gloria, el ser fortalecidos con poder en el hombre interior por su Espíritu; para que habite Cristo por la fe en vuestros corazones...\")."
+                            },
+                            "originalText": "ὥσπερ ἀλλαχοῦ φησιν, Εἰ δὲ Χριστὸς ἐν ὑµῖν· καὶ πάλιν, Εἰς τὸν ἔσω ἡµῶν ἄνθρωπον κατοικῆσαι τὸν Χριστόν.",
+                            "spanishTranslation": "como dice en otro lugar: 'Si Cristo está en vosotros'; y de nuevo: 'Que Cristo habite en nuestro hombre interior'."
+                          },
+                          {
+                            "keywords": [
+                              "alma",
+                              "morada",
+                              "Cristo",
+                              "interior",
+                              "exterior"
+                            ],
+                            "lineNumber": [
+                              8912
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo enfatiza la omnipresencia de Cristo en la vida del creyente, tanto como una presencia interna (morada en el alma) como una protección externa (vestidura)."
+                            },
+                            "originalText": "Καὶ γὰρ οἰκίαν αὐτῷ βούλεται εἶναι τὴν ψυχὴν τὴν ἡµετέραν, καὶ ὡς ἱµάτιον ἡµῖν αὐτὸν περικεῖσθαι, ἵνα πάντα αὐτὸς ἡµῖν ᾖ ἔσωθεν καὶ ἔξωθεν.",
+                            "spanishTranslation": "Pues Él quiere que nuestra alma sea su morada, y que Él mismo nos rodee como una vestidura, para que sea todo para nosotros, por dentro y por fuera."
+                          },
+                          {
+                            "keywords": [
+                              "plenitud",
+                              "Cristo"
+                            ],
+                            "lineNumber": [
+                              8913
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Efesios 1:23: \"...la cual es su cuerpo, la plenitud de Aquel que todo lo llena en todo.\""
+                            },
+                            "originalText": "Καὶ γὰρ πλήρωµα ἡµῶν αὐτός (καὶ γὰρ Πλήρωµα τοῦ τὰ πάντα ἐν πᾶσι πληρουµένου)·",
+                            "spanishTranslation": "Porque Él es también nuestra plenitud (pues es la Plenitud de Aquel que lo llena todo en todos)."
+                          },
+                          {
+                            "keywords": [
+                              "camino",
+                              "esposo",
+                              "desposorio"
+                            ],
+                            "lineNumber": [
+                              8914
+                            ],
+                            "notes": {
+                              "notesBiblical": "\"Camino\" alude a Juan 14:6 (\"Yo soy el camino...\"). \"Esposo\" y el desposorio a 2 Corintios 11:2: \"Porque os celo con celo de Dios; pues os he desposado con un solo esposo, para presentaros como virgen pura a Cristo.\""
+                            },
+                            "originalText": "καὶ ὁδὸς καὶ ἀνὴρ καὶ νυµφίος (Ἡρµοσάµην γὰρ ὑµᾶς ἑνὶ ἀνδρὶ παρθένον ἁγνήν)·",
+                            "spanishTranslation": "y camino y esposo (Pues os he desposado con un solo esposo, como virgen pura)."
+                          },
+                          {
+                            "keywords": [
+                              "raíz",
+                              "bebida",
+                              "alimento",
+                              "vida",
+                              "Cristo"
+                            ],
+                            "lineNumber": [
+                              8915
+                            ],
+                            "notes": {
+                              "notesBiblical": "La metáfora de Cristo como \"vida\" es de Gálatas 2:20 (\"Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí...\"). Las otras metáforas de \"raíz, bebida y alimento\" tienen amplios paralelos bíblicos (e.g., Juan 6 para el pan de vida y la bebida, Apocalipsis 22:16 para la raíz de David)."
+                            },
+                            "originalText": "καὶ ῥίζα καὶ ποτὸν καὶ τροφὴ καὶ ζωή (Ζῶ γὰρ, φησὶν, οὐκέτι ἐγὼ, ζῇ δὲ ἐν ἐµοὶ Χριστός)·",
+                            "spanishTranslation": "y raíz y bebida y alimento y vida (Pues, dice, ya no vivo yo, sino que Cristo vive en mí)."
+                          },
+                          {
+                            "keywords": [
+                              "apóstol",
+                              "sumo sacerdote",
+                              "maestro",
+                              "padre",
+                              "hermano",
+                              "coheredero",
+                              "tumba",
+                              "cruz"
+                            ],
+                            "lineNumber": [
+                              8916
+                            ],
+                            "notes": {
+                              "notesBiblical": "Diversas referencias bíblicas: 'Apóstol' (Hebreos 3:1), 'sumo sacerdote' (Hebreos 4:14), 'maestro' (Mateo 23:8), 'hermano' (Marcos 3:35), 'coheredero' (Romanos 8:17). La participación en Su muerte y sepultura es de Romanos 6:4-5: \"Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en vida nueva. Porque si fuimos injertados con él en la semejanza de su muerte, también lo seremos en la de su resurrección.\""
+                            },
+                            "originalText": "καὶ ἀπόστολος καὶ ἀρχιερεὺς καὶ διδάσκαλος καὶ πατὴρ καὶ ἀδελφὸς καὶ συγκληρονόµος, καὶ τάφου κοινωνὸς καὶ σταυροῦ (Συνετάφηµεν γὰρ αὐτῷ, φησὶ, καὶ σύµφυτοι γεγόναµεν τῷ ὁµοιώµατι τοῦ θανάτου αὐτοῦ)·",
+                            "spanishTranslation": "y apóstol y sumo sacerdote y maestro y padre y hermano y coheredero, y compañero de tumba y de cruz (Pues, dice, fuimos sepultados con Él, y hemos llegado a ser uno con Él en la semejanza de su muerte)."
+                          },
+                          {
+                            "keywords": [
+                              "intercesor",
+                              "embajador",
+                              "Cristo"
+                            ],
+                            "lineNumber": [
+                              8917
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita \"Porque somos embajadores por Cristo\" (2 Corintios 5:20) se refiere a la función de los creyentes. Sin embargo, en el contexto de la lista de roles que Cristo desempeña *para nosotros*, Chrysostom usa \"ἱκέτης\" (hiketes - suplicante, intercesor) para señalar el papel de Cristo como quien intercede por nosotros, siendo nosotros sus embajadores."
+                            },
+                            "originalText": "καὶ ἱκέτης (Ὑπὲρ γὰρ Χριστοῦ πρεσβεύοµεν)·",
+                            "spanishTranslation": "e intercesor (Pues, somos embajadores por Cristo)."
+                          },
+                          {
+                            "keywords": [
+                              "abogado",
+                              "intercesor",
+                              "Padre"
+                            ],
+                            "lineNumber": [
+                              8918
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia es a Romanos 8:34: \"¿Quién es el que condenará? Cristo es el que murió; más aun, el que también resucitó, el que además está a la diestra de Dios, el que también intercede por nosotros.\"",
+                              "notesGreek": "El término \"συνήγορος\" (synēgoros) significa 'abogado' o 'intercesor', alguien que habla en defensa de otro."
+                            },
+                            "originalText": "καὶ πρὸς τὸν Πατέρα συνήγορος (καὶ γὰρ Ἐντυγχάνει, φησὶν, ὑπὲρ ἡµῶν)·",
+                            "spanishTranslation": "y abogado ante el Padre (pues, dice, intercede por nosotros)."
+                          },
+                          {
+                            "keywords": [
+                              "casa",
+                              "habitante",
+                              "amigo",
+                              "Cristo"
+                            ],
+                            "lineNumber": [
+                              8919
+                            ],
+                            "notes": {
+                              "notesBiblical": "Las citas son de Juan 15:5 (\"El que permanece en mí, y yo en él, éste lleva mucho fruto...\") y Juan 15:14 (\"Vosotros sois mis amigos, si hacéis lo que yo os mando.\")."
+                            },
+                            "originalText": "καὶ οἶκος καὶ ἔνοικος (Ὁ γὰρ ἐν ἐµοὶ µένων, κἀγὼ ἐν αὐτῷ), καὶ φίλος (Ὑµεῖς γὰρ φίλοι µού ἐστε)·",
+                            "spanishTranslation": "y casa y habitante (Pues, 'El que permanece en mí, y yo en él'), y amigo (Vosotros sois mis amigos)."
+                          },
+                          {
+                            "keywords": [
+                              "fundamento",
+                              "piedra angular",
+                              "Cristo"
+                            ],
+                            "lineNumber": [
+                              8920
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cristo es referido como el 'fundamento' (1 Corintios 3:11) y la 'piedra angular' (Efesios 2:20; 1 Pedro 2:6)."
+                            },
+                            "originalText": "καὶ θεµέλιος καὶ λίθος ἀκρογωνιαῖος·",
+                            "spanishTranslation": "y fundamento y piedra angular;"
+                          },
+                          {
+                            "keywords": [
+                              "miembros",
+                              "labranza",
+                              "edificio",
+                              "sarmientos",
+                              "colaboradores",
+                              "Cristo"
+                            ],
+                            "lineNumber": [
+                              8921
+                            ],
+                            "notes": {
+                              "notesBiblical": "Metáforas de la Iglesia como el cuerpo de Cristo ('miembros', 1 Corintios 12:27), el pueblo de Dios como 'labranza' y 'edificio' (1 Corintios 3:9), los creyentes como 'sarmientos' de la vid (Juan 15:5), y 'colaboradores' (1 Corintios 3:9)."
+                            },
+                            "originalText": "καὶ ἡµεῖς αὐτοῦ καὶ µέλη καὶ γεώργιον καὶ οἰκοδοµὴ καὶ κλήµατα καὶ συνεργοί.",
+                            "spanishTranslation": "y nosotros somos suyos, miembros y labranza y edificio y sarmientos y colaboradores."
+                          },
+                          {
+                            "keywords": [
+                              "amor",
+                              "unión",
+                              "conexión",
+                              "Cristo"
+                            ],
+                            "lineNumber": [
+                              8922,
+                              8923
+                            ],
+                            "notes": {
+                              "notesLinguistics": "\"Συγκολλῶν\" (sygkollōn) significa 'pegar, unir fuertemente', y \"συνάπτων\" (synaptōn) 'conectar, unir'. Estos verbos compuestos enfatizan la íntima e inquebrantable unión que Cristo busca con sus seguidores."
+                            },
+                            "originalText": "Τί γὰρ οὐ βούλεται ἡµῶν εἶναι, παντὶ τρόπῳ συγκολλῶν καὶ συνάπτων ἡµᾶς; ὅπερ τοῦ σφόδρα φιλοῦντός ἐστι.",
+                            "spanishTranslation": "¿Pues qué no quiere ser para nosotros, uniéndonos y adhiriéndonos a Él de todas las maneras? Lo cual es propio de quien ama en extremo."
+                          },
+                          {
+                            "keywords": [
+                              "despertar",
+                              "sueño",
+                              "revestirse",
+                              "docilidad",
+                              "carne"
+                            ],
+                            "lineNumber": [
+                              8924
+                            ],
+                            "notes": {
+                              "notesGeneral": "La imagen de 'despertar del sueño' es una referencia a Romanos 13:11 y el llamado a la vigilancia espiritual. La 'carne dócil' es una metáfora que sugiere que el cuerpo debe ser un instrumento obediente al espíritu, no una fuente de pecado descontrolado."
+                            },
+                            "originalText": "Πείθου τοίνυν, καὶ ἀναστὰς ἐξ ὕπνων ἔνδυσαι αὐτὸν, καὶ ἐνδυσάµενος εὐήνιον αὐτῷ πάρεχε τὴν σάρκα·",
+                            "spanishTranslation": "Obedece, por tanto, y habiendo despertado del sueño, revístete de Él, y habiéndote revestido, ofrécele tu carne dócilmente."
+                          },
+                          {
+                            "keywords": [
+                              "provisión",
+                              "carne",
+                              "deseos",
+                              "pecado"
+                            ],
+                            "lineNumber": [
+                              8925
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita la segunda parte de Romanos 13:14: \"...y no hagáis provisión para los deseos de la carne.\""
+                            },
+                            "originalText": "τοῦτο γὰρ ᾐνίξατο εἰπὼν, Τῆς σαρκὸς πρόνοιαν µὴ ποιεῖσθε εἰς ἐπιθυµίας.",
+                            "spanishTranslation": "Pues esto insinuó al decir: 'No hagáis provisión para los deseos de la carne'."
+                          },
+                          {
+                            "keywords": [
+                              "beber",
+                              "emborracharse",
+                              "casarse",
+                              "lascivia",
+                              "distinción moral"
+                            ],
+                            "lineNumber": [
+                              8926
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo hace una distinción ética crucial entre el acto natural y legítimo (beber, casarse) y el abuso o la perversión de ese acto (embriaguez, lascivia), lo que subraya que el problema no es la creación en sí, sino su uso desordenado."
+                            },
+                            "originalText": "Ὥσπερ γὰρ οὐ τὸ πίνειν ἐκώλυσεν, ἀλλὰ τὸ µεθύειν, οὐδὲ τὸ γαµεῖν, ἀλλὰ τὸ ἀσελγεῖν·",
+                            "spanishTranslation": "Porque así como no prohibió beber, sino emborracharse; ni casarse, sino la lascivia;"
+                          },
+                          {
+                            "keywords": [
+                              "cuidado del cuerpo",
+                              "deseos",
+                              "necesidad",
+                              "exceso"
+                            ],
+                            "lineNumber": [
+                              8927
+                            ],
+                            "notes": {
+                              "notesGeneral": "Aclara el significado de 'no hacer provisión para la carne': no es un rechazo del cuidado del cuerpo, sino una advertencia contra el cuidado excesivo que alimenta los deseos pecaminosos más allá de lo necesario para la salud y el bienestar básicos."
+                            },
+                            "originalText": "οὕτως οὐδὲ τὸ προνοεῖν τῆς σαρκὸς, ἀλλὰ τὸ εἰς ἐπιθυµίας, οἷον τὸ τὴν χρείαν ὑπερβαίνειν·",
+                            "spanishTranslation": "así tampoco (prohibió) el cuidado de la carne, sino el hacerlo para los deseos, es decir, el exceder la necesidad."
+                          },
+                          {
+                            "keywords": [
+                              "cuidado del cuerpo",
+                              "salud",
+                              "Timoteo",
+                              "vino"
+                            ],
+                            "lineNumber": [
+                              8928,
+                              8929
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita 1 Timoteo 5:23: \"Ya no bebas agua, sino usa de un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.\" Este pasaje sirve para ilustrar que el cuidado del cuerpo, cuando es por salud, es permitido e incluso recomendado."
+                            },
+                            "originalText": "ἐπεὶ, ὅτι γε προνοεῖν αὐτῆς κελεύει, ἄκουσον τί φησι Τιµοθέῳ· Οἴνῳ ὀλίγῳ χρῶ διὰ τὸν στόµαχόν σου καὶ τὰς πυκνάς σου ἀσθενείας.",
+                            "spanishTranslation": "Puesto que, de hecho, manda cuidarla, escucha lo que le dice a Timoteo: 'Usa un poco de vino por causa de tu estómago y tus frecuentes enfermedades'."
+                          },
+                          {
+                            "keywords": [
+                              "cuidado del cuerpo",
+                              "salud",
+                              "lascivia"
+                            ],
+                            "lineNumber": [
+                              8930
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo reitera el punto clave: el cuidado del cuerpo debe tener como fin la salud, no la indulgencia en el placer o la provocación del deseo carnal (lascivia)."
+                            },
+                            "originalText": "Οὕτω δὴ καὶ ἐνταῦθα προνόει µὲν, ἀλλὰ πρὸς ὑγείαν, µὴ πρὸς ἀσέλγειαν.",
+                            "spanishTranslation": "Así, pues, también aquí, cuídala, sí, pero para la salud, no para la lascivia."
+                          },
+                          {
+                            "keywords": [
+                              "cuidado del cuerpo",
+                              "llama",
+                              "horno",
+                              "deseo"
+                            ],
+                            "lineNumber": [
+                              8931
+                            ],
+                            "notes": {
+                              "notesGeneral": "La metáfora de la 'llama' y el 'horno' ilustra cómo el cuidado excesivo o mal dirigido del cuerpo puede avivar los deseos pecaminosos en lugar de contenerlos. Es una imagen de auto-infligir tormento o tentación."
+                            },
+                            "originalText": "Οὐδὲ γὰρ ἂν εἴη τοῦτο πρόνοια λοιπὸν, ὅταν τὴν φλόγα ἀνάπτῃς, ὅταν χαλεπὴν τὴν κάµινον ποιῇς.",
+                            "spanishTranslation": "Porque esto ya no sería cuidado, cuando enciendes la llama, cuando haces el horno insoportable."
+                          },
+                          {
+                            "keywords": [
+                              "borrachos",
+                              "glotones",
+                              "adorno",
+                              "molicie",
+                              "disoluto",
+                              "deseos",
+                              "cuidado carnal"
+                            ],
+                            "lineNumber": [
+                              8932
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Γαστριζοµένους\" (gastrizomenous) se refiere a quienes se entregan a la glotonería, a menudo con un sentido de 'adoradores del vientre'. \"Θρυπτοµένους\" (thryptomenous) indica vivir en la molicie, la delicadeza excesiva o la vida disipada. La frase \"ὑγρὸν καὶ διαῤῥέοντα ζῶντας βίον\" describe una vida licenciosa, que se 'disuelve' o 'escapa' en el placer efímero."
+                            },
+                            "originalText": "Ἵνα δὲ καὶ σαφέστερον µάθητε, τί ποτέ ἐστι τὸ προνοεῖν αὐτῆς εἰς ἐπιθυµίαν, καὶ φύγητε τὴν τοιαύτην πρόνοιαν, τοὺς µεθύοντας, τοὺς γαστριζοµένους, τοὺς ἐν ἱµατίοις καλλωπιζοµένους, τοὺς θρυπτοµένους, τοὺς τὸν ὑγρὸν καὶ διαῤῥέοντα ζῶντας βίον ἐννοήσατε, καὶ εἴσεσθε τὸ εἰρηµένον.",
+                            "spanishTranslation": "Y para que aprendáis más claramente qué significa cuidarla para el deseo, y huyáis de tal provisión, considerad a los borrachos, a los glotones, a los que se adornan con vestiduras, a los que viven en la molicie, a los que llevan una vida disoluta y derrochadora, y entenderéis lo dicho."
+                          },
+                          {
+                            "keywords": [
+                              "salud",
+                              "desenfreno",
+                              "deseo",
+                              "pecado"
+                            ],
+                            "lineNumber": [
+                              8933
+                            ],
+                            "notes": {
+                              "notesGreek": "El verbo \"σκιρτῶσιν\" (skirtōsin) significa 'saltar', 'brincar', 'ser desenfrenado' o 'estar exultante', a menudo con connotaciones de alegría excesiva o libertinaje."
+                            },
+                            "originalText": "Ἐκεῖνοι γὰρ πάντα ποιοῦσιν, οὐχ ἵνα ὑγιαίνωσιν, ἀλλ' ἵνα σκιρτῶσιν, ἵνα τὴν ἐπιθυµίαν ἀνάπτωσιν.",
+                            "spanishTranslation": "Pues ellos hacen todo, no para que estén sanos, sino para que salten (de alegría desenfrenada), para que enciendan el deseo."
+                          },
+                          {
+                            "keywords": [
+                              "revestido de Cristo",
+                              "salud de la carne",
+                              "cortar excesos"
+                            ],
+                            "lineNumber": [
+                              8934
+                            ],
+                            "originalText": "Ἀλλ' ὁ τὸν Χριστὸν ἐνδεδυµένος σὺ, πάντα ἐκεῖνα περικόψας, ἓν ζήτει µόνον, ὅπως ὑγιαίνουσαν ἔχῃς τὴν σάρκα·",
+                            "spanishTranslation": "Pero tú, que te has revestido de Cristo, habiendo cortado todo aquello, busca una sola cosa: que tengas la carne sana;"
+                          },
+                          {
+                            "keywords": [
+                              "cuidado del cuerpo",
+                              "límites",
+                              "celo espiritual"
+                            ],
+                            "lineNumber": [
+                              8935
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje establece un claro principio de moderación: el cuidado del cuerpo es legítimo hasta el punto de la salud, pero cualquier esfuerzo más allá debe redirigirse al crecimiento espiritual."
+                            },
+                            "originalText": "καὶ µέχρι τοσούτου προνόει ταύτης, περαιτέρω δὲ µηκέτι, ἀλλὰ πᾶσαν τὴν σπουδὴν εἰς τὴν τῶν πνευµατικῶν ἀνάλισκε ἐπιµέλειαν.",
+                            "spanishTranslation": "y hasta ese punto cuídala, pero no más allá, sino dedica todo tu celo al cuidado de las cosas espirituales."
+                          },
+                          {
+                            "keywords": [
+                              "despertar",
+                              "sueño",
+                              "deseos",
+                              "espiritual"
+                            ],
+                            "lineNumber": [
+                              8936
+                            ],
+                            "notes": {
+                              "notesBiblical": "Refuerza la idea de 'despertar del sueño' de Romanos 13:11, donde el 'sueño' representa la inercia espiritual y el pecado."
+                            },
+                            "originalText": "Οὕτω γὰρ καὶ ἀναστῆναι ἐκ τοῦ ὕπνου τούτου δυνήσῃ, µὴ βαρούµενος ταῖς ποικίλαις ταύταις ἐπιθυµίαις.",
+                            "spanishTranslation": "Porque así podrás despertar de este sueño, sin ser oprimido por estos diversos deseos."
+                          },
+                          {
+                            "keywords": [
+                              "vida",
+                              "sueño",
+                              "realidad",
+                              "ilusión"
+                            ],
+                            "lineNumber": [
+                              8937
+                            ],
+                            "notes": {
+                              "notesGeneral": "La comparación de la vida presente con un sueño o fantasía es un motivo recurrente en la filosofía antigua y en la teología cristiana, destacando la transitoriedad y la irrealidad de las preocupaciones mundanas frente a la eternidad."
+                            },
+                            "originalText": "Καὶ γὰρ ὕπνος ὁ παρὼν βίος, καὶ ὀνειράτων οὐδὲν τὰ ἐν αὐτῷ διενήνοχε.",
+                            "spanishTranslation": "Pues la vida presente es un sueño, y las cosas en ella no difieren en nada de los sueños."
+                          },
+                          {
+                            "keywords": [
+                              "dormir",
+                              "incoherencia",
+                              "ilusión",
+                              "vida terrenal"
+                            ],
+                            "lineNumber": [
+                              8938,
+                              8939
+                            ],
+                            "originalText": "Καὶ καθάπερ οἱ καθεύδοντες καὶ παραφθέγγονται, καὶ ὁρῶσι πολλάκις οὐδὲν ὑγιὲς, οὕτω καὶ ἡµεῖς· µᾶλλον δὲ καὶ πολλῷ χεῖρον.",
+                            "spanishTranslation": "Y así como los que duermen hablan incoherencias y a menudo ven cosas sin sentido, así también nosotros; más bien, mucho peor."
+                          },
+                          {
+                            "keywords": [
+                              "vergüenza",
+                              "castigo",
+                              "sueño",
+                              "inmortalidad"
+                            ],
+                            "lineNumber": [
+                              8940,
+                              8941
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo establece un contraste marcado: las consecuencias de los actos en los sueños son fugaces, pero las de la vida real, aunque parezca un sueño, son eternas, tanto la vergüenza como el castigo. El número [[60.625]] es una referencia interna a la paginación del texto griego de Migne (Patrologia Graeca vol. 60, pág. 625)."
+                            },
+                            "originalText": "Ὁ µὲν γὰρ αἰσχρά τινα πράξας ἢ εἰπὼν ὄναρ, ἀπαλλαγεὶς τοῦ ὕπνου, καὶ τῆς αἰσχύνης ἀπήλλακται, καὶ δίκην οὐ δίδωσιν· ἐνταῦθα δὲ οὐχ οὕτως, ἀλλὰ καὶ ἡ αἰσχύνη καὶ ἡ τιµωρία ἀθάνατος.",
+                            "spanishTranslation": "Pues el que hace o dice algo vergonzoso en un sueño, una vez liberado del sueño, también se libra de la vergüenza y no paga pena; pero aquí no es así, sino que tanto la vergüenza como el castigo son inmortales."
+                          },
+                          {
+                            "keywords": [
+                              "riqueza",
+                              "ilusión",
+                              "juicio",
+                              "realidad"
+                            ],
+                            "lineNumber": [
+                              8942,
+                              8943
+                            ],
+                            "notes": {
+                              "notesGeneral": "La 'llegada del día' puede referirse al juicio final o a la conciencia de la vanidad de las riquezas terrenales que se disipan antes incluso de la muerte, revelando su carácter ilusorio."
+                            },
+                            "originalText": "Πάλιν, οἱ πλουτοῦντες ὄναρ, ἡµέρας γενοµένης ἐλέγχονται εἰκῆ πλουτήσαντες· ἐνταῦθα δὲ καὶ πρὸ τῆς ἡµέρας ὁ ἔλεγχος ἔπεισι πολλάκις, καὶ πρὶν ἀπελθεῖν ἐκεῖ, τὰ ὀνείρατα ταῦτα ἀπέπτη.",
+                            "spanishTranslation": "De nuevo, los que se enriquecen en un sueño, al llegar el día se les revela que se enriquecieron en vano; pero aquí, a menudo el reproche llega incluso antes del día, y antes de ir allí, estos sueños han volado."
+                          },
+                          {
+                            "keywords": [
+                              "sacudir",
+                              "sueño",
+                              "vigilancia"
+                            ],
+                            "lineNumber": [
+                              8944
+                            ],
+                            "originalText": "Ἀποτιναξώµεθα τοίνυν τὸν πονηρὸν τοῦτον ὕπνον.",
+                            "spanishTranslation": "Sacudámonos, pues, este malvado sueño."
+                          },
+                          {
+                            "keywords": [
+                              "día",
+                              "dormir",
+                              "muerte inmortal",
+                              "consecuencias"
+                            ],
+                            "lineNumber": [
+                              8945
+                            ],
+                            "notes": {
+                              "notesGeneral": "El 'día' aquí probablemente alude al Día del Juicio o al día de la propia muerte. Ser sorprendido 'durmiendo' significa no estar espiritualmente preparado, lo que lleva a una 'muerte inmortal' (condenación eterna)."
+                            },
+                            "originalText": "Ἂν γὰρ καθεύδοντας ἡµᾶς ἡ ἡµέρα καταλάβῃ, θάνατος διαδέξεται ἀθάνατος·",
+                            "spanishTranslation": "Porque si el día nos sorprende durmiendo, una muerte inmortal nos seguirá."
+                          },
+                          {
+                            "keywords": [
+                              "enemigos",
+                              "hombres",
+                              "demonios",
+                              "indefensión",
+                              "sueño espiritual"
+                            ],
+                            "lineNumber": [
+                              8946,
+                              8947
+                            ],
+                            "notes": {
+                              "notesGeneral": "Permanecer en el 'sueño espiritual' nos deja vulnerables a ataques tanto humanos como demoníacos, sin defensa ni protector, lo que subraya la urgencia de la vigilancia."
+                            },
+                            "originalText": "καὶ πρὸ τῆς ἡµέρας δὲ ἐκείνης πᾶσιν εὐεπιχείρητοι τοῖς ἐχθροῖς τοῖς ἐντεῦθεν ἐσόµεθα, καὶ ἀνθρώποις καὶ δαίµοσι· κἂν ἀνελεῖν βουληθῶσιν, ὁ κωλύσων οὐδείς.",
+                            "spanishTranslation": "Y aun antes de aquel día, seremos fácilmente atacables por todos los enemigos de aquí, tanto hombres como demonios; y si quieren destruirnos, no habrá nadie que lo impida."
+                          },
+                          {
+                            "keywords": [
+                              "vigilancia",
+                              "seguridad",
+                              "daños irreparables",
+                              "noche profunda"
+                            ],
+                            "lineNumber": [
+                              8948,
+                              8949
+                            ],
+                            "notes": {
+                              "notesGeneral": "La imagen de 'uno o dos' encendiendo una lámpara en la noche profunda mientras los demás duermen resalta la escasez de los que están espiritualmente despiertos y la consiguiente necesidad aún mayor de una vigilancia intensa y constante para evitar la catástrofe eterna."
+                            },
+                            "originalText": "Εἰ µὲν γὰρ πολλοὶ οἱ ἐγρηγορότες ἦσαν, οὐκ ἦν τοσοῦτος ὁ κίνδυνος· ἐπειδὴ δὲ εἷς που καὶ δεύτερος λύχνον ἅψας, καθάπερ ἐν βαθυτάτῃ νυκτὶ τῶν ἄλλων καθευδόντων, ἐγρήγορε, διὰ τοῦτο πολλῆς ἡµῖν δεῖ τῆς ἀγρυπνίας, πολλῆς τῆς ἀσφαλείας, ὥστε µὴ τὰ ἀνήκεστα παθεῖν.",
+                            "spanishTranslation": "Porque si muchos estuvieran despiertos, el peligro no sería tan grande; pero puesto que uno o dos, habiendo encendido una lámpara, velan como en la noche más profunda mientras los demás duermen, por eso necesitamos mucha vigilia, mucha seguridad, para no sufrir daños irreparables."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 24,
+                    "chapterSummary": "Exhortación a la sobriedad y la piedad en la vida y los banquetes, condenando la inmoralidad y sus consecuencias.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              8950
+                            ],
+                            "originalText": "γʹ.",
+                            "spanishTranslation": "III."
+                          },
+                          {
+                            "lineNumber": [
+                              8951,
+                              8952
+                            ],
+                            "originalText": "Οὐχὶ δοκεῖ λαµπρὰ ἡ ἡµέρα εἶναι νῦν; οὐχὶ πάντες ἐγρηγοέναι νοµίζοµεν καὶ νήφειν;",
+                            "spanishTranslation": "¿Acaso no parece que el día es radiante ahora? ¿Acaso no pensamos todos que estamos despiertos y sobrios? (νήφειν) significa no solo sobriedad física, sino también lucidez mental y vigilancia espiritual. San Juan Crisóstomo lo emplea con frecuencia en este sentido amplio. Esta es una pregunta retórica para provocar la reflexión de la audiencia sobre su estado espiritual. Esta es una pregunta retórica que Crisóstomo plantea a su audiencia, insinuando que, a pesar de las apariencias, no están tan despiertos espiritualmente como creen. El término griego \"νήφειν\" (nēphein) implica no solo sobriedad de bebida, sino también lucidez mental, estar alerta y vigilante espiritualmente. San Juan Crisóstomo lo usa con este sentido amplio a lo largo de sus obras.Nótese que la pregunta retórica busca despertar a la audiencia a una autoevaluación de su estado espiritual."
+                          },
+                          {
+                            "lineNumber": [
+                              8953
+                            ],
+                            "originalText": "Ἀλλ' ὅµως (καὶ τάχα γελάσεσθε τὸ εἰρηµένον, ἐγὼ µέντοι αὐτὸ ἐρῶ) τοῖς ἐν βαθείᾳ νυκτὶ καθεύδουσί τε καὶ ῥέγχουσιν ἐοίκαµεν ἅπαντες.",
+                            "spanishTranslation": "Pero, sin embargo (y quizá se reirán de lo que voy a decir, mas yo lo diré), todos nos parecemos a quienes duermen y roncan en lo profundo de la noche."
+                          },
+                          {
+                            "lineNumber": [
+                              8954
+                            ],
+                            "originalText": "Καὶ εἴ γε οὐσίαν ἀσώµατον ἦν ἰδεῖν, ἔδειξα ἂν ὑµῖν πῶς οἱ µὲν πλείους ῥέγχουσιν, ὁ δὲ διάβολος διορύττει τοίχους, καὶ κατασφάττει κειµένους, καὶ ὑφαιρεῖται τὰ ἔνδον, καθάπερ ἐν σκότῳ βαθεῖ µετὰ ἀδείας ἅπαντα πράττων.",
+                            "spanishTranslation": "Y si fuera posible ver la sustancia incorpórea, les mostraría cómo la mayoría ronca, mientras el diablo derriba muros, degüella a los que están acostados y roba lo de adentro, obrando todo con impunidad, como en una profunda oscuridad."
+                          },
+                          {
+                            "lineNumber": [
+                              8955
+                            ],
+                            "originalText": "Μᾶλλον δὲ, εἰ καὶ ὀφθαλµοῖς τοῦτο ἰδεῖν ἀδύνατον, ὑπογράψωµεν αὐτὸ τῷ λόγῳ, καὶ ἐννοήσωµεν πόσοι ὑπὸ ἐπιθυµιῶν εἰσι πονηρῶν βεβαρηµένοι, πόσοι τῷ χαλεπῷ τῆς ἀσελγείας κάρῳ κατεχόµενοι, καὶ τὸ φῶς τοῦ πνεύµατος κατασβεννύντες.",
+                            "spanishTranslation": "Más aún, si bien esto es imposible de ver con los ojos, describámoslo con la palabra y consideremos cuántos están agobiados por malas pasiones, cuántos dominados por el duro letargo de la lascivia, y cuántos extinguen la luz del Espíritu."
+                          },
+                          {
+                            "lineNumber": [
+                              8956
+                            ],
+                            "originalText": "∆ιά τοι τοῦτο ἕτερα ἀνθ' ἑτέρων βλέπουσιν, ἕτερα ἀνθ' ἑτέρων ἀκούουσι, καὶ οὐδενὶ τῶν ἐνταῦθα λεγοµένων προσέχουσιν.",
+                            "spanishTranslation": "Por eso, ven unas cosas en lugar de otras, oyen unas cosas en lugar de otras, y no prestan atención a nada de lo que aquí se dice."
+                          },
+                          {
+                            "lineNumber": [
+                              8957
+                            ],
+                            "originalText": "Εἰ δὲ ἐγὼ ψεύδοµαι ταῦτα λέγων, καὶ ἐγρηγορὼς ἕστηκας, εἰπέ µοι, τί γέγονεν ἐνταῦθα σήµερον, εἰ µὴ ὡς ὀνειράτων ἤκουσας;",
+                            "spanishTranslation": "Pero si yo miento al decir esto, y tú estás de pie y despierto, dime: ¿qué ha sucedido aquí hoy, si no es que escuchaste como si fueran sueños?"
+                          },
+                          {
+                            "lineNumber": [
+                              8958,
+                              8959
+                            ],
+                            "originalText": "Καὶ οἶδα µὲν, ὅτι ἐροῦσί τινες· οὐδὲ γὰρ κατὰ πάντων ταῦτα λέγω·",
+                            "spanishTranslation": "Y sé que algunos dirán: \"No digo esto contra todos\";"
+                          },
+                          {
+                            "lineNumber": [
+                              8960
+                            ],
+                            "originalText": "ἀλλὰ σὺ ὁ τοῖς εἰρηµένοις ἔνοχος ὢν, ὁ µάτην ἐνταῦθα εἰσελθὼν, εἰπὲ, τίς προφήτης, ποῖος ἀπόστολος σήµερον διελέχθη ἡµῖν, καὶ περὶ τίνων.",
+                            "spanishTranslation": "pero tú, que eres culpable de lo dicho, que entraste aquí en vano, dime: ¿qué profeta, qué apóstol nos habló hoy, y sobre qué temas?"
+                          },
+                          {
+                            "lineNumber": [
+                              8961,
+                              8962
+                            ],
+                            "originalText": "Ἀλλ' οὐκ ἂν ἔχοις εἰπεῖν· καὶ γὰρ πολλὰ ὡς ἐν ὀνείρῳ διελέχθης ἐνταῦθα, τῶν ἀληθινῶν οὐκ ἀκούσας πραγµάτων.",
+                            "spanishTranslation": "Pero no podrías decirlo; pues mucho se te habló aquí como en un sueño, sin haber escuchado las cosas verdaderas."
+                          },
+                          {
+                            "lineNumber": [
+                              8963
+                            ],
+                            "originalText": "Ταῦτα δέ µοι καὶ πρὸς γυναῖκας εἰρήσθω·",
+                            "spanishTranslation": "Que esto sea dicho también para las mujeres;"
+                          },
+                          {
+                            "lineNumber": [
+                              8964,
+                              8965
+                            ],
+                            "originalText": "καὶ γὰρ ἐν ἐκείναις πολὺς ὁ ὕπνος· καὶ εἴθε ὕπνος.",
+                            "spanishTranslation": "pues también en ellas es mucho el sueño; y ojalá fuera solo sueño."
+                          },
+                          {
+                            "lineNumber": [
+                              8966
+                            ],
+                            "originalText": "Ὁ µὲν γὰρ καθεύδων οὔτε πονηρόν τι φθέγγεται, οὔτε χρηστόν·",
+                            "spanishTranslation": "Porque el que duerme no pronuncia nada malo ni bueno;"
+                          },
+                          {
+                            "lineNumber": [
+                              8967
+                            ],
+                            "originalText": "ὁ δὲ οὕτως ἐγρηγορὼς ὡς ὑµεῖς, πολλὰ καὶ ἐπὶ κακῷ τῆς ἑαυτοῦ κεφαλῆς ἐκβάλλει ῥήµατα, τόκους ἀριθµῶν, λογισµοὺς δανεισµάτων συντιθεὶς, καπηλείας ἀναισχύντου µεµνηµένος, τὰς ἀκάνθας πυκνὰς καταφυτεύων ἐν τῇ ἑαυτοῦ ψυχῇ, καὶ τὸν σπόρον οὐκ ἀφεὶς οὐδὲ µικρὸν προκύψαι ποτέ.",
+                            "spanishTranslation": "mientras que el que está despierto como ustedes, pronuncia muchas palabras para mal de su propia cabeza, calculando intereses, tramando préstamos, recordando transacciones desvergonzadas, plantando densas espinas en su propia alma y no permitiendo que la semilla brote ni un poco."
+                          },
+                          {
+                            "lineNumber": [
+                              8968,
+                              8969
+                            ],
+                            "originalText": "Ἀλλὰ διανάστηθι, καὶ τὰς ἀκάνθας ταύτας προῤῥίζους ἀνάσπασον, καὶ τὴν µέθην ἀποτίναξαι· καὶ γὰρ ἐντεῦθεν ὁ ὕπνος.",
+                            "spanishTranslation": "Más bien, levántate y arranca de raíz estas espinas, y sacúdete la embriaguez; pues también de aquí proviene el sueño."
+                          },
+                          {
+                            "lineNumber": [
+                              8970
+                            ],
+                            "originalText": "Μέθην δὲ οὐκ οἴνου λέγω µόνον, ἀλλὰ καὶ τῶν βιωτικῶν φροντίδων, καὶ µετὰ τούτων καὶ τὴν ἀπὸ τοῦ οἴνου.",
+                            "spanishTranslation": "Y por embriaguez no me refiero solo a la del vino, sino también a la de las preocupaciones mundanas, y junto con estas, también a la del vino."
+                          },
+                          {
+                            "lineNumber": [
+                              8971
+                            ],
+                            "originalText": "Ταῦτα δὲ οὐχὶ πλουσίοις µόνον, ἀλλὰ καὶ πένησι παραινῶ, καὶ µάλιστα τοῖς τὰ φιλικὰ συγκροτοῦσι συµπόσια.",
+                            "spanishTranslation": "Y esto lo advierto no solo a los ricos, sino también a los pobres, y especialmente a quienes organizan banquetes amistosos."
+                          },
+                          {
+                            "lineNumber": [
+                              8972,
+                              8973
+                            ],
+                            "originalText": "Οὐ γάρ ἐστι τοῦτο τρυφὴ οὐδὲ ἄνεσις, ἀλλὰ κόλασις καὶ τιµωρία· τρυφὴ γὰρ οὐκ αἰσχρὰ εἰπεῖν, ἀλλὰ σεµνὰ φθέγξασθαι, ἐµπλησθῆναι, οὐ διαῤῥαγῆναι.",
+                            "spanishTranslation": "Porque esto no es deleite ni descanso, sino castigo y tormento; pues el deleite no es decir cosas vergonzosas, sino pronunciar cosas dignas, saciarse, no reventar. El término \"τρυφὴ\" (tryphē) en griego puede referirse a la delicadeza, el lujo o el deleite. Crisóstomo lo reinterpreta aquí, oponiendo el verdadero 'deleite' espiritual y sobrio al desenfreno y la vulgaridad de los banquetes excesivos."
+                          },
+                          {
+                            "lineNumber": [
+                              8974,
+                              8975
+                            ],
+                            "originalText": "Εἰ δὲ ἡδονὴν αὐτὸ νοµίζεις, δεῖξόν [[60.626]] µοι ἐν ἑσπέρᾳ τὴν ἡδονήν· ἀλλ' οὐκ ἂν ἔχοις.",
+                            "spanishTranslation": "Pero si consideras que esto es placer, muéstrame por la tarde el placer; pero no podrías."
+                          },
+                          {
+                            "lineNumber": [
+                              8976,
+                              8977
+                            ],
+                            "originalText": "Καὶ οὔπω λέγω τὰς ἐντεῦθεν βλάβας, ἀλλὰ τέως περὶ τῆς ἡδονῆς σοι διαλέγοµαι τῆς εὐθέως µαραινοµένης· ὁµοῦ τε γὰρ διελύθη τὸ συµπόσιον, καὶ ἀπέπτη τὰ τῆς εὐφροσύνης.",
+                            "spanishTranslation": "Y aún no hablo de los daños que de aquí provienen, sino por ahora te hablo del placer que se desvanece al instante; pues tan pronto como se disuelve el banquete, las alegrías se esfuman."
+                          },
+                          {
+                            "lineNumber": [
+                              8978
+                            ],
+                            "originalText": "Ὅταν δὲ καὶ τὸν ἔµετον εἴπω, καὶ τὰς καρηβαρίας, καὶ τὰ µυρία νοσήµατα, καὶ τὴν τῆς ψυχῆς αἰχµαλωσίαν, τί πρὸς ταῦτα ἐρεῖς;",
+                            "spanishTranslation": "Pero cuando también mencione el vómito, las jaquecas, las innumerables enfermedades y la cautividad del alma, ¿qué dirás a esto?"
+                          },
+                          {
+                            "lineNumber": [
+                              8979
+                            ],
+                            "originalText": "Μὴ γὰρ, ἐπειδὴ πένητές ἐσµεν, καὶ ἀσχηµονεῖν ὀφείλοµεν;",
+                            "spanishTranslation": "¿Acaso porque somos pobres, debemos comportarnos indecorosamente?"
+                          },
+                          {
+                            "lineNumber": [
+                              8980
+                            ],
+                            "originalText": "Ταῦτα δὲ λέγω, οὐ κωλύων συνιέναι οὐδὲ κοινῇ συνδειπνεῖν, ἀλλὰ κωλύων ἀσχηµονεῖν, καὶ βουλόµενος τὴν τρυφὴν εἶναι τρυφὴν, ἀλλὰ µὴ κόλασιν µηδὲ τιµωρίαν καὶ µέθην καὶ κῶµον.",
+                            "spanishTranslation": "Digo esto no para impedir que se reúnan ni que cenen juntos, sino para impedir que se comporten indecorosamente, y queriendo que el deleite sea deleite, y no castigo ni tormento, ni embriaguez ni desenfreno."
+                          },
+                          {
+                            "lineNumber": [
+                              8981
+                            ],
+                            "originalText": "Μαθέτωσαν Ἕλληνες, ὅτι µάλιστα Χριστιανοὶ τρυφᾷν ἴσασι, καὶ τρυφᾷν µετὰ κόσµου.",
+                            "spanishTranslation": "Que aprendan los griegos que los cristianos son los que mejor saben deleitarse, y deleitarse con decoro."
+                          },
+                          {
+                            "lineNumber": [
+                              8982
+                            ],
+                            "originalText": "Ἀγαλλιᾶσθε γὰρ, φησὶ, τῷ Κυρίῳ ἐν τρόµῳ.",
+                            "spanishTranslation": "Porque, dice la Escritura: \"Alégrense en el Señor con temor.\" Esta es una cita del Salmo 2:11 (LXX), \"ἀγαλλιᾶσθε τῷ Κυρίῳ ἐν τρόµῳ\". La Vulgata latina traduce 'servite Domino in timore et exsultate ei cum tremore'. Es una invitación a la alegría reverente y piadosa, no al desenfreno."
+                          },
+                          {
+                            "lineNumber": [
+                              8983
+                            ],
+                            "originalText": "Πῶς δὲ ἔστιν ἀγαλλιᾶσθαι;",
+                            "spanishTranslation": "¿Y cómo es posible alegrarse?"
+                          },
+                          {
+                            "lineNumber": [
+                              8984
+                            ],
+                            "originalText": "Ὕµνους λέγοντας, εὐχὰς ποιουµένους, ψαλµοὺς ἐπεισάγοντας ἀντὶ τῶν ἀνελευθέρων ἐκείνων ᾀσµάτων.",
+                            "spanishTranslation": "Diciendo himnos, haciendo oraciones, introduciendo salmos en lugar de aquellas canciones indignas de hombres libres."
+                          },
+                          {
+                            "lineNumber": [
+                              8985
+                            ],
+                            "originalText": "Οὕτω καὶ ὁ Χριστὸς τῇ τραπέζῃ παρέσται, καὶ εὐλογίας ἐµπλήσει τὴν εὐωχίαν ἅπασαν, ὅταν εὔχῃ, ὅταν ᾄδῃς πνευµατικὰ, ὅταν πένητας ἐπὶ τῶν προκειµένων τὴν κοινωνίαν καλῇς, ὅταν εὐταξίαν πολλὴν καὶ σωφροσύνην ἐπιστήσῃς τῷ συµποσίῳ·",
+                            "spanishTranslation": "De esta manera también Cristo estará presente en la mesa, y llenará de bendiciones todo el festín, cuando ores, cuando cantes cánticos espirituales, cuando invites a los pobres a compartir lo que está puesto, cuando establezcas mucho orden y sobriedad en el banquete."
+                          },
+                          {
+                            "lineNumber": [
+                              8986
+                            ],
+                            "originalText": "οὕτω καὶ ἐκκλησίαν ἐργάσῃ τὸν τόπον, ἀντὶ τῶν ἀκαίρων κραυγῶν καὶ εὐφηµιῶν τὸν τῶν ἁπάντων ∆εσπότην ὑµνῶν.",
+                            "spanishTranslation": "Así también harás de ese lugar una iglesia, en lugar de gritos inoportunos y aclamaciones, himnando al Señor de todas las cosas."
+                          },
+                          {
+                            "lineNumber": [
+                              8987
+                            ],
+                            "originalText": "Καὶ µή µοι λέγε, ὅτι ἕτερος ἐκράτησε νόµος, ἀλλὰ διορθοῦ τὰ κακῶς ἔχοντα.",
+                            "spanishTranslation": "Y no me digas que ha prevalecido otra ley, sino corrige lo que está mal."
+                          },
+                          {
+                            "lineNumber": [
+                              8988
+                            ],
+                            "originalText": "Εἴτε γὰρ ἐσθίετε, φησὶν, εἴτε πίνετε, εἴτε τι ποιεῖτε, πάντα εἰς δόξαν Θεοῦ ποιεῖτε.",
+                            "spanishTranslation": "Pues, dice la Escritura: \"Ya sea que coman, que beban, o que hagan cualquier otra cosa, háganlo todo para la gloria de Dios.\" Esta es una cita de 1 Corintios 10:31, un principio fundamental de la vida cristiana que Crisóstomo aplica a las prácticas sociales como los banquetes."
+                          },
+                          {
+                            "lineNumber": [
+                              8989,
+                              8990
+                            ],
+                            "originalText": "Καὶ γὰρ ἀπὸ τῶν τοιούτων τραπεζῶν ὑµῖν αἱ πονηραὶ ἐπιθυµίαι, ἐντεῦθεν αἱ ἀσέλγειαι, ἐντεῦθεν αἱ γυναῖκες µὲν ἐν καταφρονήσει, αἱ δὲ πόρναι ἐν τιµῇ παρ' ὑµῖν· ἐντεῦθεν αἱ τῶν οἰκιῶν ἀνατροπαὶ, καὶ τὰ µυρία κακὰ, καὶ ἄνω καὶ κάτω πάντα γέγονε, καὶ τὴν πηγὴν ἀφέντες τὴν καθαρὰν, ἐπὶ τοῦ βορβόρου τὸν ὀχετὸν τρέχετε.",
+                            "spanishTranslation": "Porque de tales mesas provienen para ustedes los malos deseos, de ahí las lascivias, de ahí que las esposas sean despreciadas, mientras que las prostitutas son honradas entre ustedes; de ahí la ruina de los hogares y los innumerables males, y todo se ha trastocado de arriba abajo, y dejando la fuente pura, corren el canal hacia el fango."
+                          },
+                          {
+                            "lineNumber": [
+                              8991
+                            ],
+                            "originalText": "Ὅτι γὰρ βόρβορος τὸ τῆς πόρνης σῶµα, οὐδένα ἕτερον ἐρωτῶ, ἀλλ' αὐτόν σε τὸν ἐγκαλινδούµενον τῷ βορβόρῳ, εἰ µὴ σαυτὸν ἐρυθριᾷς, εἰ µὴ ἀκάθαρτον εἶναι νοµίζεις µετὰ τὴν ἁµαρτίαν.",
+                            "spanishTranslation": "Que el cuerpo de la prostituta es fango, no le pregunto a nadie más, sino a ti mismo, el que se revuelca en el fango, si no te avergüenzas a ti mismo, si no te consideras impuro después del pecado."
+                          },
+                          {
+                            "lineNumber": [
+                              8992
+                            ],
+                            "originalText": "∆ιὸ, παρακαλῶ, φεύγετε τὴν πορνείαν καὶ τὴν ταύτης µητέρα τὴν µέθην·",
+                            "spanishTranslation": "Por tanto, les ruego, huyan de la fornicación y de su madre, la embriaguez."
+                          },
+                          {
+                            "lineNumber": [
+                              8993
+                            ],
+                            "originalText": "Τί σπείρεις ὅπου θερίσαι οὐκ ἔνι, µᾶλλον δὲ, κἂν θερίσῃς, πολλήν σοι φέρει τὴν αἰσχύνην ὁ καρπός;",
+                            "spanishTranslation": "¿Por qué siembras donde no se puede cosechar, o más bien, aunque coseches, el fruto te traerá mucha vergüenza?"
+                          },
+                          {
+                            "lineNumber": [
+                              8994
+                            ],
+                            "originalText": "Κἂν γὰρ τεχθῇ παιδίον, καὶ σὲ ᾔσχυνε, καὶ αὐτὸ ἠδίκηται διὰ σὲ νόθον καὶ δυσγενὲς γενόµενον.",
+                            "spanishTranslation": "Porque si nace un niño, te deshonra a ti, y él mismo es perjudicado por ti, al nacer ilegítimo y de baja estirpe."
+                          },
+                          {
+                            "lineNumber": [
+                              8995,
+                              8996,
+                              8997
+                            ],
+                            "originalText": "Κἂν µυρία αὐτῷ καταλίπῃς χρήµατα, ἄτιµος ἐν οἰκίᾳ, ἄτιµος ἐν πόλει, ἄτιµος ἐν δικαστηρίῳ, καὶ ὁ ἐκ πόρνης καὶ ὁ ἐκ δούλης· ἄτιµος δὲ καὶ σὺ πάλιν, καὶ ζῶν καὶ τετελευτηκώς· κἂν γὰρ ἀπέλθῃς, µένει τὰ ὑποµνήµατα τῆς ἀσχηµοσύνης.",
+                            "spanishTranslation": "Aunque le dejes innumerables bienes, es deshonrado en casa, deshonrado en la ciudad, deshonrado en el tribunal, tanto el hijo de una prostituta como el hijo de una esclava; y tú, a tu vez, también eres deshonrado, tanto en vida como después de muerto; pues aunque te vayas, permanecen los recuerdos de la indecencia."
+                          },
+                          {
+                            "lineNumber": [
+                              8998
+                            ],
+                            "originalText": "Τί τοίνυν ἅπαντα καταισχύνεις;",
+                            "spanishTranslation": "¿Por qué, entonces, lo deshonras todo?"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 4,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 24,
+                    "chapterSummary": "Cristóstomo aborda la inmoralidad sexual, el aborto y la idolatría como males interconectados, contrastándolos con la imitación de Cristo a través de la humildad, la austeridad y la templanza. Concluye con la idea de que la satisfacción de las necesidades básicas y el desapego de los deseos excesivos conducen a la verdadera paz y a la bendición divina, culminando con una doxología.",
+                    "sections": [
+                      {
+                        "section": 4,
+                        "text": [
+                          {
+                            "keywords": [
+                              "aborto",
+                              "prostitución",
+                              "asesinato",
+                              "embriaguez",
+                              "fornicación",
+                              "adulterio",
+                              "homicidio"
+                            ],
+                            "lineNumber": [
+                              8999,
+                              9000,
+                              9001,
+                              9002,
+                              9003,
+                              9004,
+                              9005,
+                              9006,
+                              9007
+                            ],
+                            "notes": {
+                              "notesGreek": "La partícula \"δʹ.\" es un marcador de sección que indica la cuarta parte de un tema o capítulo. \"ἀτόκια\" (atokía), en este contexto, se refiere a la infertilidad o, más específicamente, al aborto para evitar un embarazo no deseado, particularmente vinculado a la prostitución y la inmoralidad. \"ἀνδροφόνον\" (androfónon) significa 'asesino de hombres' o 'homicida'."
+                            },
+                            "originalText": "δʹ. Τί σπείρεις ἔνθα ἡ ἄρουρα σπουδάζει διαφθεῖραι τὸν καρπόν; ἔνθα πολλὰ τὰ ἀτόκια; ἔνθα πρὸ τῆς γενέσεως φόνος; καὶ γὰρ καὶ τὴν πόρνην οὐκ ἀφίης µεῖναι πόρνην µόνον, ἀλλὰ καὶ ἀνδροφόνον ποιεῖς. Εἶδες ἀπὸ µέθης πορνείαν, ἀπὸ πορνείας µοιχείαν, ἀπὸ µοιχείας φόνον; µᾶλλον δὲ καὶ φόνου τι χεῖρον· οὐδὲ γὰρ ἔχω πῶς αὐτὸ καλέσω· οὐ γὰρ τεχθέντα ἀναιρεῖ, ἀλλὰ καὶ τεχθῆναι κωλύει.",
+                            "spanishTranslation": "IV. ¿Por qué siembras donde la tierra se esfuerza por destruir el fruto? ¿Donde hay muchos abortos? ¿Donde hay asesinato antes del nacimiento? Porque no permites que la prostituta sea solo una prostituta, sino que también la conviertes en homicida. ¿Viste la fornicación a partir de la embriaguez, el adulterio a partir de la fornicación, el asesinato a partir del adulterio? O más bien, algo peor que el asesinato, pues ni siquiera sé cómo llamarlo; porque no destruye lo ya nacido, sino que impide que nazca."
+                          },
+                          {
+                            "keywords": [
+                              "blasfemia",
+                              "ley divina",
+                              "aborto",
+                              "codicia",
+                              "prostitución",
+                              "responsabilidad"
+                            ],
+                            "lineNumber": [
+                              9008,
+                              9009,
+                              9010,
+                              9011
+                            ],
+                            "notes": {
+                              "notesGreek": "La expresión \"ταµιεῖον τῆς γενέσεως\" (tamieíon tēs genéseōs) se refiere figurativamente al útero como el 'depósito' o 'lugar de gestación'. Su contraposición con \"ταµιεῖον σφαγῆς\" (tamieíon sphagēs), 'lugar de matanza', resalta la perversión de su función original. La frase \"µέγα ἐπὶ τὴν σὴν κεφαλὴν τὸ πῦρ ἐντεῦθεν σωρεύουσα\" (méga epì tēn sēn kephalēn tò pŷr enteûthen sōreúousa) es una metáfora que indica la acumulación de un castigo severo."
+                            },
+                            "originalText": "Τί τοίνυν; Καὶ τοῦ Θεοῦ τὴν δωρεὰν ὑβρίζεις, καὶ τοῖς αὐτοῦ µάχῃ νόµοις, καὶ ὅπερ ἐστὶ κατάρα, τοῦτο ὡς εὐλογίαν µεταδιώκεις, καὶ τὸ ταµιεῖον τῆς γενέσεως ταµιεῖον ποιεῖς σφαγῆς, καὶ τὴν πρὸς παιδοποιίαν δοθεῖσαν [[60.627]] γυναῖκα πρὸς φόνον παρασκευάζεις; Ἵνα γὰρ ἀεὶ τοῖς ἐρασταῖς εὔχρηστος ᾖ καὶ ποθεινὴ καὶ πλέον ἀργύριον ἕλκῃ, οὐδὲ τοῦτο παραιτεῖται ποιῆσαι, µέγα ἐπὶ τὴν σὴν κεφαλὴν τὸ πῦρ ἐντεῦθεν σωρεύουσα· εἰ γὰρ καὶ ἐκείνης τὸ τόλµηµα, ἀλλὰ σὴ ἡ αἰτία γίνεται.",
+                            "spanishTranslation": "¿Qué, pues? ¿Blasfemas el don de Dios y luchas contra Sus leyes, y lo que es una maldición, esto persigues como una bendición? ¿Y haces del tesoro de la generación un tesoro de matanza, y a la mujer dada para la procreación la preparas para el asesinato? Pues para que ella sea siempre útil y deseable para sus amantes y atraiga más dinero, no se niega a hacer esto, amontonando así un gran fuego sobre tu cabeza; porque si bien la osadía es de ella, la culpa recae sobre ti."
+                          },
+                          {
+                            "keywords": [
+                              "idolatría",
+                              "brujería",
+                              "envidia",
+                              "adulterio",
+                              "posesión demoníaca",
+                              "rivalidad"
+                            ],
+                            "lineNumber": [
+                              9012,
+                              9013,
+                              9014,
+                              9015,
+                              9016
+                            ],
+                            "notes": {
+                              "notesGreek": "\"φίλτρα\" (phíltra) se refiere a 'filtros de amor' o pociones mágicas, comunes en la antigüedad. \"φαρµακεῖαι\" (pharmakeíai) aquí significa 'hechicerías' o 'brujería', no 'farmacia' en el sentido moderno. \"νεκυοµαντεῖαι\" (nekýomanteíai) es 'nigromancia', la invocación de los muertos, prácticas condenadas en el cristianismo."
+                            },
+                            "originalText": "Ἐντεῦθεν καὶ εἰδωλολατρεῖαι. Πολλαὶ γὰρ ὥστε ἐπιχαρεῖς γενέσθαι, καὶ ἐπῳδὰς καὶ σπονδὰς καὶ φίλτρα καὶ µυρία ἕτερα µηχανῶνται. Ἀλλ' ὅµως µετὰ τοσαύτην ἀσχηµοσύνην, µετὰ φόνους, µετὰ εἰδωλολατρείας, πολλοῖς ἀδιάφορον τὸ πρᾶγµα εἶναι δοκεῖ, πολλοῖς καὶ γυναῖκας ἔχουσιν· ἔνθα καὶ πλείων ὁ φορυτὸς τῶν κακῶν. Καὶ γὰρ φαρµακεῖαι λοιπὸν κινοῦνται, οὐκ ἐπὶ τὴν νηδὺν τὴν πορνευοµένην, ἀλλ' ἐπὶ τὴν ἠδικηµένην γυναῖκα, καὶ ἐπιβουλαὶ µυρίαι, καὶ δαιµόνων κλήσεις, καὶ νεκυοµαντεῖαι, καὶ πόλεµοι καθηµερινοὶ, καὶ ἄσπονδοι µάχαι, καὶ σύντροφοι φιλονεικίαι.",
+                            "spanishTranslation": "De aquí también las idolatrías. Porque muchas, para hacerse agradables, recurren a encantamientos, libaciones, filtros de amor y otras innumerables estratagemas. Pero, sin embargo, después de tanta indecencia, después de asesinatos, después de idolatrías, el asunto parece indiferente para muchos, incluso para muchos que tienen esposas; donde el cúmulo de males es aún mayor. Pues entonces también se mueven hechicerías, no contra el vientre fornicario, sino contra la mujer agraviada, e innumerables intrigas, y conjuros de demonios, y nigromancias, y guerras diarias, y luchas implacables, y rivalidades arraigadas."
+                          },
+                          {
+                            "keywords": [
+                              "Romanos 13:13",
+                              "Pablo",
+                              "Cristo",
+                              "santidad",
+                              "mansedumbre",
+                              "amor",
+                              "imitación de Cristo"
+                            ],
+                            "lineNumber": [
+                              9017,
+                              9018,
+                              9019,
+                              9020,
+                              9021,
+                              9022,
+                              9023
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita \"Mὴ κοίταις καὶ ἀσελγείαις... Μὴ ἔριδι καὶ ζήλῳ\" (No en orgías ni libertinaje... No en contiendas y celos) proviene de Romanos 13:13, donde Pablo exhorta a los creyentes a vivir una vida de santidad y amor fraternal.",
+                              "notesGreek": "\"ἐνδυσώµεθα\" (endysōmetha), del verbo \"ἐνδύω\" (endyō), significa 'vestir', 'ponerse', 'revestirse'. La expresión \"revestirse de Cristo\" es una metáfora paulina recurrente (Gálatas 3:27, Romanos 13:14) que implica una transformación completa del carácter para asemejarse a Cristo."
+                            },
+                            "originalText": "∆ιὸ καὶ ὁ Παῦλος εἰπὼν, Μὴ κοίταις καὶ ἀσελγείαις, ἐπήγαγε, Μὴ ἔριδι καὶ ζήλῳ· εἰδὼς τοὺς ἐντεῦθεν πολέµους, τῶν οἰκιῶν τὰς ἀνατροπὰς, τῶν εὐγενῶν παίδων τὰς ἀδικίας, τὰ µυρία κακά. Ἵν' οὖν ταῦτα διαφύγωµεν ἅπαντα, τὸν Χριστὸν ἐνδυσώµεθα, καὶ µετ' αὐτοῦ διηνεκῶς ὦµεν· ἐπεὶ καὶ τοῦτό ἐστιν ἐνδύσασθαι, τὸ µηδέποτε αὐτοῦ ἀπολειφθῆναι, τὸ πάντοθεν αὐτὸν φαίνεσθαι ἐν ἡµῖν διὰ τῆς ἁγιωσύνης ἡµῶν, διὰ τῆς ἐπιεικείας. Οὕτω καὶ ἐπὶ φίλων λέγοµεν, Ὁ δεῖνα τὸν δεῖνα ἐνεδύσατο, τὴν πολλὴν ἀγάπην λέγοντες καὶ τὴν ἀδιάλειπτον συνουσίαν· ὁ γὰρ ἐνδυσάµενος, ἐκεῖνο φαίνεται, ὅπερ ἐνδέδυται. Φαινέσθω τοίνυν πάντοθεν ἐν ἡµῖν ὁ Χριστός.",
+                            "spanishTranslation": "Por tanto, también Pablo, habiendo dicho: \"No en orgías ni libertinaje\", añadió: \"No en contiendas y celos\"; conociendo las guerras que de allí provienen, el derrocamiento de los hogares, las injusticias hacia los hijos nobles, los innumerables males. Para que, pues, escapemos de todo esto, revistámonos de Cristo y estemos con Él continuamente; porque esto es también revestirse, no separarse nunca de Él, que Él se manifieste por doquier en nosotros por nuestra santidad, por nuestra mansedumbre. Así también decimos de los amigos: \"Fulano se ha revestido de mengano\", refiriéndonos al gran amor y a la compañía ininterrumpida; porque el que se reviste, parece ser aquello de lo que se ha revestido. Manifiéstate, pues, Cristo por doquier en nosotros."
+                          },
+                          {
+                            "keywords": [
+                              "imitación de Cristo",
+                              "humildad",
+                              "Hijo del Hombre",
+                              "pobreza",
+                              "austeridad",
+                              "ejemplo"
+                            ],
+                            "lineNumber": [
+                              9024,
+                              9025,
+                              9026,
+                              9027,
+                              9028,
+                              9029,
+                              9030,
+                              9031
+                            ],
+                            "notes": {
+                              "notesBiblical": "La cita \"El Hijo del Hombre no tiene dónde recostar su cabeza\" se encuentra en Mateo 8:20 y Lucas 9:58, destacando la pobreza y el desapego terrenal de Jesús. La referencia a dormir en la popa del barco se encuentra en Marcos 4:38.",
+                              "notesGeneral": "San Juan Crisóstomo utiliza ejemplos concretos de la vida de Jesús para ilustrar la humildad y la austeridad que deben ser imitadas por los cristianos."
+                            },
+                            "originalText": "Καὶ πῶς φανεῖται; Ἂν τὰ ἐκείνου ποιῇς. Τί δὲ ἐκεῖνος ἐποίησεν; Ὁ Υἱὸς τοῦ ἀνθρώπου, φησὶν, οὐκ ἔχει ποῦ τὴν κεφαλὴν κλίνῃ. Τοῦτο καὶ σὺ ζήλωσον. Τροφῆς ἀπολαῦσαι ἔδει, καὶ κριθίνοις ἄρτοις ἐκέχρητο· ἀποδηµῆσαι ἐχρῆν, καὶ οὐδαµοῦ ἵπποι καὶ ὑποζύγια, ἀλλὰ τοσαῦτα ἐβάδιζεν, ὥστε καὶ κοπιᾶσαι· καθευδῆσαι ἔδει, καὶ ἐπὶ προσ [[60.628]] κεφαλαίου ἔκειτο ἐπὶ τῆς πρώρας·",
+                            "spanishTranslation": "¿Y cómo se manifestará? Si haces las cosas de Él. ¿Y qué hizo Él? \"El Hijo del Hombre\", dice, \"no tiene dónde recostar su cabeza\". Esto también emula tú. Necesitaba disfrutar de alimento, y usaba panes de cebada; tenía que viajar, y en ningún lugar había caballos ni bestias de carga, sino que caminaba tanto que llegaba a cansarse; tenía que dormir, y se acostaba sobre una almohada en la popa."
+                          },
+                          {
+                            "keywords": [
+                              "Cruz",
+                              "humildad",
+                              "pasión",
+                              "lujuria",
+                              "ascetismo",
+                              "vestiduras",
+                              "desapego"
+                            ],
+                            "lineNumber": [
+                              9032,
+                              9033,
+                              9034,
+                              9035,
+                              9036,
+                              9037
+                            ],
+                            "notes": {
+                              "notesBiblical": "La mención de reclinarse sobre la hierba se refiere a la alimentación de las multitudes (Marcos 6:39, Lucas 9:15). La frase \"no proveas para la carne para sus deseos\" es una alusión directa a Romanos 13:14, que completa la idea de \"revestirse de Cristo\"."
+                            },
+                            "originalText": "κατακλιθῆναι ἐχρῆν, καὶ ἐπὶ χόρτου καταπεσεῖν ἐκέλευσε. Καὶ τὰ ἱµάτια δὲ εὐτελῆ· καὶ πολλαχοῦ µόνος διέτριβεν, οὐδένα ἐπισυρόµενος. Καὶ τὰ ἐν τῷ σταυρῷ δὲ, καὶ τὰ ἐν ταῖς ὕβρεσι, καὶ πάντα ἁπλῶς καταµαθὼν, ζήλωσον· καὶ οὕτως ἐνεδύσω τὸν Χριστὸν, ἂν τῆς σαρκὸς πρόνοιαν µὴ ποιῇς εἰς ἐπιθυµίας· οὐδὲ γὰρ ἡδονὴν τὸ πρᾶγµα ἔχει.",
+                            "spanishTranslation": "Tenía que reclinarse, y mandó que se sentaran sobre la hierba. Y sus vestiduras eran humildes; y en muchos lugares se detenía solo, sin atraer a nadie. Y habiendo aprendido simplemente lo de la cruz, y lo de los ultrajes, emúlalo todo; y así te habrás revestido de Cristo, si no provees para la carne para sus deseos; porque la cosa misma no tiene placer."
+                          },
+                          {
+                            "keywords": [
+                              "deseo",
+                              "insatisfacción",
+                              "tormento",
+                              "analogía de la sed",
+                              "pasiones"
+                            ],
+                            "lineNumber": [
+                              9038,
+                              9039,
+                              9040
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La comparación entre el deseo insaciable y la sed constante es una metáfora común en la literatura moral y filosófica griega, utilizada para ilustrar la naturaleza ilimitada y tormentosa de las pasiones no controladas."
+                            },
+                            "originalText": "Καὶ γὰρ αἱ ἐπιθυµίαι αὗται τίκτουσι πάλιν ἑτέρας δριµυτέρας, καὶ οὐδέποτε λήψῃ κόρον, ἀλλὰ βάσανον ἐργάσῃ σαυτῷ µεγάλην. Ὥσπερ γὰρ ὁ διηνεκῶς ὢν ἐν τῷ διψῇν, κἂν µυρίας ἔχῃ παρακειµένας πηγὰς, οὐδὲν ἐντεῦθεν κερδαίνει, µὴ δυνάµενος τὸ νόσηµα σβέσαι· οὕτω καὶ ὁ διηνεκῶς ἐν ἐπιθυµίαις ζῶν.",
+                            "spanishTranslation": "Pues estas pasiones engendran a su vez otras más amargas, y nunca alcanzarás la saciedad, sino que te causarás un gran tormento. Porque así como el que está continuamente sediento, aunque tenga innumerables fuentes a su lado, nada gana con ello, al no poder apagar la enfermedad; así también el que vive continuamente en deseos."
+                          },
+                          {
+                            "keywords": [
+                              "sobriedad",
+                              "templanza",
+                              "ascetismo",
+                              "cuerpo",
+                              "alma",
+                              "metáfora del barco",
+                              "disciplina"
+                            ],
+                            "lineNumber": [
+                              9041,
+                              9042,
+                              9043,
+                              9044
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La imagen del cuerpo como \"ὄχηµα\" (óchēma, vehículo) para el alma, con el alma como \"κυβερνήτης\" (kybernētēs, piloto) y el cuerpo como \"στρατιώτης\" (stratiōtēs, soldado) que maneja las \"ὅπλα\" (hópla, armas), es una alegoría clásica que enfatiza la disciplina y el control sobre los deseos carnales para que el alma pueda gobernar eficazmente."
+                            },
+                            "originalText": "Ἂν δὲ τῆς χρείας ᾖς ἐντὸς, οὐδέποτε τοῦτον δέξῃ τὸν πυρετὸν, ἀλλὰ πάντα ἐκεῖνα οἰχήσεται, καὶ µέθαι καὶ ἀσέλγειαι. Τοσοῦτον τοίνυν ἔσθιε ὅσον λῦσαι λιµὸν, τοιαῦτα ἐνδύου οἷον σκέπεσθαι µόνον, µηδὲ καλλώπιζε ἱµατίοις τὴν σάρκα, ἵνα µὴ αὐτὴν ἀπολέσῃς· καὶ γὰρ καὶ µαλακωτέραν αὐτὴν ποιεῖς, καὶ τὴν εὐεξίαν αὐτῆς λυµαίνῃ, τῇ πολλῇ βλακείᾳ διαλύων αὐτήν. Ἵν' οὖν ἔχῃς αὐτὴν ὄχηµα καλὸν τῆς ψυχῆς, ἵνα ὁ κυβερνήτης ἀσφαλῶς ἐπὶ τῶν οἰάκων κάθηται, καὶ ὁ στρατιώτης εὐκόλως µεταχειρίζῃ τὰ ὅπλα, εὐάρµοστα πάντα ποίει.",
+                            "spanishTranslation": "Pero si te mantienes dentro de lo necesario, nunca sufrirás esta fiebre, sino que todas aquellas cosas desaparecerán, tanto las embriagueces como los libertinajes. Por lo tanto, come solo lo suficiente para saciar el hambre, vístete solo para cubrirte, y no embellezcas la carne con vestiduras, para que no la destruyas; pues la haces más débil y dañas su bienestar, disolviéndola con mucha languidez. Para que, pues, la tengas como un buen vehículo para el alma, para que el piloto se siente seguro al timón y el soldado maneje fácilmente las armas, haz que todo esté en armonía."
+                          },
+                          {
+                            "keywords": [
+                              "contento",
+                              "simplicidad",
+                              "desapego",
+                              "paz interior",
+                              "libertad",
+                              "necesidad"
+                            ],
+                            "lineNumber": [
+                              9045,
+                              9046,
+                              9047,
+                              9048,
+                              9049
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje enfatiza una filosofía de vida que valora la simplicidad y el desapego material como fuente de verdadera seguridad y alegría, contrastando con la ansiedad que a menudo acompaña la acumulación de riquezas y deseos."
+                            },
+                            "originalText": "Οὐ γὰρ τὸ πολλὰ ἔχειν, ἀλλὰ τὸ ὀλίγων δεῖσθαι, ἀναλώτους ποιεῖ. Ἐκεῖνος µὲν γὰρ, κἂν µὴ ἀδικηθῇ, δέδοικεν· οὗτος δὲ, κἂν ἀδικηθῇ, τῶν οὐκ ἠδικηµένων ἄµεινον διακείσεται, καὶ ἐν πλείονι καὶ διὰ τοῦτο ἔσται εὐθυµίᾳ. Μὴ τοίνυν τοῦτο ζητῶµεν, ὅπως µηδεὶς ἐπηρεάσῃ, ἀλλ' ὅπως, κἂν ἐπηρεάζειν βούληται, µὴ δύνηται. Τοῦτο δὲ οὐδαµόθεν ἑτέρωθεν ἔσται, ἀλλ' ἢ ἐκ τοῦ τῆς χρείας ἔχεσθαι, καὶ µὴ πλειόνων ἐπιθυµεῖν.",
+                            "spanishTranslation": "Porque no es tener muchas cosas, sino necesitar pocas, lo que nos hace inexpugnables. Pues aquel (que tiene muchas cosas), aunque no sea agraviado, teme; pero este (que necesita pocas), aunque sea agraviado, estará mejor dispuesto que aquellos que no lo son, y por esto estará en mayor alegría. Por tanto, no busquemos esto, que nadie nos haga daño, sino que, si alguien desea hacernos daño, no pueda. Y esto no vendrá de ningún otro lugar, sino de aferrarse a lo necesario y no desear más."
+                          },
+                          {
+                            "keywords": [
+                              "Gracia",
+                              "filantropía",
+                              "doxología",
+                              "Trinidad",
+                              "eternidad",
+                              "Jesucristo",
+                              "Espíritu Santo",
+                              "Padre"
+                            ],
+                            "lineNumber": [
+                              9050,
+                              9051
+                            ],
+                            "notes": {
+                              "notesGreek": "\"φιλανθρωπίᾳ\" (philanthrōpía) es un término clave que significa 'amor a la humanidad' o 'benevolencia', a menudo usado para describir la bondad divina. \"δόξα, κράτος, τιµὴ\" (dóxa, krátos, timē) son 'gloria, poder/dominio, honor', un conjunto común en las doxologías cristianas, que expresa alabanza a la Trinidad."
+                            },
+                            "originalText": "Οὕτω γὰρ καὶ ἐνταῦθα τρυφῆσαι δυνησόµεθα, καὶ τῶν µελλόντων ἐπιτευξόµεθα ἀγαθῶν, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡµῶν Ἰησοῦ Χριστοῦ, µεθ' οὗ τῷ Πατρὶ ἅµα τῷ ἁγίῳ Πνεύµατι δόξα, κράτος, τιµὴ, νῦν καὶ ἀεὶ, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀµήν.",
+                            "spanishTranslation": "Porque así podremos deleitarnos también aquí, y alcanzaremos los bienes venideros, por la gracia y la filantropía de nuestro Señor Jesucristo, con quien al Padre, junto con el Espíritu Santo, sea la gloria, el poder, el honor, ahora y siempre, y por los siglos de los siglos. Amén."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

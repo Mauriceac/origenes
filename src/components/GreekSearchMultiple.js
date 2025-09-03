@@ -83,7 +83,7 @@ function highlightWords(text, words) {
     const safeWord = word.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
     highlighted = highlighted.replace(
       new RegExp(safeWord, 'g'),
-      `<span style="background: var(--ifm-color-primary-lightest); border-radius: 3px; padding: 0 2px;">${word}</span>`
+      `<span style="background: var(--highlight); border-radius: 3px; padding: 0 2px;">${word}</span>`
     );
   });
   return highlighted;

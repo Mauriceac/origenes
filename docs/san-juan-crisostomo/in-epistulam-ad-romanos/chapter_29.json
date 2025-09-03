@@ -1,0 +1,1475 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Iohannes Chrysostomus",
+      "authorSpanish": "San Juan Cristóstomo",
+      "originalTitle": "In Epistulam ad Romanos",
+      "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 29,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 29,
+                    "chapterSummary": "Confianza de Pablo en la bondad y conocimiento de los Romanos, y su capacidad para aconsejarse mutuamente.",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "homilía",
+                              "veintinueve"
+                            ],
+                            "lineNumber": [
+                              10108
+                            ],
+                            "notes": {},
+                            "originalText": "ΟΜΙΛΙΑ ΚΘʹ.",
+                            "spanishTranslation": "HOMILÍA XXIX."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "Romanos",
+                              "persuadido",
+                              "bondad",
+                              "conocimiento",
+                              "amonestar",
+                              "instruir"
+                            ],
+                            "lineNumber": [
+                              10109
+                            ],
+                            "notes": {
+                              "notesBiblical": "Este versículo es Romanos 15:14, donde Pablo expresa su confianza en la comunidad romana y su capacidad para la enseñanza mutua.",
+                              "notesGreek": "Πέπεισµαι (Pépeismai): Es un participio perfecto pasivo que significa 'estoy persuadido' o 'tengo la convicción'. Denota una confianza firme.ἀγαθωσύνης (agathōsynēs): 'Bondad', 'benevolencia'. Se refiere a la virtud moral y la disposición a hacer el bien. πεπληρωµένοι (peplērōménoi): Participio perfecto pasivo de πληρόω, 'estar lleno', 'colmado'. Implica una plenitud de algo. γνώσεως (gnōseōs): 'Conocimiento', 'entendimiento'. En el contexto paulino, a menudo se refiere a un conocimiento espiritual o teológico. νουθετεῖν (nouthetein): 'Amonestar', 'instruir', 'advertir', 'aconsejar'. Sugiere una guía moral o espiritual, a menudo con una connotación de corrección amable."
+                            },
+                            "originalText": "Πέπεισµαι δὲ, ἀδελφοί µου, καὶ αὐτὸς ἐγὼ περὶ ὑµῶν, ὅτι καὶ αὐτοὶ µεστοί ἐστε ἀγαθωσύνης, πεπληρωµένοι πάσης γνώσεως, δυνάµενοι καὶ ἄλλους νουθετεῖν.",
+                            "spanishTranslation": "Pero yo mismo, hermanos míos, estoy persuadido acerca de vosotros, de que también vosotros estáis llenos de bondad, colmados de todo conocimiento, y sois capaces de amonestar a otros."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 29,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10178
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ πῶς ἂν γένοιτο εὐπρόσδεκτος;",
+                            "spanishTranslation": "¿Y cómo podría ser aceptable?"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10179,
+                              10180
+                            ],
+                            "notes": {
+                              "notesGreek": "El término griego \"πολιτείας πνευµατικῆς\" se refiere a una vida o conducta espiritual, no solo a la fe individual, sino a la forma en que esa fe se manifiesta en el comportamiento diario. La presencia del Espíritu Santo se mantiene a través de una vida consecuente.",
+                              "notesLinguistics": "El genitivo \"Πνεύµατι ἁγίῳ\" (en el Espíritu Santo) indica la esfera o el medio por el cual la ofrenda (mencionada en el versículo anterior, Rom 15:16) se hace aceptable. No es solo un acto humano, sino uno capacitado por el Espíritu."
+                            },
+                            "originalText": "Ἐν Πνεύµατι ἁγίῳ· οὐ γὰρ πίστεως δεῖ µόνης, ἀλλὰ καὶ πολιτείας πνευµατικῆς, ἵνα κατέχωµεν τὸ Πνεῦµα τὸ δοθὲν ἅπαξ.",
+                            "spanishTranslation": "En el Espíritu Santo; porque no se necesita solo la fe, sino también una vida espiritual, para que retengamos el Espíritu dado una vez."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10181,
+                              10182,
+                              10183
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia a \"leña y fuego, altar y cuchillo\" alude a los sacrificios del Antiguo Testamento (Génesis 22, Levítico 1, etc.), contrastando con la nueva economía del Espíritu Santo en el Nuevo Pacto. El \"fuego\" aquí simboliza la presencia y la obra del Espíritu."
+                            },
+                            "originalText": "Οὐ γὰρ ξύλα καὶ πῦρ, οὐδὲ βωµὸς καὶ µάχαιρα, ἀλλὰ Πνεῦµα πάντα παρ' ἡµῖν. ∆ιὰ τοῦτο πάντα ποιῶ, ἵνα µὴ σβεσθῇ ἐκεῖνο τὸ πῦρ· τοῦτο γὰρ καὶ ἐπιτέταγµαι.",
+                            "spanishTranslation": "Porque no son leña y fuego, ni altar y cuchillo, sino el Espíritu todo entre nosotros. Por eso hago todo para que no se apague aquel fuego; porque esto también me ha sido encomendado."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10184,
+                              10185,
+                              10186
+                            ],
+                            "notes": {},
+                            "originalText": "Τί οὖν τοῖς µὴ δεοµένοις λέγεις; ∆ι' αὐτὸ δὴ τοῦτο οὐ διδάσκω, ἀλλ' ἀναµιµνήσκω, φησί· καθάπερ ὁ ἱερεὺς παρέστηκε τὸ πῦρ ἀνακαίων, οὕτω καὶ ἐγὼ τὴν προθυµίαν ὑµῶν διεγείρων.",
+                            "spanishTranslation": "¿Qué, pues, les dices a los que no lo necesitan? Por esta misma razón, dice, no enseño, sino que recuerdo; así como el sacerdote está presente avivando el fuego, así también yo avivo vuestro celo."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10187,
+                              10188
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 15:16, donde Pablo describe su ministerio como un \"servicio sacerdotal del evangelio de Dios, para que la ofrenda de los gentiles sea aceptable, santificada por el Espíritu Santo\". El Crisóstomo enfatiza que la ofrenda no es de los creyentes romanos directamente, sino de los gentiles en general, a quienes Pablo ministró."
+                            },
+                            "originalText": "Καὶ ὅρα· οὐκ εἶπεν, Ἵνα γένηται ἡ προσφορὰ ὑµῶν, ἀλλὰ, Τῶν ἐθνῶν.",
+                            "spanishTranslation": "Y mira: no dijo: «Para que vuestra ofrenda sea hecha», sino: «De los gentiles»."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10189
+                            ],
+                            "notes": {},
+                            "originalText": "Ὅταν δὲ εἴπῃ, Τῶν ἐθνῶν, τὴν οἰκουµένην λέγει, γῆν καὶ θάλασσαν ἅπασαν, καταστέλλων ἐκείνων τὰ φρονήµατα, ὥστε µὴ ἀπαξιῶσαι καὶ διδάσκαλον ἔχειν τὸν πρὸς τὰ πέρατα τῆς οἰκουµένης τεινόµενον·",
+                            "spanishTranslation": "Pero cuando dice: «De los gentiles», se refiere al mundo habitado, a toda la tierra y el mar, rebajando su soberbia, para que no desestimen tener como maestro a quien se extiende hasta los confines del mundo habitado."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10190
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita o alude a Romanos 1:14, donde Pablo expresa su obligación de predicar el evangelio a todos."
+                            },
+                            "originalText": "ὃ καὶ ἀρχόµenos ἔλεγε, Καθὼς καὶ ἐν τοῖς λοιποῖς ἔθνεσιν, Ἕλλησί τε καὶ βαρβάροις, σοφοῖς τε καὶ ἀνοήτοις ὀφειλέτης εἰµί.",
+                            "spanishTranslation": "lo que también decía al principio: «Así como también en las demás naciones, tanto a griegos como a bárbaros, a sabios y a insensatos, soy deudor»."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10191
+                            ],
+                            "notes": {
+                              "notesBiblical": "Esta frase proviene de Romanos 15:17. \"Τὰ πρὸς τὸν Θεόν\" (las cosas que tienen que ver con Dios) son los asuntos espirituales y divinos, diferenciándolos de asuntos meramente humanos o carnales."
+                            },
+                            "originalText": "Ἔχω οὖν καύχησιν ἐν Χριστῷ Ἰησοῦ τὰ πρὸς τὸν Θεόν.",
+                            "spanishTranslation": "Así que tengo de qué gloriarme en Cristo Jesús en lo que a Dios concierne."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10192,
+                              10193,
+                              10194
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐπειδὴ γὰρ σφόδρα ἑαυτὸν ἐταπείνωσε, πάλιν ἐπαίρει τὸν λόγον, καὶ τοῦτο ὑπὲρ ἐκείνων ποιῶν, ὥστε µὴ δόξαι εὐκαταφρόνητος εἶναι. Καὶ ἐν τῷ ἐπαίρειν δὲ αὐτὸν, τοῦ οἰκείου µέµνηται ἤθους, οὕτω λέγων· Ἔχω οὖν καύχησιν.",
+                            "spanishTranslation": "Porque habiéndose humillado mucho, eleva de nuevo el discurso, haciendo esto por ellos, para que no pareciera despreciable. Y al elevarse, recuerda su propio carácter, diciendo así: «Así que tengo de qué gloriarme»."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10195
+                            ],
+                            "notes": {},
+                            "originalText": "Καυχῶµαι, φησὶν, οὐκ ἐν ἐµαυτῷ, οὐδὲ ἐν τῇ ἡµετέρᾳ σπουδῇ, ἀλλὰ τῇ τοῦ Θεοῦ χάριτι.",
+                            "spanishTranslation": "Me glorío, dice, no en mí mismo, ni en nuestro celo, sino en la gracia de Dios."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10196
+                            ],
+                            "notes": {
+                              "notesBiblical": "Aquí, Crisóstomo parafrasea Romanos 15:18-19. La frase \"λόγῳ καὶ ἔργῳ, ἐν δυνάµει σηµείων καὶ τεράτων, ἐν δυνάµει Πνεύµατος Θεοῦ\" (por palabra y obra, por el poder de señales y prodigios, por el poder del Espíritu de Dios) resume los métodos y la fuente del poder apostólico de Pablo.",
+                              "notesGreek": "El uso de dativos \"λόγῳ καὶ ἔργῳ\" (por palabra y obra) y \"ἐν δυνάµει\" (en poder) indica el medio o el instrumento por el cual se realizaron las acciones."
+                            },
+                            "originalText": "Οὐ γὰρ τολµήσω τι λαλῆσαι, ὧν οὐ κατειργάσατο ὁ Χριστὸς δι' ἐµοῦ εἰς ὑπακοὴν τῶν ἐθνῶν, λόγῳ καὶ ἔργῳ, ἐν δυνάµει σηµείων καὶ τεράτων, ἐν δυνάµει Πνεύµατος Θεοῦ.",
+                            "spanishTranslation": "Pues no me atreveré a hablar de nada que Cristo no haya obrado por medio de mí para la obediencia de los gentiles, con palabra y obra, con el poder de señales y prodigios, con el poder del Espíritu de Dios."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10197,
+                              10198
+                            ],
+                            "notes": {
+                              "notesBiblical": "Los \"ποδήρη καὶ κώδωνας\" (túnica talar y campanillas) y \"µίτραν καὶ κίδαριν\" (mitra y turbante) eran elementos de las vestiduras del sumo sacerdote y sacerdotes levíticos en el Antiguo Testamento (Éxodo 28). Crisóstomo contrasta estos símbolos externos de la autoridad sacerdotal antigua con los \"σηµεῖα καὶ θαύµατα\" (señales y maravillas) del ministerio apostólico, que son pruebas mucho más impactantes del sacerdocio de Pablo.",
+                              "notesGreek": "El término \"ἱερουργίας\" (servicio sacerdotal) es clave para entender cómo Pablo ve su ministerio, no como un rito sacrificial judío, sino como el ofrecimiento espiritual del evangelio a los gentiles."
+                            },
+                            "originalText": "Οὐδὲ γὰρ ἂν ἔχοι τις εἰπεῖν, φησὶν, ὅτι κόµπος µου τὰ ῥήµατα· τῆς γὰρ ἱερουργίας µου ταύτης τὰ σύµβολα, καὶ τῆς χειροτονίας ἔχω πολλὰ δεῖξαι τὰ τεκµήρια, οὐ ποδήρη καὶ κώδωνας, καθάπερ οἱ παλαιοὶ, οὐδὲ µίτραν καὶ κίδαριν, ἀλλὰ πολλῷ φρικωδέστερα τούτων σηµεῖα καὶ θαύµατα.",
+                            "spanishTranslation": "Pues nadie podría decir, dice, que mis palabras son jactanciosas; porque de este mi servicio sacerdotal y de la ordenación, tengo muchas pruebas que mostrar: no túnicas talares y campanillas, como los antiguos, ni mitra y turbante, sino señales y prodigios mucho más temibles que estos."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10199,
+                              10200,
+                              10201,
+                              10202
+                            ],
+                            "notes": {},
+                            "originalText": "Οὐδὲ γὰρ ἔστιν εἰπεῖν, ὅτι ἐνεχειρίσθην µὲν, οὐκ ἐποίησα δὲ τὸ ἐπιταχθέν· µᾶλλον δὲ οὐδὲ ἐγὼ ἐποίησα, ἀλλὰ ὁ Χριστός· διὸ καὶ ἐν αὐτῷ καυχῶµαι, οὐχ ὑπὲρ τῶν τυχόντων πραγµάτων, ἀλλ' ὑπὲρ τῶν πνευµατικῶν. Τοῦτο γάρ ἐστι, Τὰ πρὸς τὸν Θεόν.",
+                            "spanishTranslation": "Tampoco se puede decir que me fue encomendado, pero no hice lo mandado; más bien, ni siquiera yo lo hice, sino Cristo; por eso también me glorío en Él, no por asuntos triviales, sino por los espirituales. Pues esto es lo que significa: «Las cosas que tienen que ver con Dios»."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10203
+                            ],
+                            "notes": {},
+                            "originalText": "Ὅτι γὰρ ἤνυσα ἐφ' ὃ ἐπέµφθην, καὶ οὐ κόµπος τὰ ῥήµατα, δηλοῖ τὰ θαύµατα καὶ ἡ τῶν ἐθνῶν ὑπακοή.",
+                            "spanishTranslation": "Pues que he cumplido aquello para lo que fui enviado, y que mis palabras no son jactanciosas, lo demuestran los milagros y la obediencia de los gentiles."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10204
+                            ],
+                            "notes": {
+                              "notesFromSource": "Crisóstomo repite esta frase de Pablo (Rom 15:18-19), lo que subraya su importancia y la autoridad divina detrás del ministerio apostólico."
+                            },
+                            "originalText": "Οὐ γὰρ τολµήσω τι λαλῆσαι ὧν οὐ κατειργάσατο ὁ Χριστὸς δι' ἐµοῦ εἰς ὑπακοὴν ἐθνῶν, λόγῳ καὶ ἔργῳ, ἐν δυνάµει σηµείων καὶ τεράτων, ἐν δυνάµει Πνεύµατος Θεοῦ.",
+                            "spanishTranslation": "Pues no me atreveré a hablar de nada que Cristo no haya obrado por medio de mí para la obediencia de los gentiles, con palabra y obra, con el poder de señales y prodigios, con el poder del Espíritu de Dios."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10205,
+                              10206,
+                              10207
+                            ],
+                            "notes": {},
+                            "originalText": "Ὅρα πῶς βιάζεται τὸ πᾶν δεῖξαι τοῦ Θεοῦ, καὶ οὐδὲν ἑαυτοῦ. Εἴτε γὰρ φθέγγοµαί τι, εἴτε ποιῶ, εἴτε θαυµατουργῶ, πάντα αὐτὸς, πάντα τὸ Πνεῦµα τὸ ἅγιον. Ταῦτα δὲ λέγει, δεικνὺς καὶ τοῦ Πνεύµατος τὸ ἀξίωµα.",
+                            "spanishTranslation": "Mira cómo se esfuerza por mostrar que todo es de Dios, y nada de sí mismo. Pues sea que diga algo, o haga algo, o haga milagros, todo es Él, todo es el Espíritu Santo. Y dice estas cosas, mostrando también la dignidad del Espíritu."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10208,
+                              10209
+                            ],
+                            "notes": {
+                              "notesBiblical": "La explicación de \"palabra y obra, señales y prodigios\" incluye milagros directos como la resurrección de muertos, la expulsión de demonios y la curación de ciegos y cojos, que son comunes en los relatos evangélicos y apostólicos (Hechos). Esto refuerza la idea de que el Espíritu Santo era el agente de todas estas maravillas.",
+                              "notesLinguistics": "La expresión \"φιλοσοφίαν τὴν περὶ βασιλείας\" se refiere a la doctrina o enseñanza profunda sobre el reino de Dios, la cual, junto con la demostración práctica de las obras (\"ἔργων\") y el estilo de vida (\"πολιτείας\"), forma parte del mensaje integral del evangelio."
+                            },
+                            "originalText": "Εἶδες πῶς ταῦτα τῶν παλαιῶν θαυµαστότερα καὶ φρικωδέστερα, ἡ θυσία, ἡ προσφορὰ, τὰ σύµβολα; Ὅταν γὰρ εἴπῃ, Ἐν λόγῳ καὶ ἔργῳ, ἐν δυνάµει σηµείων καὶ τεράτων, τοῦτο λέγει, τὴν διδασκαλίαν, τὴν περὶ βασιλείας φιλοσοφίαν, τὴν τῶν ἔργων, καὶ τῆς πολιτείας ἐπίδειξιν, τοὺς νεκροὺς τοὺς ἐγειροµένους, τοὺς δαίµονας τοὺς ἐλαυνοµένους, τοὺς θεραπευοµένους τυφλοὺς, τοὺς πηδῶντας χωλοὺς, τὰ ἄλλα τεράστια, ἅπερ ἅπαντα εἰργάζετο τὸ Πνεῦµα τὸ ἅγιον ἐν ἡµῖν.",
+                            "spanishTranslation": "¿Ves cómo estas cosas son más maravillosas y temibles que las antiguas: el sacrificio, la ofrenda, los símbolos? Porque cuando dice: «Con palabra y obra, con el poder de señales y prodigios», esto significa: la enseñanza, la filosofía acerca del reino, la demostración de las obras y de la conducta, los muertos que resucitan, los demonios que son expulsados, los ciegos que son sanados, los cojos que saltan, y los demás prodigios, todo lo cual el Espíritu Santo obraba en nosotros."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10210,
+                              10211,
+                              10212
+                            ],
+                            "notes": {
+                              "notesBiblical": "La frase \"ἀπὸ Ἱερουσαλὴµ καὶ κύκλῳ µέχρι τοῦ Ἰλλυρικοῦ πεπληρωκέναι τὸ εὐαγγέλιον τοῦ Χριστοῦ\" (desde Jerusalén y por los alrededores hasta Ilírico he llenado el evangelio de Cristo) es una cita directa de Romanos 15:19, indicando la vasta extensión geográfica del ministerio apostólico de Pablo.",
+                              "notesGeneral": "Ilírico (Illyricum) es una región en los Balcanes occidentales, lo que indica el alcance del ministerio de Pablo hacia el oeste del Imperio Romano."
+                            },
+                            "originalText": "Εἶτα ἡ τούτων ἀπόδειξις, ἐπειδὴ ταῦτα τέως ἀπόφασις ἦν, τῶν µαθητῶν τὸ πλῆθος. ∆ιὸ καὶ ἐπήγαγεν· Ὥστε µε ἀπὸ Ἱερουσαλὴµ καὶ κύκλῳ µέχρι τοῦ Ἰλλυρικοῦ πεπληρωκέναι τὸ εὐαγγέλιον τοῦ Χριστοῦ.",
+                            "spanishTranslation": "Luego, la prueba de estas cosas, ya que estas eran por un tiempo declaraciones, es la multitud de los discípulos. Por eso añadió: «De modo que desde Jerusalén y por los alrededores hasta Ilírico he llenado el evangelio de Cristo»."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10213,
+                              10214,
+                              10215
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo insta al lector a considerar no solo las áreas controladas por Roma, sino también las regiones 'bárbaras'. Las menciones de fenicios, sirios, cilicios, capadocios, sarracenos, persas y armenios amplían la perspectiva geográfica del alcance apostólico de Pablo, mucho más allá de lo que las meras líneas de una carretera indicarían. Los \"Sarracenos\" en este contexto se referían a los árabes nómadas del desierto, un término usado antes del Islam."
+                            },
+                            "originalText": "Ἀρίθµει τοίνυν καὶ πόλεις καὶ χώρας, καὶ ἔθνη καὶ δήµους, µὴ τοὺς ὑπὸ Ῥωµαίοις µόνους, ἀλλὰ καὶ τοὺς ὑπὸ βαρβάροις. Μὴ γάρ µοι τὴν διὰ τῆς Φοινίκης καὶ Συρίας καὶ τῆς Κιλίκων καὶ Καππαδοκῶν ἔλθῃς ὁδὸν, ἀλλὰ καὶ τὰ ὄπισθεν ἅπαντα λογίζου, τὴν Σαρακηνῶν καὶ Περσῶν καὶ Ἀρµενίων καὶ τὴν τῶν ἄλλων βαρβάρων. ∆ιὰ γὰρ τοῦτο εἶπε, Καὶ κύκλῳ, ἵνα µὴ τὴν κατευθὺ λεωφόρον ἔλθῃς µόνον, ἀλλὰ καὶ πᾶσαν καὶ τὴν κατὰ τὸν νότον Ἀσίαν περιδράµῃς τῇ διανοίᾳ.",
+                            "spanishTranslation": "Cuenta, pues, ciudades y regiones, y naciones y pueblos, no solo los bajo el dominio romano, sino también los entre los bárbaros. Porque no me sigas el camino solo por Fenicia y Siria y Cilicia y Capadocia, sino considera también todo lo que está más allá: lo de los sarracenos y persas y armenios y de los demás bárbaros. Pues por esta razón dijo: «Y por los alrededores», para que no sigas solo la vía principal directa, sino que también recorras mentalmente toda Asia hacia el sur."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10216,
+                              10217,
+                              10218
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ ὥσπερ νιφάδας θαυµάτων ἑνὶ λόγῳ παρέδραµεν, εἰπὼν, Ἐν δυνάµει σηµείων καὶ τεράτων· οὕτω καὶ πόλεις ἀπείρους, καὶ ἔθνη καὶ δήµους καὶ χώρας ἐνὶ τούτῳ πάλιν συνεῖλε ῥήµατι. Τῷ κύκλῳ.",
+                            "spanishTranslation": "Y así como mencionó de pasada una multitud de milagros en una sola frase, diciendo: «Con el poder de señales y prodigios»; así también englobó de nuevo innumerables ciudades, naciones y pueblos y regiones en esta sola palabra: «Por los alrededores»."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10219,
+                              10220
+                            ],
+                            "notes": {},
+                            "originalText": "Πόῤῥω γὰρ ἦν τύφου παντός· καὶ ταῦτα δὲ διὰ τούτους ἐφθέγγετο, ὥστε µὴ µέγα φρονεῖν ἐφ' ἑαυτοῖς.",
+                            "spanishTranslation": "Pues estaba lejos de toda soberbia; y estas cosas las decía por ellos, para que no se enorgullecieran de sí mismos."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10221,
+                              10222,
+                              10223
+                            ],
+                            "notes": {
+                              "notesBiblical": "La referencia al principio es a Romanos 1:13, donde Pablo expresa su deseo de \"tener algún fruto también entre vosotros, como entre los demás gentiles\", mostrando una actitud más humilde o tentativa al dirigirse a los romanos por primera vez. Aquí, Crisóstomo ve un cambio en el tono de Pablo, afirmando la \"necesidad de su sacerdocio\" o su autoridad apostólica de manera más directa."
+                            },
+                            "originalText": "Καὶ ἀρχόµenos µὲν, φησὶν, Ἵνα τινὰ καρπὸν σχῶ καὶ ἐν ὑµῖν, καθὼς καὶ ἐν τοῖς λοιποῖς ἔθνεσιν· ἐνταῦθα δὲ ἀνάγκην ἱερωσύνης τίθησιν. Ἐπειδὴ γὰρ τραχύτερον ἐφθέγξατο, καὶ σαφέστερον αὐτοῦ δείκνυσι τὴν ἐξουσίαν.",
+                            "spanishTranslation": "Y al principio, dice: «Para que tenga algún fruto también entre vosotros, como entre los demás gentiles»; pero aquí establece la necesidad de su sacerdocio. Porque habiendo hablado con mayor audacia, muestra también más claramente su autoridad."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10224,
+                              10225
+                            ],
+                            "notes": {},
+                            "originalText": "∆ιὰ τοῦτο ἐκεῖ µὲν ἁπλῶς φησι, Καθὼς καὶ ἐν τοῖς λοιποῖς ἔθνεσιν· ἐνταῦθα δὲ καὶ τὸν τόπον λέγει πάντα, ὥστε πάντοθεν αὐτῶν ὑποτέµνεσθαι τὸ φρόνηµα.",
+                            "spanishTranslation": "Por esta razón, allí simplemente dice: «Así como también entre los demás gentiles»; pero aquí menciona cada lugar, para que su orgullo sea cercenado por todas partes."
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              10226,
+                              10227
+                            ],
+                            "notes": {
+                              "notesGreek": "\"Πεπληρωκέναι τὸ εὐαγγέλιον\" (haber llenado o completado el evangelio) implica una obra exhaustiva y completa de evangelización, no solo una proclamación superficial. El verbo \"πληρόω\" con el evangelio puede significar llevarlo a su plena expresión o llenar una región con su predicación. Esto demuestra el celo (φιλοτιµούµενoν) de Pablo por predicar donde Cristo aún no era conocido."
+                            },
+                            "originalText": "Καὶ οὐχ ἁπλῶς εἶπε, Κηρῦξαι τὸ εὐαγγέλιον, ἀλλὰ Πεπληρωκέναι τὸ εὐαγγέλιον τοῦ Χριστοῦ. Οὕτω δὲ φιλοτιµούµενoν εὐαγγελίζεσθαι, ὅπου οὐκ ὠνοµάσθη ὁ Χριστός.",
+                            "spanishTranslation": "Y no dijo simplemente: «Predicar el evangelio», sino: «Haber llenado el evangelio de Cristo». Tan diligente en evangelizar donde Cristo no había sido nombrado."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 29,
+                    "chapterSummary": "San Juan Crisóstomo comenta el deseo de Pablo de visitar Roma y España, explicando que su motivación no es la gloria, sino el servicio y el amor por la salvación de los romanos. Destaca el principio paulino de no edificar sobre cimiento ajeno y su dedicación a evangelizar regiones donde Cristo aún no había sido predicado. Crisóstomo analiza cómo Pablo equilibra su genuino afecto por los romanos con la precaución de no fomentar el orgullo en ellos, usando un lenguaje que revela su profunda ternura y amor paternal. Concluye señalando que este tema del amor hacia sus discípulos es un motivo recurrente en las epístolas de Pablo, presente tanto al inicio como al final.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "keywords": [
+                              "evangelización",
+                              "gloria",
+                              "apóstol Pablo",
+                              "Cristo"
+                            ],
+                            "lineNumber": [
+                              10229,
+                              10230,
+                              10231,
+                              10232
+                            ],
+                            "originalText": "Ἰδοὺ πάλιν ἑτέρα ὑπερβολὴ, ὅτι οὐ µόνον τοσούτους εὐηγγελίσατο καὶ ἔπεισεν, ἀλλ' ὅτι οὐδὲ πρὸς µεµαθηκότας ἀπῆλθε. Τοσοῦτον ἀπεῖχε τοῦ ἐπιῤῥίπτειν ἑαυτὸν ἀλλοτρίοις µαθηταῖς, καὶ δόξης ἕνεκεν τοῦτο ποιεῖν, ὅτι καὶ ἐσπούδαζε, τοὺς µὴ ἀκηκοότας διδάσκειν. Οὐδὲ γὰρ εἶπεν, Ὅπου οὐκ ἐπείσθησαν, ἀλλ', Ὅπου οὐδὲ ὠνοµάσθη ὁ Χριστός· ὃ πλέον ἐστί.",
+                            "spanishTranslation": "He aquí de nuevo otra excelencia: que no solo evangelizó y persuadió a tantos, sino que tampoco fue a quienes ya habían aprendido. Estaba tan lejos de arrojarse a sí mismo sobre discípulos ajenos y de hacer esto por causa de la gloria, que incluso se esforzaba en enseñar a los que no habían oído. Pues tampoco dijo: \"Donde no fueron persuadidos\", sino: \"Donde ni siquiera se nombró a Cristo\"; lo cual es más."
+                          },
+                          {
+                            "keywords": [
+                              "cimiento ajeno",
+                              "vanagloria",
+                              "servicio",
+                              "salvación",
+                              "ministerio"
+                            ],
+                            "lineNumber": [
+                              10233,
+                              10234,
+                              10235
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia implícita a Romanos 15:20, donde Pablo dice \"me esforcé en predicar el evangelio no donde Cristo ya hubiese sido nombrado, para no edificar sobre cimiento ajeno\".",
+                              "notesGreek": "El término \"ἐφιλοτιµεῖτο\" (ephiloumeito), que originalmente significa 'amar el honor', en este contexto con el evangelio a menudo se traduce como 'afanarse, esforzarse diligentemente' en un buen sentido. \"ἱερουργίαν\" (hierourgian) se refiere a un 'servicio sagrado', 'liturgia' o 'acto de culto'."
+                            },
+                            "originalText": "Καὶ τίνος ἕνεκεν τοιαῦτα ἐφιλοτιµεῖτο; Ἵνα µὴ ἐπ' ἀλλότριον θεµέλιον οἰκοδοµήσω, φησί. Ταῦτα δὲ λέγει, δεικνὺς ἑαυτὸν ἀλλότριον ὄντα κενοδοξίας, καὶ παιδεύων αὐτοὺς, ὅτι οὐκ ἀπὸ τοῦ δόξης ἐρᾷν καὶ τῆς παρ' αὐτῶν τιµῆς ἐπὶ τὸ γράψαι ἦλθεν, ἀλλ' ὡς διακονίαν πληρῶν, ὡς ἱερουργίαν ἀπαρτίζων, ὡς τῆς σωτηρίας αὐτῶν ἐρῶν.",
+                            "spanishTranslation": "¿Y por qué razón se afanaba en tales cosas? \"Para no edificar sobre cimiento ajeno\", dice. Y dice esto, mostrando ser ajeno a la vanagloria, y enseñándoles que no vino a escribir por amor a la gloria y al honor de parte de ellos, sino como quien cumple un servicio, como quien completa un acto sagrado, como quien ama su salvación."
+                          },
+                          {
+                            "keywords": [
+                              "apóstoles",
+                              "predicación",
+                              "recompensa",
+                              "trabajo ajeno"
+                            ],
+                            "lineNumber": [
+                              10236,
+                              10237,
+                              10238
+                            ],
+                            "originalText": "Ἀλλότριον δὲ τὸ τῶν ἀποστόλων φησὶν, οὐ κατὰ τὴν τοῦ προσώπου ποιότητα, οὐδὲ κατὰ τὴν τοῦ κηρύγµατος φύσιν, ἀλλὰ κατὰ τὸν τοῦ µισθοῦ λόγον· ἐπεὶ τὰ κηρύγµατα οὐκ ἀλλότρια ἦν, ἀλλ' ὅσον εἰς µισθὸν ἀλλότρια. Ὁ γὰρ τῶν ἑτέροις πεπονηµένων µισθὸς, τούτου ἀλλότριος ἦν.",
+                            "spanishTranslation": "Y ajeno dice lo de los apóstoles, no según la cualidad de la persona, ni según la naturaleza de la predicación, sino según la razón de la recompensa; puesto que las predicaciones no eran ajenas, sino ajenas en cuanto a la recompensa. Pues la recompensa de lo que otros habían trabajado era ajena a él."
+                          },
+                          {
+                            "keywords": [
+                              "profecía",
+                              "cumplimiento",
+                              "Gentiles",
+                              "Isaías"
+                            ],
+                            "lineNumber": [
+                              10239,
+                              10240,
+                              10241
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Isaías 52:15, que es también citado por Pablo en Romanos 15:21 para justificar su ministerio a los gentiles."
+                            },
+                            "originalText": "Εἶτα δείκνυσι καὶ προφητείαν πληρουµένην, λέγων· Καθὼς γέγραπται, Οἷς οὐκ ἀνηγγέλη περὶ αὐτοῦ, ὄψονται· καὶ οἳ οὐκ ἀκηκόασι, συνήσουσιν.",
+                            "spanishTranslation": "Luego muestra también una profecía que se cumple, diciendo: \"Como está escrito: 'Aquellos a quienes no se les anunció acerca de Él, verán; y los que no oyeron, entenderán.'\""
+                          },
+                          {
+                            "keywords": [
+                              "esfuerzo",
+                              "sudor",
+                              "impedimento",
+                              "misión"
+                            ],
+                            "lineNumber": [
+                              10242,
+                              10243
+                            ],
+                            "originalText": "Ὁρᾷς ἐπιτρέχοντα ὅπου πλείων ὁ πόνος, ὅπου µείζων ὁ ἱδρώς; ∆ιὸ καὶ ἐνεκοπτόµην τὰ πολλὰ τοῦ ἐλθεῖν πρὸς ὑµᾶς.",
+                            "spanishTranslation": "¿Ves cómo corre adonde hay más esfuerzo, adonde hay mayor sudor? Por eso también muchas veces me veía impedido de ir a vosotros."
+                          },
+                          {
+                            "keywords": [
+                              "epístola",
+                              "prólogo",
+                              "impedimento",
+                              "Pablo"
+                            ],
+                            "lineNumber": [
+                              10244,
+                              10245,
+                              10246,
+                              10247
+                            ],
+                            "notes": {
+                              "notesBiblical": "Hace referencia a Romanos 1:13 (\"no quiero que ignoréis, hermanos, que muchas veces me propuse ir a vosotros (mas hasta ahora he sido estorbado) para tener también entre vosotros algún fruto, como entre los demás gentiles\")."
+                            },
+                            "originalText": "Σκόπει πάλιν πῶς τῷ προοιµίῳ ὁµοίως τὸ τέλος ὑφαίνει. Καὶ γὰρ καὶ ἀρχόµενος τῆς ἐπιστολῆς ἔλεγεν, ὅτι Πολλάκις προεθέµην ἐλθεῖν πρὸς ὑµᾶς, καὶ ἐκωλύθην ἄχρι τοῦ δεῦρο· ἐνταῦθα δὲ καὶ τὴν αἰτίαν τίθησι, δι' ἣν ἐκωλύθη, καὶ οὐχ ἅπαξ, ἀλλὰ καὶ δὶς καὶ πολλάκις. Ὥσπερ γὰρ ἐκεῖ φησι, Πολλάκις προεθέµην ἐλθεῖν πρὸς ὑµᾶς, οὕτω καὶ ἐνταῦθα, Ἐνεκοπτόµην τὰ πολλὰ ἐλθεῖν πρὸς ὑµᾶς.",
+                            "spanishTranslation": "Mira de nuevo cómo teje el fin de manera similar al preámbulo. Pues también al principio de la epístola decía: \"Muchas veces me propuse ir a vosotros, y fui impedido hasta ahora\"; y aquí expone la razón por la cual fue impedido, y no una sola vez, sino dos y muchas veces. Pues así como allí dice: \"Muchas veces me propuse ir a vosotros\", así también aquí: \"Muchas veces me veía impedido de ir a vosotros\"."
+                          },
+                          {
+                            "keywords": [
+                              "deseo",
+                              "gloria",
+                              "regiones",
+                              "Pablo"
+                            ],
+                            "lineNumber": [
+                              10248,
+                              10249,
+                              10250
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 15:23 (\"Pero ahora, no teniendo ya más campo en estas regiones, y habiendo deseado desde hace muchos años ir a vosotros\")."
+                            },
+                            "originalText": "Ὅπερ µάλιστα τὴν ἐπιθυµίαν αὐτοῦ δείκνυσι, τὸ πολλάκις ἐπιχειρεῖν. Νυνὶ δὲ µηκέτι τόπον ἔχων ἐν τοῖς κλίµασι τούτοις. Ὁρᾷς πῶς ἔδειξεν, ὅτι οὐ τῆς παρ' αὐτῶν ἐφιέµενος δόξης ἔγραφέ τε καὶ παρεγίνετο;",
+                            "spanishTranslation": "Lo cual más que nada muestra su deseo: el haberlo intentado muchas veces. \"Pero ahora, no teniendo ya lugar en estas regiones\", ¿ves cómo mostró que no escribía ni iba por buscar la gloria de parte de ellos?"
+                          },
+                          {
+                            "keywords": [
+                              "España",
+                              "deseo",
+                              "gozo",
+                              "Pablo",
+                              "Romanos"
+                            ],
+                            "lineNumber": [
+                              10251,
+                              10252
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 15:23-24."
+                            },
+                            "originalText": "Ἐπιποθίαν δὲ ἔχων τοῦ ἐλθεῖν πρὸς ὑµᾶς ἀπὸ πολλῶν ἐτῶν. Ὡς ἂν πορεύωµαι εἰς τὴν Σπανίαν, ἐλπίζω διαπορευόµενος θεάσασθαι ὑµᾶς, καὶ ὑφ' ὑµῶν προπεµφθῆναι ἐκεῖ, ἐὰν ὑµῶν πρῶτον ἀπὸ µέρους ἐµπλησθῶ.",
+                            "spanishTranslation": "Y teniendo gran deseo de ir a vosotros desde hace muchos años. \"Así que, cuando vaya a España, espero veros al pasar, y ser encaminado por vosotros allá, si primero me lleno en parte de vosotros.\""
+                          },
+                          {
+                            "keywords": [
+                              "amor",
+                              "deseo",
+                              "desprestigio",
+                              "ministerio"
+                            ],
+                            "lineNumber": [
+                              10253,
+                              10254
+                            ],
+                            "originalText": "Ἵνα γὰρ µὴ δόξῃ ἐξευτελίζειν αὐτοὺς τῷ λέγειν, ὅτι Ἐπειδὴ οὐδὲν ἔχω ποιῆσαι, διὰ τοῦτο ἔρχοµαι πρὸς ὑµᾶς, πάλιν τὸν τῆς ἀγάπης κινεῖ λόγον εἰπὼν, Ἐπιποθίαν ἔχων τοῦ ἐλθεῖν πρὸς ὑµᾶς ἀπὸ πολλῶν ἐτῶν. Οὐ γὰρ διὰ τοῦτο ἐπεθύµησα ἐλθεῖν, ἐπειδὴ σχολὴν ἄγω, ἀλλ' ἵνα τὴν ἐπιθυµίαν, ἣν πάλαι ὤδινον, ταύτην ἀποτέκω.",
+                            "spanishTranslation": "Para que no parezca que los desprecia al decir: \"Puesto que no tengo nada que hacer, por eso vengo a vosotros\", mueve de nuevo el argumento del amor, diciendo: \"Teniendo gran deseo de ir a vosotros desde hace muchos años\". Pues no deseé venir por estar desocupado, sino para dar a luz este deseo que desde hace mucho tiempo sentía."
+                          },
+                          {
+                            "keywords": [
+                              "humildad",
+                              "amor",
+                              "orgullo",
+                              "España",
+                              "visita"
+                            ],
+                            "lineNumber": [
+                              10255,
+                              10256,
+                              10257,
+                              10258
+                            ],
+                            "notes": {
+                              "notesGreek": "Los verbos \"φυσήσῃ\" (physēsē) y \"θρύπτεσθαι\" (thryptesthai) se usan aquí para referirse a 'inflar', 'envanece' o 'enorgullecerse', indicando una preocupación por la soberbia de los destinatarios."
+                            },
+                            "originalText": "Εἶτα, ἵνα µὴ τοῦτο πάλιν αὐτοὺς φυσήσῃ, σκόπει πῶς αὐτοὺς καταστέλλει, εἰπὼν, Ὡς ἐὰν πορεύωµαι εἰς τὴν Σπανίαν, ἐλπίζω διαπορευόµενος θεάσασθαι ὑµᾶς. ∆ιὰ γὰρ τοῦτο τέθεικε τοῦτο, ἵνα µὴ µέγα φρονῶσιν· ὁµοῦ γὰρ καὶ τὴν ἀγάπην δεῖξαι βούλεται, καὶ κωλῦσαι θρύπτεσθαι ἐκείνους. ∆ιὸ συνεχῶς αὐτὸ τίθησι, καὶ ἐφεξῆς ἐναλλάττων τὰ ἑκατέρων τούτων κατασκευαστικά.",
+                            "spanishTranslation": "Luego, para que esto de nuevo no los envanezca, mira cómo los refrena, diciendo: \"Así que, cuando vaya a España, espero veros al pasar\". Pues por esto puso esto, para que no se enorgullezcan; porque a la vez quiere mostrar su amor y evitar que ellos se envaneszcan. Por eso lo pone continuamente, alternando consecutivamente los elementos que construyen ambas cosas."
+                          },
+                          {
+                            "keywords": [
+                              "despedida",
+                              "respeto",
+                              "necesidad",
+                              "testimonio"
+                            ],
+                            "lineNumber": [
+                              10259,
+                              10260
+                            ],
+                            "originalText": "∆ιά τοι τοῦτο πάλιν, ἵνα µὴ λέγωσιν, Ὁδοῦ πάρεργον ἡµᾶς ποιεῖ, ἐπήγαγε, Καὶ ὑφ' ὑµῶν προπεµφθῆναι· τουτέστιν, Ἵνα ὑµεῖς µοι µάρτυρες ἦτε, ὅτι οὐ καταφρονῶν ὑµῶν, ἀλλ' ἑλκόµενος ὑπὸ τῆς χρείας παρατρέχω.",
+                            "spanishTranslation": "Por esto de nuevo, para que no digan: \"Nos hace un mero pasatiempo de su camino\", añadió: \"Y ser encaminado por vosotros allá\"; es decir, \"Para que vosotros me seáis testigos de que no os desprecio, sino que, arrastrado por la necesidad, me apresuro\"."
+                          },
+                          {
+                            "keywords": [
+                              "consuelo",
+                              "afecto",
+                              "gloria",
+                              "amor",
+                              "compañía",
+                              "saciedad"
+                            ],
+                            "lineNumber": [
+                              10261,
+                              10262,
+                              10263,
+                              10264,
+                              10265
+                            ],
+                            "notes": {
+                              "notesGreek": "\"ἐµπλησθῶ\" (emplēsthō) significa 'ser saciado', 'estar satisfecho', y aquí se usa en el sentido de 'saturarse de su compañía'. \"κόρον\" (koron) significa 'hastío', 'saciedad' o 'fastidio'."
+                            },
+                            "originalText": "Ἐπειδὴ δὲ καὶ τοῦτο ἔτι λυπεῖ, λιπαρώτερον αὐτὸ θεραπεύει, λέγων, Ἐὰν ὑµῶν πρῶτον ἀπὸ µέρους ἐµπλησθῶ. Τῷ µὲν γὰρ εἰπεῖν, ∆ιαπορευόµενος, δείκνυσιν οὐκ ἐφιέµενος αὐτῶν τῆς δόξης· τῷ δὲ εἰπεῖν, Ἐµπλησθῶ, δείκνυσιν ἐρῶν αὐτῶν τῆς ἀγάπης, καὶ οὐχ ἁπλῶς ἐρῶν, ἀλλὰ καὶ σφοδρῶς· διὸ οὐδὲ εἶπεν, Ἐµπλησθῶ, ἀλλ', Ἀπὸ µέρους. Οὐδεὶς µὲν γὰρ χρόνος ἐµπλῆσαι δύναται, οὐδὲ ἐµποιῆσαί µοι κόρον τῆς συνουσίας ὑµῶν.",
+                            "spanishTranslation": "Pero como esto todavía les apena, lo remedia con más diligencia, diciendo: \"Si primero me lleno en parte de vosotros\". Pues al decir: \"al pasar\", muestra que no busca su gloria; y al decir: \"me lleno\", muestra que ama su afecto, y no simplemente lo ama, sino apasionadamente; por eso ni siquiera dijo: \"me lleno\", sino: \"en parte\". Pues ningún tiempo puede llenarme, ni causarme hastío de vuestra compañía."
+                          },
+                          {
+                            "keywords": [
+                              "amor",
+                              "ternura",
+                              "lenguaje",
+                              "padres",
+                              "afecto"
+                            ],
+                            "lineNumber": [
+                              10266,
+                              10267,
+                              10268
+                            ],
+                            "notes": {
+                              "notesGreek": "\"φιλοστοργίας\" (philostorgias) denota un 'amor tierno' o 'afecto natural', especialmente el que se da entre familiares."
+                            },
+                            "originalText": "Εἶδες πῶς τὴν ἀγάπην δείκνυσιν, ὅταν καὶ ἐπειγόµενος µὴ πρότερον ἀνίστηται, ἕως ἂν ἐµπλησθῇ; Καὶ τοῦτο δὲ τῆς πολλῆς αὐτοῦ φιλοστοργίας σηµεῖον τὸ τοῖς ῥήµασιν οὕτω θερµῶς κεχρῆσθαι. Οὐδὲ γὰρ εἶπε, θεάσοµαι, ἀλλ' Ἐµπλησθῶ, τὰ τῶν γονέων µιµούµενος ῥήµατα.",
+                            "spanishTranslation": "¿Ves cómo muestra su amor, cuando aun estando apurado no se levanta antes de que se sacie? Y esto es señal de su gran ternura, el haber usado las palabras con tanto fervor. Pues tampoco dijo: \"veré\", sino: \"me lleno\", imitando las palabras de los padres."
+                          },
+                          {
+                            "keywords": [
+                              "fruto",
+                              "llenarse",
+                              "atracción",
+                              "inicio",
+                              "final"
+                            ],
+                            "lineNumber": [
+                              10269,
+                              10270,
+                              10271
+                            ],
+                            "originalText": "Καὶ ἀρχόµενος µὲν ἔλεγεν, Ἵνα τινὰ καρπὸν σχῶ· ἐνταῦθα δὲ, Ἵνα ἐµπλησθῶ· ἅπερ ἀµφότερα ἐφελκοµένου ἦν.",
+                            "spanishTranslation": "Y al principio decía: \"Para que tenga algún fruto\"; y aquí: \"Para que me llene\"; lo cual era en ambos casos una muestra de atracción."
+                          },
+                          {
+                            "keywords": [
+                              "encomio",
+                              "fruto",
+                              "obediencia",
+                              "amistad",
+                              "autenticidad"
+                            ],
+                            "lineNumber": [
+                              10272,
+                              10273
+                            ],
+                            "originalText": "Τὸ µὲν γὰρ ἐγκώµιον αὐτῶν ἦν µέγιστον, εἴ γε καρπὸν αὐτῷ παρέχειν ἔµελλον ἐκ τῆς ὑπακοῆς· τὸ δὲ, τῆς αὐτοῦ φιλίας δεῖγµα γνήσιον.",
+                            "spanishTranslation": "Pues la primera era su mayor encomio, si es que le iban a ofrecer fruto de su obediencia; y la segunda, una verdadera muestra de su amistad."
+                          },
+                          {
+                            "keywords": [
+                              "Corintios",
+                              "amor",
+                              "discípulos",
+                              "epístolas",
+                              "inicio",
+                              "conclusión"
+                            ],
+                            "lineNumber": [
+                              10274,
+                              10275,
+                              10276,
+                              10277
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de 1 Corintios 16:6 (\"quizá me quede con vosotros algún tiempo, o aun pase el invierno, para que vosotros me encaminéis a dondequiera que vaya\")."
+                            },
+                            "originalText": "Καὶ Κορινθίοις δὲ ἐπιστέλλων οὕτως ἔλεγεν· Ἵνα ὑµεῖς µε προπέµψητε οὗ ἐὰν πορεύωµαι· διὰ πάντων τὴν πρὸς τοὺς µαθητὰς ἀγάπην ἐνδεικνύµενος, ἧς ἴσον οὐδέν. ∆ιὸ καὶ ἀρχόµενος ἀεὶ τῶν ἐπιστολῶν ἐντεῦθεν προοιµιάζεται, καὶ τελευτῶν εἰς τοῦτο καταλύει πάλιν.",
+                            "spanishTranslation": "Y también a los Corintios, escribiendo, decía así: \"Para que vosotros me encaminéis adondequiera que yo vaya\"; mostrando por todas partes su amor hacia los discípulos, amor al cual nada es igual. Por eso también, al principio de sus epístolas, siempre comienza desde aquí, y al terminar, vuelve a concluir en esto."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 4,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 29,
+                    "chapterSummary": "Este capítulo profundiza en la esencia del liderazgo pastoral, destacando la compasión, el autosacrificio y la profunda solicitud por el bienestar del rebaño. A través de ejemplos bíblicos como los de Pablo, Cristo, Moisés, David y Samuel, se ilustra cómo un verdadero líder debe priorizar las necesidades de sus seguidores por encima de las propias, llegando incluso a desear sufrir en su lugar. Se contrasta esta virtud con la negligencia de los malos pastores, enfatizando que el amor genuino por la grey es fundamental para un liderazgo efectivo y piadoso.",
+                    "sections": [
+                      {
+                        "section": 4,
+                        "text": [
+                          {
+                            "keywords": [
+                              "pastor",
+                              "fieles",
+                              "amor",
+                              "Pablo"
+                            ],
+                            "lineNumber": [
+                              10278,
+                              10279
+                            ],
+                            "notes": {},
+                            "originalText": "δʹ. Καθάπερ γὰρ πατὴρ φιλόπαις µονογενὲς παιδίον καὶ γνήσιον, ἐφίλει τοὺς πιστοὺς ἅπαντας·",
+                            "spanishTranslation": "Cuarto. Porque así como un padre amante de sus hijos, [ama] a un hijo unigénito y legítimo, así amaba a todos los fieles;"
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "compasión",
+                              "sufrimiento",
+                              "maestro"
+                            ],
+                            "lineNumber": [
+                              10280,
+                              10281
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a 2 Corintios 11:29, donde Pablo expresa su profunda empatía por los creyentes.",
+                              "notesGeneral": "Cristóstomo usa el ejemplo de Pablo para ilustrar la compasión pastoral.",
+                              "notesGreek": "El verbo griego 'πυροῦµαι' (pyroumai) significa 'me abraso' o 'me quemo', denotando una pasión intensa o aflicción."
+                            },
+                            "originalText": "διὸ καὶ ἔλεγε, Τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦµαι;",
+                            "spanishTranslation": "por eso también decía: ¿Quién se enferma, y yo no me enfermo? ¿Quién se escandaliza, y yo no me abraso?"
+                          },
+                          {
+                            "keywords": [
+                              "maestro",
+                              "cualidad"
+                            ],
+                            "lineNumber": [
+                              10282
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ γὰρ πρὸ τῶν ἄλλων ἁπάντων τοῦτο χρὴ τὸν διδάσκαλον ἔχειν.",
+                            "spanishTranslation": "Porque antes que todas las otras cosas, el maestro debe tener esto."
+                          },
+                          {
+                            "keywords": [
+                              "Cristo",
+                              "Pedro",
+                              "rebaño",
+                              "amor"
+                            ],
+                            "lineNumber": [
+                              10283,
+                              10284
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Juan 21:16, donde Jesús encarga a Pedro que apaciente sus ovejas si lo ama."
+                            },
+                            "originalText": "∆ιὸ καὶ Πέτρῳ ἔλεγεν ὁ Χριστὸς, Εἰ φιλεῖς µε, ποίµαινε τὰ πρόβατά µου. Ὁ γὰρ τὸν Χριστὸν φιλῶν, καὶ τὴν ποίµνην αὐτοῦ φιλεῖ.",
+                            "spanishTranslation": "Por eso también Cristo le decía a Pedro: 'Si me amas, apacienta mis ovejas'. Porque el que ama a Cristo, también ama a su rebaño."
+                          },
+                          {
+                            "keywords": [
+                              "Moisés",
+                              "David",
+                              "benevolencia",
+                              "liderazgo"
+                            ],
+                            "lineNumber": [
+                              10285,
+                              10286
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ τὸν Μωϋσέα δὲ τότε ἐπέστησε τῷ δήµῳ τῶν Ἰουδαίων, ὅτε τὴν πρὸς αὐτοὺς εὔνοιαν ἐπεδείξατο· καὶ ὁ ∆αυῒδ δὲ οὕτως ἐπὶ τὴν βασιλείαν ἦλθε, πρότερον φιλόστοργος περὶ αὐτοὺς φανείς.",
+                            "spanishTranslation": "Y a Moisés lo puso al frente del pueblo de los judíos cuando demostró su benevolencia hacia ellos; y David también llegó así al reino, habiéndose mostrado antes afectuoso con ellos."
+                          },
+                          {
+                            "keywords": [
+                              "David",
+                              "sacrificio",
+                              "Goliath",
+                              "pueblo"
+                            ],
+                            "lineNumber": [
+                              10287
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a la historia de David y Goliat en 1 Samuel 17, donde David, siendo joven, muestra su valentía y preocupación por el pueblo de Israel."
+                            },
+                            "originalText": "Οὕτω γοῦν ἔτι νέος ὢν ἤλγησε ὑπὲρ τοῦ λαοῦ, ὡς καὶ τὴν αὐτοῦ ψυχὴν ἐπιδοῦναι, ἡνίκα τὸν βάρβαρον καθεῖλεν ἐκεῖνον.",
+                            "spanishTranslation": "Así pues, siendo aún joven, sufrió por el pueblo, al punto de entregar su propia vida cuando derribó a aquel bárbaro."
+                          },
+                          {
+                            "keywords": [
+                              "David",
+                              "motivación",
+                              "batalla",
+                              "recompensa"
+                            ],
+                            "lineNumber": [
+                              10288,
+                              10289,
+                              10290
+                            ],
+                            "notes": {
+                              "notesBiblical": "Contexto de 1 Samuel 17:26-27, donde se pregunta sobre la recompensa por matar a Goliat. Crisóstomo interpreta la pregunta de David no como búsqueda de un premio, sino como un deseo de ser autorizado para la batalla.",
+                              "notesGreek": "El término 'ἀλλόφυλον' (allóphylon) se refiere a 'extranjero' o 'de otra tribu', usado comúnmente para los filisteos en la Septuaginta."
+                            },
+                            "originalText": "Εἰ δὲ λέγει· Τί ἔσται τῷ ἀνελόντι τὸν ἀλλόφυλον τοῦτον; οὐ µισθὸν ἀπαιτῶν ἔλεγεν, ἀλλὰ πιστευθῆναι βουλόµενος, καὶ ἐγχειρισθῆναι τὴν πρὸς αὐτὸν µάχην.",
+                            "spanishTranslation": "Y si dice: '¿Qué se hará al que mate a este filisteo?', no lo decía pidiendo una recompensa, sino queriendo que se le confiara y se le encargara la batalla contra él."
+                          },
+                          {
+                            "keywords": [
+                              "David",
+                              "victoria",
+                              "humildad"
+                            ],
+                            "lineNumber": [
+                              10291
+                            ],
+                            "notes": {},
+                            "originalText": "Ὅτε γοῦν εἰσῆλθε πρὸς τὸν βασιλέα µετὰ τὴν νίκην, οὐδὲν ὑπὲρ τούτων διελέχθη.",
+                            "spanishTranslation": "De hecho, cuando entró ante el rey después de la victoria, no habló nada sobre estas cosas."
+                          },
+                          {
+                            "keywords": [
+                              "Samuel",
+                              "oración",
+                              "afecto"
+                            ],
+                            "lineNumber": [
+                              10292,
+                              10293
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de 1 Samuel 12:23, donde Samuel declara que nunca dejará de orar por el pueblo."
+                            },
+                            "originalText": "Καὶ ὁ Σαµουὴλ δὲ σφόδρα φιλόστοργος ἦν· διὸ καὶ ἔλεγεν, Ἐµοὶ δὲ µὴ γένοιτο διαµαρτεῖν τοῦ διαλιπεῖν προσευχόµενον ὑπὲρ ὑµῶν τῷ Κυρίῳ.",
+                            "spanishTranslation": "Y Samuel también era muy afectuoso; por eso decía: 'Lejos sea de mí pecar contra el Señor dejando de orar por vosotros'."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "afecto",
+                              "discipulos"
+                            ],
+                            "lineNumber": [
+                              10294
+                            ],
+                            "notes": {
+                              "notesGreek": "El verbo 'περιεκαίετο' (periekaíeto) significa 'se quemaba' o 'ardía intensamente', indicando una profunda preocupación o angustia pastoral."
+                            },
+                            "originalText": "Οὕτω καὶ Παῦλος, µᾶλλον δὲ οὐχ οὕτως, ἀλλὰ καὶ πολλῷ πλέον, ἁπάντων περιεκαίετο τῶν ἀρχοµένων.",
+                            "spanishTranslation": "Así también Pablo, o más bien, no solo así, sino mucho más, se quemaba por todos los que estaban bajo su cuidado."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "amor",
+                              "sacrificio"
+                            ],
+                            "lineNumber": [
+                              10295
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Gálatas 4:15, donde Pablo elogia el afecto de los gálatas por él, diciendo que incluso habrían sacado sus propios ojos por él."
+                            },
+                            "originalText": "∆ιὸ καὶ τοὺς µαθητὰς οὕτω πρὸς αὐτὸν διέθηκεν, ὡς εἰπεῖν, ὅτι Εἰ δυνατὸν, τοὺς ὀφθαλµοὺς ὑµῶν ἐξορύξαντες ἂν ἐδώκατέ µοι.",
+                            "spanishTranslation": "Por eso también dispuso a sus discípulos hacia él de tal manera que pudieran decir: 'Si fuera posible, os habríais arrancado los ojos y me los habríais dado'."
+                          },
+                          {
+                            "keywords": [
+                              "pastores",
+                              "Israel",
+                              "reproche",
+                              "ovejas"
+                            ],
+                            "lineNumber": [
+                              10296,
+                              10297,
+                              10298
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Ezequiel 34:2, donde el Señor reprocha a los pastores de Israel que se cuidan a sí mismos en lugar de cuidar a las ovejas."
+                            },
+                            "originalText": "∆ιὰ τοῦτο καὶ τοῖς Ἰουδαίων διδασκάλοις τοῦτο πρὸ τῶν ἄλλων ὁ Θεὸς ἐγκαλεῖ λέγων· Ὦ οἱ ποιµένες Ἰσραὴλ, µὴ βόσκουσιν οἱ ποιµένες ἑαυτούς; οὐχὶ τὰ πρόβατα βόσκουσιν;",
+                            "spanishTranslation": "Por esta razón, Dios también reprocha a los maestros de los judíos antes que a los demás, diciendo: '¡Oh pastores de Israel! ¿No se apacientan a sí mismos los pastores? ¿No apacientan a las ovejas?'"
+                          },
+                          {
+                            "keywords": [
+                              "pastores",
+                              "negligencia",
+                              "codicia"
+                            ],
+                            "lineNumber": [
+                              10299,
+                              10300
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Ezequiel 34:3, donde se detalla la explotación de las ovejas por parte de los pastores."
+                            },
+                            "originalText": "Ἐκεῖνοι δὲ τοὐναντίον ἐποίουν. Τὸ γάλα γὰρ, φησὶ, κατεσθίετε, καὶ τὰ ἔρια περιβάλλεσθε, καὶ τὸ παχὺ ἐσφάζετε, καὶ τὰ πρόβατα οὐκ ἐβόσκετε.",
+                            "spanishTranslation": "Pero ellos hacían lo contrario. Porque 'coméis la leche', dice, 'y os vestís con la lana, matáis a las más gordas, y no apacentáis a las ovejas'."
+                          },
+                          {
+                            "keywords": [
+                              "Cristo",
+                              "pastor",
+                              "sacrificio",
+                              "vida"
+                            ],
+                            "lineNumber": [
+                              10301,
+                              10302
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Juan 10:11, donde Jesús se describe a sí mismo como el buen pastor que da su vida por las ovejas."
+                            },
+                            "originalText": "Καὶ ὁ Χριστὸς δὲ ποιµένος ἀρίστου κανόνα ἐκφέρων ἔλεγεν· Ὁ ποιµὴν ὁ καλὸς τὴν ψυχὴν αὑτοῦ τίθησιν ὑπὲρ τῶν προβάτων.",
+                            "spanishTranslation": "Y Cristo, al establecer la norma del buen pastor, decía: 'El buen pastor da su vida por las ovejas'."
+                          },
+                          {
+                            "keywords": [
+                              "David",
+                              "ira",
+                              "castigo",
+                              "pueblo"
+                            ],
+                            "lineNumber": [
+                              10303
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a la plaga que asoló a Israel después del censo de David, como se narra en 2 Samuel 24 y 1 Crónicas 21."
+                            },
+                            "originalText": "Τοῦτο ὁ ∆αυῒδ ἐποίησε πολλαχοῦ τε ἀλλαχοῦ, καὶ ἡνίκα ἄνωθεν κατὰ τοῦ δήµου παντὸς ἡ φοβερὰ ἐκείνη ὀργὴ κατεφέρετο.",
+                            "spanishTranslation": "Esto mismo hizo David en muchos otros lugares, y cuando aquella terrible ira descendía de arriba sobre todo el pueblo."
+                          },
+                          {
+                            "keywords": [
+                              "David",
+                              "pecado",
+                              "responsabilidad",
+                              "pastor"
+                            ],
+                            "lineNumber": [
+                              10304,
+                              10305
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de 2 Samuel 24:17 y 1 Crónicas 21:17, donde David asume la culpa por el pecado del censo y pide que el castigo recaiga sobre él y su casa, no sobre el pueblo inocente."
+                            },
+                            "originalText": "Πάντων γὰρ σφαττοµένων ἔλεγεν, Ἐγὼ ὁ ποιµὴν ἥµαρτον, ἐγὼ ὁ ποιµὴν ἐκακοποίησα· καὶ οὗτοι, τὸ ποίµνιον, τί ἐποίησαν;",
+                            "spanishTranslation": "Porque cuando todos eran degollados, decía: 'Yo, el pastor, he pecado; yo, el pastor, he hecho el mal. Y estos, el rebaño, ¿qué han hecho?'"
+                          },
+                          {
+                            "keywords": [
+                              "David",
+                              "castigo",
+                              "elección",
+                              "sacrificio"
+                            ],
+                            "lineNumber": [
+                              10306
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a la elección de castigo ofrecida a David en 2 Samuel 24:14 y 1 Crónicas 21:13. David elige caer en manos de Dios, esperando así que el castigo le afecte a él antes que al pueblo."
+                            },
+                            "originalText": "∆ιὰ τοῦτο καὶ ἐν τῇ αἱρέσει τῶν τιµωριῶν ἐκείνων οὐ λιµὸν εἵλετο, οὐ δίωξιν ἐχθρῶν, ἀλλὰ τὸν παρὰ τοῦ Θεοῦ πεµπόµενον θάνατον, δι' οὗ προσεδόκα τοὺς µὲν ἄλλους ἐν ἀσφαλείᾳ καταστήσειν, αὐτὸν δὲ πρὸ τῶν ἄλλων ἁπάντων κατενεχθήσεσθαι.",
+                            "spanishTranslation": "Por esta razón, al elegir entre aquellos castigos, no eligió el hambre, ni la persecución de los enemigos, sino la muerte enviada por Dios, por la cual esperaba poner a los demás a salvo, y que él mismo sería abatido antes que todos los demás."
+                          },
+                          {
+                            "keywords": [
+                              "David",
+                              "lamento",
+                              "castigo",
+                              "casa"
+                            ],
+                            "lineNumber": [
+                              10307,
+                              10308,
+                              10309,
+                              10310
+                            ],
+                            "notes": {
+                              "notesBiblical": "Interpretación de las palabras de David en 2 Samuel 24:17 y 1 Crónicas 21:17, enfatizando su deseo de que el castigo recaiga sobre él y su linaje. La mención de 'la casa de mi padre' es una adición interpretativa de Crisóstomo a la lamentación bíblica literal en este contexto."
+                            },
+                            "originalText": "Ἐπειδὴ δὲ τοῦτο οὐκ ἐγένετο, θρηνεῖ καὶ λέγει· Ἐν ἐµοὶ ἡ χείρ σου· εἰ δὲ οὐκ ἀρκεῖ, καὶ ἐν τῷ οἴκῳ τοῦ πατρός µου. Ἐγὼ γὰρ, φησὶν, ὁ ποιµὴν ἥµαρτον.",
+                            "spanishTranslation": "Pero como esto no sucedió, lamenta y dice: 'Tu mano esté sobre mí; y si no es suficiente, también sobre la casa de mi padre'. Porque 'yo, el pastor, he pecado', dice."
+                          },
+                          {
+                            "keywords": [
+                              "culpa",
+                              "responsabilidad",
+                              "corrección"
+                            ],
+                            "lineNumber": [
+                              10311,
+                              10312
+                            ],
+                            "notes": {},
+                            "originalText": "Ὡσανεὶ ἔλεγεν, ὅτι Εἰ καὶ οὗτοι ἥµαρτον, ἐγὼ ὑπεύθυνος ἤµην τῇ τιµωρίᾳ ὁ µὴ διορθούµενος· ὅταν δὲ καὶ ἐµὸν τὸ ἁµάρτηµα ᾖ, ἐγὼ δίκαιος ἂν εἴην δοῦναι τὴν τιµωρίαν.",
+                            "spanishTranslation": "Como si dijera: 'Aunque estos hayan pecado, yo era responsable del castigo por no haberlos corregido; pero cuando el pecado es mío también, yo sería justo en recibir el castigo'."
+                          },
+                          {
+                            "keywords": [
+                              "pastor",
+                              "gravedad",
+                              "culpa"
+                            ],
+                            "lineNumber": [
+                              10313
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ γὰρ αὐξῆσαι τὸ ἔγκληµα θέλων, τὸ τοῦ ποιµένος ἔθηκεν ὄνοµα.",
+                            "spanishTranslation": "Porque, queriendo aumentar la gravedad de la acusación, usó el nombre de pastor."
+                          },
+                          {
+                            "keywords": [
+                              "ira",
+                              "sentencia",
+                              "confesión",
+                              "poder"
+                            ],
+                            "lineNumber": [
+                              10314,
+                              10315
+                            ],
+                            "notes": {},
+                            "originalText": "Οὕτω γοῦν τὴν ὀργὴν ἔστησεν, οὕτω τὴν ἀπόφασιν ἀνεκαλέσατο· τοσοῦτόν ἐστιν ἐξοµολόγησις·",
+                            "spanishTranslation": "Así pues, detuvo la ira, así revocó la sentencia; ¡tanto es el poder de la confesión!"
+                          },
+                          {
+                            "keywords": [
+                              "justo",
+                              "acusador",
+                              "compasión",
+                              "pastor"
+                            ],
+                            "lineNumber": [
+                              10316,
+                              10317
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita o alusión a Proverbios 18:17 (LXX): 'δίκαιος ἑαυτοῦ κατήγορος ἐν πρωτολογίᾳ' ('El justo es su propio acusador en su primera declaración').",
+                              "notesLinguistics": "La cita enfatiza que el reconocimiento temprano de la culpa es un acto de justicia y una muestra de la compasión del pastor."
+                            },
+                            "originalText": "∆ίκαιος γὰρ ἑαυτοῦ κατήγορος ἐν πρωτολογίᾳ· τοσοῦτον κηδεµονία καὶ συµπάθεια ποιµένος ἀρίστου.",
+                            "spanishTranslation": "Porque 'el justo es su propio acusador en la primera declaración'; ¡tanta es la solicitud y compasión de un excelente pastor!"
+                          },
+                          {
+                            "keywords": [
+                              "entrañas",
+                              "compasión",
+                              "ira",
+                              "sacrificio"
+                            ],
+                            "lineNumber": [
+                              10318,
+                              10319
+                            ],
+                            "notes": {
+                              "notesGreek": "El término 'σπλάγχνα' (splánchna) se refiere a las entrañas, a menudo utilizado en la Biblia para denotar los sentimientos más profundos de afecto, piedad o compasión."
+                            },
+                            "originalText": "Καὶ γὰρ ἐσπαράττετο αὐτοῦ τὰ σπλάγχνα πιπτόντων ἐκείνων, καθάπερ παίδων γνησίων ἀναιρουµένων· διὸ καὶ ἐπ' αὐτὸν τὴν ὀργὴν ἐλθεῖν ἠξίου.",
+                            "spanishTranslation": "Porque sus entrañas se desgarraban al caer aquellos, como si se estuviera matando a sus propios hijos legítimos; por eso, deseaba que la ira viniera sobre él."
+                          },
+                          {
+                            "keywords": [
+                              "David",
+                              "ira",
+                              "sacrificio",
+                              "Amnón"
+                            ],
+                            "lineNumber": [
+                              10320,
+                              10321,
+                              10322
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se compara el dolor de David por la plaga con su dolor por Amnón (2 Samuel 13), señalando que su preocupación por el pueblo era aún mayor que por su propio hijo. 'ἀνήφθη' (aníphthē) significa 'se encendió' o 'se inflamó', indicando una intensificación de la emoción.",
+                              "notesGeneral": "Cristóstomo resalta que David, a pesar de su gran amor filial, demostró un amor aún más profundo y abnegado por su pueblo."
+                            },
+                            "originalText": "Καὶ ἐν ἀρχῇ δὲ τῆς σφαγῆς τοῦτο ἐποίησεν ἂν, εἰ µὴ καὶ βαδίζουσαν αὐτὴν ὁδῷ καὶ πρὸς αὐτὸν ἥξειν ἤλπιζεν. Ὅτε γοῦν εἶδε τοῦτο µὲν µὴ γινόµενον, ἐκείνους δὲ ἐπινεµοµένην τὴν συµφορὰν, οὐκέτι ἤνεγκεν, ἀλλ' ἀνήφθη µᾶλλον, ἢ ἐπὶ τοῦ Ἀµνὼν τοῦ πρωτοτόκου. Τότε γὰρ θάνατον οὐκ ᾔτησε, νῦν δὲ ἀξιοῖ πρὸ τῶν ἄλλων πεσεῖν.",
+                            "spanishTranslation": "Y al principio de la masacre habría hecho esto, si no hubiera esperado que la ira, en su camino, también llegaría a él. Así pues, cuando vio que esto no sucedía, y que la calamidad se extendía sobre ellos, ya no lo soportó, sino que se encendió aún más que por Amnón, su primogénito. Porque entonces no pidió la muerte, pero ahora desea caer antes que los demás."
+                          },
+                          {
+                            "keywords": [
+                              "gobernante",
+                              "compasión",
+                              "sufrimiento"
+                            ],
+                            "lineNumber": [
+                              10323
+                            ],
+                            "notes": {},
+                            "originalText": "Τοιοῦτον εἶναι χρὴ τὸν ἄρχοντα, καὶ µᾶλλον ταῖς ἑτέρων, ἢ ταῖς οἰκείαις ἀλγεῖν συµφοραῖς.",
+                            "spanishTranslation": "Así debe ser el gobernante: sufrir más por las desgracias ajenas que por las propias."
+                          },
+                          {
+                            "keywords": [
+                              "David",
+                              "Absalón",
+                              "sacrificio",
+                              "pueblo"
+                            ],
+                            "lineNumber": [
+                              10324,
+                              10325,
+                              10326
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia al lamento de David por Absalón en 2 Samuel 18:33 ('¡Hijo mío, Absalón, hijo mío, hijo mío, Absalón! ¡Ojalá hubiera muerto yo en tu lugar, Absalón, hijo mío, hijo mío!').",
+                              "notesGreek": "El término 'πατραλοίας' (patraloías) significa 'parricida' o 'uno que golpea a su padre', refiriéndose a la rebelión de Absalón contra David."
+                            },
+                            "originalText": "Τοιοῦτον γοῦν τι καὶ ἐπὶ τοῦ παιδὸς ἔπαθεν, ἵνα µάθῃς, ὅτι οὐδὲν πλέον τῶν ἀρχοµένων τὸν παῖδα ἐφίλει. Καίτοι γε ἀκόλαστος ἦν ὁ νεανίσκος καὶ πατραλοίας, ἀλλ' ὅµως ἔλεγε· Τίς δώσει µοι θάνατον ἀντὶ σοῦ;",
+                            "spanishTranslation": "Así pues, algo similar sufrió también por su hijo, para que sepas que no amaba al hijo más que a sus súbditos. Y eso que el joven era desenfrenado y parricida, pero aun así decía: '¿Quién me dará la muerte en lugar de ti?'"
+                          },
+                          {
+                            "keywords": [
+                              "David",
+                              "compasión",
+                              "Absalón",
+                              "mansedumbre"
+                            ],
+                            "lineNumber": [
+                              10327,
+                              10328,
+                              10329
+                            ],
+                            "notes": {
+                              "notesGreek": "El término 'τρόπαιον' (tropaion) se refiere a un trofeo o monumento de victoria, que en este contexto simboliza la victoria sobre la rebelión de Absalón.",
+                              "notesLinguistics": "Crisóstomo, en un estilo retórico, interpela directamente a David, expresando asombro por su inmensa compasión."
+                            },
+                            "originalText": "Τί λέγεις, ὦ µακάριε, καὶ πάντων ἀνθρώπων πραότατε; ἀνελεῖν σε ἐσπούδαζεν ὁ παῖς, καὶ µυρίοις σε περιέβαλε κακοῖς· καὶ ὅτε ἐκ µέσου γέγονε, καὶ τὸ τρόπαιον ἔστη, τότε εὔχῃ σφαγῆναι;",
+                            "spanishTranslation": "¿Qué dices, oh bienaventurado y el más manso de todos los hombres? Tu hijo se esforzó por matarte y te rodeó de innumerables males; ¿y cuando ha sido quitado de en medio, y se ha levantado el trofeo, entonces deseas ser degollado?"
+                          },
+                          {
+                            "keywords": [
+                              "respuesta",
+                              "David"
+                            ],
+                            "lineNumber": [
+                              10330
+                            ],
+                            "notes": {},
+                            "originalText": "Ναὶ, φησίν.",
+                            "spanishTranslation": "'Sí', dice [David]."
+                          },
+                          {
+                            "keywords": [
+                              "victoria",
+                              "sufrimiento",
+                              "entrañas",
+                              "líderes"
+                            ],
+                            "lineNumber": [
+                              10331,
+                              10332
+                            ],
+                            "notes": {
+                              "notesGreek": "El verbo 'διακόπτεται' (diakóptetai) significa 'se corta' o 'se desgarra', enfatizando la intensidad del dolor emocional de David."
+                            },
+                            "originalText": "Οὐ γὰρ ἐµοὶ νενίκηκε τὸ στρατόπεδον, ἀλλ' ἔτι πολεµοῦµαι σφοδρότερον ἢ πρότερον, καὶ τὰ σπλάγχνα µοι διακόπτεται νῦν µειζόνως. Οὗτοι µὲν οὖν τῶν ἐγκεχειρισµένων ἐφρόντιζον.",
+                            "spanishTranslation": "Porque 'el ejército no ha ganado para mí', dice, 'sino que ahora soy combatido más fuertemente que antes, y mis entrañas se desgarran ahora con mayor intensidad'. Estos, pues, se preocupaban por aquellos que les habían sido confiados."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 5,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 29,
+                    "sections": [
+                      {
+                        "section": 5,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              10334
+                            ],
+                            "originalText": "Ὁ δὲ µακάριος Ἀβραὰµ καὶ τῶν οὐκ ἐµπεπιστευµένων αὐτῷ πολλὴν ἐποιεῖτο τὴν πρόνοιαν, καὶ τοσαύτην, ὡς καὶ κινδύνοις ἑαυτὸν περιβαλεῖν χαλεποῖς.",
+                            "spanishTranslation": "El bienaventurado Abraham, también de aquellos que no le habían sido confiados, mostraba gran solicitud, y tanta, que se expuso a sí mismo a graves peligros."
+                          },
+                          {
+                            "lineNumber": [
+                              10335
+                            ],
+                            "originalText": "Ὅτι γὰρ οὐχ ὑπὲρ ἀδελφιδοῦ µόνου ἔπραττεν ἅπερ ἔπραττεν, ἀλλὰ καὶ ὑπὲρ τῶν Σοδοµιτῶν, οὐ πρότερον ἀπέστη τοὺς Πέρσας ἐλαύνων ἐκείνους, ἕως πάντας αὐτοὺς ἠλευθέρωσε.",
+                            "spanishTranslation": "Pues lo que hacía, no lo hacía solo por su sobrino, sino también por los sodomitas; no cesó de perseguir a aquellos persas hasta que los liberó a todos."
+                          },
+                          {
+                            "lineNumber": [
+                              10336,
+                              10337
+                            ],
+                            "originalText": "Καίτοι γε ἐξῆν λαβόντι τοῦτον ἀναχωρεῖν, ἀλλ' οὐκ ἠθέλησε· καὶ γὰρ πάντων ὁµοίως ἐκήδετο.",
+                            "spanishTranslation": "Y, sin embargo, le era posible retirarse habiéndolo tomado, pero no quiso; pues de todos se preocupaba por igual."
+                          },
+                          {
+                            "lineNumber": [
+                              10338
+                            ],
+                            "originalText": "Καὶ τοῦτο καὶ διὰ τῶν µετὰ ταῦτα δῆλον ἐποίησεν.",
+                            "spanishTranslation": "Y esto lo hizo evidente también por lo que siguió después."
+                          },
+                          {
+                            "lineNumber": [
+                              10339
+                            ],
+                            "originalText": "Ὅτε γοῦν οὐ βαρβάρων στρατόπεδον ἔµελλεν αὐτοὺς πολιορκεῖν, ἀλλὰ ἡ θεήλατος ὀργὴ τὰς πόλεις αὐτῶν ἐκ βάθρων ἀνασπᾷν, καὶ οὐκέτι ὅπλων ἦν ὁ καιρὸς, οὐδὲ µάχης καὶ παρατάξεως, ἀλλ' ἱκετηρίας, τοσαύτην ἐποιήσατο ὑπὲρ αὐτῶν σπουδὴν, ὅσην ἂν εἰ αὐτὸς ἀπόλλυσθαι ἔµελλε.",
+                            "spanishTranslation": "Así, cuando no era un ejército bárbaro el que iba a asediarlos, sino que la ira divina iba a arrancar sus ciudades de raíz, y ya no era tiempo de armas, ni de batalla y formación, sino de súplica, mostró tal celo por ellos como si él mismo fuera a perecer."
+                          },
+                          {
+                            "lineNumber": [
+                              10340,
+                              10341
+                            ],
+                            "originalText": "∆ιὰ δὴ τοῦτο, καὶ ἅπαξ καὶ δὶς καὶ τρὶς καὶ πολλάκις προσέρχεται τῷ Θεῷ, καὶ ἐπὶ τὴν φύσιν καταφεύγει λέγων· Ἐγὼ δέ εἰµι γῆ καὶ σποδός.",
+                            "spanishTranslation": "Por eso, una y otra y otra y muchas veces se acerca a Dios, y recurre a su propia naturaleza diciendo: 'Yo soy polvo y ceniza'."
+                          },
+                          {
+                            "lineNumber": [
+                              10342
+                            ],
+                            "originalText": "Καὶ ἐπειδὴ οἴκοθεν εἶδεν αὐτοὺς προδεδοµένους, δι' ἑτέρους αὐτοὺς ἀξιοῖ σώζεσθαι.",
+                            "spanishTranslation": "Y puesto que los veía ya perdidos por sí mismos, suplicaba que fueran salvados por el bien de otros."
+                          },
+                          {
+                            "lineNumber": [
+                              10343,
+                              10344
+                            ],
+                            "originalText": "∆ιὰ τοῦτο καὶ ὁ Θεὸς ἔλεγεν· Οὐ µὴ κρύψω ἀπὸ τοῦ παιδός µου Ἀβραὰµ ἃ µέλλω ποιεῖν;",
+                            "spanishTranslation": "Por esto también dijo Dios: '¿Acaso he de ocultar a mi siervo Abraham lo que voy a hacer?'"
+                          },
+                          {
+                            "lineNumber": [
+                              10345
+                            ],
+                            "originalText": "ἵνα ἡµεῖς µάθωµεν πῶς ἐστι φιλάνθρωπος ὁ δίκαιος.",
+                            "spanishTranslation": "Para que nosotros aprendamos cuán filántropo es el justo."
+                          },
+                          {
+                            "lineNumber": [
+                              10346
+                            ],
+                            "originalText": "Καὶ οὐδ' ἂν ἀπέστη παρακαλῶν, εἰ µὴ ὁ Θεὸς ἀπέστη πρῶτος.",
+                            "spanishTranslation": "Y él no habría cesado de interceder, si Dios no hubiera cesado primero."
+                          },
+                          {
+                            "lineNumber": [
+                              10347
+                            ],
+                            "originalText": "Καὶ δοκεῖ µὲν ὑπὲρ τῶν δικαίων δεῖσθαι, τὸ δὲ πᾶν ὑπὲρ ἐκείνων ἐποίει.",
+                            "spanishTranslation": "Y aunque parecía rogar por los justos, todo lo hacía por el bien de aquellos (los sodomitas)."
+                          },
+                          {
+                            "lineNumber": [
+                              10348
+                            ],
+                            "originalText": "Καὶ γὰρ σφόδρα εἰσὶν αἱ τῶν ἁγίων ψυχαὶ ἥµεροι καὶ φιλάνθρωποι, καὶ περὶ τοὺς οἰκείους καὶ περὶ τοὺς ἀλλοτρίους, καὶ µέχρι τῶν ἀλόγων αὐτῶν ταύτην ἐκτείνουσι τὴν ἡµερότητα.",
+                            "spanishTranslation": "Porque las almas de los santos son en verdad muy mansas y benévolas, tanto con los suyos como con los extraños, y extienden esta mansedumbre incluso a los animales irracionales."
+                          },
+                          {
+                            "lineNumber": [
+                              10349,
+                              10350
+                            ],
+                            "originalText": "∆ιὰ τοῦτο καὶ [[60.660]] σοφός τις ἔλεγε, ∆ίκαιος οἰκτείρει ψυχὰς κτηνῶν αὐτοῦ· εἰ δὲ καὶ κτηνῶν, πόσῳ µᾶλλον ἀνθρώπων, Ἀλλ' ἐπειδὴ κτηνῶν ἐµνήσθην, λογισώµεθα καὶ τοὺς τῶν προβάτων ποιµένας τοὺς ἐν τῇ Καππαδοκῶν χώρᾳ, οἷα καὶ ἡλίκα πάσχουσιν ὑπὲρ τῆς τῶν ἀλόγων προστασίας.",
+                            "spanishTranslation": "Por eso también dijo un sabio: 'El justo se compadece del alma de sus bestias'; y si de las bestias, ¡cuánto más de los hombres! Pero ya que he mencionado a los animales, consideremos también a los pastores de ovejas en la región de Capadocia, qué y cuán grandes cosas sufren por la protección de estos animales irracionales."
+                          },
+                          {
+                            "lineNumber": [
+                              10351
+                            ],
+                            "originalText": "Πολλάκις γοῦν χιόνι καταχωσθέντες, τρεῖς ἐφεξῆς ἔµειναν ἡµέρας.",
+                            "spanishTranslation": "A menudo, sepultados por la nieve, permanecieron allí por tres días consecutivos."
+                          },
+                          {
+                            "lineNumber": [
+                              10352
+                            ],
+                            "originalText": "Λέγονται δὲ καὶ οἱ ἐν τῇ Λιβύῃ οὐκ ἐλάττονα τούτων ὑποµένειν δεινὰ, µῆνας ὁλοκλήρους τὴν χαλεπὴν ἔρηµον ἐκείνην καὶ τῶν πικροτάτων γέµουσαν θηρίων περιπολοῦντες.",
+                            "spanishTranslation": "Y de los de Libia se dice que soportan calamidades no menores que estas, recorriendo durante meses enteros aquel duro desierto, lleno de las fieras más amargas."
+                          },
+                          {
+                            "lineNumber": [
+                              10353
+                            ],
+                            "originalText": "Εἰ δὲ περὶ ἄλογα τοσαύτη σπουδὴ, τίνα ἂν ἔχοιµεν ἀπολογίαν οἱ ψυχὰς λογικὰς ἐµπιστευθέντες, καὶ τὸν βαθὺν τοῦτον καθεύδοντες ὕπνον;",
+                            "spanishTranslation": "Si para los animales irracionales hay tal celo, ¿qué defensa podríamos tener nosotros, a quienes se nos han confiado almas racionales, y dormimos este sueño profundo?"
+                          },
+                          {
+                            "lineNumber": [
+                              10354,
+                              10355
+                            ],
+                            "originalText": "ἀναπνεῖν γὰρ ὅλως ἐχρῆν; ἡσυχάζειν δὲ ὅλως, ἀλλ' οὐ πανταχοῦ περιτρέχειν, καὶ µυρίοις ἑαυτοὺς ἐκδιδόναι θανάτοις ὑπὲρ τῶν προβάτων τούτων;",
+                            "spanishTranslation": "¿Acaso debíamos respirar en absoluto? ¿O reposar por completo, y no más bien correr por doquier, y entregarnos a innumerables muertes por estas ovejas?"
+                          },
+                          {
+                            "lineNumber": [
+                              10356
+                            ],
+                            "originalText": "Ἢ οὐκ ἴστε τῆς ἀγέλης ταύτης τὸ ἀξίωµα;",
+                            "spanishTranslation": "¿O no conocéis la dignidad de este rebaño?"
+                          },
+                          {
+                            "lineNumber": [
+                              10357,
+                              10358
+                            ],
+                            "originalText": "οὐχ ὑπὲρ ταύτης ὁ ∆εσπότης ὁ σὸς µυρία ἐπραγµατεύσατο, καὶ τὸ αἷµα ὕστερον ἐξέχεε τὸ ἑαυτοῦ; σὺ δὲ ἀνάπαυσιν ζητεῖς;",
+                            "spanishTranslation": "¿No hizo tu Señor innumerables cosas por este rebaño, y derramó después su propia sangre? ¿Y tú buscas reposo?"
+                          },
+                          {
+                            "lineNumber": [
+                              10359
+                            ],
+                            "originalText": "καὶ τί χεῖρον γένοιτ' ἂν τῶν ποιµένων τούτων;",
+                            "spanishTranslation": "¿Y qué podría ser peor que estos pastores?"
+                          },
+                          {
+                            "lineNumber": [
+                              10360
+                            ],
+                            "originalText": "Οὐκ ἐννοεῖς τοῦτο, ὅτι περιεστήκασι τὰ πρόβατα ταῦτα λύκοι τούτων πολλῷ πικρότεροι καὶ ἀγριώτεροι;",
+                            "spanishTranslation": "¿No comprendes que lobos mucho más amargos y salvajes que estos rodean a estas ovejas?"
+                          },
+                          {
+                            "lineNumber": [
+                              10361
+                            ],
+                            "originalText": "οὐ λογίζῃ πρὸς σαυτὸν οἵας δεῖ ψυχῆς τῷ µέλλοντι ταύτην µεταχειρίζειν τὴν ἀρχήν;",
+                            "spanishTranslation": "¿No consideras en tu interior qué clase de alma se necesita para el que va a manejar este cargo?"
+                          },
+                          {
+                            "lineNumber": [
+                              10362,
+                              10363
+                            ],
+                            "originalText": "Ἀλλ' ἄνθρωποι µὲν δηµαγωγοὶ ὑπὲρ τῶν τυχόντων βουλευόµενοι πραγµάτων, τὰς νύκτας ταῖς ἡµέραις προστιθέασιν ἀγρυπνοῦντες· ἡµεῖς δὲ ὑπὲρ οὐρανοῦ τὸν ἀγῶνα ἔχοντες, καὶ ἐν ἡµέρᾳ καθεύδοµεν;",
+                            "spanishTranslation": "Pero los demagogos, deliberando sobre asuntos triviales, añaden las noches a los días, velando; ¿y nosotros, teniendo la lucha por el cielo, dormimos incluso de día?"
+                          },
+                          {
+                            "lineNumber": [
+                              10364
+                            ],
+                            "originalText": "καὶ τίς ἡµᾶς λοιπὸν ἐξαιρήσεται τῆς ἐπὶ τούτοις κολάσεως;",
+                            "spanishTranslation": "¿Y quién entonces nos librará del castigo por estas cosas?"
+                          },
+                          {
+                            "lineNumber": [
+                              10365
+                            ],
+                            "originalText": "Εἰ γὰρ τὸ σῶµα κατακόπτεσθαι ἔδει, εἰ γὰρ µυρίους ὑποστῆναι θανάτους, οὐχ ὡς ἐπὶ πανήγυριν τρέχειν ἐχρῆν;",
+                            "spanishTranslation": "Porque si hubiera que despedazar el cuerpo, si hubiera que soportar innumerables muertes, ¿no deberíamos correr como a una fiesta?"
+                          },
+                          {
+                            "lineNumber": [
+                              10366
+                            ],
+                            "originalText": "Ταῦτα δὲ µὴ µόνον ποιµένες, ἀλλὰ καὶ πρόβατα ἀκουέτω, ἵνα τοὺς ποιµένας προθυµοτέρους ποιῶσιν, ἵνα µᾶλλον αὐτῶν τὴν προαίρεσιν ἀλείφωσιν, ἕτερον µὲν οὐδὲν, πειθὼ δὲ καὶ ὑπακοὴν πᾶσαν παρέχοντες.",
+                            "spanishTranslation": "Que estas cosas no las oigan solo los pastores, sino también las ovejas, para que hagan a los pastores más diligentes, para que unjan más su voluntad, proporcionando nada más que toda obediencia y sumisión."
+                          },
+                          {
+                            "lineNumber": [
+                              10367,
+                              10368
+                            ],
+                            "originalText": "Οὕτω καὶ ὁ Παῦλος ἐκέλευσε λέγων· Πείθεσθε τοῖς ἡγουµένοις ὑµῶν καὶ ὑπείκετε, ὅτι αὐτοὶ ἀγρυπνοῦσιν ὑπὲρ τῶν ψυχῶν ὑµῶν, ὡς λόγον ἀποδώσοντες.",
+                            "spanishTranslation": "Así también Pablo mandó, diciendo: 'Obedeced a vuestros pastores y someteos a ellos, porque ellos velan por vuestras almas como quienes han de dar cuenta'."
+                          },
+                          {
+                            "lineNumber": [
+                              10369
+                            ],
+                            "originalText": "Ὅταν δὲ εἴπῃ, Ἀγρυπνοῦσι, µυρίους λέγει πόνους καὶ φροντίδας καὶ κινδύνους.",
+                            "spanishTranslation": "Y cuando dice 'velan', se refiere a innumerables trabajos, preocupaciones y peligros."
+                          },
+                          {
+                            "lineNumber": [
+                              10370,
+                              10371,
+                              10372
+                            ],
+                            "originalText": "Ὁ γὰρ καλὸς ποιµὴν καὶ τοιοῦτος, οἷον ὁ Χριστὸς βούλεται, µυρίοις ἁµιλλᾶται µάρτυσιν. Ὁ µὲν γὰρ ἅπαξ δι' αὐτὸν ἀπέθανεν, οὗτος δὲ µυριάκις διὰ τὴν ποίµνην, εἴ γε ποιµὴν εἴη τοιοῦτος, οἷον εἶναι χρή· ὁ γὰρ τοιοῦτος καθ' ἑκάστην ἡµέραν ἀποθνήσκειν δύναται.",
+                            "spanishTranslation": "Porque un buen pastor, y tal como Cristo lo quiere, compite con innumerables mártires. Pues el uno (el mártir) murió una vez por Él, pero este (el pastor) muere diez mil veces por el rebaño, si es que es tal pastor como debe ser; pues tal persona puede morir cada día."
+                          },
+                          {
+                            "lineNumber": [
+                              10373
+                            ],
+                            "originalText": "∆ιὸ καὶ ὑµεῖς εἰδότες τὸν πόνον, συµπράττετε ταῖς εὐχαῖς, τῇ σπουδῇ, τῇ προθυµίᾳ, τῇ φιλίᾳ, ἵνα καὶ ἡµεῖς ὑµῶν, καὶ ἡµῶν ὑµεῖς καύχηµα γένησθε.",
+                            "spanishTranslation": "Por tanto, también vosotros, conociendo el esfuerzo, cooperad con oraciones, con celo, con diligencia, con amistad, para que tanto nosotros seamos vuestro orgullo, como vosotros seáis el nuestro."
+                          },
+                          {
+                            "lineNumber": [
+                              10374,
+                              10375
+                            ],
+                            "originalText": "∆ιὰ τοῦτο γὰρ καὶ τῷ κορυφαίῳ τῶν ἀποστόλων, καὶ ὑπὲρ τοὺς ἄλλους φιλοῦντι αὐτὸν, τοῦτο ἐνεχείρισε, πρότερον ἐρωτήσας αὐτὸν, εἰ φιλοῖτο παρ' αὐτοῦ, ἵνα µάθῃς, ὅτι τοῦτο πρὸ τῶν ἄλλων τῆς ἀγάπης τῆς εἰς αὐτὸν τεκµήριον τίθεται· καὶ γὰρ νεανικῆς τοῦτο δεῖται ψυχῆς.",
+                            "spanishTranslation": "Por esto también confió esta tarea al principal de los apóstoles, que le amaba más que los demás, preguntándole primero si le amaba, para que aprendas que esto lo pone como prueba de amor hacia Él por encima de todas las demás; porque esto requiere un alma vigorosa."
+                          },
+                          {
+                            "lineNumber": [
+                              10376
+                            ],
+                            "originalText": "Ταῦτα δέ µοι περὶ ἀρίστων εἴρηται ποιµένων, οὐ περὶ ἐµαυτοῦ καὶ τῶν καθ' ἡµᾶς, ἀλλ' εἴ τις τοιοῦτος, οἷος ὁ Παῦλος ἦν, οἷος ὁ Πέτρος, οἷος ὁ Μωϋσῆς.",
+                            "spanishTranslation": "Pero estas cosas las he dicho sobre los mejores pastores, no sobre mí mismo y los que estamos con nosotros, sino sobre si alguno es tal como Pablo fue, como Pedro, como Moisés."
+                          },
+                          {
+                            "lineNumber": [
+                              10377
+                            ],
+                            "originalText": "Τούτους οὖν µιµησώµεθα καὶ ἄρχοντες καὶ ἀρχόµενοι·",
+                            "spanishTranslation": "Imitemos, pues, a estos, tanto gobernantes como gobernados;"
+                          },
+                          {
+                            "lineNumber": [
+                              10378
+                            ],
+                            "originalText": "ἔξεστι γὰρ καὶ ἀρχοµένῳ ἐν µέρει εἶναι ποιµένος, τῆς οἰκίας, τῶν φίλων, τῶν οἰκετῶν, τῆς [[60.661]] γυναικὸς, τῶν παίδων·",
+                            "spanishTranslation": "pues es posible también para el que es gobernado ser en cierto modo pastor: de su casa, de sus amigos, de sus siervos, de su esposa, de sus hijos;"
+                          },
+                          {
+                            "lineNumber": [
+                              10379
+                            ],
+                            "originalText": "κἂν οὕτω τὰ καθ' αὑτοὺς οἰκονοµῶµεν, πάντων ἐπιτευξόµεθα τῶν ἀγαθῶν·",
+                            "spanishTranslation": "y si así administramos nuestros propios asuntos, alcanzaremos todos los bienes;"
+                          },
+                          {
+                            "lineNumber": [
+                              10380
+                            ],
+                            "originalText": "[[60.662]] ὧν γένοιτο πάντας ἡµᾶς ἐπιτυχεῖν χάριτι καὶ φιλανθρωπίᾳ, καὶ τὰ ἑξῆς.",
+                            "spanishTranslation": "Que a todos nosotros nos sea concedido alcanzar estas cosas por gracia y benevolencia, y lo demás."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Maximi Confessoris",
+      "authorSpanish": "Máximo Confesor",
+      "originalTitle": "Mystagogia",
+      "titleSpanish": "Mistagogia",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish",
+      "source": "https://www.documentacatholicaomnia.eu/20vs/103_migne_gm/0580-0662,_Maximus_Confessor,_Mystagogia_(MPG_091_0657_0718),_GM.pdf",
+      "reference": "Patrologia Graeca, Tomo 91, Cols. 657-718"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 4,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Maximi Confessoris",
+                  "authorSpanish": "Máximo Confesor",
+                  "originalTitle": "Mystagogia",
+                  "titleSpanish": "Mistagogia",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 4,
+                    "chapterSummary": "El capítulo 4 discute la relación recíproca entre la Iglesia y el hombre, viéndolos como imágenes el uno del otro, y desglosando sus componentes (cuerpo, alma, mente) con sus funciones teológicas y filosóficas (ética, contemplación natural, teología mística).",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "capítulo",
+                              "cuatro"
+                            ],
+                            "lineNumber": [
+                              1
+                            ],
+                            "notes": {
+                              "notesGreek": "ΚΕΦΑΛ. Δʹ. es la abreviatura de Κεφάλαιον Δ', que significa 'Capítulo 4'. La letra D con el acento es la forma numérica griega para 4."
+                            },
+                            "originalText": "ΚΕΦΑΛ. Δʹ.",
+                            "spanishTranslation": "Capítulo IV."
+                          },
+                          {
+                            "keywords": [
+                              "Iglesia",
+                              "hombre",
+                              "símbolo",
+                              "imagen"
+                            ],
+                            "lineNumber": [
+                              2,
+                              3
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este título establece el tema central del capítulo: la relación analógica y recíproca entre la Iglesia y el hombre. La Iglesia simboliza al hombre, y el hombre simboliza a la Iglesia.",
+                              "notesGreek": "Συμβολικῶς (symbolikos) significa 'simbólicamente'. Εἰκονίζει (eikonizei) significa 'representa', 'forma una imagen de', o 'simboliza'."
+                            },
+                            "originalText": "Πῶς τε καὶ ποίῳ τρόπῳ συμβολικῶς εἰκονίζει τὸν ἄνθρωπον ἡ ἁγία τοῦ Θεοῦ Ἐκκλησία· καὶ αὕτη ὡς ἄνθρωπος ὑπ᾿ αὐτοῦ εἰκονίζεται.",
+                            "spanishTranslation": "Cómo y de qué manera la santa Iglesia de Dios simboliza al hombre; y cómo ella misma es simbolizada por él como hombre."
+                          },
+                          {
+                            "keywords": [
+                              "Iglesia",
+                              "hombre",
+                              "contemplación",
+                              "sacerdocio",
+                              "mente",
+                              "altar",
+                              "cuerpo",
+                              "templo"
+                            ],
+                            "lineNumber": [
+                              4,
+                              5,
+                              6,
+                              7
+                            ],
+                            "notes": {
+                              "notesLinguistics": "θεωρίας (theorias) puede traducirse como 'contemplación', 'especulación' o 'teoría'. En este contexto místico-teológico, 'contemplación' es lo más adecuado."
+                            },
+                            "originalText": "Καὶ πάλιν κατ᾿ ἄλλον τρόπον θεωρίας, ἄνθρωπον εἶναι τὴν ἁγίαν τοῦ Θεοῦ Ἐκκλησίαν ἔλεγε· ψυχὴν μὲν ἔχουσαν τὸ ἱερατεῖον· καὶ νοῦν, τὸ θεῖον θυσιαστήριον· καὶ σῶμα, τὸν ναόν·",
+                            "spanishTranslation": "Y de nuevo, según otra forma de contemplación, decía que la santa Iglesia de Dios es el hombre; teniendo el sacerdocio como alma; y la mente, el divino altar; y el cuerpo, el templo;"
+                          },
+                          {
+                            "keywords": [
+                              "imagen",
+                              "semejanza",
+                              "Dios",
+                              "hombre",
+                              "filosofía moral",
+                              "contemplación natural",
+                              "teología mística"
+                            ],
+                            "lineNumber": [
+                              8,
+                              9,
+                              10,
+                              11
+                            ],
+                            "notes": {
+                              "notesBiblical": "La frase 'κατ᾿ εἰκόνα Θεοῦ καὶ ὁμοίωσιν' (a imagen y semejanza de Dios) alude a Génesis 1:26-27, un pilar de la antropología cristiana. Máximo extiende esta idea para describir la Iglesia.",
+                              "notesGreek": "Ἤθικὴν φιλοσοφίαν (ēthikēn philosophian) se refiere a la filosofía moral o ética. Φυσικὴν θεωρίαν (physikēn theōrian) es la 'contemplación natural', la comprensión de Dios a través de su creación. Μυστικὴν θεολογίαν (mystikēn theologia) es la 'teología mística', el conocimiento experiencial y directo de Dios."
+                            },
+                            "originalText": "ὡς εἰκόνα καὶ ὁμοίωσιν ὑπάρχουσαν τοῦ κατ᾿ εἰκόνα Θεοῦ καὶ ὁμοίωσιν γενομένου ἀνθρώπου· καὶ διὰ μὲν τοῦ ναοῦ, ὡς διὰ σώματος, τὴν ἠθικὴν φιλοσοφίαν προβαλλομένην· διὰ δὲ τοῦ ἱερατείου, ὡς διὰ ψυχῆς, τὴν φυσικὴν θεωρίαν πνευματικῶς ἐξεργουμένην· καὶ ὡς διὰ νοὸς τοῦ θείου θυσιαστηρίου, τὴν μυστικὴν θεολογίαν ἐμβαίνουσαν.",
+                            "spanishTranslation": "existiendo como imagen y semejanza del hombre que fue hecho a imagen y semejanza de Dios; y por medio del templo, como por medio del cuerpo, presentando la filosofía moral; y por medio del sacerdocio, como por medio del alma, operando espiritualmente la contemplación natural; y como por medio de la mente del divino altar, penetrando la teología mística."
+                          },
+                          {
+                            "keywords": [
+                              "hombre",
+                              "Iglesia mística",
+                              "cuerpo",
+                              "alma",
+                              "mente",
+                              "mandamientos",
+                              "sentidos",
+                              "purificación",
+                              "silencio",
+                              "divinidad",
+                              "teología mística",
+                              "presencia de Dios"
+                            ],
+                            "lineNumber": [
+                              12,
+                              13,
+                              14,
+                              15,
+                              16
+                            ],
+                            "notes": {
+                              "notesGeneral": "Esta sección invierte la analogía, describiendo al hombre como una 'Iglesia mística', y asignando a sus facultades (cuerpo, alma, mente) roles correspondientes a la estructura de la Iglesia y las etapas de la vida espiritual (práctica, natural, mística).",
+                              "notesGreek": "Ἔμπαλιν (empalin) significa 'viceversa'. Τὰ πρακτικὸν (ta praktikon) se refiere a 'lo práctico', la vida activa de virtud. Φαιδρύνοντα (phaidrynota) significa 'iluminando', 'purificando' o 'embelleciendo'. Κατ᾿ αἴσθησιν λόγους (kat' aisthēsin logous) son las 'nociones sensibles'. Περιτμηθέντας (peritmēthentas) 'circuncidadas', lo que implica una purificación de lo material. Ἀδύτοις (adytois) se refiere al 'santo de los santos', el lugar más sagrado. La expresión 'λάλου τε καὶ πολυφθόγγου σιγῆς' (silencio elocuente y multifónico) es una paradoja poética que apunta a la inefabilidad de Dios y la comunicación trascendente en la teología apofática. Ἐπιδημίας (epidēmias) significa 'venida' o 'presencia' (divina)."
+                            },
+                            "originalText": "Καὶ ἔμπαλιν, Ἐκκλησίαν μυστικὴν τὸν ἄνθρωπον, ὡς διὰ ναοῦ μὲν τοῦ σώματος, τὰ πρακτικὸν τῆς ψυχῆς ταῖς τῶν ἐντολῶν ἐνεργείαις κατὰ τὴν ἠθικὴν φιλοσοφίαν ἐναρέτως φαιδρύνοντα· ὡς δι᾿ ἱερατείου δὲ τῆς ψυχῆς τοὺς κατ᾿ αἴσθησιν λόγους, καθαρῶς ἐν πνεύματι τῆς ὕλης περιτμηθέντας, κατὰ τὴν φυσικὴν θεωρίαν διὰ λόγου τῷ Θεῷ προσκομίζοντας· καὶ ὡς διὰ θυσιαστηρίου τοῦ νοὸς, τὴν ἐν ἀδύτοις πολυύμνητον τῆς ἀφανοῦς καὶ ἀγνώστου μεγαλοφωνίας σιγὴν τῆς Θεότητος, δι᾿ ἄλλης λάλου τε καὶ πολυφθόγγου σιγῆς προσκαλουμένην· καὶ ὡς ἐφικτὸν ἀνθρώπῳ, κατὰ μυστικὴν θεολογίαν αὐτῇ συγγινόμενον· καὶ τοιοῦτον γινόμενον, οἷον εἰκὸς εἶναι δεῖ τὸν ἐπιδημίας ἀξιωθέντα Θεοῦ, καὶ ταῖς αὐτοῦ παμφαέσιν αἴγλαις ἐνσημανθέντα.",
+                            "spanishTranslation": "Y viceversa, el hombre como una Iglesia mística, por medio del templo que es el cuerpo, iluminando virtuosamente lo práctico del alma con las obras de los mandamientos según la filosofía moral; y por medio del sacerdocio del alma, presentando a Dios, por la razón, las nociones sensibles, purificadas en espíritu y circuncidadas de la materia, según la contemplación natural; y como por medio del altar de la mente, invocando en los santos de los santos el silencio alabado de la magnilocuencia invisible e incognoscible de la Divinidad, por medio de otro silencio elocuente y multifónico; y, en la medida de lo posible para el hombre, uniéndose a ella según la teología mística; y llegando a ser tal como es apropiado para aquel que ha sido dignificado con la presencia de Dios y ha sido marcado por Sus resplandores omniluminosos."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

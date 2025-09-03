@@ -1,0 +1,2939 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Iohannes Chrysostomus",
+      "authorSpanish": "San Juan Cristóstomo",
+      "originalTitle": "In Epistulam ad Romanos",
+      "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 6,
+        "sections": [
+          {
+            "section": 0,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 6,
+                    "chapterSummary": "Introducción a la homilía VI, destacando la identidad y confianza del judío en la ley y en Dios.",
+                    "sections": [
+                      {
+                        "section": 0,
+                        "text": [
+                          {
+                            "keywords": [
+                              "homilía",
+                              "número"
+                            ],
+                            "lineNumber": [
+                              1496
+                            ],
+                            "originalText": "ΟΜΙΛΙΑ ΣΤὰʹ.",
+                            "spanishTranslation": "HOMILÍA VI."
+                          },
+                          {
+                            "keywords": [
+                              "judío",
+                              "ley",
+                              "Dios",
+                              "voluntad",
+                              "instrucción"
+                            ],
+                            "lineNumber": [
+                              1497
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"ἐπαναπαύῃ\" (epanapaue) sugiere no solo \"descansar\" sino también \"confiar plenamente\" o \"apoyarse\" en la ley. \"δοκιµάζεις τὰ διαφέροντα\" (dokimazeis ta diapheronta) significa \"aprobar lo que difiere\" o \"discernir lo excelente\", refiriéndose a la capacidad del judío de juzgar moralmente conforme a la ley.",
+                              "notesLinguistics": "La estructura de la frase es una enumeración de los privilegios y responsabilidades del judío según la percepción de Pablo, que Crisóstomo explora. La partícula \"Ἴδε\" (Ide) al inicio sirve como una llamada de atención, \"Mira\" o \"He aquí\"."
+                            },
+                            "originalText": "Ἴδε, σὺ Ἰουδαῖος ἐπονοµάζῃ, καὶ ἐπαναπαύῃ τῷ νόµῳ, καὶ καυχᾶσαι ἐν Θεῷ, καὶ γινώσκεις τὸ θέληµα, καὶ δοκιµάζεις τὰ διαφέροντα, κατ ηχούµενος ἐκ τοῦ νόµου.",
+                            "spanishTranslation": "Mira, tú te llamas judío, y descansas en la ley, y te glorías en Dios, y conoces la voluntad, y apruebas lo mejor, siendo instruido por la ley."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 1,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 6,
+                    "chapterSummary": "Cristóstomo explica cómo Pablo aborda la jactancia de los judíos sobre la posesión de la Ley y su rol como maestros, enfatizando que el conocimiento sin práctica y la gracia sin obras solo aumentan la condenación.",
+                    "sections": [
+                      {
+                        "section": 1,
+                        "text": [
+                          {
+                            "keywords": [
+                              "griego",
+                              "salvación",
+                              "ley",
+                              "judíos",
+                              "prerrogativas",
+                              "nombre",
+                              "cristianismo",
+                              "diferencia"
+                            ],
+                            "lineNumber": [
+                              1499,
+                              1500,
+                              1501,
+                              1502
+                            ],
+                            "originalText": "Εἰπὼν, ὅτι οὐδὲν λείπει τῷ Ἕλληνι πρὸς τὸ σωθῆναι, ἐὰν τοῦ νόµου ᾖ ποιητὴς, καὶ τὴν θαυµαστὴν σύγκρισιν ποιησάµενος ἐκείνην, τίθησι λοιπὸν καὶ τὰ σεµνὰ τῶν Ἰουδαίων, ἀφ' ὧν κατὰ τῶν Ἑλλήνων [[60.432]] ἐφρόνουν. Καὶ πρῶτον αὐτὸ τὸ ὄνοµα ὃ σφόδρα σεµνὸν ἦν, ὥσπερ νῦν ὁ Χριστιανισµός· καὶ γὰρ ἀπὸ τῆς προσηγορίας πολλὴ ἦν ἡ διαφορὰ καὶ τότε· διὸ καὶ ἐντεῦθεν ἄρχεται.",
+                            "spanishTranslation": "Habiendo dicho que al griego nada le falta para ser salvo, si es cumplidor de la ley, y habiendo hecho aquella admirable comparación, expone ahora las prerrogativas de los judíos, por las cuales se enorgullecían sobre los griegos. Y en primer lugar, el nombre mismo, que era muy honroso, como ahora lo es el cristianismo; pues también entonces, a partir de la designación, la diferencia era grande; por eso comienza por aquí."
+                          },
+                          {
+                            "keywords": [
+                              "anular",
+                              "judío",
+                              "apellidar",
+                              "gloriarse",
+                              "Dios",
+                              "amado",
+                              "preferido"
+                            ],
+                            "lineNumber": [
+                              1503,
+                              1504,
+                              1505
+                            ],
+                            "notes": {
+                              "notesGreek": "Pablo usa el verbo \"ἐπονοµάζῃ\" (te apellidas) y \"καυχᾶσαι\" (te glorías) para señalar la auto-designación y la jactancia de los judíos, en lugar de una afirmación objetiva de su estado."
+                            },
+                            "originalText": "Καὶ ὅρα πῶς αὐτὸ καθαιρεῖ. Οὐ γὰρ εἶπε, Σὺ Ἰουδαῖος εἶ, ἀλλ', Ἐπονοµάζῃ, καὶκαυχᾶσαι ἐν Θεῷ· τουτέστιν, ὡς φιληθεὶς παρ' αὐτοῦ, καὶ προτιµηθεὶς τῶν ἄλλων ἀνθρώπων.",
+                            "spanishTranslation": "Y mira cómo lo anula. Porque no dijo: \"Tú eres judío\", sino: \"Te apellidas y te glorías en Dios\"; es decir, como si fueras amado por Él y preferido a los demás hombres."
+                          },
+                          {
+                            "keywords": [
+                              "reproche",
+                              "arrogancia",
+                              "vanidad",
+                              "don",
+                              "salvación",
+                              "despreciar"
+                            ],
+                            "lineNumber": [
+                              1506
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo interpreta que Pablo reprende la actitud de los judíos de usar sus privilegios divinos no para su propio bien espiritual, sino para menospreciar a los gentiles."
+                            },
+                            "originalText": "Ἐνταῦθα δέ µοι ἠρέµα δοκεῖ εἰς ἀπόνοιάν τε αὐτοὺς σκώπτειν, [[60.433]] καὶ εἰς πολλὴν τὴν δοξοµανίαν, ὅτι τῷ δώρῳ τούτῳ οὐκ εἰς τὴν σωτηρίαν τὴν ἑαυτῶν, ἀλλ' εἰς τὸ τῶν ἄλλων κατεξανίστασθαι καὶ ὑπερορᾷν κατεκέχρηντο.",
+                            "spanishTranslation": "Aquí me parece que él (Pablo) les reprocha suavemente su arrogancia y su mucha vanidad, porque usaban este don no para su propia salvación, sino para levantarse contra los demás y despreciarlos."
+                          },
+                          {
+                            "keywords": [
+                              "voluntad",
+                              "discernir",
+                              "excelente",
+                              "deficiencia",
+                              "obra",
+                              "ventaja",
+                              "precisión"
+                            ],
+                            "lineNumber": [
+                              1507,
+                              1508,
+                              1509,
+                              1510,
+                              1511
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 2:18: \"...y conoces su voluntad e identificas lo que realmente importa...\".",
+                              "notesGeneral": "Cristóstomo subraya la distinción de Pablo entre conocer la voluntad de Dios y realmente llevarla a cabo. El simple conocimiento, sin acción, es una deficiencia, aunque los judíos lo consideraran una ventaja."
+                            },
+                            "originalText": "Καὶ γινώσκεις τὸ θέληµα, καὶ δοκιµάζεις τὰ διαφέροντα. Καὶ µὴν καὶ τοῦτο ἐλάττωµα χωρὶς ἔργου· ἀλλ' ὅµως ἐδόκει πλεονέκτηµα εἶναι· διὸ καὶ µετὰ ἀκριβείας αὐτὸ τίθησιν. Οὐ γὰρ εἶπε, Πράττεις, ἀλλὰ, Γινώσκεις καὶ δοκιµάζεις, οὐ µετέρχῃ καὶ ποιεῖς.",
+                            "spanishTranslation": "Y \"conoces la voluntad y disciernes lo que es excelente\". Y ciertamente también esto es una deficiencia sin obra; pero, sin embargo, parecía una ventaja; por eso lo presenta con precisión. Porque no dijo: \"Haces\", sino: \"Conoces y disciernes\", no: \"Persigues y haces\"."
+                          },
+                          {
+                            "keywords": [
+                              "confiar",
+                              "guía",
+                              "ciegos",
+                              "jactarse",
+                              "arrogancia",
+                              "judíos"
+                            ],
+                            "lineNumber": [
+                              1512,
+                              1513,
+                              1514,
+                              1515
+                            ],
+                            "notes": {
+                              "notesGreek": "Pablo usa \"Πέποιθας\" (confías), no \"εἶ\" (eres), para enfatizar la percepción subjetiva y la jactancia de los judíos, en lugar de una verdad objetiva."
+                            },
+                            "originalText": "Πέποιθάς τε σεαυτὸν ὁδηγὸν εἶναι τυφλῶν. Πάλιν ἐνταῦθα οὐκ εἶπεν, ὅτι εἶ ὁδηγὸς τυφλῶν, ἀλλὰ, Πέποιθας, οὕτω κοµπάζεις, φησί· πολλὴ γὰρ ἦν ἡ ἀπόνοια τῶν Ἰουδαίων. ∆ιὸ καὶ σχεδὸν αὐτὰ φθέγγεται τὰ ῥήµατα, ἅπερ ἐκεῖνοι κοµπάζοντες ἔλεγον.",
+                            "spanishTranslation": "Y \"confías en ser guía de ciegos\". De nuevo aquí no dijo: \"Eres guía de ciegos\", sino: \"Confías\", \"así te jactas\", dice; pues grande era la arrogancia de los judíos. Por eso, casi pronuncia las mismas palabras que ellos decían jactándose."
+                          },
+                          {
+                            "keywords": [
+                              "Evangelios",
+                              "pecados",
+                              "enseñar",
+                              "enorgullecer",
+                              "Farisieos"
+                            ],
+                            "lineNumber": [
+                              1516,
+                              1517,
+                              1518
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cristóstomo cita Juan 9:34, donde los fariseos dicen al ciego de nacimiento curado: \"Tú naciste enteramente en pecados, ¿y tú nos enseñas a nosotros?\" Esto ilustra la actitud altiva de los judíos."
+                            },
+                            "originalText": "Ὅρα γοῦν ἐν τοῖς Εὐαγγελίοις τί λέγουσιν· Ἐν ἁµαρτίαις σὺ ἐγεννήθης ὅλος, καὶ σὺ διδάσκεις ἡµᾶς; καὶ µέγα ἐφρόνουν κατὰ πάντων.",
+                            "spanishTranslation": "Mira, por ejemplo, lo que dicen en los Evangelios: \"¿Tú naciste todo en pecados, y nos enseñas a nosotros?\" Y se enorgullecían grandemente contra todos."
+                          },
+                          {
+                            "keywords": [
+                              "censurar",
+                              "Pablo",
+                              "acusación",
+                              "guía",
+                              "ciegos",
+                              "luz",
+                              "tinieblas",
+                              "instructor",
+                              "insensatos",
+                              "maestro",
+                              "niños",
+                              "ciencia",
+                              "verdad",
+                              "ley"
+                            ],
+                            "lineNumber": [
+                              1519,
+                              1520,
+                              1521
+                            ],
+                            "notes": {
+                              "notesBiblical": "Los títulos \"guía de ciegos\", \"luz de los que están en tinieblas\", \"instructor de los insensatos\", \"maestro de niños\" son citas directas de Romanos 2:19-20. Pablo los utiliza para confrontar la hipocresía de los judíos."
+                            },
+                            "originalText": "Ὅπερ ἐλέγχων ὁ Παῦλος ἐπέµενε, τούτους µὲν ἐπαίρων, ἐκείνους δὲ καθαιρῶν, ἵνα οὕτω µᾶλλον αὐτῶν καθάψηται, καὶ βαρυτέραν ποιήσῃ τὴν κατηγορίαν. ∆ιὸ καὶ πρόεισιν αὔξων τὸ τοιοῦτο, καὶ πλεονάζων τῷ διαφόρως ἀπαγγέλλειν. Πέποιθας γὰρ σεαυτὸν ὁδηγὸν εἶναι τυφλῶν, φῶς τῶν ἐν σκότει, παιδευτὴν ἀφρόνων, διδάσκαλον νηπίων, ἔχοντα τὴν µόρφωσιν τῆς γνώσεως καὶ τῆς ἀληθείας ἐν τῷ νόµῳ.",
+                            "spanishTranslation": "Censurando esto, Pablo insistía, elevando a unos y derribando a otros, para así más bien atacarlos a ellos y hacer más pesada la acusación. Por eso avanza aumentando esto y abundando en expresarlo de diversas maneras: \"Porque confías en ser guía de ciegos, luz de los que están en tinieblas, instructor de los insensatos, maestro de niños, que tiene la forma de la ciencia y de la verdad en la ley\"."
+                          },
+                          {
+                            "keywords": [
+                              "conciencia",
+                              "obras",
+                              "buenas acciones",
+                              "ley",
+                              "posesión"
+                            ],
+                            "lineNumber": [
+                              1522
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo destaca que Pablo critica la confianza judía en la posesión de la ley (tener la \"forma\" de la verdad en ella), en lugar de vivirla activamente a través de la conciencia y las obras."
+                            },
+                            "originalText": "Οὐκ εἶπε πάλιν, Ἐν τῷ συνειδότι καὶ ἐν ταῖς πράξεσι καὶ ἐν τοῖς κατορθώµασιν, ἀλλ', Ἐν τῷ νόµῳ.",
+                            "spanishTranslation": "No dijo de nuevo: \"En la conciencia y en las obras y en las buenas acciones\", sino: \"En la ley\"."
+                          },
+                          {
+                            "keywords": [
+                              "gentiles",
+                              "juzgar",
+                              "condenar",
+                              "enseñar",
+                              "hipocresía"
+                            ],
+                            "lineNumber": [
+                              1523,
+                              1524,
+                              1525
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cristóstomo vincula Romanos 2:1 (\"Pues en lo que juzgas a otro, te condenas a ti mismo\") con Romanos 2:21 (\"Tú, pues, que enseñas a otro, ¿no te enseñas a ti mismo?\") para mostrar la coherencia en la argumentación de Pablo contra la hipocresía."
+                            },
+                            "originalText": "Καὶ ταῦτα εἰπὼν, ὅπερ καὶ ἐπὶ τῶν ἐθνικῶν ἐποίησε, τοῦτο καὶ ἐνταῦθα. Ὥσπερ γὰρ ἐκεῖ φησιν, Ἐν ᾧ γὰρ κρίνεις τὸν ἕτερον, σεαυτὸν κατακρίνεις· οὕτω καὶ ἐνταῦθα λέγει, Ὁ οὖν διδάσκων ἕτερον, σεαυτὸν οὐ διδάσκεις;",
+                            "spanishTranslation": "Y habiendo dicho esto, lo que hizo también con los gentiles, eso mismo hace aquí. Porque así como allí dice: \"Pues en lo que juzgas a otro, te condenas a ti mismo\"; así también aquí dice: \"Tú, pues, que enseñas a otro, ¿no te enseñas a ti mismo?\""
+                          },
+                          {
+                            "keywords": [
+                              "lenguaje",
+                              "cortante",
+                              "suave",
+                              "castigo",
+                              "encomendado",
+                              "pregunta",
+                              "avergonzar",
+                              "enseñar",
+                              "responsabilidad"
+                            ],
+                            "lineNumber": [
+                              1526,
+                              1527,
+                              1528,
+                              1529
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo observa la sutileza retórica de Pablo, que usa una pregunta avergonzante en lugar de una acusación directa de mayor castigo, para lograr un efecto más persuasivo en su audiencia judía."
+                            },
+                            "originalText": "Ἀλλ' ἐκεῖ µὲν ἀποτοµώτερον, ἐνταῦθα δὲ ἡµερώτερον κέχρηται τῷ λόγῳ. Οὐ γὰρ εἶπε, Καὶ µὴν διὰ τοῦτο µείζονος εἶ κολάσεως ἄξιος, ὅτι τοσαῦτα ἐγχειρισθεὶς, οὐδενὶ τούτων εἰς δέον κέχρησαι· ἀλλὰ κατ' ἐρώτησιν προάγει τὸν λόγον, ἐντρέπων καὶ λέγων· Ὁ οὖν διδάσϰων ἕτερον, σεαυτὸν οὐ διδάσϰεις;",
+                            "spanishTranslation": "Pero allí usó un lenguaje más cortante, y aquí uno más suave. Pues no dijo: \"Y ciertamente por esto eres digno de mayor castigo, porque habiéndote sido encomendado tanto, no has usado nada de esto debidamente\"; sino que avanza el argumento mediante una pregunta, avergonzando y diciendo: \"Tú, pues, que enseñas a otro, ¿no te enseñas a ti mismo?\""
+                          },
+                          {
+                            "keywords": [
+                              "sabiduría",
+                              "Pablo",
+                              "ventajas",
+                              "judíos",
+                              "esfuerzo",
+                              "don divino",
+                              "inútiles",
+                              "castigo",
+                              "mérito",
+                              "ley",
+                              "gracia"
+                            ],
+                            "lineNumber": [
+                              1530,
+                              1531,
+                              1532
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este pasaje enfatiza que los privilegios de los judíos (ser llamados judíos, recibir la Ley) eran dones de Dios (gracia divina), no logros personales. Por lo tanto, el descuido de estos dones no solo los hacía inútiles, sino que aumentaba su responsabilidad y castigo."
+                            },
+                            "originalText": "Σκόπει δέ µοι καὶ ἑτέρωθεν τοῦ Παύλου τὴν σύνεσιν. Τὰ γὰρ πλεονεκτήµατα τίθησι τῶν Ἰουδαίων ταῦτα, ἅπερ οὐ τῆς αὐτῶν σπουδῆς ἦν, ἀλλὰ τῆς ἄνωθεν δωρεᾶς, καὶ δείκνυσιν, οὐ µόνον περιττὰ ὄντα ἀµελοῦσιν αὐτοῖς, ἀλλὰ καὶ προσθήκην κολάσεως φέροντα. Οὐ γὰρ τὸ Ἰουδαῖον καλεῖσθαι, αὐτῶν κατόρθωµα, οὐδὲ τὸ νόµον λαβεῖν, οὐδὲ τὰ ἄλλα, ἅπερ ἀπηριθµήσατο νῦν, ἀλλὰ τῆς ἄνωθεν χάριτος.",
+                            "spanishTranslation": "Considera también por otro lado la sabiduría de Pablo. Porque expone estas ventajas de los judíos, las cuales no eran fruto de su propio esfuerzo, sino de un don divino, y muestra que no solo son inútiles para ellos si las descuidan, sino que también les acarrean un aumento de castigo. Pues el ser llamado judío no era su propio mérito, ni el haber recibido la ley, ni las otras cosas que ahora enumeró, sino de la gracia de arriba."
+                          },
+                          {
+                            "keywords": [
+                              "ley",
+                              "escucha",
+                              "práctica",
+                              "justos",
+                              "Dios",
+                              "enseñanza",
+                              "defender",
+                              "castigo",
+                              "obras"
+                            ],
+                            "lineNumber": [
+                              1533,
+                              1534,
+                              1535,
+                              1536
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cristóstomo retoma Romanos 2:13 (\"porque no los oidores de la ley son justos ante Dios, sino los que cumplen la ley serán justificados\") y lo amplifica, mostrando que la enseñanza sin la práctica es aún peor que la mera escucha sin práctica, y conlleva un castigo mayor."
+                            },
+                            "originalText": "Καὶ παρὰ µὲν τὴν ἀρχὴν ἔλεγεν, ὅτι οὐδὲν ὠφελεῖ ἡ ἀκρόασις τοῦ νόµου, ἐὰν µὴ ἡ πρᾶξις προσῇ· Οὐ γὰρ οἱ ἀκροαταὶ τοῦ νόµου, φησὶ, δίκαιοι παρὰ τῷ Θεῷ· νῦν δὲ πολλῷ µᾶλλον δείκνυσιν, ὅτι οὐ µόνον ἡ ἀκρόασις, ἀλλὰ καὶ, ὃ πλέον τῆς ἀκροάσεως ἦν, ἡ διδασκαλία οὐδὲ αὐτὴ δυνήσεται προστῆναι, τοῦ διδάσκοντος µὴ πράττοντος ἅπερ, φησὶ, διδάσκει· καὶ οὐ µόνον οὐ προστήσεται, ἀλλὰ καὶ κολάσει µειζόνως.",
+                            "spanishTranslation": "Y al principio decía que la escucha de la ley de nada aprovecha si no le acompaña la práctica: \"Porque no los oidores de la ley\", dice, \"son justos delante de Dios\". Pero ahora muestra mucho más que no solo la escucha, sino también, lo que era más que la escucha, la enseñanza misma no podrá defender al que enseña si no practica lo que, dice, enseña; y no solo no lo defenderá, sino que lo castigará más severamente."
+                          },
+                          {
+                            "keywords": [
+                              "palabras",
+                              "ley",
+                              "descansar",
+                              "esforzarse",
+                              "virtud",
+                              "gentiles",
+                              "razón natural",
+                              "facilidad",
+                              "confianza"
+                            ],
+                            "lineNumber": [
+                              1537,
+                              1538,
+                              1539,
+                              1540
+                            ],
+                            "notes": {
+                              "notesGreek": "El uso de \"Ἐπαναπαύῃ νόµῳ\" (descansas en la ley) por parte de Pablo implica una confianza pasiva o una complacencia en la posesión de la ley, sin un esfuerzo activo por cumplirla. Los gentiles, por contraste, tienen la 'razón natural' (λογισµὸν τῆς φύσεως) que los guía, lo que a menudo los hace actuar correctamente sin la ventaja explícita de la ley escrita.",
+                              "notesLinguistics": "La elección del verbo es crucial: no 'tener' o 'recibir' la ley, sino 'descansar' en ella, lo que sugiere una falta de diligencia o un autoengaño sobre su verdadero valor."
+                            },
+                            "originalText": "Καλῶς δὲ καὶ ταῖς λέξεσι κέχρηται· οὐ γὰρ εἶπεν, Ἔλαβες νόµον, ἀλλ', Ἐπαναπαύῃ νόµῳ· καὶ γὰρ οὐκ ἔκαµνεν ὁ Ἰουδαῖος περιιὼν καὶ ζητῶν τὰ πρακτέα, ἀλλ' ἐξ εὐκολίας εἶχε τὸν νόµον δεικνύντα τὴν ἐπὶ τὴν ἀρετὴν φέρουσαν ὁδόν. Εἰ γὰρ καὶ τὰ ἔθνη ἔχει τὸν τῆς φύσεως λογισµὸν, ὅθεν αὐτῶν καὶ πλεονεκτεῖ, χωρὶς ἀκροάσεως ὡς ποιοῦντα ἅπαντα, ἀλλ' ὅµως ἐκεῖ µείζων ἡ εὐκολία ἦν.",
+                            "spanishTranslation": "Y usó bien las palabras; pues no dijo: \"Recibiste la ley\", sino: \"Descansas en la ley\"; porque el judío no se esforzaba yendo de un lado a otro buscando lo que debía hacer, sino que fácilmente tenía la ley que mostraba el camino que conduce a la virtud. Porque aunque también los gentiles tienen la razón de la naturaleza, por lo cual los aventaja, como quienes lo hacen todo sin escuchar, sin embargo, allí la facilidad era mayor."
+                          },
+                          {
+                            "keywords": [
+                              "escuchar",
+                              "enseñar",
+                              "castigo",
+                              "enorgullecer",
+                              "ridículo",
+                              "hipocresía"
+                            ],
+                            "lineNumber": [
+                              1541,
+                              1542,
+                              1543
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo resalta que la posición de maestro, si no va acompañada de la práctica, no solo no exime de culpa, sino que agrava la situación, volviendo al maestro un objeto de ridículo por su hipocresía."
+                            },
+                            "originalText": "Εἰ δὲ λέγεις, ὅτι Οὐκ ἀκούω µόνον, ἀλλὰ καὶ διδάσκω· καὶ τοῦτο αὐτὸ προσθήκη τιµωρίας. Ἐπειδὴ γὰρ τούτῳ µέγα ἐφρόνουν, ἐντεῦθεν µάλιστα αὐτοὺς δείκνυσιν ὄντας καταγελάστους.",
+                            "spanishTranslation": "Pero si dices: \"No solo escucho, sino que también enseño\"; esto mismo es un añadido de castigo. Porque dado que por esto se enorgullecían grandemente, precisamente por aquí los muestra como ridículos."
+                          },
+                          {
+                            "keywords": [
+                              "guía",
+                              "ciegos",
+                              "instructor",
+                              "insensatos",
+                              "maestro",
+                              "niños",
+                              "presunción",
+                              "prosélitos",
+                              "soberbia"
+                            ],
+                            "lineNumber": [
+                              1544,
+                              1545
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra \"τῦφον\" significa arrogancia, presunción o engreimiento. Los judíos usaban estos términos despectivamente para describir a los prosélitos (gentiles convertidos), pero Pablo se los aplica para exponer su propia soberbia.",
+                              "notesLinguistics": "La retórica de Pablo es sutil y poderosa, al tomar las propias palabras jactanciosas de los judíos y revertirlas contra ellos, revelando su autoengaño y arrogancia."
+                            },
+                            "originalText": "Ὅταν δὲ λέγῃ, Ὁδηγὸν τυφλῶν, [[60.434]] παιδευτὴν ἀφρόνων, διδάσκαλον νηπίων, τὸν ἐκείνων λέγει τῦφον· σφόδρα γὰρ ἀπεκέχρηντο τοῖς προσηλύτοις, καὶ ἀπὸ τούτων ἐκάλουν τῶν ὀνοµάτων αὐτούς.",
+                            "spanishTranslation": "Y cuando dice: \"Guía de ciegos, instructor de insensatos, maestro de niños\", se refiere a la presunción de ellos; pues se valían en gran medida de los prosélitos, y con estos nombres los llamaban a ellos."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 6,
+                    "chapterSummary": "Cristóstomo expone la hipocresía de los judíos que se jactan de la Ley y la circuncisión, pero la transgreden, deshonrando a Dios. Argumenta sobre la importancia de la circuncisión interior y la ley natural en comparación con la ley escrita.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              1546
+                            ],
+                            "originalText": "βʹ.",
+                            "spanishTranslation": "Segundo punto."
+                          },
+                          {
+                            "lineNumber": [
+                              1547
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo se refiere a la estrategia de Pablo en Romanos 2, donde el apóstol primero parece alabar a los judíos por sus privilegios antes de exponer su hipocresía, haciendo que la acusación sea más contundente."
+                            },
+                            "originalText": "∆ιὸ καὶ ἐπιδαψιλεύεται τοῖς δοκοῦσιν αὐτῶν εἶναι ἐγκωµίοις, εἰδὼς, ὅτι µείζονος κατηγορίας ὑπόθεσις τὰ λεγόµενα.",
+                            "spanishTranslation": "Por lo tanto, también derrama alabanzas sobre lo que parece ser de ellos, sabiendo que lo dicho es la base de una acusación mayor."
+                          },
+                          {
+                            "lineNumber": [
+                              1548
+                            ],
+                            "notes": {
+                              "notesBiblical": "Una referencia a Romanos 2:20, donde Pablo describe a los judíos como 'teniendo la forma del conocimiento y de la verdad en la ley'."
+                            },
+                            "originalText": "Ἔχοντα τὴν µόρφωσιν τῆς γνώσεως καὶ τῆς ἀληθείας ἐν τῷ νόµῳ.",
+                            "spanishTranslation": "Teniendo la forma del conocimiento y de la verdad en la ley."
+                          },
+                          {
+                            "lineNumber": [
+                              1549,
+                              1550
+                            ],
+                            "notes": {
+                              "notesGeneral": "Esta analogía subraya la idea de que los judíos poseían la ley de Dios, pero no la vivían, mientras que los gentiles, sin tenerla formalmente, podían practicarla."
+                            },
+                            "originalText": "Ὥσπερ ἂν εἴ τις τὴν βασιλικὴν εἰκόνα ἔχων, µηδὲν πρὸς ἐκείνην γράφοι· οἱ δὲ µὴ πιστευθέντες αὐτὴν, καὶ χωρὶς τοῦ πρωτοτύπου µετὰ ἀκριβείας αὐτὴν µιµοῖντο.",
+                            "spanishTranslation": "Como si alguien, teniendo la imagen real, no escribiera nada en relación con ella; mientras que los que no fueron confiados con ella, la imitaran con exactitud sin el original."
+                          },
+                          {
+                            "lineNumber": [
+                              1551
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo señala que Pablo, tras reconocer los privilegios de los judíos (Romanos 2:17-20), pasa a enumerar sus faltas, tal como ya lo habían hecho los profetas del Antiguo Testamento."
+                            },
+                            "originalText": "Εἶτα εἰπὼν τὰ πλεονεκτήµατα, ἅπερ ἔσχον παρὰ τοῦ Θεοῦ, λέγει αὐτῶν τὰ ἐλαττώµατα, ἅπερ οἱ προφῆται κατηγόρουν, ταῦτα εἰς µέσον φέρων·",
+                            "spanishTranslation": "Luego, habiendo dicho las ventajas que recibieron de Dios, dice sus defectos, de los cuales los profetas los acusaron, trayéndolos a colación:"
+                          },
+                          {
+                            "lineNumber": [
+                              1552
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 2:21."
+                            },
+                            "originalText": "Ὁ οὖν διδάσκων ἕτερον, σεαυτὸν οὐ διδάσκεις;",
+                            "spanishTranslation": "Tú, pues, que enseñas a otro, ¿no te enseñas a ti mismo?"
+                          },
+                          {
+                            "lineNumber": [
+                              1553
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 2:21."
+                            },
+                            "originalText": "ὁ κηρύσσων µὴ κλέπτειν, κλέπτεις;",
+                            "spanishTranslation": "Tú que predicas no robar, ¿robas?"
+                          },
+                          {
+                            "lineNumber": [
+                              1554
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 2:22."
+                            },
+                            "originalText": "ὁ λέγων µὴ µοιχεύειν, µοιχεύεις;",
+                            "spanishTranslation": "Tú que dices no adulterar, ¿adulteras?"
+                          },
+                          {
+                            "lineNumber": [
+                              1555
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 2:22. La 'sacrilegio' aquí se refiere a robar o profanar templos paganos, lo cual, irónicamente, sería una forma de 'idolatría' al tomar objetos sagrados para otros fines, o de profanación, a pesar de aborrecer los ídolos.",
+                              "notesGreek": "El término griego ἱεροσυλεῖς (hierosyleis) significa 'robar objetos sagrados' o 'cometer sacrilegio'."
+                            },
+                            "originalText": "ὁ βδελυσσόµενος τὰ εἴδωλα, ἱεροσυλεῖς;",
+                            "spanishTranslation": "Tú que aborreces los ídolos, ¿saqueas templos (cometes sacrilegio)?"
+                          },
+                          {
+                            "lineNumber": [
+                              1556,
+                              1557
+                            ],
+                            "notes": {
+                              "notesGeneral": "Explica cómo la avaricia llevó a algunos judíos a ignorar las prohibiciones religiosas incluso respecto a los templos paganos."
+                            },
+                            "originalText": "Καὶ γὰρ σφόδρα ἦν ἀπηγορευµένον τῶν ἐν τοῖς εἰδωλείοις ἅπτεσθαι χρηµάτων διὰ τὸ βδελυρόν· ἡ δὲ τῆς φιλοχρηµατίας τυραννὶς, φησὶ, καὶ τοῦτον ὑµᾶς ἔπεισε καταπατῆσαι τὸν νόµον.",
+                            "spanishTranslation": "Porque estaba muy prohibido tocar los bienes de los templos de ídolos debido a su abominación; pero la tiranía del amor al dinero, dice, os persuadió también a pisotear esta ley."
+                          },
+                          {
+                            "lineNumber": [
+                              1558
+                            ],
+                            "originalText": "Εἶτα τὸ πολὺ βαρύτερον ὕστερον ἐπάγει, λέγων·",
+                            "spanishTranslation": "Luego añade lo mucho más grave, diciendo:"
+                          },
+                          {
+                            "lineNumber": [
+                              1559
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 2:23."
+                            },
+                            "originalText": "Ὃς ἐν νόµῳ καυχᾶσαι, διὰ τῆς παραβάσεως τοῦ νόµου τὸν Θεὸν ἀτιµάζεις;",
+                            "spanishTranslation": "Tú que te jactas en la ley, ¿deshonras a Dios por medio de la transgresión de la ley?"
+                          },
+                          {
+                            "lineNumber": [
+                              1560,
+                              1561
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo desglosa la gravedad de la ofensa judía en tres niveles: la deshonra misma, el hecho de que esa deshonra provenga de aquello por lo que fueron honrados (la Ley), y que deshonren al mismo Dios que les concedió ese honor."
+                            },
+                            "originalText": "∆ύο τέθεικεν ἐγκλήµατα, µᾶλλον δὲ τρία· ὅτι τε ἀτιµάζουσι, καὶ ὅτι δι' ὧν ἐτιµήθησαν, καὶ ὅτι τὸν τιµήσαντα ἀτιµάζουσιν, ὅπερ ἦν ἐσχάτης ἀγνωµοσύνης ὑπερβολή.",
+                            "spanishTranslation": "Ha expuesto dos acusaciones, o más bien, tres; a saber, que deshonran, y que lo hacen por medio de aquello por lo que fueron honrados, y que deshonran al que los honró, lo cual era un exceso de la más extrema ingratitud."
+                          },
+                          {
+                            "lineNumber": [
+                              1562
+                            ],
+                            "notes": {
+                              "notesGeneral": "Para reforzar la acusación, Pablo (y, por extensión, Crisóstomo) cita a los profetas, mostrando que la crítica no es personal sino divinamente inspirada y respaldada por las Escrituras judías."
+                            },
+                            "originalText": "Εἶτα ἵνα µὴ δόξῃ κατηγορεῖν οἴκοθεν, τὸν προφήτην ἐπήγαγεν αὐτῶν κατήγορον, νῦν µὲν ἐν βραχεῖ καὶ συντόµως καὶ ὡς ἐν κεφαλαίῳ, ὕστερον δὲ καὶ κατὰ µέρος, καὶ νῦν µὲν τὸν Ἡσαΐαν, µετὰ δὲ ταῦτα τὸν ∆αυῒδ, ὅτε καὶ πλείονας ἐπεδείξατο τοὺς ἐλέγχους.",
+                            "spanishTranslation": "Luego, para que no pareciera acusarlos por su propia cuenta, trajo al profeta como su acusador, ahora breve y concisamente y como en un sumario, y más tarde también en detalle, y ahora a Isaías, y después de esto a David, cuando mostró aún más reprensiones."
+                          },
+                          {
+                            "lineNumber": [
+                              1563
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 2:24, que a su vez es una cita de Isaías 52:5 (también Ezequiel 36:20-23). Muestra cómo el comportamiento judío profanaba el nombre de Dios entre los gentiles."
+                            },
+                            "originalText": "Ὅτι γὰρ, φησὶν, οὐκ ἐγὼ λοιδορούµενος ὑµῖν ταῦτα λέγω, ἄκουσον τί φησιν ὁ Ἡσαΐας, ὅτι Τὸ ὄνοµα τοῦ Θεοῦ δι' ὑµᾶς βλασφηµεῖται ἐν τοῖς ἔθνεσιν.",
+                            "spanishTranslation": "Porque, dice, no os digo esto reprochándoos, escuchad lo que dice Isaías: 'El nombre de Dios es blasfemado entre los gentiles por causa vuestra'."
+                          },
+                          {
+                            "lineNumber": [
+                              1564,
+                              1565
+                            ],
+                            "notes": {
+                              "notesGeneral": "La 'doble acusación' se refiere a que no solo cometen pecado, sino que su mal ejemplo lleva a otros (los gentiles) a blasfemar a Dios."
+                            },
+                            "originalText": "Ἰδοὺ καὶ ἑτέρα διπλῆ κατηγορία πάλιν. Οὐ γὰρ µόνον αὐτοὶ, φησὶν, ὑβρίζουσιν, ἀλλὰ καὶ ἑτέρους εἰς τοῦτο παρασκευάζουσι.",
+                            "spanishTranslation": "He aquí, de nuevo, otra doble acusación. Porque no solo ellos mismos, dice, ultrajan, sino que también preparan a otros para ello."
+                          },
+                          {
+                            "lineNumber": [
+                              1566
+                            ],
+                            "notes": {
+                              "notesGeneral": "Retoma la crítica de Romanos 2:21, enfatizando la inutilidad de enseñar a otros si uno mismo no practica lo que predica."
+                            },
+                            "originalText": "Τί τοίνυν τῆς διδασκαλίας ὄφελος, ὅταν ἑαυτοὺς µὴ διδάσκητε;",
+                            "spanishTranslation": "¿Qué provecho, pues, hay de la enseñanza, cuando no os enseñáis a vosotros mismos?"
+                          },
+                          {
+                            "lineNumber": [
+                              1567
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo destaca cómo Pablo intensifica la crítica. Primero fue la falta de auto-enseñanza, ahora es la enseñanza activa de lo contrario."
+                            },
+                            "originalText": "Ἀλλ' ἀνωτέρω µὲν τοῦτο εἶπε µόνον, ἐνταῦθα δὲ καὶ εἰς τὸ ἐναντίον περιέτρεψεν.",
+                            "spanishTranslation": "Pero más arriba solo dijo esto, y aquí lo invirtió a lo contrario."
+                          },
+                          {
+                            "lineNumber": [
+                              1568,
+                              1569
+                            ],
+                            "notes": {
+                              "notesGeneral": "La crítica se agrava: no solo no enseñan el bien, sino que su conducta lleva a los gentiles a blasfemar a Dios, lo cual es opuesto a la esencia de la ley divina."
+                            },
+                            "originalText": "Οὐδὲ γὰρ µόνον ἑαυτοὺς, ἀλλ' οὐδὲ ἑτέρους διδάσκετε τὰ πρακτέα· καὶ τὸ πολλῷ χαλεπώτερον, ὅτι οὐ µόνον οὐ διδάσκετε τὰ τοῦ νόµου, ἀλλὰ καὶ τὰ ἐναντία διδάσκετε, βλασφηµεῖν τὸν Θεὸν, ὅπερ ἐναντίον ἐστὶ τῷ νόµῳ.",
+                            "spanishTranslation": "Pues no solo no os enseñáis a vosotros mismos, sino que tampoco enseñáis a otros lo que deben practicar; y lo mucho más difícil, que no solo no enseñáis las cosas de la ley, sino que también enseñáis lo contrario, a blasfemar a Dios, lo cual es contrario a la ley."
+                          },
+                          {
+                            "lineNumber": [
+                              1570,
+                              1571
+                            ],
+                            "notes": {
+                              "notesGeneral": "Anticipa una posible objeción judía sobre la importancia de la circuncisión y la refuta, señalando que su valor reside en su significado espiritual y la obediencia interior (circuncisión del corazón), no en el rito físico en sí mismo.",
+                              "notesLinguistics": "La construcción 'φησίν' (phēsin) al final de una oración o frase a menudo indica que se está citando una objeción o una opinión común."
+                            },
+                            "originalText": "Ἀλλ' ἡ περιτοµὴ µέγα, φησίν. Ὁµολογῶ κἀγὼ, ἀλλὰ τότε, ὅταν ἔχῃ τὴν ἔνδον περιτοµήν.",
+                            "spanishTranslation": "Pero la circuncisión es algo grande, dice [alguien]. Yo también lo reconozco, pero solo cuando tiene la circuncisión interior."
+                          },
+                          {
+                            "lineNumber": [
+                              1572,
+                              1573
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo elogia la sabiduría de Pablo al introducir el tema de la circuncisión en el momento preciso, después de haber establecido la culpabilidad judía."
+                            },
+                            "originalText": "Καὶ σκόπει σύνεσιν, πῶς εὐκαίρως τὸν περὶ αὐτῆς εἰσήγαγε λόγον.",
+                            "spanishTranslation": "Y observa la inteligencia, cómo a tiempo introdujo el discurso sobre ella [la circuncisión]."
+                          },
+                          {
+                            "lineNumber": [
+                              1574,
+                              1575
+                            ],
+                            "notes": {
+                              "notesGeneral": "El argumento de Pablo es estratégico: no ataca la circuncisión directamente al principio, debido a su alto valor para los judíos, sino que primero demuestra sus fallas más graves (blasfemia contra Dios por la transgresión de la Ley). Solo después de despojar a los judíos de su 'preeminencia' moral, aborda la ineficacia de la circuncisión sin obediencia. La 'προεδρίας' (proedrias) se refiere a su posición de honor o preeminencia."
+                            },
+                            "originalText": "Οὐ γὰρ εὐθέως ἀπ' αὐτῆς ἤρξατο, ἐπειδὴ πολλὴ ἦν αὐτῆς ἡ ὑπόληψις· ἀλλ' ἡνίκα ἔδειξεν αὐτοὺς ἀπὸ τοῦ µείζονος προσκεκρουκότας, καὶ τῆς εἰς τὸν Θεὸν βλασφηµίας αἰτίους, τότε λοιπὸν λαβὼν τὸν ἀκροατὴν κατεγνωκότα αὐτῶν, καὶ γυµνώσας τῆς προεδρίας, εἰσάγει τὸν περὶ τῆς περιτοµῆς λόγον, θαῤῥῶν, ὅτι οὐδεὶς αὐτῇ ψηφιεῖται λοιπὸν, καί φησι·",
+                            "spanishTranslation": "Porque no comenzó directamente con ella, ya que su prestigio era grande; sino que, una vez que mostró que habían pecado en lo más importante, y que eran culpables de blasfemia contra Dios, entonces, habiendo ya el oyente condenado a ellos y habiéndolos despojado de su preeminencia, introduce el argumento sobre la circuncisión, confiado en que nadie más votará por ella, y dice:"
+                          },
+                          {
+                            "lineNumber": [
+                              1576
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 2:25. Es la misma cita que aparece más adelante en la homilía, lo cual es una técnica retórica de Crisóstomo para reiterar y enfatizar."
+                            },
+                            "originalText": "Περιτοµὴ µὲν γὰρ ὠφελεῖ, ἐὰν νόµον πράσσῃς.",
+                            "spanishTranslation": "Porque la circuncisión ciertamente aprovecha, si guardas la ley."
+                          },
+                          {
+                            "lineNumber": [
+                              1577,
+                              1578,
+                              1579
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo introduce una serie de preguntas retóricas para desvirtuar la circuncisión como un mérito propio. Argumenta que la circuncisión no es un acto moral o una elección virtuosa del individuo, ya que se realiza en la infancia y es un rito externo."
+                            },
+                            "originalText": "Καίτοι γε ἐνῆν ἄλλως αὐτὴν ἐκβαλεῖν, καὶ εἰπεῖν, Τί γάρ ἐστιν ἡ περιτοµή; µὴ γὰρ κατόρθωµά ἐστι τοῦ ἔχοντος; µὴ γὰρ προαιρέσεως ἀγαθῆς ἐπίδειξις;",
+                            "spanishTranslation": "Y sin embargo, se podría haberla refutado de otra manera, y decir: '¿Qué es la circuncisión? ¿Acaso es un logro del que la tiene? ¿Acaso es una demostración de buena elección [moral]?'"
+                          },
+                          {
+                            "lineNumber": [
+                              1580,
+                              1581
+                            ],
+                            "notes": {
+                              "notesGeneral": "Continúa el argumento, mencionando que la circuncisión se hace en la infancia y que los israelitas en el desierto no la practicaron, lo que sugiere que no es esencial para la salvación o la relación con Dios."
+                            },
+                            "originalText": "Καὶ γὰρ ἐν ἀώρῳ γίνεται ἡλικίᾳ, καὶ οἱ ἐν τῇ ἐρήµῳ δὲ πάντες ἔµειναν ἀπερίτµητοι χρόνον πολύν· καὶ ἑτέρωθεν δὲ πολλαχόθεν ἴδοι τις ἂν αὐτὴν οὐ σφόδρα ἀναγκαίαν οὖσαν.",
+                            "spanishTranslation": "Porque se realiza a una edad inoportuna, y todos los de la soledad permanecieron incircuncisos por mucho tiempo; y de otras muchas maneras uno podría ver que no es muy necesaria."
+                          },
+                          {
+                            "lineNumber": [
+                              1582,
+                              1583
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo explica que Pablo no desestima la circuncisión por razones triviales, sino que ataca su validez desde el punto de vista más venerado por los judíos: Abraham. Esta es una 'victoria' retórica, porque demuestra que incluso la figura central de su fe no dependió de la circuncisión para ser justificado."
+                            },
+                            "originalText": "Ἀλλ' ὅµως οὐκ ἐντεῦθεν αὐτὴν ἐκβάλλει, ἀλλ' ὅθεν µάλιστα ἐχρῆν, ἀπὸ τοῦ Ἀβραάµ. Ἡ γὰρ ὑπερβολὴ τῆς νίκης αὕτη, δεῖξαι ἐντεῦθεν αὐτὴν οὖσαν εὐκατα [[60.435]] φρόνητον, ὅθεν αὐτοῖς αἰδέσιµος ἦν.",
+                            "spanishTranslation": "Pero, sin embargo, no la refuta desde aquí, sino desde donde más convenía: desde Abraham. Pues esta es la cumbre de la victoria: mostrar que era despreciable desde donde era venerable para ellos."
+                          },
+                          {
+                            "lineNumber": [
+                              1584,
+                              1585
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo considera una objeción: que los profetas llamaban 'incircuncisos' a los judíos. Argumenta que esto no descalifica la circuncisión en sí misma, sino que denuncia a los que la observan hipócritamente o de forma incorrecta, sin la obediencia de corazón."
+                            },
+                            "originalText": "Καίτοι γε ἠδύνατο λέγειν, ὅτι καὶ οἱ προφῆται ἀπεριτµήτους καλοῦσιν Ἰουδαίους· ἀλλ' οὔπω τοῦτο τῆς περιτοµῆς ἐστιν ἐλάττωµα, ἀλλὰ τῶν κακῶς αὐτὴν µετιόντων.",
+                            "spanishTranslation": "Y sin embargo, podía haber dicho que también los profetas llaman incircuncisos a los judíos; pero esto no es un defecto de la circuncisión, sino de los que la observan mal."
+                          },
+                          {
+                            "lineNumber": [
+                              1586,
+                              1587
+                            ],
+                            "notes": {
+                              "notesGeneral": "El objetivo principal del argumento de Pablo (y Crisóstomo) es mostrar que la circuncisión no tiene valor salvífico por sí misma, incluso en una vida moralmente recta, si no va acompañada de la fe y la obediencia interior."
+                            },
+                            "originalText": "Τὸ δὲ ζητούµενον, δεῖξαι ὅτι καὶ ἐν ἀρίστῳ βίῳ οὐδεµίαν ἰσχὺν ἔχει· τοῦτο δὴ κατασκευάζει λοιπόν.",
+                            "spanishTranslation": "Lo que se busca, sin embargo, es mostrar que incluso en una vida excelente no tiene ninguna fuerza; y esto es lo que finalmente establece."
+                          },
+                          {
+                            "lineNumber": [
+                              1588
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo explica que Pablo retrasa el argumento de Abraham en relación con la circuncisión hasta el momento oportuno, cuando hable de la fe, para maximizar su impacto."
+                            },
+                            "originalText": "Καὶ ἐνταῦθα µὲν οὐ παράγει τὸν πατριάρχην, ἀλλὰ πρότερον ἑτέρωθεν αὐτὴν προκαταβαλὼν, ὕστερον ἐκεῖνον τηρεῖ, ὅταν τὸν περὶ τῆς πίστεως εἰσαγάγῃ λόγον, οὕτω λέγων·",
+                            "spanishTranslation": "Y aquí no introduce al patriarca, sino que, habiéndola refutado antes por otros medios, guarda aquel [argumento] para más tarde, cuando introduzca el discurso sobre la fe, diciendo así:"
+                          },
+                          {
+                            "lineNumber": [
+                              1589,
+                              1590
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 4:9-10. Este pasaje es clave para la teología paulina, demostrando que Abraham fue justificado por la fe antes de ser circuncidado, lo que desvincula la salvación del rito de la circuncisión."
+                            },
+                            "originalText": "Πῶς οὖν ἐλογίσθη ἡ πίστις τῷ Ἀβραάµ; ἐν περιτοµῇ ὄντι, ἢ ἐν ἀκροβυστίᾳ;",
+                            "spanishTranslation": "¿Cómo, pues, le fue contada la fe a Abraham? ¿Estando él en circuncisión o en incircuncisión?"
+                          },
+                          {
+                            "lineNumber": [
+                              1591,
+                              1592
+                            ],
+                            "notes": {
+                              "notesGeneral": "Cristóstomo detalla la estrategia paulina: ser más suave al debatir con los gentiles o incircuncisos sobre la circuncisión, pero más enérgico y directo cuando se contrapone la circuncisión a la fe como medio de salvación."
+                            },
+                            "originalText": "Ἕως µὲν γὰρ ἂν πρὸς τὸν ἐθνικὸν αὕτη καὶ τὸν ἀκρόβυστον ἀγωνίζηται, οὐδὲν βούλεται τούτων εἰπεῖν, ἵνα µὴ σφόδρα φορτικὸς ᾖ· ὅταν δὲ πρὸς τὴν πίστιν ἀποµάχηται, τότε µειζόνως πρὸς αὐτὴν ἀποδύεται.",
+                            "spanishTranslation": "Pues mientras esta [la circuncisión] contienda contra el gentil y el incircunciso, no quiere decir ninguna de estas cosas, para no ser demasiado gravoso; pero cuando lucha contra la fe, entonces se despoja de ella con mayor fuerza."
+                          },
+                          {
+                            "lineNumber": [
+                              1593,
+                              1594
+                            ],
+                            "notes": {
+                              "notesGeneral": "Por el momento, la discusión se centra en la incircuncisión espiritual causada por la transgresión de la Ley, lo que permite a Pablo llevar su argumento con mayor delicadeza."
+                            },
+                            "originalText": "Τέως µέντοι πρὸς τὴν ἀκροβυστίαν ἡ µάχη· διὸ καὶ ὑφειµένως προάγει τὸν λόγον, καί φησι·",
+                            "spanishTranslation": "Sin embargo, por ahora la lucha es contra la incircuncisión; por eso avanza el argumento con moderación, y dice:"
+                          },
+                          {
+                            "lineNumber": [
+                              1595,
+                              1596
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 2:25. Es la repetición de la cita anterior, enfatizando que el valor de la circuncisión es condicional a la obediencia a la Ley. La transgresión de la Ley convierte la circuncisión en incircuncisión moral."
+                            },
+                            "originalText": "Περιτοµὴ µὲν γὰρ ὠφελεῖ, ἐὰν πράσσῃς τὸν νόµον· ἐὰν δὲ παραβάτης νόµου ᾖς, ἡ περιτοµή σου ἀκροβυστία γέγονε.",
+                            "spanishTranslation": "Porque la circuncisión ciertamente aprovecha, si guardas la ley; pero si eres transgresor de la ley, tu circuncisión se ha vuelto incircuncisión."
+                          },
+                          {
+                            "lineNumber": [
+                              1597
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo interpreta que Pablo habla de una dualidad espiritual de incircuncisión y circuncisión, análoga a la dualidad de las leyes (natural y escrita)."
+                            },
+                            "originalText": "∆ύο γὰρ ἐνταῦθα ἀκροβυστίας καὶ δύο περιτοµάς φησιν, ὥσπερ καὶ δύο νόµους.",
+                            "spanishTranslation": "Pues aquí dice que hay dos incircuncisiones y dos circuncisiones, así como dos leyes."
+                          },
+                          {
+                            "lineNumber": [
+                              1598,
+                              1599,
+                              1600
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo identifica tres tipos de ley: la natural (inscrita en la conciencia), la escrita (la Ley de Moisés) y la de las obras (la observancia práctica de los mandatos, que puede aplicar tanto a la ley natural como a la escrita)."
+                            },
+                            "originalText": "Ἔστι γὰρ νόµος ὁ φυσικὸς, καὶ ἔστιν ὁ γραπτός· ἀλλὰ καὶ µέσος τούτων ὁ διὰ τῶν ἔργων.",
+                            "spanishTranslation": "Porque existe la ley natural, y existe la ley escrita; pero y una intermedia entre estas, la que es por medio de las obras."
+                          },
+                          {
+                            "lineNumber": [
+                              1601
+                            ],
+                            "notes": {
+                              "notesGeneral": "Se refiere a cómo Pablo, en Romanos 2, ilustra la existencia de estas tres leyes."
+                            },
+                            "originalText": "Καὶ σκόπει πῶς τοὺς τρεῖς τούτους δείκνυσι, καὶ εἰς µέσον ἄγει.",
+                            "spanishTranslation": "Y observa cómo muestra estos tres, y los trae a colación."
+                          },
+                          {
+                            "lineNumber": [
+                              1602
+                            ],
+                            "notes": {
+                              "notesBiblical": "Comienza una serie de preguntas y respuestas que desglosan Romanos 2:14, para distinguir los tipos de ley."
+                            },
+                            "originalText": "Ὅταν γὰρ ἔθνη τὰ µὴ νόµον ἔχοντα, φησί.",
+                            "spanishTranslation": "Porque cuando los gentiles que no tienen ley, dice."
+                          },
+                          {
+                            "lineNumber": [
+                              1603,
+                              1604
+                            ],
+                            "originalText": "Ποῖον δὴ νόµον, εἰπέ µοι; Τὸν γραπτόν.",
+                            "spanishTranslation": "¿Qué ley, dime? La escrita."
+                          },
+                          {
+                            "lineNumber": [
+                              1605
+                            ],
+                            "notes": {
+                              "notesBiblical": "Continúa la cita de Romanos 2:14."
+                            },
+                            "originalText": "Φύσει τὰ τοῦ νόµου ποιῇ.",
+                            "spanishTranslation": "hacen por naturaleza las cosas de la ley."
+                          },
+                          {
+                            "lineNumber": [
+                              1606,
+                              1607
+                            ],
+                            "originalText": "Ποίου; Τοῦ διὰ τῶν ἔργων.",
+                            "spanishTranslation": "¿De cuál? La que es por medio de las obras."
+                          },
+                          {
+                            "lineNumber": [
+                              1608
+                            ],
+                            "notes": {
+                              "notesBiblical": "Continúa la cita de Romanos 2:14."
+                            },
+                            "originalText": "Οὗτοι νόµον µὴ ἔχοντες.",
+                            "spanishTranslation": "Estos, no teniendo ley."
+                          },
+                          {
+                            "lineNumber": [
+                              1609,
+                              1610
+                            ],
+                            "originalText": "Ποῖον; Τὸν γραπτόν.",
+                            "spanishTranslation": "¿Cuál? La escrita."
+                          },
+                          {
+                            "lineNumber": [
+                              1611
+                            ],
+                            "notes": {
+                              "notesBiblical": "Continúa la cita de Romanos 2:14."
+                            },
+                            "originalText": "Ἑαυτοῖς εἰσι νόµος.",
+                            "spanishTranslation": "Son ley para sí mismos."
+                          },
+                          {
+                            "lineNumber": [
+                              1612,
+                              1613
+                            ],
+                            "originalText": "Πῶς; Τῷ φυσικῷ κεχρηµένοι.",
+                            "spanishTranslation": "¿Cómo? Usando la natural."
+                          },
+                          {
+                            "lineNumber": [
+                              1614
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 2:15."
+                            },
+                            "originalText": "Οἵτινες ἐνδείκνυνται τὸ ἔργον τοῦ νόµου.",
+                            "spanishTranslation": "Los cuales muestran la obra de la ley."
+                          },
+                          {
+                            "lineNumber": [
+                              1615,
+                              1616
+                            ],
+                            "originalText": "Ποίου; Τοῦ διὰ τῶν πράξεων.",
+                            "spanishTranslation": "¿De cuál? La que es por medio de las obras."
+                          },
+                          {
+                            "lineNumber": [
+                              1617,
+                              1618
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo resume la distinción de las tres leyes: la escrita (externa, por letras), la natural (interna, por la naturaleza/conciencia) y la de las obras (la manifestación práctica de ambas)."
+                            },
+                            "originalText": "Ἐκεῖνος µὲν γὰρ ἔξω κεῖται ὁ διὰ τῶν γραµµάτων, οὗτος δὲ ἔνδον ὁ διὰ τῆς φύσεως, ὁ δὲ ἐν ταῖς πράξεσι· καὶ τὸν µὲν τὰ γράµµατα ὑπαγορεύει, τὸν δὲ ἡ φύσις, τὸν δὲ αἱ πράξεις.",
+                            "spanishTranslation": "Pues aquella [ley] está fuera, la que es por medio de las letras; esta [ley] está dentro, la que es por medio de la naturaleza; y la otra está en las obras; y una es dictada por las letras, otra por la naturaleza, y otra por las obras."
+                          },
+                          {
+                            "lineNumber": [
+                              1619,
+                              1620
+                            ],
+                            "notes": {
+                              "notesGeneral": "Enfatiza que la 'ley de las obras' es la más crucial, ya que sin ella, las otras dos (natural y escrita) carecen de valor y pueden incluso volverse perjudiciales (blasfemar a Dios)."
+                            },
+                            "originalText": "Τούτου δὴ τοῦ τρίτου χρεία, δι' ὃν καὶ ἐκεῖνοι οἱ δύο, ὅ τε ἀπὸ τῆς φύσεως, ὅ τε ἀπὸ τῶν γραµµάτων· κἂν οὗτος µὴ παρῇ, οὐδὲν ὄφελος ἐκείνων, ἀλλὰ καὶ βλάβος µέγιστον.",
+                            "spanishTranslation": "De este tercer tipo es la necesidad, por el cual también existen aquellos dos, tanto el que proviene de la naturaleza como el que proviene de las letras; y si este no está presente, de nada sirven aquellos, sino que incluso son un daño muy grande."
+                          },
+                          {
+                            "lineNumber": [
+                              1621,
+                              1622
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 2:1 para ilustrar cómo la ley natural condena al que juzga a otros pero no cumple sus propios estándares."
+                            },
+                            "originalText": "Καὶ τοῦτο δείκνυσιν ἐπὶ τοῦ φυσικοῦ µὲν λέγων· Ἐν ᾧ γὰρ κρίνεις τὸν ἕτερον, σεαυτὸν κατακρίνεις·",
+                            "spanishTranslation": "Y esto lo muestra, diciendo, en cuanto a la natural: 'Pues en lo que juzgas a otro, te condenas a ti mismo;'"
+                          },
+                          {
+                            "lineNumber": [
+                              1623,
+                              1624
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 2:21 para ilustrar cómo la ley escrita también condena al que la predica pero no la practica."
+                            },
+                            "originalText": "ἐπὶ δὲ τοῦ γραπτοῦ· Ὁ κηρύσσων µὴ κλέπτειν, κλέπτεις;",
+                            "spanishTranslation": "y en cuanto a la escrita: 'Tú que predicas no robar, ¿robas?'"
+                          },
+                          {
+                            "lineNumber": [
+                              1625,
+                              1626
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo extiende la analogía de las dos leyes a dos tipos de incircuncisión (natural y por las obras) y dos tipos de circuncisión (física y por la elección moral/espiritual), subrayando la preeminencia de lo espiritual sobre lo meramente ritual."
+                            },
+                            "originalText": "Οὕτω καὶ ἀκροβυστίαι δύο, µία µὲν ἡ φυσικὴ, δευτέρα δὲ ἡ ἀπὸ πράξεως· καὶ περιτοµὴ µία µὲν ἡ ἐν τῇ σαρκὶ, δευτέρα δὲ ἡ ἀπὸ προαιρέσεως.",
+                            "spanishTranslation": "Así también hay dos incircuncisiones: una natural, y la segunda que es por las obras; y dos circuncisiones: una en la carne, y la segunda que es por la elección [moral]."
+                          },
+                          {
+                            "lineNumber": [
+                              1627
+                            ],
+                            "originalText": "Οἷόν τι λέγω·",
+                            "spanishTranslation": "Lo que quiero decir es esto:"
+                          },
+                          {
+                            "lineNumber": [
+                              1628,
+                              1629
+                            ],
+                            "notes": {
+                              "notesGeneral": "Explica la primera circuncisión, la física, realizada al octavo día según la Ley mosaica."
+                            },
+                            "originalText": "Περιετµήθη τις ὀκταήµερος· αὕτη σαρκικὴ περιτοµή.",
+                            "spanishTranslation": "Alguien fue circuncidado al octavo día; esta es una circuncisión carnal."
+                          },
+                          {
+                            "lineNumber": [
+                              1630,
+                              1631
+                            ],
+                            "notes": {
+                              "notesGeneral": "Explica la segunda circuncisión, la espiritual o del corazón, que implica la obediencia completa a la Ley, y que es la que Pablo y la Ley misma realmente buscan. Esto se alinea con Deuteronomio 10:16 y Romanos 2:29."
+                            },
+                            "originalText": "Ἔπραξέ τις τὰ νόµιµα ἅπαντα· αὕτη διανοίας περιτοµὴ, ἣν µάλιστα ὁ Παῦλος ζητεῖ, µᾶλλον δὲ καὶ ὁ νόµος.",
+                            "spanishTranslation": "Alguien practicó todas las cosas de la ley; esta es la circuncisión de la mente, la que Pablo busca especialmente, o mejor dicho, también la ley."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 6,
+                    "chapterSummary": "Cristóstomo explica la exégesis de Pablo sobre la circuncisión y la incircuncisión, argumentando que la observancia de la ley es más importante que la señal física, y cómo la incircuncisión 'moral' puede juzgar a la circuncisión 'inmoral'.",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              1632
+                            ],
+                            "originalText": "γʹ.",
+                            "spanishTranslation": "III."
+                          },
+                          {
+                            "lineNumber": [
+                              1633
+                            ],
+                            "originalText": "Ὅρα τοίνυν πῶς συγχωρήσας αὐτὴν τῷ λόγῳ, καθεῖλε τῷ πράγµατι.",
+                            "spanishTranslation": "Observa, pues, cómo habiéndola concedido de palabra, la derribó con el hecho."
+                          },
+                          {
+                            "lineNumber": [
+                              1634,
+                              1635
+                            ],
+                            "originalText": "Οὐ γὰρ εἶπε, Περιττὸν ἡ περιτοµὴ, ἀνόνητον ἡ περιτοµὴ, ἄχρηστον· ἀλλὰ τί;",
+                            "spanishTranslation": "Porque no dijo: \"La circuncisión es superflua, la circuncisión es inútil, sin valor\"; sino ¿qué?"
+                          },
+                          {
+                            "lineNumber": [
+                              1636
+                            ],
+                            "originalText": "Περιτοµὴ µὲν γὰρ ὠφελεῖ, ἐὰν νόµον πράσσῃς.",
+                            "spanishTranslation": "\"Porque la circuncisión ciertamente aprovecha, si guardas la ley.\""
+                          },
+                          {
+                            "lineNumber": [
+                              1637,
+                              1638,
+                              1639,
+                              1640
+                            ],
+                            "originalText": "Κατεδέξατο αὐτὴν τέως λέγων· Ὁµολογῶ, καὶ οὐκ ἀντιλέγω, ὅτι καλὴ ἡ περιτοµή· ἀλλὰ πότε; Ὅταν καὶ τὴν τοῦ νόµου φυλακὴν ἔχῃ.",
+                            "spanishTranslation": "La admitió por el momento diciendo: \"Confieso, y no lo niego, que la circuncisión es buena\"; ¿pero cuándo? \"Cuando también tiene la observancia de la ley.\""
+                          },
+                          {
+                            "lineNumber": [
+                              1641
+                            ],
+                            "originalText": "Ἐὰν δὲ παραβάτης νόµου ᾖς, ἡ περιτοµή σου ἀκροβυστία γέγονεν.",
+                            "spanishTranslation": "\"Pero si eres transgresor de la ley, tu circuncisión se ha hecho incircuncisión.\""
+                          },
+                          {
+                            "lineNumber": [
+                              1642,
+                              1643,
+                              1644
+                            ],
+                            "originalText": "Οὐκ εἶπεν· Οὐκέτι ὠφελεῖ· ἵνα µὴ δόξῃ αὐτὴν ὑβρίζειν·",
+                            "spanishTranslation": "No dijo: \"Ya no aprovecha\"; para que no pareciera que la injuriaba."
+                          },
+                          {
+                            "lineNumber": [
+                              1645,
+                              1646
+                            ],
+                            "originalText": "ἀλλὰ γυµνώσας αὐτῆς τὸν Ἰουδαῖον, τότε αὐτὸν βάλλει λοιπόν. Ὅπερ οὐκέτι τῆς περιτοµῆς ἦν ὕβρις, ἀλλὰ τοῦ διὰ τῆς ῥᾳθυµίας αὐτὴν ἀπολέσαντος.",
+                            "spanishTranslation": "Sino que despojando de ella al judío, entonces finalmente lo golpea. Lo cual ya no era una injuria a la circuncisión, sino a aquel que por su negligencia la había perdido."
+                          },
+                          {
+                            "lineNumber": [
+                              1647,
+                              1648,
+                              1649
+                            ],
+                            "originalText": "Ὥσπερ οὖν τοὺς ἐν ἀξιώµασιν ὄντας, εἶτα ἁλισκοµένους ἐπὶ µεγίστοις ἐγκλήµασιν, οἱ δικάζοντες ἀφελόµενοι τῆς τῶν ἀξιωµάτων τιµῆς, τότε κολάζουσιν· οὕτω καὶ Παῦλος ἐποίησεν.",
+                            "spanishTranslation": "Así pues, como los jueces, cuando encuentran a quienes están en dignidades y luego son culpables de los mayores crímenes, les quitan el honor de sus dignidades y entonces los castigan; así también hizo Pablo."
+                          },
+                          {
+                            "lineNumber": [
+                              1650,
+                              1651,
+                              1652
+                            ],
+                            "originalText": "Εἰπὼν γὰρ, Ἐὰν δὲ παραβάτης νόµου ᾖς, ἐπήγαγεν· Ἡ περιτοµή σου ἀκροβυστία γέγονε· καὶ δείξας ἀπερίτµητον, καταδικάζει λοιπὸς ἀδεῶς.",
+                            "spanishTranslation": "Pues habiendo dicho: \"Pero si eres transgresor de la ley\", añadió: \"Tu circuncisión se ha hecho incircuncisión\"; y habiéndolo mostrado incircunciso, lo condena entonces sin temor."
+                          },
+                          {
+                            "lineNumber": [
+                              1653,
+                              1654
+                            ],
+                            "originalText": "Ὅταν οὖν ἡ ἀκροβυστία τὰ δικαιώµατα [[60.436]] τοῦ νόµου φυλάττῃ, οὐχὶ ἡ ἀκροβυστία αὐτοῦ εἰς περιτοµὴν περιτραπήσεται;",
+                            "spanishTranslation": "Cuando, pues, la incircuncisión guarda los preceptos de la ley, ¿no se convertirá su incircuncisión en circuncisión?"
+                          },
+                          {
+                            "lineNumber": [
+                              1655,
+                              1656,
+                              1657,
+                              1658
+                            ],
+                            "originalText": "Ὅρα τί ποιεῖ· Οὐ λέγει, ὅτι ἡ ἀκροβυστία τὴν περιτοµὴν νικᾷ· τοῦτο γὰρ σφόδρα ἦν ἐπαχθὲς τοῖς τότε ἀκούουσιν· ἀλλ' ὅτι ἡ ἀκροβυστία περιτοµὴ γέγονε.",
+                            "spanishTranslation": "Observa lo que hace: No dice que la incircuncisión supera a la circuncisión; pues esto sería muy gravoso para los que entonces escuchaban; sino que \"la incircuncisión se ha hecho circuncisión.\""
+                          },
+                          {
+                            "lineNumber": [
+                              1659,
+                              1660,
+                              1661
+                            ],
+                            "originalText": "Καὶ ζητεῖ λοιπὸν τί ἐστι περιτοµὴ, καὶ τί ἀκροβυστία· καὶ λέγει, ὅτι περιτοµὴ πρᾶξίς ἐστιν ἀγαθὴ, καὶ ἡ ἀκροβυστία πρᾶξις πονηρά· καὶ πρότερον µεταστήσας εἰς τὴν περιτοµὴν τὸν ἀκρόβυστον τὸν πράξεις ἔχοντα χρηστὰς, καὶ τὸν ἐµπερίτοµον τὸν ἐν διεφθαρµένῳ βίῳ εἰς τὴν ἀκροβυστίαν ἐξωθήσας, οὕτω τὴν νίκην δίδωσι τῷ ἀκροβύστῳ.",
+                            "spanishTranslation": "Y busca entonces qué es circuncisión y qué es incircuncisión; y dice que la circuncisión es una buena acción, y la incircuncisión una mala acción; y primero, habiendo transferido al incircunciso que tiene buenas acciones a la circuncisión, y habiendo empujado al circuncidado que vive una vida corrupta a la incircuncisión, así le da la victoria al incircunciso."
+                          },
+                          {
+                            "lineNumber": [
+                              1662
+                            ],
+                            "originalText": "Καὶ οὐ λέγει, Τῷ ἀκροβύστῳ, ἀλλ' ἐπὶ τὸ πρᾶγµα µέτεισιν οὕτω λέγων·",
+                            "spanishTranslation": "Y no dice: \"Al incircunciso\", sino que pasa a la cuestión de este modo, diciendo:"
+                          },
+                          {
+                            "lineNumber": [
+                              1663
+                            ],
+                            "originalText": "Οὐχὶ ἡ ἀκροβυστία σου εἰς περιτοµὴν µετατραπήσεται;",
+                            "spanishTranslation": "¿No se convertirá tu incircuncisión en circuncisión?"
+                          },
+                          {
+                            "lineNumber": [
+                              1664,
+                              1665
+                            ],
+                            "originalText": "Καὶ οὐκ εἶπε, Λογισθήσεται, ἀλλὰ, Τραπήσεται, ὅπερ ἐµφαντικώτερον ἦν· ὥσπερ καὶ ἀνωτέρω οὐκ εἶπεν, Ἡ περιτοµή σου ἀκροβυστία λογίζεται, ἀλλὰ, Γέγονε.",
+                            "spanishTranslation": "Y no dijo: \"Se imputará\", sino: \"Se convertirá\", lo cual era más enfático; así como arriba tampoco dijo: \"Tu circuncisión se considera incircuncisión\", sino: \"Se ha hecho\"."
+                          },
+                          {
+                            "lineNumber": [
+                              1666
+                            ],
+                            "originalText": "Καὶ κρινεῖ ἡ ἐκ φύσεως ἀκροβυστία.",
+                            "spanishTranslation": "\"Y juzgará la incircuncisión por naturaleza.\""
+                          },
+                          {
+                            "lineNumber": [
+                              1667
+                            ],
+                            "originalText": "Ὁρᾷς, ὅτι δύο οἶδεν ἀκροβυστίας, τὴν µὲν ἐκ φύσεως, τὴν δὲ ἐκ προαιρέσεως;",
+                            "spanishTranslation": "¿Ves que conoce dos tipos de incircuncisión: una por naturaleza y otra por elección?"
+                          },
+                          {
+                            "lineNumber": [
+                              1668,
+                              1669
+                            ],
+                            "originalText": "Ἐνταῦθα µέντοι τὴν ἐκ φύσεως λέγει, ἀλλ' οὐχ ἵσταται µέχρι τούτου, ἀλλ' ἐπάγει· Τὸν νόµον τελοῦσά σε τὸν διὰ γράµµατος καὶ περιτοµῆς παραβάτην νόµου;",
+                            "spanishTranslation": "Aquí, sin embargo, habla de la incircuncisión por naturaleza, pero no se detiene aquí, sino que añade: \"¿A ti, que mediante la letra y la circuncisión eres transgresor de la ley, la incircuncisión cumplidora de la ley te juzgará?\""
+                          },
+                          {
+                            "lineNumber": [
+                              1670
+                            ],
+                            "originalText": "Ὅρα τὴν λεπτοτάτην αὐτοῦ σύνεσιν.",
+                            "spanishTranslation": "Observa su finísima inteligencia."
+                          },
+                          {
+                            "lineNumber": [
+                              1671,
+                              1672
+                            ],
+                            "originalText": "Οὐκ εἶπεν, ὅτι ἡ ἐκ φύσεως ἀκροβυστία τὴν περιτοµὴν κρινεῖ, ἀλλὰ, ἔνθα µὲν ἡ νίκη ἦν, τὴν ἀκροβυστίαν εἰσάγει· ἔνθα δὲ ἡ ἧττα ἦν, οὐκέτι τὴν περιτοµὴν δείκνυσιν ἡττωµένην, ἀλλὰ τὸν αὐτὴν ἔχοντα Ἰουδαῖον, φειδόµενος διὰ τῶν ῥηµάτων πλῆξαι τὸν ἀκροατήν.",
+                            "spanishTranslation": "No dijo que la incircuncisión por naturaleza juzgará a la circuncisión, sino que, donde había victoria, introduce la incircuncisión; y donde había derrota, ya no muestra a la circuncisión siendo derrotada, sino al judío que la tiene, evitando herir al oyente con las palabras."
+                          },
+                          {
+                            "lineNumber": [
+                              1673
+                            ],
+                            "originalText": "Καὶ οὐκ εἶπε, Σὲ τὸν νόµον ἔχοντα καὶ περιτοµὴν, ἀλλ' ἔτι ἡµερώτερον, Σὲ τὸν διὰ γράµµατος καὶ περιτοµῆς παραβάτην νόµου·",
+                            "spanishTranslation": "Y no dijo: \"A ti que tienes la ley y la circuncisión\", sino de un modo aún más suave: \"A ti, el que mediante la letra y la circuncisión eres transgresor de la ley\"."
+                          },
+                          {
+                            "lineNumber": [
+                              1674,
+                              1675,
+                              1676
+                            ],
+                            "originalText": "τουτέστι, καὶ ἀµύνει τῇ περιτοµῇ ἡ τοιαύτη ἀκροβυστία, ἠδίκηται γάρ· καὶ βοηθεῖ τῷ νόµῳ, ἐπηρέασται γάρ· καὶ περιφανὲς ἵστησι τρόπαιον.",
+                            "spanishTranslation": "Es decir, tal incircuncisión defiende a la circuncisión, pues ha sido injuriada; y ayuda a la ley, pues ha sido ultrajada; y levanta un trofeo evidente."
+                          },
+                          {
+                            "lineNumber": [
+                              1677
+                            ],
+                            "originalText": "Ἡ γὰρ νίκη τότε ἐστὶ λαµπρὰ, ὅταν µὴ παρὰ Ἰουδαίου ὁ Ἰουδαῖος, ἀλλὰ παρὰ ἀκροβύστου κρίνηται·",
+                            "spanishTranslation": "Porque la victoria es brillante cuando el judío es juzgado no por un judío, sino por un incircunciso."
+                          },
+                          {
+                            "lineNumber": [
+                              1678,
+                              1679
+                            ],
+                            "originalText": "ὥσπερ ὅταν λέγῃ· Ἄνδρες Νινευῗται ἐγερθήσονται, καὶ κατακρινοῦσι τὴν γενεὰν ταύτην.",
+                            "spanishTranslation": "Así como cuando dice: \"Los hombres de Nínive se levantarán y condenarán a esta generación.\""
+                          },
+                          {
+                            "lineNumber": [
+                              1680,
+                              1681,
+                              1682
+                            ],
+                            "originalText": "Οὐκοῦν οὐ τὸν νόµον ἀτιµάζει· σφόδρα γὰρ αὐτὸν αἰδεῖται· ἀλλὰ τὸν εἰς τὸν νόµον ὑβρίζοντα.",
+                            "spanishTranslation": "Por tanto, no deshonra la ley, pues la respeta mucho, sino a quien ultraja la ley."
+                          },
+                          {
+                            "lineNumber": [
+                              1683
+                            ],
+                            "originalText": "Εἶτα ὅτε κατεσκεύασε ταῦτα σαφῶς, θαῤῥῶν λοιπὸν ὁρίζεται τί ποτέ ἐστιν ὁ Ἰουδαῖος, καὶ δείκνυσιν, ὅτι οὐχὶ τὸν Ἰουδαῖον οὐδὲ τὴν περιτοµὴν, ἀλλὰ τὸν οὐχὶ Ἰουδαῖον καὶ τὸν ἀπερίτµητον ἐκβάλλει.",
+                            "spanishTranslation": "Luego, cuando ha establecido estas cosas claramente, confiado, define finalmente qué es el judío, y muestra que no expulsa al judío ni a la circuncisión, sino al no-judío y al incircunciso."
+                          },
+                          {
+                            "lineNumber": [
+                              1684
+                            ],
+                            "originalText": "Καὶ δοκεῖ µὲν ἀµύνειν αὐτῇ, καταλύει δὲ αὐτῆς τὴν ὑπόληψιν, ἀπὸ τοῦ συµβαίνοντος ἔχων τὰς ψήφους.",
+                            "spanishTranslation": "Y parece defenderla, pero destruye su reputación, teniendo los votos de lo que sucede."
+                          },
+                          {
+                            "lineNumber": [
+                              1685,
+                              1686
+                            ],
+                            "originalText": "∆είκνυσι γὰρ οὐ µόνον οὐδὲν µέσον Ἰουδαίου καὶ ἀκροβύστου, ἀλλὰ καὶ ἀνώτερον ὄντα τὸν ἀκρόβυστον, ἐὰν ἑαυτῷ προσέχῃ, καὶ τοῦτον ὄντα ἀκριβῶς τὸν Ἰουδαῖον· διό φησι·",
+                            "spanishTranslation": "Porque muestra no solo que no hay diferencia entre judío e incircunciso, sino que el incircunciso es superior, si se cuida a sí mismo, y que este es precisamente el judío. Por eso dice:"
+                          },
+                          {
+                            "lineNumber": [
+                              1687
+                            ],
+                            "originalText": "Οὐ γὰρ ὁ ἐν τῷ φανερῷ Ἰουδαῖός ἐστιν, οὐδὲ ἡ ἐν τῷ φανερῷ, ἐν σαρκὶ, περιτοµή.",
+                            "spanishTranslation": "\"Porque no es judío el que lo es exteriormente, ni es la circuncisión la que es visible, en la carne.\""
+                          },
+                          {
+                            "lineNumber": [
+                              1688
+                            ],
+                            "originalText": "Ἐνταῦθα αὐτοὺς πλήττει, ὡς πρὸς ἐπίδειξιν ἅπαντα πράττοντας.",
+                            "spanishTranslation": "Aquí los golpea, como a quienes hacen todo para la ostentación."
+                          },
+                          {
+                            "lineNumber": [
+                              1689
+                            ],
+                            "originalText": "Ἀλλ' ὁ ἐν τῷ κρυπτῷ Ἰουδαῖος, καὶ περιτοµὴ καρδίας ἐν πνεύµατι, οὐ γράµµατι.",
+                            "spanishTranslation": "\"Sino que es judío el que lo es en lo oculto, y la circuncisión del corazón, en espíritu, no en letra.\""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 4,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 6,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 4,
+                        "text": [
+                          {
+                            "keywords": [
+                              "somático",
+                              "circuncisión",
+                              "Sábado",
+                              "sacrificios",
+                              "purificaciones"
+                            ],
+                            "lineNumber": [
+                              1690,
+                              1691
+                            ],
+                            "notes": {
+                              "notesGeneral": "El orador continúa la explicación del pasaje bíblico, centrándose en la abolición de las prácticas rituales externas judías por su insuficiencia para la salvación."
+                            },
+                            "originalText": "δʹ. Τοῦτο δὲ εἰπὼν, ἐξέβαλε τὰ σωµατικὰ ἅπαντα.",
+                            "spanishTranslation": "Cuarto. Habiendo dicho esto, eliminó todo lo corporal."
+                          },
+                          {
+                            "keywords": [
+                              "circuncisión",
+                              "Sábado",
+                              "sacrificios",
+                              "purificaciones",
+                              "judío",
+                              "exterior"
+                            ],
+                            "lineNumber": [
+                              1692,
+                              1693
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere implícitamente a Romanos 2:28-29, donde Pablo distingue entre la circuncisión externa y la del corazón."
+                            },
+                            "originalText": "Καὶ γὰρ ἡ περιτοµὴ ἐν τῷ φανερῷ, καὶ τὰ σάββατα καὶ αἱ θυσίαι καὶ οἱ καθαρισµοί· ἅπερ ἅπαντα δι' ἑνὸς ᾐνίξατο ῥήµατος εἰπὼν, Οὐ γὰρ ἐν τῷ φανερῷ Ἰουδαῖός ἐστιν.",
+                            "spanishTranslation": "Pues la circuncisión es en lo visible, y los sábados y los sacrificios y las purificaciones; todo lo cual insinuó con una sola palabra, diciendo: «Porque no es judío el que lo es exteriormente»."
+                          },
+                          {
+                            "keywords": [
+                              "circuncisión",
+                              "Sábado"
+                            ],
+                            "lineNumber": [
+                              1694
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo explica por qué Pablo se enfoca tanto en la circuncisión: era la señal más prominente y un punto central de debate entre judíos y cristianos."
+                            },
+                            "originalText": "Ἀλλ' ἐπειδὴ τῆς περιτοµῆς πολὺς ἦν ὁ λόγος, ὅπου γε καὶ τὸ Σάββατον αὐτῇ παρεχώρει, εἰκότως τὰ πλείονα πρὸς αὐτὴν ἀποτείνεται.",
+                            "spanishTranslation": "Pero puesto que mucho se hablaba de la circuncisión, hasta el punto de que incluso el Sábado le cedía el paso, con razón la mayor parte se dirige a ella."
+                          },
+                          {
+                            "keywords": [
+                              "espíritu",
+                              "Iglesia",
+                              "fe",
+                              "corazón",
+                              "alabanza",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              1695,
+                              1696
+                            ],
+                            "notes": {
+                              "notesGreek": "«Ἐν πνεύµατι» (en espíritu) es una expresión clave de Pablo que Crisóstomo conecta con la nueva vida en Cristo y la fe, en contraste con las obras de la ley."
+                            },
+                            "originalText": "Εἰπὼν δὲ, Ἐν πνεύµατι, προοδοποιεῖ λοιπὸν τῇ τῆς Ἐκκλησίας πολιτείᾳ, καὶ τὴν πίστιν εἰσάγει· καὶ γὰρ αὕτη ἐν καρδίᾳ καὶ πνεύµατι τὸν ἔπαινον ἀπὸ τοῦ Θεοῦ ἔχει.",
+                            "spanishTranslation": "Y habiendo dicho: «En espíritu», prepara el camino para la constitución de la Iglesia, e introduce la fe; porque esta [fe] también tiene en el corazón y en el espíritu la alabanza de Dios."
+                          },
+                          {
+                            "keywords": [
+                              "griego",
+                              "judío",
+                              "virtud",
+                              "transgresión",
+                              "superior"
+                            ],
+                            "lineNumber": [
+                              1697,
+                              1698
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo aclara que el contraste que hace Pablo no es entre un griego y un judío ambos virtuosos, sino entre un griego virtuoso y un judío transgresor, para enfatizar la superioridad de la virtud sobre la observancia legal."
+                            },
+                            "originalText": "Καὶ διὰ τί µὴ ἔδειξεν, ὅτι ὁ κατορθῶν Ἕλλην Ἰουδαίου κατορθοῦντος οὐκ ἔστιν ἐλάττων, ἀλλ' ὅτι κατορθῶν Ἕλλην Ἰουδαίου παραβαίνοντος κρείττων ἐστίν;",
+                            "spanishTranslation": "¿Y por qué no mostró que el griego que practica la virtud no es inferior al judío que la practica, sino que el griego que practica la virtud es superior al judío que transgrede?"
+                          },
+                          {
+                            "keywords": [
+                              "victoria",
+                              "indudable"
+                            ],
+                            "lineNumber": [
+                              1699
+                            ],
+                            "notes": {},
+                            "originalText": "Ἵν' ἀναµφίβολον ποιήσῃ τὴν νίκην.",
+                            "spanishTranslation": "Para hacer la victoria indudable."
+                          },
+                          {
+                            "keywords": [
+                              "circuncisión",
+                              "carne",
+                              "vida",
+                              "necesidad"
+                            ],
+                            "lineNumber": [
+                              1700
+                            ],
+                            "notes": {
+                              "notesLinguistics": "La palabra «βίου» (bíos) se refiere aquí a la 'vida' en un sentido ético, la conducta moral o la vida virtuosa."
+                            },
+                            "originalText": "Τούτου γὰρ ὁµολογηθέντος, ἐξ ἀνάγκης ἡ περιτοµὴ τῆς σαρκὸς ἐκβάλλεται, καὶ δείκνυται, ὅτι πανταχοῦ βίου χρεία.",
+                            "spanishTranslation": "Pues una vez reconocido esto, necesariamente se desecha la circuncisión de la carne, y se demuestra que en todas partes es necesaria una vida virtuosa."
+                          },
+                          {
+                            "keywords": [
+                              "griego",
+                              "judío",
+                              "salvación",
+                              "castigo",
+                              "judaísmo"
+                            ],
+                            "lineNumber": [
+                              1701
+                            ],
+                            "notes": {},
+                            "originalText": "Ὅταν γὰρ ὁ µὲν Ἕλλην χωρὶς τούτων σώζηται, ὁ δὲ Ἰουδαῖος µετὰ τούτων κολάζηται, ἕστηκεν ἀργῶν ὁ Ἰουδαϊσµός.",
+                            "spanishTranslation": "Porque cuando el griego se salva sin estas cosas, y el judío es castigado con ellas, el judaísmo permanece inactivo."
+                          },
+                          {
+                            "keywords": [
+                              "griego",
+                              "idólatra",
+                              "piadoso",
+                              "virtuoso",
+                              "ley"
+                            ],
+                            "lineNumber": [
+                              1702
+                            ],
+                            "notes": {
+                              "notesGeneral": "Es importante para Crisóstomo definir el 'griego' en este contexto como un gentil temeroso de Dios y moralmente recto, no un pagano idolatra, para que el contraste con el judío que transgrede la ley sea significativo."
+                            },
+                            "originalText": "Ἕλληνα δὲ πάλιν οὐ τὸν εἰδωλολάτρην, ἀλλὰ τὸν θεοσεβῆ καὶ ἐνάρετον καὶ τῶν νοµικῶν παρατηρήσεων ἀπηλλαγµένον φησί.",
+                            "spanishTranslation": "Y por 'griego' no se refiere al idólatra, sino al piadoso y virtuoso, libre de las observancias de la ley."
+                          },
+                          {
+                            "keywords": [
+                              "ventaja",
+                              "judío"
+                            ],
+                            "lineNumber": [
+                              1703
+                            ],
+                            "notes": {},
+                            "originalText": "Τί οὖν τὸ περισσὸν τοῦ Ἰουδαίου;",
+                            "spanishTranslation": "¿Cuál es, entonces, la ventaja del judío?"
+                          },
+                          {
+                            "keywords": [
+                              "audición",
+                              "enseñanza",
+                              "nombre",
+                              "judío",
+                              "circuncisión",
+                              "objeción"
+                            ],
+                            "lineNumber": [
+                              1704,
+                              1705
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐπειδὴ πάντα ἐξέβαλε, τὴν ἀκρόασιν, τὴν διδασκαλίαν, τὸ ὄνοµα τοῦ Ἰουδαίου, τὴν περιτοµὴν, τὰ ἄλλα πάντα, διὰ τοῦ λέγειν, ὅτι Ὁ ἐν τῷ φανερῷ Ἰουδαῖος οὐκ ἔστιν, ἀλλ' ὁ ἐν τῷ κρυπτῷ, ὁρᾷ λοιπὸν ἀντίθεσιν ἀνακύπτουσαν· καὶ πρὸς αὐτὴν ἵσταται.",
+                            "spanishTranslation": "Puesto que ha desechado todo: la audición, la enseñanza, el nombre de judío, la circuncisión, todas las demás cosas, al decir que «no es judío el que lo es exteriormente, sino el que lo es en lo oculto», ve entonces surgir una objeción; y se enfrenta a ella."
+                          },
+                          {
+                            "keywords": [
+                              "objeción",
+                              "beneficio",
+                              "pueblo",
+                              "circuncisión"
+                            ],
+                            "lineNumber": [
+                              1706,
+                              1707
+                            ],
+                            "notes": {},
+                            "originalText": "Τίς δέ ἐστιν ἡ ἀντίθεσις; Εἰ µηδὲν, φησὶν, ὠφελεῖ ταῦτα, τίνος ἕνεκεν καὶ ἐκλήθη τὸ ἔθνος, καὶ περιτοµὴ ἐδόθη;",
+                            "spanishTranslation": "¿Y cuál es la objeción? «Si nada», dice, «aprovecha esto, ¿por qué razón fue llamado también el pueblo, y se le dio la circuncisión?»"
+                          },
+                          {
+                            "keywords": [
+                              "resolución"
+                            ],
+                            "lineNumber": [
+                              1708,
+                              1709
+                            ],
+                            "notes": {},
+                            "originalText": "Τί οὖν ποιεῖ, καὶ πῶς αὐτὴν λύει; ∆ι' ὧν ἔλυσε καὶ τὰ ἀνωτέρω.",
+                            "spanishTranslation": "¿Qué hace entonces, y cómo la resuelve? Por medio de lo que resolvió también lo anterior."
+                          },
+                          {
+                            "keywords": [
+                              "alabanzas",
+                              "Dios",
+                              "beneficencias",
+                              "logros",
+                              "judío",
+                              "voluntad",
+                              "gracia"
+                            ],
+                            "lineNumber": [
+                              1710,
+                              1711
+                            ],
+                            "notes": {},
+                            "originalText": "Ὥσπερ γὰρ ἐκεῖ οὐ τὰ ἐγκώµια αὐτῶν εἶπεν, ἀλλὰ τοῦ Θεοῦ τὰς εὐεργεσίας, οὐ τὰ αὐτῶν κατορθώµατα· τὸ γὰρ Ἰουδαῖον ὀνοµάζεσθαι, καὶ γινώσκειν τὸ θέληµα, καὶ δοκιµάζειν τὰ διαφέροντα, οὐκ αὐτῶν ἦν κατόρθωµα, ἀλλὰ τῆς τοῦ Θεοῦ χάριτος·",
+                            "spanishTranslation": "Porque así como allí no mencionó sus alabanzas, sino las beneficencias de Dios, no sus propios logros; pues ser llamado judío, y conocer la voluntad, y discernir lo que es excelente, no era un logro de ellos, sino de la gracia de Dios;"
+                          },
+                          {
+                            "keywords": [
+                              "profeta",
+                              "reproche",
+                              "nación",
+                              "juicios"
+                            ],
+                            "lineNumber": [
+                              1712,
+                              1713
+                            ],
+                            "notes": {
+                              "notesBiblical": "Una referencia a Salmos 147:20: «No ha hecho así con ninguna otra nación; ni les ha revelado sus juicios»."
+                            },
+                            "originalText": "ὅπερ καὶ ὀνειδίζων αὐτοῖς ὁ προφήτης ἔλεγεν· Οὐκ ἐποίησεν οὕτω παντὶ ἔθνει, καὶ τὰ κρίµατα αὐτοῦ οὐκ ἐδήλωσεν αὐτοῖς·",
+                            "spanishTranslation": "lo que también el profeta les reprochaba, diciendo: «No ha hecho tal cosa con ninguna otra nación; ni les ha revelado sus juicios»."
+                          },
+                          {
+                            "keywords": [
+                              "Moisés",
+                              "Dios",
+                              "voz",
+                              "fuego",
+                              "vivir"
+                            ],
+                            "lineNumber": [
+                              1714
+                            ],
+                            "notes": {
+                              "notesBiblical": "Una referencia a Deuteronomio 4:33: «¿Ha oído algún pueblo la voz de Dios viviente de en medio del fuego, como tú la has oído, y ha vivido?»"
+                            },
+                            "originalText": "καὶ ὁ Μωϋσῆς πάλιν, Ἐρωτήσατε, εἰ γέγονε κατὰ τὸ ῥῆµα τοῦτο, φησὶν, εἰ ἤκουσεν ἔθνος φωνὴν Θεοῦ ζῶντος ἐκ µέσου τοῦ πυρὸς, καὶ ἔζησε·",
+                            "spanishTranslation": "Y Moisés de nuevo, «Pregunten, si ha sucedido algo como esto», dice, «si algún pueblo ha oído la voz de Dios viviente de en medio del fuego, y ha vivido»;"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              1715
+                            ],
+                            "notes": {},
+                            "originalText": "τοῦτο δὴ καὶ ἐνταῦθα ποιεῖ.",
+                            "spanishTranslation": "Esto es lo que hace también aquí."
+                          },
+                          {
+                            "keywords": [
+                              "circuncisión",
+                              "vida",
+                              "virtuosa",
+                              "beneficio"
+                            ],
+                            "lineNumber": [
+                              1716
+                            ],
+                            "notes": {},
+                            "originalText": "Ὥσπερ γὰρ, ὅτε ἔλεγε περὶ τῆς περιτοµῆς, οὐκ εἶπεν, ὅτι Ἡ δὲ περιτοµὴ οὐδὲν ὠφελεῖ χωρὶς βίου, ἀλλὰ, Περιτοµὴ ὠφελεῖ µετὰ βίου, τὸ αὐτὸ µὲν δηλῶν, ἡµερώτερον δέ·",
+                            "spanishTranslation": "Porque así como, cuando hablaba de la circuncisión, no dijo: «La circuncisión de nada aprovecha sin una vida virtuosa», sino «La circuncisión aprovecha con una vida virtuosa», indicando lo mismo, pero de una manera más suave;"
+                          },
+                          {
+                            "keywords": [
+                              "transgresor",
+                              "ley",
+                              "circuncisión",
+                              "incircuncisión"
+                            ],
+                            "lineNumber": [
+                              1717
+                            ],
+                            "notes": {
+                              "notesBiblical": "Una referencia a Romanos 2:25: «Si eres, pues, transgresor de la ley, tu circuncisión se ha convertido en incircuncisión»."
+                            },
+                            "originalText": "καὶ πάλιν, Ἐὰν δὲ παραβάτης νόµου ᾖς, οὐκ εἶπεν, Οὐδὲν ὠφελῇ σὺ ὁ ἐµπερίτοµος, ἀλλ', Ἡ περιτοµή σου ἀκροβυστία γέγονε·",
+                            "spanishTranslation": "y de nuevo, «Pero si eres transgresor de la ley», no dijo: «Tú, el circuncidado, de nada aprovechas», sino: «Tu circuncisión se ha convertido en incircuncisión»;"
+                          },
+                          {
+                            "keywords": [
+                              "incircuncisión",
+                              "juzgar",
+                              "circuncisión",
+                              "transgresor",
+                              "ley"
+                            ],
+                            "lineNumber": [
+                              1718
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Romanos 2:27: «Y el que es por naturaleza incircunciso, si cumple la ley, ¿no te juzgará a ti, que con la letra y la circuncisión eres transgresor de la ley?»"
+                            },
+                            "originalText": "καὶ µετ' ἐκεῖνο δὲ πάλιν, Κρινεῖ, φησὶν, ἡ ἀκροβυστία οὐχὶ τὴν περιτοµὴν, ἀλλὰ σὲ τὸν παραβάτην νόµου, τῶν µὲν νοµίµων φειδόµενος, τοὺς δὲ ἀνθρώπους βάλλων·",
+                            "spanishTranslation": "y después de eso, de nuevo, dice: «La incircuncisión juzgará, no la circuncisión, sino a ti, el transgresor de la ley», perdonando las cosas legales, pero atacando a las personas;"
+                          },
+                          {
+                            "keywords": [],
+                            "lineNumber": [
+                              1719
+                            ],
+                            "notes": {},
+                            "originalText": "οὕτω καὶ ἐνταῦθα ποιεῖ.",
+                            "spanishTranslation": "así también hace aquí."
+                          },
+                          {
+                            "keywords": [
+                              "objeción",
+                              "judío",
+                              "ventaja",
+                              "preeminencia",
+                              "castigo"
+                            ],
+                            "lineNumber": [
+                              1720,
+                              1721
+                            ],
+                            "notes": {},
+                            "originalText": "Ἀντιθεὶς γὰρ ἑαυτῷ τοῦτο, καὶ εἰπὼν, Τί οὖν τὸ περισσὸν τοῦ Ἰουδαίου; οὐκ εἶπεν, ὅτι Οὐδὲν, ἀλλὰ συνέδραµε τῷ λόγῳ, καὶ διὰ τῶν ἑξῆς πάλιν αὐτὸ ἀνεῖλε, καὶ ἔδειξε καὶ κολαζοµένους ἀπὸ ταύτης τῆς προεδρίας.",
+                            "spanishTranslation": "Porque habiéndose opuesto a sí mismo en esto, y habiendo dicho: «¿Cuál es, pues, la ventaja del judío?», no dijo: «Ninguna», sino que siguió el argumento, y de nuevo lo refutó a través de lo siguiente, y mostró que también eran castigados por esta preeminencia."
+                          },
+                          {
+                            "keywords": [
+                              "objeción"
+                            ],
+                            "lineNumber": [
+                              1722,
+                              1723
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ πῶς; Ἐγὼ λέγω, τὴν ἀντίθεσιν εἰς µέσον ἀγαγών.",
+                            "spanishTranslation": "¿Y cómo? Yo digo, trayendo a colación la objeción."
+                          },
+                          {
+                            "keywords": [
+                              "judío",
+                              "circuncisión",
+                              "ventaja",
+                              "beneficio"
+                            ],
+                            "lineNumber": [
+                              1724
+                            ],
+                            "notes": {},
+                            "originalText": "Τί οὖν τὸ περισσὸν τοῦ Ἰουδαίου, φησὶν, ἢ τίς ἡ ὠφέλεια τῆς περιτοµῆς;",
+                            "spanishTranslation": "¿Cuál es, entonces, la ventaja del judío, dice, o cuál es el beneficio de la circuncisión?"
+                          },
+                          {
+                            "keywords": [
+                              "mucho",
+                              "todo"
+                            ],
+                            "lineNumber": [
+                              1725
+                            ],
+                            "notes": {},
+                            "originalText": "Πολὺ κατὰ πάντα τρόπον.",
+                            "spanishTranslation": "Mucho en todo sentido."
+                          },
+                          {
+                            "keywords": [
+                              "oráculos",
+                              "Dios",
+                              "confiados"
+                            ],
+                            "lineNumber": [
+                              1726
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 3:2: «Primero, ciertamente, que les han sido confiados los oráculos de Dios»."
+                            },
+                            "originalText": "Πρῶτον µὲν, ὅτι ἐπιστεύθησαν τὰ λόγια τοῦ Θεοῦ.",
+                            "spanishTranslation": "Primero, que les fueron confiados los oráculos de Dios."
+                          },
+                          {
+                            "keywords": [
+                              "logros",
+                              "Dios",
+                              "beneficencias"
+                            ],
+                            "lineNumber": [
+                              1727
+                            ],
+                            "notes": {},
+                            "originalText": "Εἶδες, ὅπερ ἔφθην εἰπὼν, οὐδαµοῦ τὰ κοτορθώµατα αὐτῶν, ἀλλὰ τοῦ Θεοῦ τὰς εὐεργεσίας ἀπαριθµοῦντα;",
+                            "spanishTranslation": "¿Ves, lo que ya he dicho, que en ninguna parte se enumeran sus logros, sino las beneficencias de Dios?"
+                          },
+                          {
+                            "keywords": [
+                              "confiados",
+                              "ley",
+                              "oráculos",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              1728,
+                              1729
+                            ],
+                            "notes": {},
+                            "originalText": "Τί δέ ἐστιν, Ἐπιστεύθησαν; Ὅτι αὐτοὶ ἐνεχειρίσθησαν τὸν νόµον, ὅτι τοσούτου ἀξίους εἶναι ἐνόµιζεν, ὡς πιστεῦσαι χρησµοὺς αὐτοῖς ἄνωθεν κατενεχθέντας.",
+                            "spanishTranslation": "¿Y qué significa «les fueron confiados»? Que ellos mismos recibieron la ley, que Él los consideró dignos de tanto, como para confiarles oráculos traídos desde arriba."
+                          },
+                          {
+                            "keywords": [
+                              "confiados",
+                              "judíos",
+                              "oráculos",
+                              "ley"
+                            ],
+                            "lineNumber": [
+                              1730,
+                              1731
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo aborda una posible interpretación errónea del texto paulino, donde 'confiados' podría entenderse como que los oráculos mismos fueron creídos, no que fueron confiados a los judíos."
+                            },
+                            "originalText": "Καὶ οἶδα µὲν, ὅτι τινὲς τὸ, Ἐπιστεύθησαν, οὐκ ἐπὶ τῶν Ἰουδαίων λέγουσιν, ἀλλ' ἐπὶ τῶν λογίων, τουτέστιν, ὅτι ἐπιστεύθη ὁ νόµος· ἀλλὰ τὸ ἑξῆς οὐκ ἀφίησι τοῦτο νοµίζεσθαι.",
+                            "spanishTranslation": "Y sé que algunos no interpretan «les fueron confiados» en referencia a los judíos, sino a los oráculos, es decir, que la ley fue creída; pero lo que sigue no permite pensar esto."
+                          },
+                          {
+                            "keywords": [
+                              "acusación",
+                              "beneficencia",
+                              "ingratitud"
+                            ],
+                            "lineNumber": [
+                              1732
+                            ],
+                            "notes": {},
+                            "originalText": "Πρῶτον µὲν γὰρ κατηγορῶν αὐτῶν ταῦτα λέγει, καὶ δεικνὺς πολλῆς µὲν ἄνωθεν ἀπολαύσαντας εὐεργεσίας, πολλὴν δὲ ἐπιδειξαµένους ἀγνωµοσύνην.",
+                            "spanishTranslation": "Porque primero dice estas cosas acusándolos, y mostrando que, habiendo recibido muchas beneficencias de arriba, mostraron mucha ingratitud."
+                          },
+                          {
+                            "keywords": [
+                              "incredulidad",
+                              "oráculos",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              1733,
+                              1734,
+                              1735,
+                              1736
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 3:3: «¿Qué, pues, si algunos no creyeron? ¿Acaso su incredulidad anulará la fidelidad de Dios?»"
+                            },
+                            "originalText": "Ἔπειτα δὲ καὶ τὰ ἑξῆς τοῦτο δηλοῖ· ἐπήγαγε γάρ· Τί γὰρ, εἰ ἠπίστησάν τινες; Εἰ δὲ ἠπίστησαν, πῶς, τινές φασιν, ὅτι ἐπιστεύθησαν τὰ λόγια;",
+                            "spanishTranslation": "Además, lo siguiente también lo indica; pues añadió: «¿Qué, pues, si algunos no creyeron?» Y si no creyeron, ¿cómo, dicen algunos, que les fueron confiados los oráculos?"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "confió",
+                              "creyeron"
+                            ],
+                            "lineNumber": [
+                              1737,
+                              1738
+                            ],
+                            "notes": {},
+                            "originalText": "Τί οὖν φησιν; Ὅτι ὁ Θεὸς αὐτοῖς ταῦτα ἐπίστευσεν, οὐχ ὅτι αὐτοὶ τοῖς λόγοις ἐπίστευσαν·",
+                            "spanishTranslation": "¿Qué dice, entonces? Que Dios les confió estas cosas, no que ellos creyeron en las palabras;"
+                          },
+                          {
+                            "keywords": [
+                              "incredulidad"
+                            ],
+                            "lineNumber": [
+                              1739,
+                              1740,
+                              1741
+                            ],
+                            "notes": {},
+                            "originalText": "ἐπεὶ πῶς ἔχει λόγον τὸ ἑξῆς; καὶ γὰρ ἐπήγαγε· Τί γὰρ, εἰ ἠπίστησάν τινες;",
+                            "spanishTranslation": "¿porque, cómo tiene sentido lo siguiente? Pues también añadió: «¿Qué, pues, si algunos no creyeron?»"
+                          },
+                          {
+                            "keywords": [
+                              "incredulidad",
+                              "fidelidad",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              1742,
+                              1743,
+                              1744,
+                              1745
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita Romanos 3:3: «¿Acaso su incredulidad anulará la fidelidad de Dios? ¡De ningún modo!»"
+                            },
+                            "originalText": "Καὶ τὸ µετὰ τοῦτο δὲ τὸ αὐτὸ δηλοῖ· προσέθηκε γὰρ πάλιν [[60.438]] λέγων· Μὴ γὰρ ἡ ἀπιστία αὐτῶν τὴν πίστιν τοῦ Θεοῦ καταργήσει; Μὴ γένοιτο.",
+                            "spanishTranslation": "Y lo que sigue después también indica lo mismo; pues añadió de nuevo diciendo: «¿Acaso su incredulidad anulará la fidelidad de Dios? ¡De ningún modo!»"
+                          },
+                          {
+                            "keywords": [
+                              "confiados",
+                              "don",
+                              "Dios"
+                            ],
+                            "lineNumber": [
+                              1746
+                            ],
+                            "notes": {},
+                            "originalText": "Τοῦτο τοίνυν, ὃ ἐπιστεύθησαν, τοῦ Θεοῦ τὴν δωρεὰν ἀνακηρύττει.",
+                            "spanishTranslation": "Esto, entonces, que les fue confiado, proclama el don de Dios."
+                          },
+                          {
+                            "keywords": [
+                              "inteligencia"
+                            ],
+                            "lineNumber": [
+                              1747
+                            ],
+                            "notes": {
+                              "notesLinguistics": "«Σύνεσιν» (synesis) se refiere a la inteligencia, comprensión o discernimiento del argumento."
+                            },
+                            "originalText": "Σὺ δέ µοι σκόπει καὶ ἐνταῦθα σύνεσιν.",
+                            "spanishTranslation": "Y obsérvame aquí también la inteligencia."
+                          },
+                          {
+                            "keywords": [
+                              "acusación",
+                              "objeción",
+                              "circuncisión",
+                              "ley",
+                              "incredulidad"
+                            ],
+                            "lineNumber": [
+                              1748,
+                              1749,
+                              1750,
+                              1751,
+                              1752,
+                              1753
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo muestra cómo Pablo introduce objeciones retóricas para desviar la acusación de Dios y dirigirla hacia la responsabilidad de los judíos."
+                            },
+                            "originalText": "Τὴν γὰρ κατηγορίαν αὐτῶν οὐ παρ' ἑαυτοῦ πάλιν εἰσάγει, ἀλλ' ὡς ἐξ ἀντιθέσεως· ὡσανεὶ ἔλεγεν· Ἀλλ' ἴσως ἐρεῖς· Καὶ τί τὸ ὄφελος τῆς περιτοµῆς ταύτης; οὐ γὰρ ἐχρήσαντο αὐτῇ εἰς δέον· ἐπιστεύθησαν γὰρ τὸν νόµον, καὶ ἠπίστησαν.",
+                            "spanishTranslation": "Pues no introduce de nuevo la acusación contra ellos por sí mismo, sino como por medio de una objeción; como si dijera: «Pero quizás dirás: ¿Y de qué sirve esta circuncisión? Pues no la usaron como debían; porque les fue confiada la ley, y no creyeron»."
+                          },
+                          {
+                            "keywords": [
+                              "acusador",
+                              "Dios",
+                              "acusaciones",
+                              "ingratitud"
+                            ],
+                            "lineNumber": [
+                              1754
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ τέως οὐ σφοδρός ἐστι κατήγορος, ἀλλ' ὡς τὸν Θεὸν ἀπαλλάττων ἐγκληµάτων, οὕτω περιτρέπει εἰς αὐτοὺς τὴν κατηγορίαν ἅπασαν.",
+                            "spanishTranslation": "Y por el momento no es un acusador vehemente, sino que, como librando a Dios de acusaciones, así desvía toda la acusación hacia ellos."
+                          },
+                          {
+                            "keywords": [
+                              "reproche",
+                              "incredulidad",
+                              "Dios",
+                              "beneficencia",
+                              "ingratitud",
+                              "honor"
+                            ],
+                            "lineNumber": [
+                              1755,
+                              1756,
+                              1757,
+                              1758
+                            ],
+                            "notes": {},
+                            "originalText": "Τί γὰρ ἐγκαλεῖς, φησὶν, ὅτι ἠπίστησαν; καὶ τί τοῦτο πρὸς τὸν Θεόν; µὴ γὰρ τὴν εὐεργεσίαν αὐτοῦ ἀνατρέπει τῶν εὐεργετηθέντων ἡ ἀγνωµοσύνη; ἢ τὴν τιµὴν ποιεῖ µὴ εἶναι τιµήν;",
+                            "spanishTranslation": "¿Qué reprochas, dice, que no creyeron? ¿Y qué tiene esto que ver con Dios? ¿Acaso la ingratitud de los beneficiados anula su beneficencia? ¿O hace que el honor no sea honor?"
+                          },
+                          {
+                            "keywords": [
+                              "incredulidad",
+                              "fidelidad",
+                              "Dios",
+                              "anular"
+                            ],
+                            "lineNumber": [
+                              1759,
+                              1760
+                            ],
+                            "notes": {
+                              "notesBiblical": "Reafirma la cita de Romanos 3:3."
+                            },
+                            "originalText": "Τοῦτο γάρ ἐστι τὸ, Μὴ ἡ ἀπιστία αὐτῶν τὴν πίστιν τοῦ Θεοῦ καταργήσει; Μὴ γένοιτο.",
+                            "spanishTranslation": "Porque esto es: «¿Acaso la incredulidad de ellos anulará la fidelidad de Dios? ¡De ningún modo!»"
+                          },
+                          {
+                            "keywords": [
+                              "honor",
+                              "rechazo",
+                              "acusación",
+                              "filantropía",
+                              "insensibilidad"
+                            ],
+                            "lineNumber": [
+                              1761,
+                              1762,
+                              1763
+                            ],
+                            "notes": {},
+                            "originalText": "Ὡς ἂν εἰ ἔλεγέ τις· Ἐγὼ τὸν δεῖνα ἐτίµησα· εἰ δὲ µὴ προσήκατο τὴν τιµὴν ἐκεῖνος, τοῦτο ἐµοὶ κατηγορίαν οὐ φέρει, οὐδὲ λυµαίνεταί µου τὴν φιλανθρωπίαν, ἀλλ' ἐκείνου δείκνυσι τὴν ἀναισθησίαν.",
+                            "spanishTranslation": "Como si alguien dijera: «Yo honré a tal persona; pero si esa persona no aceptó el honor, esto no me trae acusación, ni daña mi amor por la humanidad, sino que muestra la insensibilidad de aquella persona»."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "incredulidad",
+                              "culpa",
+                              "Dios",
+                              "honor",
+                              "filantropía"
+                            ],
+                            "lineNumber": [
+                              1764,
+                              1765
+                            ],
+                            "notes": {},
+                            "originalText": "Ὁ δὲ Παῦλος οὐ τοῦτο µόνον λέγει, ἀλλὰ καὶ τὸ πολλῷ πλέον· ὅτι οὐ µόνον οὐ προστρίβεται ἔγκληµα τῷ Θεῷ ἡ ἀπιστία ἐκείνων, ἀλλὰ καὶ µείζονα δείκνυσιν αὐτοῦ τὴν τιµὴν καὶ τὴν φιλανθρωπίαν, ὅταν καὶ τὸν µέλλοντα αὐτὸν ἀτιµάζειν φαίνηται τιµῶν.",
+                            "spanishTranslation": "Pero Pablo no dice solo esto, sino mucho más; que la incredulidad de ellos no solo no atribuye culpa a Dios, sino que también muestra su mayor honor y filantropía, cuando se ve que honra incluso a aquel que está a punto de deshonrarlo."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 5,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 6,
+                    "chapterSummary": "Crisóstomo aborda las objeciones sobre la justicia divina y la relación entre el pecado y la gracia, enfatizando la responsabilidad humana y la hipocresía cristiana.",
+                    "sections": [
+                      {
+                        "section": 5,
+                        "text": [
+                          {
+                            "keywords": [
+                              "responsabilidad",
+                              "acusaciones",
+                              "orgullo"
+                            ],
+                            "lineNumber": [
+                              1766,
+                              1767
+                            ],
+                            "notes": {
+                              "notesGeneral": "El número «εʹ» indica la quinta subdivisión dentro de la homilía, que no corresponde a una sección bíblica o de la obra, sino a una estructura interna del comentario."
+                            },
+                            "originalText": "εʹ. Εἶδες πῶς αὐτοὺς ἐποίησεν ὑπευθύνους ἐγκληµάτων, ἀφ' ὧν ἐκαλλωπίζοντο;",
+                            "spanishTranslation": "Quinto punto. ¿Viste cómo los hizo responsables de las acusaciones, por aquello de lo que se enorgullecían?"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "honor",
+                              "judíos",
+                              "ingratitud",
+                              "blasfemia"
+                            ],
+                            "lineNumber": [
+                              1768,
+                              1769
+                            ],
+                            "notes": {},
+                            "originalText": "εἴπερ ὁ µὲν Θεὸς τοσαύτῃ περὶ αὐτοὺς ἐχρήσατο τῇ τιµῇ, ὡς µηδὲ τὸ µέλλον προορῶν ἀποσχέσθαι τῆς περὶ αὐτοὺς εὐνοίας· αὐτοὶ δὲ τὸν τιµήσαντα, δι' ὧν ἐτιµήθησαν, ὕβρισαν.",
+                            "spanishTranslation": "Si Dios usó tal honor hacia ellos, hasta el punto de que, previendo el futuro, no se abstuvo de su benevolencia para con ellos; sin embargo, ellos insultaron a quien los había honrado, precisamente a través de lo que fueron honrados."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "incredulidad",
+                              "argumento",
+                              "razonamiento"
+                            ],
+                            "lineNumber": [
+                              1770,
+                              1771,
+                              1772
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 3:3. Crisóstomo explica la estrategia retórica de Pablo para no aparecer como un acusador hostil de los judíos."
+                            },
+                            "originalText": "Εἶτα ἐπειδὴ εἶπε, Τί γὰρ, εἰ ἠπίστησάν τινες; φαίνονται δὲ πάντες ἠπιστηκότες· ἵνα µὴ πάλιν κατὰ τὴν ἱστορίαν λέγων, δόξῃ σφοδρὸς αὐτῶν εἶναι κατήγορος ὡς ἐχθρὸς, ἐν τάξει λογισµοῦ καὶ συλλογισµοῦ τίθησι τὸ ἐπὶ τῆς ἀληθείας γεγενηµένον, οὕτω λέγων·",
+                            "spanishTranslation": "Luego, como dijo: «¿Qué pues, si algunos fueron incrédulos?» —aunque parece que todos lo fueron—, para no parecer un acusador vehemente de ellos, como un enemigo, al hablar de nuevo según la historia, presenta lo que realmente sucedió en forma de argumento y razonamiento, diciendo así:"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "verdad",
+                              "hombre",
+                              "mentiroso"
+                            ],
+                            "lineNumber": [
+                              1773
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 3:4. Pablo cita el Salmo 116:11, que en la Septuaginta es Salmo 115:2. El contexto bíblico es la fidelidad de Dios frente a la infidelidad humana."
+                            },
+                            "originalText": "Γενέσθω δὲ ὁ Θεὸς ἀληθὴς, πᾶς δὲ ἄνθρωπος ψεύστης.",
+                            "spanishTranslation": "«Sea Dios veraz, y todo hombre mentiroso»."
+                          },
+                          {
+                            "keywords": [
+                              "interpretación",
+                              "incredulidad",
+                              "concesión"
+                            ],
+                            "lineNumber": [
+                              1774,
+                              1775,
+                              1776
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo interpreta que Pablo concede la premisa de la incredulidad universal como una hipótesis para fortalecer su argumento sobre la veracidad de Dios, evitando así la acusación de parcialidad."
+                            },
+                            "originalText": "Ὃ δὲ λέγει, τοιοῦτόν ἐστιν· Οὐ λέγω, φησὶν, ὅτι τινὲς ἠπίστησαν, ἀλλ' εἰ βούλει, τίθει πάντας ἠπιστηκέναι· τὸ ἀληθὲς γεγενηµένον κατὰ συνδροµὴν συγχωρῶν, ἵνα ἀνεπαχθὴς εἶναι δόξῃ καὶ ἀνύποπτος.",
+                            "spanishTranslation": "Lo que quiere decir es esto: «No digo», afirma, «que algunos fueron incrédulos, sino, si quieres, asume que todos han sido incrédulos»; concediendo lo que realmente sucedió por vía de inferencia, para que parezca imparcial e insospechado."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "justificado"
+                            ],
+                            "lineNumber": [
+                              1777
+                            ],
+                            "notes": {},
+                            "originalText": "Καὶ γὰρ οὕτω µᾶλλον δικαιοῦται, φησὶν, ὁ Θεός.",
+                            "spanishTranslation": "«Pues aun así», dice, «Dios es más bien justificado»."
+                          },
+                          {
+                            "keywords": [
+                              "justificación",
+                              "juicio",
+                              "Dios",
+                              "judíos",
+                              "victoria"
+                            ],
+                            "lineNumber": [
+                              1778,
+                              1779
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"δικαιοῦται\" (dikaioutai) se refiere a ser 'justificado', 'declarado justo' o 'vindicado'. Aquí Crisóstomo lo explica en el sentido de que Dios sería 'vindicado' o 'demostrado justo' en un juicio."
+                            },
+                            "originalText": "Τί ἐστι, ∆ικαιοῦται; Εἰ κρίσις γένοιτο καὶ ἐξέτασις τῶν ὑπηργµένων τοῖς Ἰουδαίοις παρ' αὐτοῦ, καὶ τῶν παρ' αὐτῶν εἰς αὐτὸν γεγενηµένων, τὰ νικητήρια ἔσται παρὰ τῷ Θεῷ, καὶ τὰ δικαιώµατα αὐτοῦ πάντα.",
+                            "spanishTranslation": "¿Qué significa «es justificado»? Si hubiera un juicio y un examen de lo que Él hizo por los judíos, y de lo que ellos hicieron contra Él, la victoria sería de Dios, y todas sus justas acciones quedarían demostradas."
+                          },
+                          {
+                            "keywords": [
+                              "profeta",
+                              "justicia",
+                              "juicio",
+                              "victoria"
+                            ],
+                            "lineNumber": [
+                              1780,
+                              1781
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 3:4, que cita el Salmo 51:4 (50:6 LXX). El profeta David reconoce la justicia de Dios incluso en su propio pecado."
+                            },
+                            "originalText": "Καὶ δείξας τοῦτο σαφὼς ἐκ τῶν ἔµπροσθεν εἰρηµένων, τότε καὶ τὸν προφήτην εἰσήγαγε τούτοις ψηφιζόµενον καὶ λέγοντα· Ὅπως ἂν δικαιωθῇς ἐν τοῖς λόγοις σου, καὶ νικήσῃς ἐν τῷ κρίνεσθαί σε.",
+                            "spanishTranslation": "Y habiendo mostrado esto claramente a partir de lo dicho anteriormente, entonces introdujo también al profeta que daba testimonio de esto y decía: «Para que seas justificado en tus palabras, y venzas cuando seas juzgado»."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "judíos",
+                              "perseverancia",
+                              "infidelidad"
+                            ],
+                            "lineNumber": [
+                              1782
+                            ],
+                            "notes": {},
+                            "originalText": "Αὐτὸς µὲν γὰρ τὰ παρ' ἑαυτοῦ πάντα ἐποίησεν, ἐκεῖνοι δὲ οὐδὲ οὕτως ἐγένοντο βελτίους.",
+                            "spanishTranslation": "Porque Él, por su parte, hizo todo; pero ellos, ni aun así, mejoraron."
+                          },
+                          {
+                            "keywords": [
+                              "objeción",
+                              "injusticia",
+                              "ira",
+                              "Dios",
+                              "humano"
+                            ],
+                            "lineNumber": [
+                              1783,
+                              1784,
+                              1785,
+                              1786
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 3:5. Pablo plantea una objeción hipotética desde una perspectiva humana para luego refutarla."
+                            },
+                            "originalText": "Εἶτα ἐκ τούτου πάλιν ἀντίθεσιν ἑτέραν ἀνακύπτουσαν εἰς µέσον ἄγει, καί φησιν· Εἰ δὲ ἡ ἀδικία ἡµῶν Θεοῦ δικαιοσύνην συνίστησι, τί ἐροῦµεν; µὴ ἄδικος ὁ Θεὸς ὁ ἐπιφέρων τὴν ὀργήν; κατὰ ἄνθρωπον λέγω.",
+                            "spanishTranslation": "Luego, a partir de esto, trae a colación otra objeción que surge, y dice: «Pero si nuestra injusticia hace resaltar la justicia de Dios, ¿qué diremos? ¿Acaso es injusto Dios que descarga su ira? (Hablo como hombre)»."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "injusticia",
+                              "negación"
+                            ],
+                            "lineNumber": [
+                              1787
+                            ],
+                            "notes": {
+                              "notesBiblical": "Respuesta enfática de Pablo en Romanos 3:6. La frase griega \"Μὴ γένοιτο\" es una expresión fuerte de rechazo, traducida como '¡De ninguna manera!' o '¡Lejos sea!'."
+                            },
+                            "originalText": "Μὴ γένοιτο.",
+                            "spanishTranslation": "¡De ninguna manera!"
+                          },
+                          {
+                            "keywords": [
+                              "absurdo",
+                              "aclaración",
+                              "razonamiento"
+                            ],
+                            "lineNumber": [
+                              1788,
+                              1789,
+                              1790
+                            ],
+                            "notes": {},
+                            "originalText": "Ἄτοπον ἀτόπῳ λύει λοιπόν. Ἐπειδὴ δὲ τοῦτο ἀσαφὲς, ἀναγκαῖον αὐτὸ σαφέστερον εἰπεῖν. Τί οὖν ἐστιν, ὅ φησιν;",
+                            "spanishTranslation": "Así pues, resuelve un absurdo con otro absurdo. Y como esto es poco claro, es necesario decirlo con mayor claridad. ¿Qué es entonces lo que dice?"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "judíos",
+                              "honor",
+                              "blasfemia",
+                              "filantropía",
+                              "victoria"
+                            ],
+                            "lineNumber": [
+                              1791,
+                              1792
+                            ],
+                            "notes": {},
+                            "originalText": "Ἐτίµησε τοὺς Ἰουδαίους ὁ Θεὸς, ὕβρισαν αὐτὸν ἐκεῖνοι. Τοῦτο αὐτὸν ποιεῖ νικῆσαι, καὶ πολλὴν αὐτοῦ δείκνυσι τὴν φιλανθρωπίαν, ὅτι καὶ τοιούτους ὄντας ἐτίµησεν.",
+                            "spanishTranslation": "Dios honró a los judíos; ellos lo insultaron. Esto hace que Él prevalezca y demuestra su gran filantropía, porque los honró aun siendo ellos tales."
+                          },
+                          {
+                            "keywords": [
+                              "pecado",
+                              "justicia",
+                              "castigo",
+                              "victoria"
+                            ],
+                            "lineNumber": [
+                              1793,
+                              1794
+                            ],
+                            "notes": {},
+                            "originalText": "Οὐκοῦν ἐπειδὴ, ὅτι ὑβρίσαµεν, φησὶν, ἡµεῖς καὶ ἠδικήσαµεν, διὰ τοῦτο ὁ Θεὸς ἐνίκησε καὶ ἡ δικαιοσύνη αὐτοῦ λαµπρὰ ἐφάνη, τίνος ἕνεκεν κολάζοµαι, φησὶ, αἴτιος αὐτῷ τοῦ νικῆσαι γενόµενος δι' ὧν ὕβρισα;",
+                            "spanishTranslation": "Así que, puesto que, dice, «porque nosotros insultamos e hicimos mal, por eso Dios venció y su justicia se manifestó brillante, ¿por qué entonces soy castigado», dice, «habiendo sido la causa de su victoria mediante mis insultos?»"
+                          },
+                          {
+                            "keywords": [
+                              "absurdo",
+                              "justicia",
+                              "castigo",
+                              "victoria"
+                            ],
+                            "lineNumber": [
+                              1795,
+                              1796,
+                              1797,
+                              1798
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo explica la lógica de Pablo: si el castigo es justo, entonces el pecador no puede reclamar ser la 'causa' de la victoria de Dios de manera que evite la responsabilidad. La injusticia de uno no hace justa la injusticia de Dios."
+                            },
+                            "originalText": "Πῶς οὖν αὐτὸ λύει; Ἑτέρῳ, ὅπερ ἔφην, ἀτόπῳ πάλιν. Εἰ γὰρ αἴτιος, φησὶ, σὺ τῆς νίκης ἐγένου, καὶ µετὰ ταῦτα κολάζῃ, ἀδικία τὸ γενόµενον· εἰ δὲ οὐκ ἄδικος, κολάζῃ δὲ, οὐκέτι αἴτιος αὐτῷ τῆς νίκης γέγονας.",
+                            "spanishTranslation": "Entonces, ¿cómo lo resuelve? Con otro absurdo, como dije de nuevo. Pues si, dice, «fuiste causa de la victoria, y después de esto eres castigado, lo que ocurrió es una injusticia; pero si Él no es injusto, y sin embargo tú eres castigado, entonces ya no has sido causa de su victoria»."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "reverencia",
+                              "lenguaje",
+                              "humano"
+                            ],
+                            "lineNumber": [
+                              1799,
+                              1800,
+                              1801,
+                              1802
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a la expresión \"κατὰ ἄνθρωπον λέγω\" (katá ánthropon légo) en Romanos 3:5. Crisóstomo elogia la prudencia de Pablo al aclarar que está usando un argumento humano para evitar la blasfemia de atribuir injusticia a Dios."
+                            },
+                            "originalText": "Καὶ ὅρα τὴν εὐλάβειαν τὴν ἀποστολικὴν. Εἰπὼν γὰρ, Μὴ ἄδικος ὁ Θεὸς ὁ ἐπιφέρων τὴν ὀργήν; ἐπήγαγε, Κατὰ ἄνθρωπον λέγω. Ὡς ἄν τις, φησὶ, κατὰ ἀνθρώπινον διαλεχθείη λογισµόν·",
+                            "spanishTranslation": "Y observa la reverencia apostólica. Porque después de decir: «¿Acaso es injusto Dios que descarga su ira?», añadió: «Hablo como hombre». Como si alguien, dice, razonara de acuerdo con el pensamiento humano;"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "justicia",
+                              "juicio",
+                              "sabiduría"
+                            ],
+                            "lineNumber": [
+                              1803
+                            ],
+                            "notes": {
+                              "notesGreek": "El término \"δικαιοκρισία\" (dikaiokrisia) significa 'justo juicio' o 'juicio justo'. Crisóstomo enfatiza la superioridad de la justicia divina sobre la comprensión humana."
+                            },
+                            "originalText": "πολὺ γὰρ καὶ τὰ παρ' ἡµῖν δοκοῦντα εἶναι δίκαια ὑπερβαίνει τοῦ Θεοῦ ἡ δικαιοκρισία, καὶ ἔχει τινὰς καὶ ἑτέρους ἀποῤῥήτους λόγους.",
+                            "spanishTranslation": "pues el justo juicio de Dios supera con mucho incluso lo que a nosotros nos parece justo, y tiene también otras razones inefables."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "verdad",
+                              "pecado",
+                              "gloria",
+                              "castigo"
+                            ],
+                            "lineNumber": [
+                              1804,
+                              1805
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 3:7, una reformulación de la objeción anterior. El pecador se pregunta por qué es juzgado si su pecado sirvió para glorificar a Dios."
+                            },
+                            "originalText": "Εἶτα ἐπειδὴ ἀσαφὲς ἦν, καὶ ἐκ δευτέρου τὸ αὐτὸ λέγει πάλιν· Εἰ γὰρ ἡ ἀλήθεια τοῦ Θεοῦ ἐν τῷ ἐµῷ ψεύδει ἐπερίσσευσεν εἰς τὴν δόξαν αὐτοῦ, τί ἔτι κἀγὼ ὡς ἁµαρτωλὸς κρίνοµαι;",
+                            "spanishTranslation": "Luego, como no estaba claro, vuelve a decir lo mismo una segunda vez: «Pues si la verdad de Dios abundó por mi mentira para su gloria, ¿por qué todavía soy juzgado como pecador?»"
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "filantropía",
+                              "justicia",
+                              "bondad",
+                              "desobediencia",
+                              "castigo",
+                              "bendición"
+                            ],
+                            "lineNumber": [
+                              1806
+                            ],
+                            "notes": {},
+                            "originalText": "Εἰ γὰρ ὁ Θεὸς, φησὶ, φιλάνθρωπος καὶ δίκαιος ἐφάνη καὶ ἀγαθὸς, ἐξ ὧν σὺ παρήκουσας, οὐ µόνον οὐκ ὀφείλεις κολάζεσθαι, ἀλλὰ καὶ εὐεργετεῖσθαι.",
+                            "spanishTranslation": "Porque si Dios, dice, se manifestó filántropo, justo y bueno a partir de lo que tú desobedeciste, no solo no deberías ser castigado, sino también ser beneficiado."
+                          },
+                          {
+                            "keywords": [
+                              "absurdo",
+                              "mal",
+                              "bien",
+                              "causa",
+                              "castigo",
+                              "injusticia"
+                            ],
+                            "lineNumber": [
+                              1807,
+                              1808,
+                              1809
+                            ],
+                            "notes": {
+                              "notesGeneral": "Este es el argumento central que Pablo y Crisóstomo consideran absurdo: que el mal pueda ser la causa del bien o que Dios sea injusto al castigar el pecado que, hipotéticamente, \"realza\" su justicia."
+                            },
+                            "originalText": "Εἰ δὲ τοῦτο, εὑρεθήσεται τὸ ἄτοπον ἐκεῖνο, καὶ παρὰ πολλῶν περιφερόµενον, τὸ ἐκ τῶν κακῶν εἶναι τὰ καλὰ, καὶ αἴτια τῶν καλῶν τὰ κακά· καὶ ἀνάγκη δὲ δυοῖν θάτερον, ἢ κολάζοντα ἄδικον φαίνεσθαι, ἢ µὴ κολάζοντα ἀπὸ τῶν ἡµετέρων κακῶν ἔχειν τὰ νικητήρια· ἅπερ ἀµφότερα µεθ' ὑπερβολῆς ἄτοπα.",
+                            "spanishTranslation": "Pero si esto fuera así, se hallaría aquel absurdo, que circula entre muchos, de que lo bueno proviene de lo malo, y que lo malo es causa de lo bueno; y necesariamente ocurriría una de dos cosas: o el que castiga aparecería injusto, o el que no castiga obtendría la victoria de nuestros males; ambas cosas son extremadamente absurdas."
+                          },
+                          {
+                            "keywords": [
+                              "Griegos",
+                              "doctrinas",
+                              "blasfemia",
+                              "carácter"
+                            ],
+                            "lineNumber": [
+                              1810
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo atribuye estas doctrinas absurdas a los filósofos griegos (paganos) para desacreditarlas, sugiriendo que la calidad moral de quienes las proponen ya es suficiente para rechazarlas."
+                            },
+                            "originalText": "Ὅπερ δεικνὺς καὶ αὐτὸς, τοὺς πατέρας τῶν τοιούτων ἐπεισήγαγε δογµάτων Ἕλληνας, ἀρκεῖν ἡγούµενος εἰς κατηγορίαν τῶν εἰρηµένων, τὴν ποιότητα τῶν προσώπων τῶν ταῦτα λεγόντων.",
+                            "spanishTranslation": "Y él mismo, demostrando esto, introdujo a los griegos como los padres de tales doctrinas, considerando que la calidad de las personas que decían esto era suficiente para la acusación de lo dicho."
+                          },
+                          {
+                            "keywords": [
+                              "slander",
+                              "calumnia",
+                              "mal",
+                              "bien",
+                              "juicio"
+                            ],
+                            "lineNumber": [
+                              1811,
+                              1812,
+                              1813,
+                              1814
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Romanos 3:8. Pablo menciona la calumnia que se propaga contra los cristianos, de que enseñan que hay que \"hacer el mal para que venga el bien\", y la condena como justa para quienes la propagan."
+                            },
+                            "originalText": "Τότε γὰρ ἡµᾶς κωµῳδοῦντες ἔλεγον, ὅτι Ποιήσωµεν τὰ κακὰ, ἵνα ἔλθῃ τὰ ἀγαθά· διὸ καὶ τέθεικεν αὐτὸ σαφῶς οὕτω λέγων· Εἰ µὴ καθὼς βλασφηµούµεθα, καὶ καθώς φασί τινες ἡµᾶς λέγειν, ὅτι Ποιήσωµεν τὰ κακὰ, ἵνα ἔλθῃ τὰ ἀγαθά· ὧν τὸ κρῖµα ἔνδικόν ἐστιν.",
+                            "spanishTranslation": "Porque entonces, ridiculizándonos, decían: «Hagamos males para que vengan bienes»; por eso también él lo ha establecido claramente, diciendo así: «A menos que sea como somos calumniados, y como dicen algunos que decimos: 'Hagamos males para que vengan bienes'; la condena de quienes dicen esto es justa»."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "gracia",
+                              "pecado",
+                              "abundancia",
+                              "malicia",
+                              "interpretación"
+                            ],
+                            "lineNumber": [
+                              1815
+                            ],
+                            "notes": {
+                              "notesBiblical": "Crisóstomo explica el origen de la calumnia, haciendo referencia a Romanos 5:20, donde Pablo afirma que \"donde el pecado abundó, sobreabundó la gracia\". Los detractores distorsionaban esta enseñanza."
+                            },
+                            "originalText": "Ἐπειδὴ γὰρ ἔλεγεν ὁ Παῦλος, Ὅπου ἐπλεόνασεν ἡ ἁµαρτία, ὑπερεπερίσσευσεν ἡ χάρις, κωµῳδοῦντες αὐτὸν καὶ ἑτέρᾳ γνώµῃ διαστρέφοντες τὸ εἰρηµένον ἔλεγον, ὅτι ∆εῖ κακίας ἔχεσθαι, ἵνα ἀπολαύσωµεν ἀγαθῶν.",
+                            "spanishTranslation": "Porque como Pablo decía: «Donde abundó el pecado, sobreabundó la gracia», ridiculizándolo y distorsionando lo dicho con otra interpretación, decían: «Es necesario aferrarse a la maldad para que disfrutemos de bienes»."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "pecado",
+                              "gracia",
+                              "continuidad",
+                              "negación"
+                            ],
+                            "lineNumber": [
+                              1816,
+                              1817,
+                              1818,
+                              1819,
+                              1820
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 6:1-2, donde Pablo refuta categóricamente la idea de continuar en el pecado. \"Μὴ γένοιτο\" es una expresión de fuerte rechazo."
+                            },
+                            "originalText": "Ὁ δὲ Παῦλος οὐχ οὕτως ἔλεγε· διορθούµενος γοῦν αὐτὸ, φησί· Τί οὖν; ἐπιµενοῦµεν τῇ ἁµαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Μὴ γένοιτο.",
+                            "spanishTranslation": "Pero Pablo no decía eso; al menos, corrigiéndolo, dice: «¿Qué diremos entonces? ¿Perseveraremos en el pecado para que la gracia abunde? ¡De ninguna manera!»"
+                          },
+                          {
+                            "keywords": [
+                              "pecado",
+                              "gracia",
+                              "pasado",
+                              "práctica",
+                              "imposible",
+                              "muerte"
+                            ],
+                            "lineNumber": [
+                              1821,
+                              1822,
+                              1823
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Romanos 6:2. La muerte al pecado por el bautismo hace incompatible vivir en él."
+                            },
+                            "originalText": "Ὑπὲρ γὰρ τῶν παρελθόντων, φησὶ, εἴρηκα χρόνων, οὐχ ἵνα µελέτην τοῦτο ποιώµεθα. Ταύτης γοῦν ἀπάγων τῆς ὑπονοίας, ἔφησεν αὐτὸ καὶ ἀδύνατον εἶναι λοιπόν. Οἵτινες γὰρ, φησὶν, ἀπεθάνοµεν τῇ ἁµαρτίᾳ, πῶς ἔτι ζήσοµεν ἐν αὐτῇ;",
+                            "spanishTranslation": "«Porque», dice, «he hablado de tiempos pasados, no para que hagamos de esto una práctica». Al menos, alejándose de esta sospecha, dijo que ya es imposible. Porque, dice, «nosotros que hemos muerto al pecado, ¿cómo viviremos aún en él?»"
+                          },
+                          {
+                            "keywords": [
+                              "Griegos",
+                              "Judíos",
+                              "vida",
+                              "ley",
+                              "circuncisión",
+                              "relación con Dios"
+                            ],
+                            "lineNumber": [
+                              1824,
+                              1825,
+                              1826,
+                              1827
+                            ],
+                            "notes": {},
+                            "originalText": "ὰʹ. Τῶν µὲν οὖν Ἑλλήνων εὐκόλως κατέδραµεν· ὁ γὰρ βίος αὐτῶν σφόδρα διέφθαρτο· τῶν δὲ Ἰουδαίων εἰ καὶ ὁ βίος ἐδόκει παρηµελῆσθαι, ἀλλ' ἦν προκαλύµµατα τούτων µεγάλα, νόµος καὶ περιτοµὴ, καὶ τὸ τὸν Θεὸν αὐτοῖς ὡµιληκέναι, καὶ τὸ πάντων εἶναι καὶ εὐεργετεῖσθαι.",
+                            "spanishTranslation": "Primero. Así pues, se lanzó fácilmente contra los griegos; porque su vida estaba muy corrompida; pero en cuanto a los judíos, aunque su vida parecía descuidada, había grandes coberturas para ello: la Ley y la circuncisión, y el hecho de que Dios les había hablado, y que eran beneficiarios de todas las cosas."
+                          },
+                          {
+                            "keywords": [
+                              "absurdo",
+                              "mal",
+                              "bien",
+                              "causa",
+                              "castigo",
+                              "injusticia"
+                            ],
+                            "lineNumber": [
+                              1828,
+                              1829,
+                              1830
+                            ],
+                            "notes": {
+                              "notesGeneral": "Esta repetición subraya la importancia del punto: la inaceptabilidad teológica de que el mal humano pueda 'beneficiar' a Dios o hacer que el castigo divino sea injusto."
+                            },
+                            "originalText": "Εἰ δὲ τοῦτο, εὑρεθήσεται τὸ ἄτοπον ἐκεῖνο, καὶ παρὰ πολλῶν περιφερόµενον, τὸ ἐκ τῶν κακῶν εἶναι τὰ καλὰ, καὶ αἴτια τῶν καλῶν τὰ κακά· καὶ ἀνάγκη δὲ δυοῖν θάτερον, ἢ κολάζοντα ἄδικον φαίνεσθαι, ἢ µὴ κολάζοντα ἀπὸ τῶν ἡµετέρων κακῶν ἔχειν τὰ νικητήρια· ἅπερ ἀµφότερα µεθ' ὑπερβολῆς ἄτοπα.",
+                            "spanishTranslation": "Pero si esto fuera así, se hallaría aquel absurdo, que circula entre muchos, de que lo bueno proviene de lo malo, y que lo malo es causa de lo bueno; y necesariamente ocurriría una de dos cosas: o el que castiga aparecería injusto, o el que no castiga obtendría la victoria de nuestros males; ambas cosas son extremadamente absurdas."
+                          },
+                          {
+                            "keywords": [
+                              "Griegos",
+                              "doctrinas",
+                              "blasfemia",
+                              "carácter"
+                            ],
+                            "lineNumber": [
+                              1831
+                            ],
+                            "notes": {
+                              "notesGeneral": "Reafirmación de que esta lógica es propia de los paganos, no de la fe cristiana, y que su origen ya la descalifica."
+                            },
+                            "originalText": "Ὅπερ δεικνὺς καὶ αὐτὸς, τοὺς πατέρας τῶν τοιούτων ἐπεισήγαγε δογµάτων Ἕλληνας, ἀρκεῖν ἡγούµενος εἰς κατηγορίαν τῶν εἰρηµένων, τὴν ποιότητα τῶν προσώπων τῶν ταῦτα λεγόντων.",
+                            "spanishTranslation": "Y él mismo, demostrando esto, introdujo a los griegos como los padres de tales doctrinas, considerando que la calidad de las personas que decían esto era suficiente para la acusación de lo dicho."
+                          },
+                          {
+                            "keywords": [
+                              "slander",
+                              "calumnia",
+                              "mal",
+                              "bien",
+                              "juicio",
+                              "Pablo",
+                              "gracia",
+                              "pecado",
+                              "abundancia"
+                            ],
+                            "lineNumber": [
+                              1832,
+                              1833,
+                              1834,
+                              1835,
+                              1836
+                            ],
+                            "notes": {
+                              "notesBiblical": "Crisóstomo reitera la calumnia de Romanos 3:8 y su origen en la distorsión de la enseñanza paulina sobre la gracia (Romanos 5:20)."
+                            },
+                            "originalText": "Τότε γὰρ ἡµᾶς κωµῳδοῦντες ἔλεγον, ὅτι Ποιήσωµεν τὰ κακὰ, ἵνα ἔλθῃ τὰ ἀγαθά· διὸ καὶ τέθεικεν αὐτὸ σαφῶς οὕτω λέγων· Εἰ µὴ καθὼς βλασφηµούµεθα, καὶ καθώς φασί τινες ἡµᾶς λέγειν, ὅτι Ποιήσωµεν τὰ κακὰ, ἵνα ἔλθῃ τὰ ἀγαθά· ὧν τὸ κρῖµα ἔνδικόν ἐστιν. Ἐπειδὴ γὰρ ἔλεγεν ὁ Παῦλος, Ὅπου ἐπλεόνασεν ἡ ἁµαρτία, ὑπερεπερίσσευσεν ἡ χάρις, κωµῳδοῦντες αὐτὸν καὶ ἑτέρᾳ γνώµῃ διαστρέφοντες τὸ εἰρηµένον ἔλεγον, ὅτι ∆εῖ κακίας ἔχεσθαι, ἵνα ἀπολαύσωµεν ἀγαθῶν.",
+                            "spanishTranslation": "Porque entonces, ridiculizándonos, decían: «Hagamos males para que vengan bienes»; por eso también él lo ha establecido claramente, diciendo así: «A menos que sea como somos calumniados, y como dicen algunos que decimos: 'Hagamos males para que vengan bienes'; la condena de quienes dicen esto es justa». Porque como Pablo decía: «Donde abundó el pecado, sobreabundó la gracia», ridiculizándolo y distorsionando lo dicho con otra interpretación, decían: «Es necesario aferrarse a la maldad para que disfrutemos de bienes»."
+                          },
+                          {
+                            "keywords": [
+                              "Pablo",
+                              "pecado",
+                              "gracia",
+                              "continuidad",
+                              "negación",
+                              "muerte al pecado"
+                            ],
+                            "lineNumber": [
+                              1837,
+                              1838,
+                              1839,
+                              1840,
+                              1841,
+                              1842,
+                              1843,
+                              1844
+                            ],
+                            "notes": {
+                              "notesBiblical": "Reiteración de la refutación de Pablo en Romanos 6:1-2, destacando que la unión con Cristo implica una ruptura radical con el pecado."
+                            },
+                            "originalText": "Ὁ δὲ Παῦλος οὐχ οὕτως ἔλεγε· διορθούµενος γοῦν αὐτὸ, φησί· Τί οὖν; ἐπιµενοῦµεν τῇ ἁµαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Μὴ γένοιτο. Ὑπὲρ γὰρ τῶν παρελθόντων, φησὶ, εἴρηκα χρόνων, οὐχ ἵνα µελέτην τοῦτο ποιώµεθα. Ταύτης γοῦν ἀπάγων τῆς ὑπονοίας, ἔφησεν αὐτὸ καὶ ἀδύνατον εἶναι λοιπόν. Οἵτινες γὰρ, φησὶν, ἀπεθάνοµεν τῇ ἁµαρτίᾳ, πῶς ἔτι ζήσοµεν ἐν αὐτῇ;",
+                            "spanishTranslation": "Pero Pablo no decía eso; al menos, corrigiéndolo, dice: «¿Qué diremos entonces? ¿Perseveraremos en el pecado para que la gracia abunde? ¡De ninguna manera!». «Porque», dice, «he hablado de tiempos pasados, no para que hagamos de esto una práctica». Al menos, alejándose de esta sospecha, dijo que ya es imposible. Porque, dice, «nosotros que hemos muerto al pecado, ¿cómo viviremos aún en él?»"
+                          },
+                          {
+                            "keywords": [
+                              "Griegos",
+                              "Judíos",
+                              "vida",
+                              "Ley",
+                              "circuncisión",
+                              "maestros"
+                            ],
+                            "lineNumber": [
+                              1845,
+                              1846,
+                              1847,
+                              1848
+                            ],
+                            "notes": {
+                              "notesGeneral": "Esta es una ligera variación de un pasaje anterior (líneas 1825-1827). Aquí se enfatiza que los judíos eran 'maestros de todos', lo que aumentaba su responsabilidad."
+                            },
+                            "originalText": "ὰʹ. Τῶν µὲν οὖν Ἑλλήνων εὐκόλως κατέδραµεν· ὁ γὰρ βίος αὐτῶν σφόδρα διέφθαρτο· τῶν δὲ Ἰουδαίων εἰ καὶ ὁ βίος ἐδόκει παρηµελῆσθαι, ἀλλ' ἦν προκαλύµµατα τούτων µεγάλα, νόµος καὶ περιτοµὴ, καὶ τὸ τὸν Θεὸν αὐτοῖς ὡµιληκέναι, καὶ τὸ πάντων εἶναι διδασκάλους.",
+                            "spanishTranslation": "Primero. Así pues, se lanzó fácilmente contra los griegos; porque su vida estaba muy corrompida; pero en cuanto a los judíos, aunque su vida parecía descuidada, había grandes coberturas para ello: la Ley y la circuncisión, el hecho de que Dios les había hablado, y que eran maestros de todos."
+                          },
+                          {
+                            "keywords": [
+                              "responsabilidad",
+                              "castigo",
+                              "blasfemia"
+                            ],
+                            "lineNumber": [
+                              1849,
+                              1850,
+                              1851,
+                              1852,
+                              1853
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia a Romanos 3:8. La lógica de Crisóstomo es que si incluso la mera propagación de la idea blasfema es digna de castigo, mucho más lo es la práctica de tal idea."
+                            },
+                            "originalText": "∆ιὰ τοῦτο καὶ τούτων αὐτοὺς ἐγύµνωσε, καὶ µᾶλλον ἔδειξεν ἐκ τούτων κολαζοµένους, εἰς ὃ καὶ ἐνταῦθα τὸν λόγον συνέκλεισεν. Εἰ γὰρ µὴ κολάζονται, φησὶ, τοιαῦτα ποιοῦντες, ἀνάγκη τὸν βλάσφηµον ἐκεῖνον περιφέρεσθαι λόγον, τὸ, Ποιήσωµεν τὰ κακὰ, ἵνα ἔλθῃ τὰ ἀγαθά. Εἰ δὲ τοῦτο ἀσεβὲς, καὶ οἱ λέγοντες αὐτὸ δίκην δώσουσι (τοῦτο γὰρ ἐδήλωσεν εἰπὼν, Ὧν τὸ κρῖµα ἔνδικόν ἐστιν), εὔδηλον ὅτι κολάζονται. Εἰ γὰρ οἱ λέγοντες, τιµωρίας ἄξιοι, πολλῷ µᾶλλον οἱ πράσσοντες· εἰ δὲ ἄξιοι τιµωρίας, ὡς ἡµαρτηκότες ἄξιοι.",
+                            "spanishTranslation": "Por esta razón, los despojó de estas ventajas, y más bien demostró que eran castigados por ellas, a lo cual concluyó su argumento aquí. Porque si, dice, no son castigados por hacer tales cosas, es necesario que circule aquella blasfema frase: «Hagamos males para que vengan bienes». Pero si esto es impío, y quienes lo dicen pagarán la pena (pues así lo indicó al decir: «la condena de quienes dicen esto es justa»), es evidente que son castigados. Pues si los que lo dicen son dignos de castigo, mucho más los que lo hacen; y si son dignos de castigo, lo son como pecadores."
+                          },
+                          {
+                            "keywords": [
+                              "Dios",
+                              "justicia",
+                              "castigo",
+                              "rectitud",
+                              "conducta"
+                            ],
+                            "lineNumber": [
+                              1854,
+                              1855,
+                              1856
+                            ],
+                            "notes": {
+                              "notesGeneral": "La justicia divina es imparcial y perfecta, a diferencia de la humana. Dios obra para que la vida de los creyentes sea ejemplar."
+                            },
+                            "originalText": "Οὐ γὰρ ἄνθρωπός ἐστιν ὁ κολάζων, ἵνα καί τις ὑποπτεύσῃ τὴν ψῆφον, ἀλλ' ὁ Θεὸς ὁ δικαίως πάντα ποιῶν. Εἰ δὲ δικαίως τιµωροῦνται, ἀδίκως ἐκεῖνα ἔλεγον, ἅπερ ἔλεγον οἱ κωµῳδοῦντες ἡµᾶς· πάντα γὰρ ὁ Θεὸς ἔπραξε καὶ [[60.440]] πράττει, ὥστε τὴν πολιτείαν ἡµῶν διαλάµπειν καὶ ὀρθοῦσθαι πάντοθεν.",
+                            "spanishTranslation": "Porque no es un hombre quien castiga, para que alguien sospeche del veredicto, sino Dios, que hace todas las cosas justamente. Y si son castigados justamente, entonces injustamente decían aquellas cosas los que nos ridiculizaban; porque Dios hizo y hace todo para que nuestra conducta resplandezca y sea correcta en todo sentido."
+                          },
+                          {
+                            "keywords": [
+                              "negligencia",
+                              "Griegos",
+                              "error",
+                              "ejemplo"
+                            ],
+                            "lineNumber": [
+                              1857,
+                              1858
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo exhorta a los cristianos a no ser negligentes en su vida moral, ya que su buen ejemplo es clave para atraer a los paganos al cristianismo."
+                            },
+                            "originalText": "Μὴ τοίνυν ῥᾳθυµῶµεν· οὕτω γὰρ καὶ τοὺς Ἕλληνας ἀποστῆσαι δυνησόµεθα τῆς πλάνης.",
+                            "spanishTranslation": "No seamos, pues, negligentes; porque así también podremos apartar a los griegos del error."
+                          },
+                          {
+                            "keywords": [
+                              "hipocresía",
+                              "filosofía",
+                              "obras",
+                              "doctrina",
+                              "evangelismo"
+                            ],
+                            "lineNumber": [
+                              1859,
+                              1860,
+                              1861,
+                              1862,
+                              1863,
+                              1864,
+                              1865
+                            ],
+                            "notes": {
+                              "notesGeneral": "La incoherencia entre el discurso y la acción hace que el testimonio cristiano sea ineficaz y contraproducente."
+                            },
+                            "originalText": "Ὅταν δὲ ἐν µὲν ῥήµασι φιλοσοφῶµεν, ἐν δὲ ἔργοις ἀσχηµονῶµεν, ποίοις ὀφθαλµοῖς αὐτοὺς ὀψόµεθα; ποίοις στόµασι διαλεξόµεθα περὶ δογµάτων; Ἐρεῖ γὰρ πρὸς ἕκαστον ἡµῶν· Ὁ τὸ ἔλαττον µὴ κατορθωκὼς, πῶς ἀξιοῖς περὶ τοῦ µείζονος διδάσκειν; ὁ µηδέπω µαθὼν, ὅτι πλεονεξία κακὸν, πῶς περὶ τῶν ἐν τοῖς οὐρανοῖς πραγµάτων φιλοσοφεῖς; Ἀλλ' οἶδας, ὅτι κακόν; Οὐκοῦν µεῖζον τὸ ἔγκληµα, ὅτι καὶ εἰδὼς πληµµελεῖς.",
+                            "spanishTranslation": "Pero cuando filosofamos con palabras, pero nos comportamos de forma vergonzosa con nuestras obras, ¿con qué ojos los miraremos? ¿Con qué bocas hablaremos de doctrinas? Porque él dirá a cada uno de nosotros: «Tú que no has logrado lo menor, ¿cómo pretendes enseñar sobre lo mayor? Tú que aún no has aprendido que la avaricia es un mal, ¿cómo filosofas sobre las cosas celestiales?» «¿Pero sabes que es un mal?» «Entonces la acusación es mayor, porque aun sabiendo, transiges.»"
+                          },
+                          {
+                            "keywords": [
+                              "leyes",
+                              "confianza",
+                              "vida corrupta",
+                              "pecador"
+                            ],
+                            "lineNumber": [
+                              1866,
+                              1867,
+                              1868,
+                              1869
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere al Salmo 50:16 (50:18 LXX). La incapacidad de un pecador para enseñar la ley de Dios, ya que su propia vida contradice el mensaje."
+                            },
+                            "originalText": "Καὶ τί λέγω τὸν Ἕλληνα; Οὐδὲ γὰρ οἱ παρ' ἡµῖν νόµοι συγχωροῦσιν ἡµῖν ταύτης ἀπολαύειν τῆς παῤῥησίας, ὅταν ὁ βίος ἡµῶν διεφθαρµένος ᾖ. Τῷ γὰρ ἁµαρτωλῷ, φησὶν, εἶπεν ὁ Θεός· Ἵνα τί σὺ ἐκδιηγῇ τὰ δικαιώµατά µου;",
+                            "spanishTranslation": "¿Y por qué hablo del griego? Porque ni siquiera nuestras propias leyes nos permiten disfrutar de esta confianza cuando nuestra vida está corrompida. Pues al pecador, dice, Dios le dijo: «¿Para qué recitas mis estatutos?»"
+                          },
+                          {
+                            "keywords": [
+                              "judíos",
+                              "cautiverio",
+                              "persas",
+                              "cantos divinos",
+                              "tierra extranjera"
+                            ],
+                            "lineNumber": [
+                              1870,
+                              1871
+                            ],
+                            "notes": {
+                              "notesBiblical": "Alude al Salmo 137:4 (136:4 LXX), donde los judíos cautivos se negaron a cantar los cantos de Sion en una tierra extraña (Babilonia)."
+                            },
+                            "originalText": "Ἀπηνέχθησάν ποτε αἰχµάλωτοι Ἰουδαῖοι, καὶ τῶν Περσῶν ἐπικειµένων καὶ ἀξιούντων ᾄδειν αὐτοῖς τὰς θείας ᾠδὰς ἐκείνας, ἔλεγον· Πῶς ᾄσοµεν τὴν ᾠδὴν Κυρίου ἐπὶ γῆς ἀλλοτρίας;",
+                            "spanishTranslation": "En una ocasión, los judíos fueron llevados cautivos, y los persas los presionaban y les exigían que cantaran aquellos cánticos divinos; ellos respondieron: «¿Cómo cantaremos el cántico del Señor en tierra extranjera?»"
+                          },
+                          {
+                            "keywords": [
+                              "tierra bárbara",
+                              "alma bárbara",
+                              "oráculos de Dios",
+                              "crueldad"
+                            ],
+                            "lineNumber": [
+                              1872,
+                              1873
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo hace una analogía: si no se podía cantar los oráculos de Dios en una tierra hostil, mucho menos se puede hablar de ellos con una \"alma bárbara\", es decir, una alma sin compasión o piedad."
+                            },
+                            "originalText": "Εἰ δὲ ἐν βαρβάρῳ γῇ τὰ λόγια τοῦ Θεοῦ θέµις οὐκ ἦν ᾄδειν, πολλῷ µᾶλλον τὴν βάρβαρον ψυχήν; βάρβαρος γάρ ἐστιν ἡ ἀνελεὴς ψυχή.",
+                            "spanishTranslation": "Pero si no era lícito cantar los oráculos de Dios en una tierra bárbara, ¡cuánto menos con un alma bárbara! Porque un alma despiadada es bárbara."
+                          },
+                          {
+                            "keywords": [
+                              "cautivos",
+                              "esclavos",
+                              "pecado",
+                              "silencio",
+                              "politeia",
+                              "disciplina"
+                            ],
+                            "lineNumber": [
+                              1874,
+                              1875
+                            ],
+                            "notes": {
+                              "notesGreek": "La palabra \"πολιτείᾳ\" (politeia) se refiere aquí a un 'modo de vida' o 'ciudadanía'. Crisóstomo compara ser esclavo del pecado con estar en un estado de vida moralmente ajeno a la fe, lo que justificaría el silencio."
+                            },
+                            "originalText": "Εἰ γὰρ τοὺς αἰχµαλώτους ὄντας, καὶ δούλους ἀνθρώπων ἐν ἀλλοτρίᾳ γῇ γενοµένους ὁ νόµος ἐκάθισεν ἐν σιγῇ· πολλῷ µᾶλλον τοὺς δούλους ὄντας τῆς ἁµαρτίας καὶ ἐν ἀλλοτρίᾳ πολιτείᾳ γενοµένους ἐπιστοµίζεσθαι δίκαιον.",
+                            "spanishTranslation": "Porque si la ley hizo callar a los que eran cautivos y esclavos de hombres en una tierra extranjera; cuánto más justo es que los que son esclavos del pecado y viven en un modo de vida ajeno sean silenciados."
+                          },
+                          {
+                            "keywords": [
+                              "instrumentos",
+                              "palabra",
+                              "esclavitud",
+                              "pecado",
+                              "tiranía"
+                            ],
+                            "lineNumber": [
+                              1876,
+                              1877,
+                              1878,
+                              1879
+                            ],
+                            "notes": {
+                              "notesBiblical": "Referencia al Salmo 137:2 (136:2 LXX). La analogía es que, aunque tengamos los \"instrumentos\" de la palabra (boca, lengua), no podemos hablar con autoridad si estamos en esclavitud del pecado, que es una tiranía peor que la de los bárbaros."
+                            },
+                            "originalText": "Καίτοι καὶ τὰ ὄργανα εἶχον τότε ἐκεῖνοι· Ἐν γὰρ ταῖς ἰτέαις ἐν µέσῳ αὐτῆς, φησὶν, ἐκρεµάσαµεν τὰ ὄργανα ἡµῶν· ἀλλ' οὐδὲ οὕτως ἐξῆν. Οὐκοῦν οὐδὲ ἡµῖν, κἂν στόµα ἔχωµεν καὶ γλῶτταν, ἅπερ ἐστὶν ὄργανα τοῦ λόγου, θέµις παῤῥησιάζεσθαι, ἕως ἂν τῇ πάντων βαρβάρων τυραννικωτέρᾳ δουλεύωµεν ἁµαρτίᾳ.",
+                            "spanishTranslation": "Y sin embargo, ellos también tenían entonces sus instrumentos; porque, dice, «en los sauces en medio de ella colgamos nuestros instrumentos»; pero ni aun así les fue permitido. Por lo tanto, a nosotros tampoco nos es lícito, aunque tengamos boca y lengua, que son instrumentos de la palabra, hablar con audacia, mientras seamos esclavos del pecado, que es más tiránico que todos los bárbaros."
+                          },
+                          {
+                            "keywords": [
+                              "hipocresía",
+                              "griego",
+                              "avaricia",
+                              "idolatría",
+                              "conocimiento de Dios",
+                              "ridículo"
+                            ],
+                            "lineNumber": [
+                              1880,
+                              1881,
+                              1882,
+                              1883,
+                              1884
+                            ],
+                            "notes": {
+                              "notesGeneral": "El argumento se vuelve a centrar en el impacto de la hipocresía cristiana en la evangelización. Un cristiano avaricioso no puede predicar eficazmente contra la idolatría o la avaricia."
+                            },
+                            "originalText": "Εἰπὲ γάρ µοι, τί πρὸς τὸν Ἕλληνα ἐρεῖς ἁρπάζων καὶ πλεονεκτῶν; ἀπόστηθι τῆς εἰδωλολατρείας; ἐπίγνωθι τὸν Θεὸν, µηδὲ ἀργύρῳ καὶ χρυσῷ πρόσιθι; Ἆρ' οὖν οὐ γελάσεται καὶ ἐρεῖ· Σαυτῷ ταῦτα διαλέγου πρότερον;",
+                            "spanishTranslation": "Dime entonces, ¿qué dirás al griego, siendo tú codicioso y avaricioso? «Apártate de la idolatría»? «Conoce a Dios, y no te acerques al oro ni a la plata»? ¿Acaso no se reirá y dirá: «Háblate esto a ti mismo primero?»"
+                          },
+                          {
+                            "keywords": [
+                              "griego",
+                              "cristiano",
+                              "idolatría",
+                              "transgresión",
+                              "gravedad"
+                            ],
+                            "lineNumber": [
+                              1885
+                            ],
+                            "notes": {
+                              "notesGeneral": "Crisóstomo argumenta que la transgresión de un cristiano es más grave que la de un pagano, porque el cristiano tiene el conocimiento de la verdad y los mandamientos divinos."
+                            },
+                            "originalText": "οὐ γάρ ἐστιν ἴσον Ἕλληνα ὄντα εἰδωλολατρεῖν, καὶ Χριστιανὸν ὄντα τὸ αὐτὸ τοῦτο πληµµελεῖν.",
+                            "spanishTranslation": "Porque no es lo mismo que un griego sea idólatra, que un cristiano cometa la misma transgresión."
+                          },
+                          {
+                            "keywords": [
+                              "idolatría",
+                              "auto-corrección",
+                              "convencer",
+                              "prójimo"
+                            ],
+                            "lineNumber": [
+                              1886,
+                              1887,
+                              1888
+                            ],
+                            "notes": {
+                              "notesGeneral": "El principio de que la evangelización y la corrección de otros deben comenzar por uno mismo."
+                            },
+                            "originalText": "Πῶς γὰρ δυνησόµεθα ἑτέρους ἀπάγειν τῆς εἰδωλολατρείας ἐκείνης, ἑαυτοὺς ταύτης οὐκ ἀπάγοντες; τοῦ γὰρ πλησίον ἡµεῖς ἐγγύτεροι ἑαυτοῖς. Ὅταν οὖν ἑαυτοὺς µὴ πείθωµεν, πῶς ἑτέρους πείσοµεν;",
+                            "spanishTranslation": "¿Pues cómo podremos apartar a otros de aquella idolatría, si no nos apartamos nosotros mismos de ella? Porque nosotros estamos más cerca de nosotros mismos que de nuestro prójimo. Por lo tanto, cuando no nos convencemos a nosotros mismos, ¿cómo convenceremos a otros?"
+                          },
+                          {
+                            "keywords": [
+                              "casa",
+                              "familia",
+                              "Iglesia",
+                              "alma",
+                              "corrección"
+                            ],
+                            "lineNumber": [
+                              1889,
+                              1890
+                            ],
+                            "notes": {
+                              "notesBiblical": "Alusión a 1 Timoteo 3:5, donde Pablo habla de la necesidad de que un obispo sepa gobernar su propia casa. Crisóstomo extiende esto al manejo del alma."
+                            },
+                            "originalText": "Εἰ γὰρ ὁ τῆς οἰκίας τῆς ἑαυτοῦ µὴ προεστὼς καλῶς, οὐδὲ Ἐκκλησίας ἐπιµελήσεται· πῶς ὁ µηδὲ τῆς ἑαυτοῦ ψυχῆς προεστὼς, ἑτέρους διορθῶσαι δυνήσεται;",
+                            "spanishTranslation": "Porque si el que no gobierna bien su propia casa, tampoco cuidará de la Iglesia; ¿cómo podrá corregir a otros el que ni siquiera gobierna su propia alma?"
+                          },
+                          {
+                            "keywords": [
+                              "ídolo",
+                              "oro",
+                              "mandato",
+                              "idolatría",
+                              "tipos",
+                              "mammon",
+                              "vientre",
+                              "deseo"
+                            ],
+                            "lineNumber": [
+                              1891,
+                              1892,
+                              1893,
+                              1894
+                            ],
+                            "notes": {
+                              "notesGreek": "Crisóstomo expande el concepto de idolatría más allá de la adoración literal de imágenes. El \"mammon\" (µαµµωνᾶν) es el dinero o la riqueza, y el \"vientre\" (κοιλίαν) es una metáfora de la glotonería y los placeres materiales (Filipenses 3:19)."
+                            },
+                            "originalText": "Μὴ γάρ µοι τοῦτο εἴπῃς, ὅτι οὐ προσκυνεῖς εἴδωλον χρυσοῦν· ἀλλ' ἐκεῖνό µοι δεῖξον, ὅτι µὴ ποιεῖς ταῦτα, ἅπερ ὁ χρυσὸς κελεύει. Καὶ γὰρ διάφοροι εἰδωλολατρείας τρόποι· καὶ ὁ µὲν τὸν µαµµωνᾶν ἡγεῖται κύριον, ὁ δὲ τὴν κοιλίαν θεὸν, ὁ δὲ ἑτέραν ἐπιθυµίαν χαλεπωτάτην.",
+                            "spanishTranslation": "Pues no me digas esto, que no adoras un ídolo de oro; sino muéstrame que no haces lo que el oro manda. Porque hay diversos modos de idolatría; y uno considera al mamón como señor, otro a su vientre como dios, y otro algún deseo muy severo."
+                          },
+                          {
+                            "keywords": [
+                              "sacrificio",
+                              "oxen",
+                              "alma",
+                              "sacrificio espiritual"
+                            ],
+                            "lineNumber": [
+                              1895,
+                              1896
+                            ],
+                            "notes": {
+                              "notesGeneral": "Contraste entre los sacrificios externos paganos y el daño interno, mucho más grave, que un cristiano se inflige a sí mismo al someter su alma a las pasiones."
+                            },
+                            "originalText": "Ἀλλ' οὐ καταθύεις αὐτοῖς βόας, καθάπερ οἱ Ἕλληνες; Ἀλλὰ τὸ πολλῷ χαλεπώτερον τὴν σαυτοῦ κατασφάζεις ψυχήν.",
+                            "spanishTranslation": "¿Pero no les sacrificas bueyes, como los griegos? No, pero lo que es mucho peor, degüellas tu propia alma."
+                          },
+                          {
+                            "keywords": [
+                              "rodillas",
+                              "adoración",
+                              "obediencia",
+                              "vientre",
+                              "dinero",
+                              "deseo",
+                              "pasiones",
+                              "deificación",
+                              "Afrodita",
+                              "Ares",
+                              "Dionisio"
+                            ],
+                            "lineNumber": [
+                              1897,
+                              1898,
+                              1899
+                            ],
+                            "notes": {
+                              "notesGreek": "Crisóstomo menciona ejemplos de deificación de pasiones en la mitología griega: Afrodita (deseo/amor), Ares (ira/guerra), Dionisio (embriaguez/vino)."
+                            },
+                            "originalText": "Ἀλλ' οὐ κάµπτεις τὰ γόνατα καὶ προσκυνεῖς; Ἀλλὰ µετὰ πλείονος ὑπακοῆς ποιεῖς πάντα, ἅπερ ἂν ἐπιτάξωσι καὶ ἡ γαστὴρ καὶ τὸ χρυσίον καὶ ἡ τῆς ἐπιθυµίας τυραννίς· ἐπεὶ καὶ οἱ Ἕλληνες διὰ τοῦτό εἰσι βδελυκτοὶ, ὅτι τὰ πάθη ἐθεοποίουν, τὴν µὲν ἐπιθυµίαν Ἀφροδίτην, τὸν δὲ θυµὸν Ἄρην, τὴν δὲ µέθην ∆ιόνυσον προσειπόντες.",
+                            "spanishTranslation": "¿Pero no doblas las rodillas y adoras? No, pero con mayor obediencia haces todo lo que el vientre, el dinero y la tiranía del deseo te ordenan; ya que también los griegos son abominables por esto, porque deificaban las pasiones, llamando al deseo Afrodita, a la ira Ares y a la embriaguez Dionisio."
+                          },
+                          {
+                            "keywords": [
+                              "ídolos",
+                              "pasiones",
+                              "miembros de Cristo",
+                              "prostituta",
+                              "transgresiones",
+                              "contaminación"
+                            ],
+                            "lineNumber": [
+                              1900
+                            ],
+                            "notes": {
+                              "notesBiblical": "Alude a 1 Corintios 6:15, donde Pablo condena la unión de los miembros de Cristo con una prostituta. Crisóstomo aplica esta idea a someterse a las pasiones mundanas, lo que es una forma de idolatría espiritual."
+                            },
+                            "originalText": "Εἰ δὲ οὐ γλύφεις εἴδωλα σὺ, καθάπερ ἐκεῖνοι, ἀλλὰ µετὰ πολλῆς τῆς προθυµίας τοῖς αὐτοῖς ὑποκύπτεις πάθεσι, τὰ µέλη τοῦ Χρι [[60.441]] στοῦ µέλη πόρνης ποιῶν, καὶ ταῖς ἄλλαις σεαυτὸν πλύνων παρανοµίαις.",
+                            "spanishTranslation": "Si tú no esculpes ídolos, como ellos, pero con gran entusiasmo te sometes a las mismas pasiones, haciendo de los miembros de Cristo miembros de una prostituta, y contaminándote con otras transgresiones."
+                          },
+                          {
+                            "keywords": [
+                              "absurdo",
+                              "idolatría",
+                              "avaricia",
+                              "deseo",
+                              "lujos",
+                              "mesa"
+                            ],
+                            "lineNumber": [
+                              1901,
+                              1902,
+                              1903
+                            ],
+                            "notes": {
+                              "notesBiblical": "Se refiere a Colosenses 3:5, donde Pablo identifica la avaricia con la idolatría. Crisóstomo amplía esta definición a toda forma de apego excesivo a lo material o a los deseos mundanos."
+                            },
+                            "originalText": "∆ιὸ παρακαλῶ τῆς ἀτοπίας τὴν ὑπερβολὴν ἐννοήσαντας φεύγειν τὴν εἰδωλολατρείαν· οὕτω γὰρ ὁ Παῦλος καλεῖ τὴν πλεονεξίαν· φεύγειν δὲ µὴ τὴν ἐν χρήµασι πλεονεξίαν µόνον, ἀλλὰ καὶ τὴν ἐν ἐπιθυµίᾳ πονηρᾷ καὶ τὴν ἐν ἱµατίοις καὶ τὴν ἐν τραπέζῃ καὶ τὴν ἐν τοῖς ἄλλοις ἅπασι.",
+                            "spanishTranslation": "Por tanto, os exhorto, habiendo considerado la magnitud del absurdo, a huir de la idolatría; porque así llama Pablo a la avaricia; y a huir no solo de la avaricia por el dinero, sino también de la que se manifiesta en el deseo maligno, en las vestiduras, en la mesa y en todas las demás cosas."
+                          },
+                          {
+                            "keywords": [
+                              "castigo",
+                              "leyes del Señor",
+                              "siervo",
+                              "voluntad del Señor",
+                              "azotes"
+                            ],
+                            "lineNumber": [
+                              1904,
+                              1905,
+                              1906
+                            ],
+                            "notes": {
+                              "notesBiblical": "Cita de Lucas 12:47. Se enfatiza la mayor responsabilidad y, por ende, el mayor castigo para quienes, conociendo la voluntad de Dios, no la cumplen."
+                            },
+                            "originalText": "Καὶ γὰρ πολλῷ χαλεπωτέραν δώσοµεν δίκην ἡµεῖς µὴ πειθόµενοι τοῖς τοῦ Κυρίου νόµοις. Ὁ γὰρ δοῦλος, φησὶν, ὁ εἰδὼς τὸ θέληµα τοῦ Κυρίου [[60.442]] αὐτοῦ καὶ µὴ ποιήσας, δαρήσεται πολλάς. Ἵν' οὖν καὶ τὴν κόλασιν ταύτην διαφύγωµεν, καὶ ἑτέροις καὶ ἑαυτοῖς γενώµεθα χρήσιµοι, πᾶσαν κακίαν ἀπὸ τῆς ψυχῆς ἐκβαλόντες, ἑλώµεθα τὴν ἀρετήν.",
+                            "spanishTranslation": "Porque nosotros pagaremos una pena mucho más severa si no obedecemos las leyes del Señor. Porque el siervo, dice, «que conoció la voluntad de su señor y no la hizo, será golpeado con muchos azotes». Por tanto, para que evitemos este castigo, y seamos útiles a otros y a nosotros mismos, desechemos toda maldad de nuestra alma y elijamos la virtud."
+                          },
+                          {
+                            "keywords": [
+                              "bienes futuros",
+                              "gracia",
+                              "filantropía",
+                              "Jesucristo",
+                              "Padre",
+                              "Espíritu Santo",
+                              "gloria",
+                              "honor",
+                              "poder",
+                              "eternidad",
+                              "amén"
+                            ],
+                            "lineNumber": [
+                              1907,
+                              1908,
+                              1909
+                            ],
+                            "notes": {
+                              "notesGeneral": "Doxología final, una alabanza a la Trinidad común en los textos litúrgicos y patrísticos."
+                            },
+                            "originalText": "Οὕτω γὰρ καὶ τῶν µελλόντων ἐπιτευξόµεθα ἀγαθῶν· ὧν γένοιτο πάντας ἡµᾶς ἐπιτυχεῖν, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡµῶν Ἰησοῦ Χριστοῦ, µεθ' οὗ τῷ Πατρὶ ἅµα τῷ ἁγίῳ Πνεύµατι δόξα, τιµὴ, κράτος, νῦν καὶ ἀεὶ, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀµήν.",
+                            "spanishTranslation": "Porque así también alcanzaremos los bienes venideros; y que todos nosotros los alcancemos, por la gracia y la filantropía de nuestro Señor Jesucristo, con quien sean la gloria, el honor y el poder al Padre, junto con el Espíritu Santo, ahora y siempre, y por los siglos de los siglos. Amén."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]

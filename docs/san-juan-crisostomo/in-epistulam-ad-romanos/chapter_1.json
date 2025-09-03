@@ -1,0 +1,899 @@
+[
+  {
+    "metadata": {
+      "officialAuthorName": "Iohannes Chrysostomus",
+      "authorSpanish": "San Juan Cristóstomo",
+      "originalTitle": "In Epistulam ad Romanos",
+      "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+      "originalLanguage": "Greek",
+      "outputLanguage": "Spanish"
+    }
+  },
+  {
+    "chapters": [
+      {
+        "chapter": 1,
+        "sections": [
+          {
+            "section": 2,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Crisóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 1,
+                    "chapterSummary": "Explicación de la introducción de Romanos, el Evangelio de Dios, la relación entre el Antiguo y Nuevo Testamento, la humanidad y divinidad de Cristo, y el papel del Espíritu Santo en el apostolado.",
+                    "sections": [
+                      {
+                        "section": 2,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              200
+                            ],
+                            "originalText": "καὶ πάλιν, Ὡς ὡραῖοι οἱ πόδες τῶν εὐαγγελιζοµένων εἰρήνην! βʹ.",
+                            "spanishTranslation": "Y de nuevo, ¡Cuán hermosos son los pies de los que anuncian la paz! (cap. 2) [cita de Romanos 10:15]."
+                          },
+                          {
+                            "lineNumber": [
+                              201
+                            ],
+                            "originalText": "Ὁρᾷς καὶ ῥητῶς τοῦ Εὐαγγελίου καὶ τὸ ὄνοµα καὶ τὸν τρόπον ἐν τῇ Παλαιᾷ κείµενον;",
+                            "spanishTranslation": "¿Ves cómo tanto el nombre como el método del Evangelio están expresamente establecidos en el Antiguo Testamento?"
+                          },
+                          {
+                            "lineNumber": [
+                              202,
+                              203
+                            ],
+                            "originalText": "Οὐ γὰρ διὰ ῥηµάτων αὐτὸ καταγγέλλοµεν µόνον, φησὶν, ἀλλὰ καὶ διὰ πραγµάτων· οὐδὲ γὰρ ἀνθρώπινον ἦν, ἀλλὰ καὶ θεῖον καὶ ἀπόῤῥητον καὶ πᾶσαν ὑπερβαῖνον φύσιν.",
+                            "spanishTranslation": "Porque no lo anunciamos solo con palabras, dice, sino también con hechos; pues no era algo humano, sino divino, inefable y que supera toda naturaleza."
+                          },
+                          {
+                            "lineNumber": [
+                              204
+                            ],
+                            "originalText": "Ἐπειδὴ δὲ καινοτοµίαν ἐνεκάλουν τῷ πράγµατι, δείκνυσιν αὐτὸ πρεσβύτερον Ἑλλήνων ὂν, καὶ ἐν τοῖς προφήταις προδιαγραφόµενον.",
+                            "spanishTranslation": "Pero dado que le imputaban novedad al asunto, muestra que es más antiguo que los griegos y que ya estaba predelineado en los profetas."
+                          },
+                          {
+                            "lineNumber": [
+                              205,
+                              206
+                            ],
+                            "originalText": "Εἰ δὲ µὴ ἐξ ἀρχῆς ἔδωκε, παρὰ τοὺς µὴ βουλοµένους δέξασθαι· οἱ γοῦν βουλόµενοι ἤκουσαν.",
+                            "spanishTranslation": "Y si no lo dio desde el principio, fue por causa de los que no quisieron recibirlo; al menos, los que quisieron escucharon."
+                          },
+                          {
+                            "lineNumber": [
+                              207,
+                              208
+                            ],
+                            "originalText": "Ἀβραὰµ ὁ πατὴρ ὑµῶν, φησὶν, ἠγαλλιάσατο, ἵνα ἴδῃ τὴν ἡµέραν τὴν ἐµήν· καὶ εἶδε, καὶ ἐχάρη.",
+                            "spanishTranslation": "Vuestro padre Abraham, dice, se regocijó de ver mi día; y lo vio, y se alegró. [Cita de Juan 8:56]."
+                          },
+                          {
+                            "lineNumber": [
+                              209,
+                              210
+                            ],
+                            "originalText": "Πῶς οὖν φησὶν, ὅτι Πολλοὶ προφῆται καὶ δίκαιοι ἐπεθύµησαν ἰδεῖν ἃ ὑµεῖς βλέπετε, καὶ οὐκ εἶδον; Οὕτω, φησὶν, ὡς ὑµεῖς βλέπετε καὶ ἀκούετε, αὐτὴν τὴν σάρκα, καὶ αὐτὰ τὰ σηµεῖα τὰ ἐπὶ τῶν ὄψεων.",
+                            "spanishTranslation": "¿Cómo, entonces, dice que \"muchos profetas y justos desearon ver lo que vosotros veis, y no lo vieron\"? Así, dice, como vosotros veis y oís, la carne misma, y las señales mismas ante vuestros ojos. [Cita de Mateo 13:17, Lucas 10:24]."
+                          },
+                          {
+                            "lineNumber": [
+                              211,
+                              212
+                            ],
+                            "originalText": "Σὺ δέ µοι σκό [[60.397]] πει, πρὸ πόσων ταῦτα προεκηρύττετο χρόνων· καὶ γὰρ ὅταν µεγάλα τινὰ προκατασκευάζειν ὁ Θεὸς µέλλῃ, πρὸ πολλῶν αὐτὰ προαναφωνεῖ χρόνων, γυµνάζων τὴν ἀκοὴν πρὸς τὴν ὑποδοχὴν τῆς παρουσίας αὐτῶν.",
+                            "spanishTranslation": "Pero fíjate, por favor, cuánto tiempo antes se proclamaban estas cosas; porque cuando Dios está a punto de preparar grandes cosas, las anuncia mucho tiempo antes, ejercitando el oído para la recepción de su venida."
+                          },
+                          {
+                            "lineNumber": [
+                              213,
+                              214
+                            ],
+                            "originalText": "Ἐν Γραφαῖς ἁγίαις. Οὐ γὰρ ἔλεγον οἱ προφῆται µόνον, ἀλλὰ καὶ ἔγραφον ἅπερ ἔλεγον·",
+                            "spanishTranslation": "En las Santas Escrituras. Porque los profetas no solo hablaban, sino que también escribían lo que decían;"
+                          },
+                          {
+                            "lineNumber": [
+                              215
+                            ],
+                            "originalText": "οὐκ ἔγραφον δὲ µόνον, ἀλλὰ καὶ διὰ πραγµάτων ἐτύπουν, ὡς Ἀβραὰµ τὸν Ἰσαὰκ ἄγων, καὶ Μωϋσῆς τὸν ὄφιν ὑψῶν, καὶ τὰς χεῖρας ἐκτείνων ἐπὶ τοῦ Ἀµαλὴκ, καὶ τὸν ἀµνὸν τοῦ πάσχα θύων.",
+                            "spanishTranslation": "y no solo escribían, sino que también prefiguraban las cosas por medio de acciones, como Abraham llevando a Isaac, y Moisés levantando la serpiente, y extendiendo sus manos sobre Amalec, y sacrificando el cordero de la Pascua. "
+                          },
+                          {
+                            "lineNumber": [
+                              216
+                            ],
+                            "originalText": "Περὶ τοῦ Υἱοῦ αὐτοῦ τοῦ γενοµένου ἐκ σπέρµατος ∆αυῒδ κατὰ σάρκα.",
+                            "spanishTranslation": "Acerca de su Hijo, que nació de la descendencia de David según la carne. [Cita de Romanos 1:3]."
+                          },
+                          {
+                            "lineNumber": [
+                              217,
+                              218,
+                              219
+                            ],
+                            "originalText": "Τί ποιεῖς, ὦ Παῦλε; µετεωρίσας ἡµῶν τὰς ψυχὰς καὶ ἀναγαγὼν, καὶ µεγάλα καὶ ἀπόῤῥητα φαντασθῆναι ποιήσας, καὶ Εὐαγγέλιον εἰπὼν, καὶ Θεοῦ Εὐαγγέλιον, καὶ χορὸν προφητῶν εἰσαγαγὼν, καὶ δείξας πάντας ἀνακηρύττοντας πρὸ πολλῶν ἐτῶν τὰ ἐσόµενα, ποῦ πάλιν ἡµᾶς κατάγεις πρὸς τὸν ∆αυΐδ; περὶ ἀνθρώπου τίνος διαλέγῃ, εἰπέ µοι, καὶ πατέρα δίδως αὐτῷ τὸν τοῦ Ἰεσσαὶ υἱόν;",
+                            "spanishTranslation": "¿Qué haces, oh Pablo? Habiendo elevado nuestras almas y subiéndonos, y haciéndonos imaginar cosas grandes e inefables, y habiendo hablado del Evangelio, y del Evangelio de Dios, y habiendo introducido un coro de profetas, y habiendo mostrado a todos proclamando con muchos años de anticipación las cosas que habrían de venir, ¿a dónde nos bajas de nuevo, hacia David? ¿De qué clase de hombre hablas, dime, y le das como padre al hijo de Jesé?"
+                          },
+                          {
+                            "lineNumber": [
+                              220,
+                              221,
+                              222
+                            ],
+                            "originalText": "καὶ ποῦ ταῦτα τῶν εἰρηµένων ἄξια; Σφόδρα µὲν οὖν ἄξια· οὐ γὰρ περὶ ἀνθρώπου ψιλοῦ, φησὶν, ὁ λόγος ἡµῖν.",
+                            "spanishTranslation": "¿Y dónde son estas cosas dignas de lo que se ha dicho? ¡Son muy dignas! Porque nuestro discurso, dice, no es sobre un simple hombre."
+                          },
+                          {
+                            "lineNumber": [
+                              223
+                            ],
+                            "originalText": "∆ιά τοι τοῦτο προσέθηκα τὸ, Κατὰ σάρκα, αἰνιττόµενος, ὅτι καὶ κατὰ πνεῦµα γέννησίς ἐστι τοῦ αὐτοῦ.",
+                            "spanishTranslation": "Por esta razón, añadió el \"según la carne\", insinuando que también hay un nacimiento según el espíritu del mismo [Cristo]."
+                          },
+                          {
+                            "lineNumber": [
+                              224,
+                              225
+                            ],
+                            "originalText": "Καὶ τίνος ἕνεκεν ἐντεῦθεν ἤρξατο, καὶ οὐκ ἐκεῖθεν ἀπὸ τῶν ὑψηλοτέρων; Ὅτι καὶ Ματθαῖος ἐντεῦθεν καὶ Λουκᾶς καὶ Μάρκος.",
+                            "spanishTranslation": "¿Y por qué comenzó desde aquí y no desde lo más alto? Porque Mateo también, y Lucas, y Marcos [comenzaron] desde aquí."
+                          },
+                          {
+                            "lineNumber": [
+                              226,
+                              227,
+                              228
+                            ],
+                            "originalText": "Τὸν γὰρ µέλλοντα χειραγωγεῖν πρὸς τὸν οὐρανὸν, κάτωθεν ἄνω χειραγωγεῖν ἀναγκαῖον· οὕτω γὰρ καὶ τὸ πρᾶγµα ᾠκονοµήθη. Πρῶτον γοῦν εἶδον αὐτὸν ἄνθρωπον ἐπὶ τῆς γῆς, καὶ τότε ἐνόησαν Θεόν.",
+                            "spanishTranslation": "Porque es necesario guiar de abajo hacia arriba a quien se va a conducir al cielo; así fue también dispuesta la obra. De hecho, primero lo vieron como hombre en la tierra, y entonces lo comprendieron como Dios."
+                          },
+                          {
+                            "lineNumber": [
+                              229,
+                              230
+                            ],
+                            "originalText": "Ἧ τοίνυν αὐτὸς τὴν διδασκαλίαν ἐποιήσατο, ταύτῃ καὶ ὁ µαθητὴς αὐτοῦ τέµνει τὴν ἐκεῖ φέρουσαν ὁδόν. Πρῶτον οὖν λέγει τὴν κατὰ σάρκα γέννησιν, οὐκ ἐπειδὴ πρώτη ἦν, ἀλλ' ἐπειδὴ ἀπὸ ταύτης πρὸς ἐκείνην ἀνῆγε τὸν ἀκροατήν.",
+                            "spanishTranslation": "Así, pues, por el camino en que Él mismo llevó a cabo su enseñanza, por ese mismo camino su discípulo (Pablo) traza el sendero que conduce allí. Por tanto, primero menciona el nacimiento según la carne, no porque fuera el primero, sino porque desde este elevaba al oyente hacia aquel [el nacimiento espiritual/divino]."
+                          },
+                          {
+                            "lineNumber": [
+                              231
+                            ],
+                            "originalText": "Τοῦ ὁρισθέντος Υἱοῦ Θεοῦ ἐν δυνάµει καὶ Πνεύµατι ἁγιωσύνης ἐξ ἀναστάσεως νεκρῶν, Ἰησοῦ Χριστοῦ.",
+                            "spanishTranslation": "Que fue declarado Hijo de Dios con poder, según el Espíritu de santidad, por la resurrección de entre los muertos, Jesucristo. [Cita de Romanos 1:4]."
+                          },
+                          {
+                            "lineNumber": [
+                              232,
+                              233
+                            ],
+                            "originalText": "Ἀσαφὲς τὸ εἰρηµένον ἀπὸ τῆς τῶν λέξεων πλοκῆς γέγονε· διόπερ αὐτὸ διελεῖν ἀνάγκη.",
+                            "spanishTranslation": "Lo dicho se ha vuelto poco claro por la complicación de las palabras; por tanto, es necesario desglosarlo."
+                          },
+                          {
+                            "lineNumber": [
+                              234,
+                              235
+                            ],
+                            "originalText": "Τί οὖν ἐστιν ὃ λέγει· Τὸν ἐκ ∆αυῒδ γενόµενον ἀνακηρύττοµεν, φησίν.",
+                            "spanishTranslation": "¿Qué es, entonces, lo que dice? \"Proclamamos al que nació de David\", dice."
+                          },
+                          {
+                            "lineNumber": [
+                              236,
+                              237,
+                              238,
+                              239
+                            ],
+                            "originalText": "Ἀλλὰ τοῦτο δῆλον· πόθεν δὲ, ὅτι καὶ Υἱὸς Θεοῦ ἐστιν οὗτος ὁ σαρκωθείς; Πρῶτον ἀπὸ τῶν προφητῶν· διὸ ἔλεγεν, Ὃ προεπηγγείλατο διὰ τῶν προφητῶν αὐτοῦ ἐν Γραφαῖς ἁγίαις.",
+                            "spanishTranslation": "Pero esto es evidente; ¿y de dónde [sabemos] que este que se encarnó es también Hijo de Dios? Primero, de los profetas; por eso decía: \"Lo que prometió por medio de sus profetas en las Santas Escrituras.\" [Cita parcial de Romanos 1:2]."
+                          },
+                          {
+                            "lineNumber": [
+                              240
+                            ],
+                            "originalText": "Οὐ µικρᾶς δὲ ἀποδείξεως οὗτος ὁ τρόπος.",
+                            "spanishTranslation": "Y este modo de prueba no es insignificante."
+                          },
+                          {
+                            "lineNumber": [
+                              241,
+                              242,
+                              243,
+                              244
+                            ],
+                            "originalText": "Ἔπειτα καὶ ἐξ αὐτοῦ τοῦ τρόπου τῆς γεννήσεως· ὃ καὶ αὐτὸς ἐδήλωσεν εἰπών· Ἐκ σπέρµατος ∆αυῒδ κατὰ σάρκα· τὸν γὰρ τῆς φύσεως ἔλυσε νόµον.",
+                            "spanishTranslation": "Luego, también del modo mismo de su nacimiento; lo cual Él mismo manifestó al decir: \"De la descendencia de David según la carne\"; porque rompió la ley de la naturaleza."
+                          },
+                          {
+                            "lineNumber": [
+                              245,
+                              246
+                            ],
+                            "originalText": "Τρίτον ἀπὸ τῶν θαυµάτων ὧνπερ ἔπραττε, πολλῆς δυνάµεως ἀπόδειξιν παρεχόµενος· τοῦτο γάρ ἐστιν, Ἐν δυνάµει.",
+                            "spanishTranslation": "Tercero, por los milagros que Él realizaba, ofreciendo una gran prueba de poder; porque esto es lo que significa \"con poder\"."
+                          },
+                          {
+                            "lineNumber": [
+                              247,
+                              248,
+                              249
+                            ],
+                            "originalText": "Τέταρτον ἀπὸ τοῦ Πνεύµατος οὗπερ ἐδίδου τοῖς πιστεύουσιν εἰς αὐτὸν, καὶ δι' οὗ πάντας ἁγίους ἐποίει· διό φησι, Κατὰ Πνεῦµα ἁγιωσύνης· Θεοῦ γὰρ ἦν µόνου τὰ τοιαῦτα δῶρα χαρίζεσθαι.",
+                            "spanishTranslation": "Cuarto, por el Espíritu que daba a los que creían en Él, y por el cual los hacía a todos santos; por eso dice: \"según el Espíritu de santidad\"; porque era solo de Dios otorgar tales dones."
+                          },
+                          {
+                            "lineNumber": [
+                              250,
+                              251,
+                              252
+                            ],
+                            "originalText": "Πέµπτον ἀπὸ τῆς ἀναστάσεως Κυρίου· πρῶτος γὰρ οὗτος καὶ µόνος ἑαυτὸν ἤγειρεν· ὅπερ καὶ αὐτὸς µάλιστα πάντων ἔφησεν εἶναι σηµεῖον ἱκανὸν καὶ τοὺς ἀναισχυντοῦντας ἐπιστοµίσαι.",
+                            "spanishTranslation": "Quinto, por la resurrección del Señor; porque Él fue el primero y el único que se levantó a sí mismo; lo cual Él mismo dijo que era la señal más suficiente de todas para silenciar incluso a los desvergonzados."
+                          },
+                          {
+                            "lineNumber": [
+                              253,
+                              254,
+                              255
+                            ],
+                            "originalText": "Λύσατε γὰρ, φησὶν, τὸν ναὸν τοῦτον, καὶ ἐν τρισὶν ἡµέραις ἐγερῶ αὐτόν· καὶ, Ὅταν ὑψώσητέ µε ἀπὸ τῆς γῆς, τότε γνώσεσθε, ὅτι ἐγώ εἰµι· καὶ πάλιν, Ἡ γενεὰ αὕτη σηµεῖον ἐπιζητεῖ, καὶ σηµεῖον οὐ δοθήσεται αὐτῇ, εἰ µὴ τὸ σηµεῖον Ἰωνᾶ.",
+                            "spanishTranslation": "Porque, dice, \"Destruid este templo, y en tres días lo levantaré\"; y, \"Cuando hayáis levantado al Hijo del Hombre de la tierra, entonces sabréis que Yo soy\"; y de nuevo, \"Esta generación busca una señal, y no se le dará ninguna señal, sino la señal del profeta Jonás.\" [Citas bíblicas: Juan 2:19, Juan 8:28, Mateo 12:39]."
+                          },
+                          {
+                            "lineNumber": [
+                              256,
+                              257
+                            ],
+                            "originalText": "Τί οὖν ἐστιν, Ὁρισθέντος; ∆ειχθέντος, ἀποφανθέντος, κριθέντος, ὁµολογηθέντος παρὰ τῆς ἁπάντων γνώµης καὶ ψήφου, ἀπὸ τῶν προφητῶν, ἀπὸ τῆς παραδόξου γεννήσεως τῆς κατὰ σάρκα, [[60.398]] ἀπὸ τῆς δυνάµεως τῆς ἐν τοῖς σηµείοις, ἀπὸ τοῦ Πνεύµατος, δι' οὗ τὸν ἁγιασµὸν ἔδωκεν, ἀπὸ τῆς ἀναστάσεως, δι' ἧς τοῦ θανάτου τὴν τυραννίδα κατέλυσε.",
+                            "spanishTranslation": "¿Qué significa, entonces, \"declarado\" (ὁρισθέντος)? Significa manifestado, revelado, juzgado, reconocido por la opinión y el voto de todos, por los profetas, por el nacimiento paradójico según la carne, por el poder manifestado en las señales, por el Espíritu, por quien dio la santificación, por la resurrección, por la cual destruyó la tiranía de la muerte."
+                          },
+                          {
+                            "lineNumber": [
+                              258
+                            ],
+                            "originalText": "∆ι' οὗ ἐλάβοµεν χάριν καὶ ἀποστολὴν εἰς ὑπακοὴν πίστεως.",
+                            "spanishTranslation": "Por medio de Él recibimos gracia y apostolado para la obediencia de la fe. [Cita de Romanos 1:5]."
+                          },
+                          {
+                            "lineNumber": [
+                              259,
+                              260
+                            ],
+                            "originalText": "Ὅρα εὐγνωµοσύνην οἰκέτου· οὐδὲν ἑαυτοῦ εἶναι βούλεται, ἀλλὰ πάντα τοῦ ∆εσπότου.",
+                            "spanishTranslation": "Observa la gratitud del siervo; no quiere que nada sea suyo, sino todo del Maestro."
+                          },
+                          {
+                            "lineNumber": [
+                              261,
+                              262
+                            ],
+                            "originalText": "Καὶ µὴν τὸ Πνεῦµα τοῦτο ἔδωκε· διὸ ἔλεγε·",
+                            "spanishTranslation": "Y ciertamente el Espíritu dio esto; por eso decía:"
+                          },
+                          {
+                            "lineNumber": [
+                              263,
+                              264
+                            ],
+                            "originalText": "Πολλὰ ἔχω λέγειν ὑµῖν, ἀλλ' οὐ δύνασθε βαστάζειν ἄρτι· ὅταν δὲ ἔλθῃ ἐκεῖνος, τὸ Πνεῦµα τῆς ἀληθείας, ὁδηγήσει ὑµᾶς εἰς πᾶσαν τὴν ἀλήθειαν·",
+                            "spanishTranslation": "\"Muchas cosas tengo que deciros, pero ahora no las podéis soportar; pero cuando venga aquel, el Espíritu de verdad, os guiará a toda la verdad.\" [Cita de Juan 16:12-13]."
+                          },
+                          {
+                            "lineNumber": [
+                              265
+                            ],
+                            "originalText": "καὶ πάλιν, Ἀφορίσατέ µοι τὸν Παῦλον καὶ τὸν Βαρνάβαν.",
+                            "spanishTranslation": "y de nuevo, \"Apartadme a Pablo y a Bernabé.\" [Cita de Hechos 13:2]."
+                          },
+                          {
+                            "lineNumber": [
+                              266,
+                              267
+                            ],
+                            "originalText": "Καὶ ἐν τῇ πρὸς Κορινθίους δέ φησιν, ὅτι Ὧ µὲν διὰ τοῦ Πνεύµατος δίδοται λόγος σοφίας, ἄλλῳ δὲ λόγος γνώσεως· καὶ ὅτι Αὐτὸ πάντα διαιρεῖ, καθὼς βούλεται.",
+                            "spanishTranslation": "Y en la Epístola a los Corintios también dice que \"a uno se le da por el Espíritu palabra de sabiduría, a otro palabra de conocimiento\"; y que \"Él mismo reparte todo, según quiere.\" [Citas de 1 Corintios 12:8, 11]."
+                          },
+                          {
+                            "lineNumber": [
+                              268
+                            ],
+                            "originalText": "Καὶ Μιλησίοις δὲ δηµηγορῶν, ἔλεγεν·",
+                            "spanishTranslation": "Y hablando a los de Mileto, decía:"
+                          },
+                          {
+                            "lineNumber": [
+                              269
+                            ],
+                            "originalText": "Ἐν ᾧ ἔθετο ὑµᾶς τὸ Πνεῦµα τὸ ἅγιον ποιµένας καὶ ἐπισκόπους.",
+                            "spanishTranslation": "\"En la cual el Espíritu Santo os ha puesto como pastores y obispos.\" [Cita de Hechos 20:28]."
+                          },
+                          {
+                            "lineNumber": [
+                              270
+                            ],
+                            "originalText": "Ὁρᾷς, ὅτι τὰ τοῦ Πνεύµατος τοῦ Υἱοῦ φησι, καὶ τὰ τοῦ Υἱοῦ τοῦ Πνεύµατος;",
+                            "spanishTranslation": "¿Ves cómo dice que lo que es del Espíritu es del Hijo, y lo que es del Hijo es del Espíritu?"
+                          },
+                          {
+                            "lineNumber": [
+                              271,
+                              272,
+                              273,
+                              274
+                            ],
+                            "originalText": "Χάριν καὶ ἀποστολήν· τουτέστιν, Οὐχ ἡµεῖς αὐτὸ καθωρθώσαµεν τὸ γενέσθαι ἀπόστολοι· οὐδὲ γὰρ καµόντες πολλὰ καὶ πονέσαντες, τὴν ἀξίαν ταύτην ἐλάχοµεν· ἀλλὰ χάριν ἐλάβοµεν, καὶ τῆς ἄνωθεν δωρεᾶς τὸ κατόρθωµα γέγονεν.",
+                            "spanishTranslation": "Gracia y apostolado; es decir, no logramos nosotros mismos el ser apóstoles; ni tampoco, habiendo trabajado y sufrido mucho, obtuvimos esta dignidad; sino que recibimos gracia, y fue un logro de la dádiva de arriba."
+                          },
+                          {
+                            "lineNumber": [
+                              275
+                            ],
+                            "originalText": "Εἰς ὑπακοὴν πίστεως.",
+                            "spanishTranslation": "Para la obediencia de la fe. [Cita de Romanos 1:5]."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 3,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 1,
+                    "chapterSummary": "",
+                    "sections": [
+                      {
+                        "section": 3,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              276
+                            ],
+                            "originalText": "γʹ.",
+                            "spanishTranslation": "3."
+                          },
+                          {
+                            "lineNumber": [
+                              277
+                            ],
+                            "originalText": "Οὐκ ἄρα οἱ ἀπόστολοι ἦσαν οἱ κατορθοῦντες, ἀλλ' ἡ προοδοποιοῦσα χάρις αὐτοῖς.",
+                            "spanishTranslation": "No eran, pues, los apóstoles quienes realizaban las obras, sino la gracia que les preparaba el camino."
+                          },
+                          {
+                            "lineNumber": [
+                              278
+                            ],
+                            "originalText": "Ἐκείνων µὲν γὰρ ἦν τὸ περιιέναι καὶ κηρύττειν, τὸ δὲ πείθειν τοῦ ἐνεργοῦντος ἐν αὐτοῖς Θεοῦ·",
+                            "spanishTranslation": "Porque de ellos era el ir y predicar, pero el persuadir era de Dios que obraba en ellos;"
+                          },
+                          {
+                            "lineNumber": [
+                              279
+                            ],
+                            "originalText": "καθὼς καὶ ὁ Λουκᾶς φησιν, ὅτι ∆ιήνοιξε τὴν καρδίαν αὐτῶν·",
+                            "spanishTranslation": "como también dice Lucas, que \"Abrió la mente de ellos\";"
+                          },
+                          {
+                            "lineNumber": [
+                              280
+                            ],
+                            "originalText": "καὶ πάλιν, Οἷς ἦν δεδοµένον ἀκοῦσαι τὸν λόγον τοῦ Θεοῦ.",
+                            "spanishTranslation": "y de nuevo: \"A quienes les fue dado oír la palabra de Dios\"."
+                          },
+                          {
+                            "lineNumber": [
+                              281
+                            ],
+                            "originalText": "Εἰς ὑπακοήν.",
+                            "spanishTranslation": "Para obediencia."
+                          },
+                          {
+                            "lineNumber": [
+                              282
+                            ],
+                            "originalText": "Οὐκ εἶπεν, Εἰς ζήτησιν καὶ κατασκευὴν, ἀλλ', Εἰς ὑπακοήν.",
+                            "spanishTranslation": "No dijo: \"Para investigación y construcción\", sino \"Para obediencia\"."
+                          },
+                          {
+                            "lineNumber": [
+                              283
+                            ],
+                            "originalText": "Οὐδὲ γὰρ ἐπέµφθηµεν, φησὶ, συλλογίζεσθαι, ἀλλ' ὅπερ ἐνεχειρίσθηµεν ἀποδοῦναι.",
+                            "spanishTranslation": "Porque no fuimos enviados, dice, para silogizar, sino para entregar lo que nos fue confiado."
+                          },
+                          {
+                            "lineNumber": [
+                              284
+                            ],
+                            "originalText": "Ὅταν γὰρ ὁ ∆εσπότης ἀποφήνηταί τι, τοὺς ἀκούοντας οὐ περιεργάζεσθαι χρὴ τὰ λεγόµενα καὶ πολυπραγµονεῖν, ἀλλὰ δέχεσθαι µόνον.",
+                            "spanishTranslation": "Porque cuando el Señor decide algo, los que escuchan no deben investigar con curiosidad lo dicho ni inquirir demasiado, sino solo recibirlo."
+                          },
+                          {
+                            "lineNumber": [
+                              285
+                            ],
+                            "originalText": "Οἱ γὰρ ἀπόστολοι διὰ τοῦτο ἐπέµφθησαν, ἵνα, ἅπερ ἤκουσαν, εἴπωσιν, οὐχ ἵνα οἴκοθέν τι προσθῶσι·",
+                            "spanishTranslation": "Pues por esto fueron enviados los apóstoles, para que dijeran lo que oyeron, no para que añadieran algo de sí mismos;"
+                          },
+                          {
+                            "lineNumber": [
+                              286
+                            ],
+                            "originalText": "καὶ ἡµεῖς δὲ λοιπὸν, ἵνα πιστεύσωµεν.",
+                            "spanishTranslation": "y nosotros, por nuestra parte, para que creamos."
+                          },
+                          {
+                            "lineNumber": [
+                              287
+                            ],
+                            "originalText": "Τί ἵνα πιστεύσωµεν;",
+                            "spanishTranslation": "¿En qué debemos creer?"
+                          },
+                          {
+                            "lineNumber": [
+                              288
+                            ],
+                            "originalText": "Περὶ τοῦ ὀνόµατος αὐτοῦ·",
+                            "spanishTranslation": "Sobre su nombre;"
+                          },
+                          {
+                            "lineNumber": [
+                              289
+                            ],
+                            "originalText": "οὐχ ἵνα τὴν οὐσίαν αὐτοῦ περιεργασώµεθα, ἀλλ' ἵνα εἰς τὸ ὄνοµα αὐτοῦ πιστεύσωµεν·",
+                            "spanishTranslation": "no para que investiguemos su esencia, sino para que creamos en su nombre;"
+                          },
+                          {
+                            "lineNumber": [
+                              290
+                            ],
+                            "originalText": "τοῦτο γὰρ ἦν, ὃ καὶ τὰ σηµεῖα ἐποίει.",
+                            "spanishTranslation": "pues esto era lo que también hacía los milagros."
+                          },
+                          {
+                            "lineNumber": [
+                              291
+                            ],
+                            "originalText": "Ἐν γὰρ τῷ ὀνόµατι Ἰησοῦ Χριστοῦ, φησὶν, ἔγειραι καὶ περιπάτει.",
+                            "spanishTranslation": "Pues, \"en el nombre de Jesucristo, levántate y anda\"."
+                          },
+                          {
+                            "lineNumber": [
+                              292
+                            ],
+                            "originalText": "Καὶ τοῦτο δὲ αὐτὸ πίστεως δεῖται, καὶ οὐδὲν τούτων λογισµῷ καταλαβεῖν δυνατόν.",
+                            "spanishTranslation": "Y esto mismo requiere fe, y nada de esto es posible comprenderlo por el razonamiento."
+                          },
+                          {
+                            "lineNumber": [
+                              293
+                            ],
+                            "originalText": "Ἐν πᾶσι τοῖς ἔθνεσιν, ἐν οἷς ἐστε καὶ ὑµεῖς κλητοὶ Ἰησοῦ Χριστοῦ.",
+                            "spanishTranslation": "\"Entre todas las naciones, entre las cuales también vosotros sois llamados de Jesucristo\"."
+                          },
+                          {
+                            "lineNumber": [
+                              294
+                            ],
+                            "originalText": "Τί οὖν;",
+                            "spanishTranslation": "¿Qué, pues?"
+                          },
+                          {
+                            "lineNumber": [
+                              295
+                            ],
+                            "originalText": "πᾶσι τοῖς ἔθνεσιν ὁ Παῦλος ἐκήρυξεν;",
+                            "spanishTranslation": "¿Pablo predicó a todas las naciones?"
+                          },
+                          {
+                            "lineNumber": [
+                              296
+                            ],
+                            "originalText": "Ὅτι µὲν γὰρ ἀπὸ Ἱερουσαλὴµ µέχρι τοῦ Ἰλλυρικοῦ διέδραµε, κἀκεῖθεν πάλιν εἰς αὐτὰς ἐξέβη τῆς γῆς τὰς ἐσχατιὰς, δῆλον ἐξ ὧν Ῥωµαίοις ἐπέστειλεν.",
+                            "spanishTranslation": "Que corrió desde Jerusalén hasta Ilírico, y de allí de nuevo salió hasta los confines de la tierra, es evidente por lo que escribió a los Romanos."
+                          },
+                          {
+                            "lineNumber": [
+                              297
+                            ],
+                            "originalText": "Εἰ δὲ καὶ µὴ πᾶσι ἐπέστη, οὐδὲ οὕτω ψεῦδος τὸ λεγόµενον·",
+                            "spanishTranslation": "Y si acaso no llegó a todas, tampoco así lo dicho es mentira;"
+                          },
+                          {
+                            "lineNumber": [
+                              298
+                            ],
+                            "originalText": "οὐ γὰρ περὶ ἑαυτοῦ µόνον φησὶν, ἀλλὰ καὶ περὶ τῶν δώδεκα ἀποστόλων, καὶ πάντων τῶν καταγγειλάντων τὸν λόγον τῶν µετ' ἐκείνους.",
+                            "spanishTranslation": "pues no habla solo de sí mismo, sino también de los doce apóstoles y de todos los que anunciaron la palabra después de ellos."
+                          },
+                          {
+                            "lineNumber": [
+                              299
+                            ],
+                            "originalText": "Ἄλλως δὲ οὐδὲ ἐπ' αὐτοῦ τὸν λόγον ἐλεγχόµενον ἴδοι τις ἂν, εἰ τὴν προθυµίαν ἐννοήσει τὴν ἐκείνου, καὶ ὅτι µετὰ τελευτὴν οὐ παύεται πανταχοῦ τῆς οἰκουµένης κηρύττων.",
+                            "spanishTranslation": "Además, tampoco se podría considerar falsa la afirmación en su propio caso, si uno considera su celo y que después de su muerte no deja de predicar en toda la ecúmene."
+                          },
+                          {
+                            "lineNumber": [
+                              300
+                            ],
+                            "originalText": "Ἐννόησον δὲ πῶς ἐπαίρει τὴν δωρεὰν, καὶ δείκνυσι µεγάλην οὖσαν καὶ πολὺ τῆς προτέρας ὑψηλοτέραν·",
+                            "spanishTranslation": "Considera cómo exalta el don y lo muestra como grande y mucho más excelso que el anterior;"
+                          },
+                          {
+                            "lineNumber": [
+                              301
+                            ],
+                            "originalText": "εἴ γε τὰ µὲν παλαιὰ περὶ ἔθνος ἓν ἐγίγνετο, αὕτη δὲ γῆν καὶ θάλασσαν ἐπεσπάσατο.",
+                            "spanishTranslation": "si bien las cosas antiguas ocurrían en torno a una sola nación, esta (gracia) atrajo a la tierra y al mar."
+                          },
+                          {
+                            "lineNumber": [
+                              302
+                            ],
+                            "originalText": "Σκόπει δέ µοι κἀκεῖνο, πῶς κολακείας πάσης ἀπηλλαγµένη ἐστὶν ἡ τοῦ Παύλου [[60.399]] ψυχή.",
+                            "spanishTranslation": "Obsérvame también esto: cómo el alma de Pablo está libre de toda adulación."
+                          },
+                          {
+                            "lineNumber": [
+                              303
+                            ],
+                            "originalText": "Ῥωµαίοις γὰρ διαλεγόµενος τοῖς ὥσπερ ἐν κορυφῇ τινι τῆς οἰκουµένης ἁπάσης καθηµένοις, οὐδὲν πλέον αὐτοῖς δίδωσι τῶν λοιπῶν ἐθνῶν, οὐδὲ, ἐπειδὴ τότε ἐκράτουν καὶ ἐβασίλευον, καὶ ἐν τοῖς πνευµατικοῖς φησί τι πλέον αὐτοὺς ἔχειν·",
+                            "spanishTranslation": "Pues dirigiéndose a los Romanos, que estaban sentados como en la cúspide de toda la ecúmene, no les da nada más que a las demás naciones, ni dice que tengan algo más en lo espiritual por el hecho de que entonces dominaban y reinaban;"
+                          },
+                          {
+                            "lineNumber": [
+                              304
+                            ],
+                            "originalText": "ἀλλ', Ὥσπερ, φησὶ, τοῖς ἔθνεσι πᾶσι κηρύττοµεν, οὕτω καὶ ὑµῖν, µετὰ Σκυθῶν καὶ Θρᾳκῶν αὐτοὺς ἀριθµῶν·",
+                            "spanishTranslation": "sino que dice: \"Así como predicamos a todas las naciones, así también a vosotros\", contándolos junto con los escitas y los tracios;"
+                          },
+                          {
+                            "lineNumber": [
+                              305
+                            ],
+                            "originalText": "ἐπεὶ εἰ µὴ τοῦτο ἐβούλετο δηλῶσαι, περιττὸν ἦν τὸ εἰπεῖν, Ἐν οἷς ἐστε καὶ ὑµεῖς.",
+                            "spanishTranslation": "pues si no hubiera querido significar esto, sería superfluo decir: \"entre los cuales también vosotros sois\"."
+                          },
+                          {
+                            "lineNumber": [
+                              306
+                            ],
+                            "originalText": "Ταῦτα δὲ ποιεῖ καθαιρῶν αὐτῶν τὸ φρόνηµα, καὶ κενῶν τὸ φύσηµα τῆς διανοίας, καὶ διδάσκων αὐτοὺς τὴν πρὸς τοὺς ἄλλους ἰσοτιµίαν.",
+                            "spanishTranslation": "Y esto lo hace abatiendo su orgullo, vaciando la hinchazón de su mente, y enseñándoles la igualdad con los demás."
+                          },
+                          {
+                            "lineNumber": [
+                              307
+                            ],
+                            "originalText": "∆ιὸ ἐπήγαγεν αὐτὸ τοῦτο λέγων·",
+                            "spanishTranslation": "Por eso añadió esto mismo diciendo:"
+                          },
+                          {
+                            "lineNumber": [
+                              308
+                            ],
+                            "originalText": "Ἐν οἷς ἐστε καὶ ὑµεῖς κλητοὶ Ἰησοῦ Χριστοῦ·",
+                            "spanishTranslation": "\"Entre los cuales también vosotros sois llamados de Jesucristo\";"
+                          },
+                          {
+                            "lineNumber": [
+                              309
+                            ],
+                            "originalText": "τουτέστι, Μεθ' ὧν ἐστε καὶ ὑµεῖς.",
+                            "spanishTranslation": "es decir, \"Con quienes también vosotros sois\"."
+                          },
+                          {
+                            "lineNumber": [
+                              310
+                            ],
+                            "originalText": "Καὶ οὐκ εἶπεν, ὅτι Τοὺς ἄλλους µεθ' ὑµῶν, ἀλλ' Ὑµᾶς µετὰ τῶν ἄλλων ἐκάλεσεν.",
+                            "spanishTranslation": "Y no dijo: \"A los otros con vosotros\", sino: \"A vosotros con los otros llamó\"."
+                          },
+                          {
+                            "lineNumber": [
+                              311
+                            ],
+                            "originalText": "Εἰ γὰρ ἐν Χριστῷ Ἰησοῦ οὐκ ἔστι δοῦλος οὐδὲ ἐλεύθερος, πολλῷ µᾶλλον οὐδὲ βασιλεὺς καὶ ἰδιώτης·",
+                            "spanishTranslation": "Porque si en Cristo Jesús no hay esclavo ni libre, mucho menos rey e individuo particular;"
+                          },
+                          {
+                            "lineNumber": [
+                              312
+                            ],
+                            "originalText": "καὶ γὰρ ὑµεῖς ἐκλήθητε, καὶ οὐκ ἀφ' ἑαυτῶν προσήλθετε.",
+                            "spanishTranslation": "porque también vosotros fuisteis llamados, y no vinisteis por vosotros mismos."
+                          },
+                          {
+                            "lineNumber": [
+                              313
+                            ],
+                            "originalText": "Πᾶσι τοῖς οὖσιν ἐν Ῥώµῃ ἀγαπητοῖς Θεοῦ, κλητοῖς ἁγίοις, χάρις ὑµῖν καὶ εἰρήνη ἀπὸ Θεοῦ Πατρὸς ἡµῶν καὶ Κυρίου Ἰησοῦ Χριστοῦ.",
+                            "spanishTranslation": "\"A todos los que estáis en Roma, amados de Dios, llamados a ser santos: Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.\""
+                          },
+                          {
+                            "lineNumber": [
+                              314
+                            ],
+                            "originalText": "Ὅρα πῶς συνεχῶς τὸ ὄνοµα τοῦ κλητοῦ τίθησι, Κλητὸς ἀπόστολος, λέγων.",
+                            "spanishTranslation": "Observa cómo continuamente pone el nombre de \"llamado\", diciendo \"llamado apóstol\"."
+                          },
+                          {
+                            "lineNumber": [
+                              315
+                            ],
+                            "originalText": "Ἐν οἷς ἐστε καὶ ὑµεῖς κλητοί·",
+                            "spanishTranslation": "\"Entre los cuales también vosotros sois llamados\";"
+                          },
+                          {
+                            "lineNumber": [
+                              316
+                            ],
+                            "originalText": "Πᾶσι τοῖς οὖσιν ἐν Ῥώµῃ κλητοῖς.",
+                            "spanishTranslation": "\"A todos los que estáis en Roma, llamados\"."
+                          },
+                          {
+                            "lineNumber": [
+                              317
+                            ],
+                            "originalText": "Τοῦτο δὲ οὐ περιττολογῶν ποιεῖ, ἀλλὰ βουλόµενος αὐτοὺς τῆς εὐεργεσίας ἀναµνῆσαι.",
+                            "spanishTranslation": "Y esto no lo hace por redundancia, sino queriendo recordarles el beneficio."
+                          },
+                          {
+                            "lineNumber": [
+                              318
+                            ],
+                            "originalText": "Ἐπειδὴ γὰρ εἰκὸς ἦν ἐν τοῖς πιστεύουσι καὶ ἐξ ὑπάρχων εἶναι καὶ ὑπάτων, καὶ πένητας καὶ ἰδιώτας, ἐκβάλλων τὴν ἀνωµαλίαν τῶν ἀξιωµάτων, πᾶσι µίαν ἐπιστέλλει προσηγορίαν.",
+                            "spanishTranslation": "Pues como era probable que entre los creyentes hubiera tanto prefectos y cónsules como pobres y personas comunes, eliminando la desigualdad de los rangos, les envía a todos un mismo título."
+                          },
+                          {
+                            "lineNumber": [
+                              319
+                            ],
+                            "originalText": "Εἰ δὲ ἐν τοῖς ἀναγκαιοτέροις καὶ πνευµατικοῖς κοινὰ δούλοις καὶ ἐλευθέροις ἅπαντα πρόκειται, οἷον ἡ ἀγάπη ἡ παρὰ τοῦ Θεοῦ, ἡ κλῆσις, τὸ Εὐαγγέλιον, ἡ υἱοθεσία, ἡ χάρις, ἡ εἰρήνη, ὁ ἁγιασµὸς, τὰ ἄλλα πάντα, πῶς ἐσχάτης ἀνοίας οὐκ ἂν εἴη, οὓς ὁ Θεὸς συνῆψε καὶ ὁµοτίµους ἐποίησεν ἐν τοῖς µείζοσι, τούτους διαιρεῖν ἀπὸ τῶν ἐν τῇ γῇ πραγµάτων;",
+                            "spanishTranslation": "Y si en las cosas más necesarias y espirituales todo es común para esclavos y libres, como el amor de Dios, la vocación, el Evangelio, la adopción, la gracia, la paz, la santificación y todo lo demás, ¿cómo no sería de extrema insensatez separar a aquellos a quienes Dios ha unido e hecho iguales en las cosas mayores, por las cosas de la tierra?"
+                          },
+                          {
+                            "lineNumber": [
+                              320
+                            ],
+                            "originalText": "∆ιά τοι τοῦτο ἀπὸ τῶν προοιµίων αὐτῶν τὴν χαλεπὴν ταύτην ἐκβαλὼν νόσον ὁ µακάριος οὗτος, εἰς τὴν µητέρα τῶν ἀγαθῶν αὐτοὺς ἐµβιβάζει, ταπεινοφροσύνην.",
+                            "spanishTranslation": "Por esto, habiendo expulsado desde los propios proemios esta terrible enfermedad, este bienaventurado los introduce en la madre de todos los bienes: la humildad."
+                          },
+                          {
+                            "lineNumber": [
+                              321
+                            ],
+                            "originalText": "Τοῦτο καὶ οἰκέτας βελτίους εἰργάζετο, µανθάνοντας ὡς οὐδὲν ἐκ τῆς δουλείας παραβλαβήσονται, τὴν ὄντως ἐλευθερίαν ἔχοντες·",
+                            "spanishTranslation": "Esto hacía mejores a los sirvientes, al aprender que en nada serían perjudicados por la esclavitud, pues poseían la verdadera libertad;"
+                          },
+                          {
+                            "lineNumber": [
+                              322
+                            ],
+                            "originalText": "τοῦτο καὶ τοὺς δεσπότας παρεσκεύαζε µετριάζειν, παιδευοµένους ὡς οὐδὲν αὐτοῖς ὄφελος τῆς ἐλευθερίας, ἂν µὴ τὰ τῆς πίστεως ᾖ προηγούµενα.",
+                            "spanishTranslation": "esto también preparaba a los amos para ser moderados, siendo enseñados que de nada les servía su libertad si las cosas de la fe no eran primordiales."
+                          },
+                          {
+                            "lineNumber": [
+                              323
+                            ],
+                            "originalText": "Καὶ ἵνα µάθῃς, ὅτι οὐ σύγχυσιν ἐργαζόµενος τοῦτο ἐποίει καὶ πάντα µιγνὺς, ἀλλ' οἶδε καὶ διαίρεσιν ἀρίστην, οὐχ ἁπλῶς ἔγραψε πᾶσι τοῖς οὖσιν ἐν Ῥώµῃ, ἀλλὰ µετὰ διορισµοῦ, Τοῖς ἀγαπητοῖς τοῦ Θεοῦ.",
+                            "spanishTranslation": "Y para que aprendas que no hacía esto produciendo confusión y mezclándolo todo, sino que también conoce una excelente distinción, no escribió simplemente \"a todos los que estáis en Roma\", sino con una especificación: \"a los amados de Dios\"."
+                          },
+                          {
+                            "lineNumber": [
+                              324
+                            ],
+                            "originalText": "Αὕτη γὰρ ἡ ἀρίστη διάκρισις, καὶ δείκνυσι πόθεν ὁ ἁγιασµός.",
+                            "spanishTranslation": "Porque esta es la mejor distinción, y muestra de dónde procede la santificación."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section": 4,
+            "text": [
+              {
+                "metadata": {
+                  "officialAuthorName": "Iohannes Chrysostomus",
+                  "authorSpanish": "San Juan Cristóstomo",
+                  "originalTitle": "In Epistulam ad Romanos",
+                  "titleSpanish": "Homilías sobre la Epístola a los Romanos",
+                  "originalLanguage": "Greek",
+                  "outputLanguage": "Spanish"
+                },
+                "chapters": [
+                  {
+                    "chapter": 1,
+                    "chapterSummary": "Cristóstomo expone la salutación paulina a los Romanos, destacando el origen de la santificación en el amor de Dios, la igualdad del Padre y el Hijo como fuente de gracia y paz, y la superioridad de los dones espirituales sobre las dignidades mundanas. Concluye con la centralidad de una buena conciencia y la virtud como fuente de gozo verdadero, ejemplificando con Pablo y Acab, y exhortando a cultivar el fruto del Espíritu para la vida eterna.",
+                    "sections": [
+                      {
+                        "section": 4,
+                        "text": [
+                          {
+                            "lineNumber": [
+                              325,
+                              326,
+                              327
+                            ],
+                            "originalText": "δʹ. Πόθεν οὖν ὁ ἁγιασµός; Ἀπὸ τῆς ἀγάπης.",
+                            "spanishTranslation": "IV. ¿De dónde, entonces, la santificación? De la caridad (amor). "
+                          },
+                          {
+                            "lineNumber": [
+                              328,
+                              329
+                            ],
+                            "originalText": "Εἰπὼν γὰρ, Ἀγαπητοῖς, τότε ἐπήγαγε, Κλητοῖς ἁγίοις, δηλῶν ὅτι ἐντεῦθεν ἡµῖν ἡ πηγὴ τῶν ἀγαθῶν ἁπάντων· ἁγίους δὲ τοὺς πιστοὺς καλεῖ πάντας.",
+                            "spanishTranslation": "Porque habiendo dicho: «Amados», luego añadió: «Llamados santos», indicando que de aquí nos viene la fuente de todos los bienes; y llama santos a todos los fieles."
+                          },
+                          {
+                            "lineNumber": [
+                              330
+                            ],
+                            "originalText": "Χάρις ὑµῖν καὶ εἰρήνη.",
+                            "spanishTranslation": "Gracia a vosotros y paz."
+                          },
+                          {
+                            "lineNumber": [
+                              331,
+                              332
+                            ],
+                            "originalText": "Ὢ προσηγορίας µυρία φερούσης ἀγαθά! Τοῦτο καὶ ὁ Χριστὸς τοῖς ἀποστόλοις εἰς τὰς οἰκίας εἰσιοῦσι πρῶτον ῥῆµα φάσκειν ἐπέταττε. ∆ιὰ τοῦτο καὶ ὁ Παῦλος ἐντεῦθεν πανταχοῦ προοιµιάζεται, ἀπὸ τῆς χάριτος καὶ τῆς εἰρήνης.",
+                            "spanishTranslation": "¡Oh, salutación que trae innumerables bienes! Esto también el Cristo ordenó a los apóstoles decir como primera palabra al entrar en las casas. Por esta razón también Pablo siempre comienza desde aquí, desde la gracia y la paz."
+                          },
+                          {
+                            "lineNumber": [
+                              333
+                            ],
+                            "originalText": "Οὐδὲ γὰρ µικρὸν κατέλυσεν ὁ Χριστὸς πόλεµον, ἀλλὰ καὶ ποικίλον καὶ παντοδαπὸν καὶ χρόνιον, καὶ τοῦτον οὐκ ἐκ τῶν ἡµετέρων πόνων, ἀλλὰ διὰ τῆς αὐτοῦ [[60.400]] χάριτος.",
+                            "spanishTranslation": "Porque Cristo no disolvió una pequeña guerra, sino una variada, de toda clase y duradera, y esto no por nuestros esfuerzos, sino por su propia gracia."
+                          },
+                          {
+                            "lineNumber": [
+                              334,
+                              335,
+                              336
+                            ],
+                            "originalText": "Ἐπεὶ οὖν ἡ µὲν ἀγάπη τὴν χάριν, ἡ δὲ χάρις τὴν εἰρήνην ἐδωρήσατο, ὡς ἐν τάξει προσηγορίας αὐτὰ θεὶς, ἐπεύχεται µένειν διηνεκῆ καὶ ἀκίνητα, ὥστε µὴ πάλιν ἕτερον ἀναῤῥιπισθῆναι πόλεµον· καὶ παρακαλεῖ τὸν δεδωκότα, πάγια ταῦτα διατηρεῖν, οὕτω λέγων· Χάρις ὑµῖν καὶ εἰρήνη ἀπὸ Θεοῦ Πατρὸς ἡµῶν, καὶ Κυρίου Ἰησοῦ Χριστοῦ.",
+                            "spanishTranslation": "Puesto que el amor concedió la gracia, y la gracia concedió la paz, habiéndolas puesto en el orden de la salutación, ruega que permanezcan perpetuas e inquebrantables, para que no se reavive otra guerra; y suplica al Dador que mantenga esto firme, diciendo así: «Gracia a vosotros y paz de Dios nuestro Padre y del Señor Jesucristo»."
+                          },
+                          {
+                            "lineNumber": [
+                              337,
+                              338
+                            ],
+                            "originalText": "Ἰδοὺ ἐνταῦθα τὸ, ἀπὸ, κοινόν ἐστι Πατρὸς καὶ Υἱοῦ, ὅπερ ἐστὶν ἴσον τῷ, Ἐξ οὗ. Οὐ γὰρ εἶπε, Χάρις ὑµῖν καὶ εἰρήνη ἀπὸ Θεοῦ Πατρὸς διὰ τοῦ Κυρίου ἡµῶν Ἰησοῦ Χριστοῦ, ἀλλ', Ἀπὸ Θεοῦ Πατρὸς καὶ Κυρίου ἡµῶν Ἰησοῦ Χριστοῦ.",
+                            "spanishTranslation": "Ved aquí que el «de» (ἀπὸ) es común al Padre y al Hijo, lo cual es equivalente a «de Quien» (Ἐξ οὗ). Porque no dijo: «Gracia a vosotros y paz de Dios Padre por medio de nuestro Señor Jesucristo», sino: «De Dios Padre y de nuestro Señor Jesucristo». Razón por la cual se considera a ambos como la fuente de esta gracia y paz, sin subordinación."
+                          },
+                          {
+                            "lineNumber": [
+                              339,
+                              340,
+                              341
+                            ],
+                            "originalText": "Βαβαὶ, πόσον ἴσχυσεν ἡ τοῦ Θεοῦ ἀγάπη! οἱ ἐχθροὶ καὶ ἠτιµωµένοι, ἅγιοι καὶ υἱοὶ γεγόνασιν ἐξαίφνης. Ὅταν γὰρ πατέρα καλέσῃ, υἱοὺς ἐδήλωσεν· ὅταν δὲ υἱοὺς εἴπῃ, ἅπαντα τῶν ἀγαθῶν τὸν θησαυρὸν ἀνεκάλυψε.",
+                            "spanishTranslation": "¡Ay, cuánto poder tiene el amor de Dios! Los enemigos y deshonrados, de repente se han vuelto santos e hijos. Porque cuando llama «Padre», indica a los hijos; y cuando dice «hijos», revela todo el tesoro de los bienes."
+                          },
+                          {
+                            "lineNumber": [
+                              342
+                            ],
+                            "originalText": "Μένωµεν τοίνυν ἀξίαν τῆς δωρεᾶς τὴν πολιτείαν ἐνδεικνύµενοι, καὶ τὴν εἰρήνην καὶ τὴν ἁγιωσύνην διατηροῦντες.",
+                            "spanishTranslation": "Permanezcamos, pues, mostrando una conducta digna del don, y manteniendo la paz y la santidad."
+                          },
+                          {
+                            "lineNumber": [
+                              343,
+                              344
+                            ],
+                            "originalText": "Τὰ µὲν γὰρ ἄλλα ἀξιώµατα πρόσκαιρά τέ ἐστι, καὶ τῷ παρόντι συγκαταλύεται βίῳ, καὶ χρηµάτων ἐστὶν ὠνητά· ὅθεν οὐδὲ ἀξιώµατα αὐτὰ εἶναι ἄν τις φαίη, ἀλλ' ὀνόµατα ἀξιωµάτων µόνον, ἐν τῇ τῶν ἱµατίων περιβολῇ, καὶ τῇ τῶν δορυφόρων κολακείᾳ τὴν δύναµιν ἔχοντα·",
+                            "spanishTranslation": "Pues las demás dignidades son temporales y se desvanecen con la vida presente, y se compran con dinero; por lo cual ni siquiera se podría decir que son dignidades, sino solo nombres de dignidades, que tienen su poder en el adorno de las vestiduras y en la adulación de los guardias."
+                          },
+                          {
+                            "lineNumber": [
+                              345
+                            ],
+                            "originalText": "τοῦτο δὲ, ἅτε παρὰ τοῦ Θεοῦ δοθὲν, τὸ δῶρον τὸ τῆς ἁγιωσύνης καὶ τῆς υἱοθεσίας, οὐδὲ θανάτῳ διακόπτεται, ἀλλὰ καὶ ἐνταῦθα ποιεῖ λαµπροὺς, καὶ πρὸς τὴν µέλλουσαν ἡµῖν συναποδηµεῖ ζωήν.",
+                            "spanishTranslation": "Pero este don, dado por Dios, el don de la santidad y de la adopción, ni siquiera la muerte lo interrumpe, sino que aquí también nos hace resplandecientes, y nos acompaña a la vida futura."
+                          },
+                          {
+                            "lineNumber": [
+                              346
+                            ],
+                            "originalText": "Ὁ γὰρ τὴν υἱοθεσίαν διατηρῶν, καὶ τὴν ἁγιωσύνην µετὰ ἀκριβείας φυλάττων, αὐτοῦ τοῦ τὸ διάδηµα περικειµένου καὶ τὴν ἁλουργίδα ἔχοντος, λαµπρότερός τέ ἐστι πολλῷ καὶ µακαριστότερος, καὶ κατὰ τὸν παρόντα βίον γαλήνῃ τε ἐντρυφῶν πολλῇ, καὶ χρησταῖς συντρεφόµενος ἐλπίσι, καὶ οὐδεµίαν θορύβου καὶ ταραχῆς ἔχων ὑπόθεσιν, ἀλλ' ἡδονῆς διηνεκοῦς ἀπολαύων.",
+                            "spanishTranslation": "Porque quien conserva la adopción y guarda con exactitud la santidad, es mucho más resplandeciente y bienaventurado que aquel que lleva la diadema y la púrpura, y en esta vida presente disfruta de mucha calma, alimentado por buenas esperanzas, sin motivo alguno de tumulto y turbación, sino disfrutando de un placer continuo."
+                          },
+                          {
+                            "lineNumber": [
+                              347
+                            ],
+                            "originalText": "Εὐθυµίαν γὰρ καὶ χαρὰν οὐκ ἀρχῆς µέγεθος, οὐ χρηµάτων πλῆθος, οὐ δυναστείας ὄγκος, οὐκ ἰσχὺς σώµατος, οὐ πολυτέλεια τραπέζης, οὐχ ἱµατίων κόσµος, οὐκ ἄλλο τι τῶν ἀνθρωπίνων ποιεῖν εἴωθεν, ἀλλ' ἢ κατόρθωµα µόνον πνευµατικὸν, καὶ συνειδὸς ἀγαθόν.",
+                            "spanishTranslation": "Porque la alegría y el gozo no los suele producir la grandeza de un cargo, ni la abundancia de riquezas, ni la magnificencia del poder, ni la fuerza del cuerpo, ni el lujo de la mesa, ni el adorno de las vestiduras, ni ninguna otra cosa humana, sino solo el éxito espiritual y una buena conciencia."
+                          },
+                          {
+                            "lineNumber": [
+                              348,
+                              349
+                            ],
+                            "originalText": "Καὶ ὁ τοῦτο κεκαθαρµένον ἔχων, κἂν ῥάκια περικείµενος ᾖ, καὶ λιµῷ παλαίων, τῶν σφόδρα τρυφώντων ἐστὶν εὐθυµότερος· ὥσπερ οὖν ὁ πονηρὰ συνειδὼς ἑαυτῷ, κἂν τὰ πάντων περιβάλληται χρήµατα, πάντων ἐστὶν ἀθλιώτερος.",
+                            "spanishTranslation": "Y quien tiene esto purificado, aunque vista harapos y luche contra el hambre, es más feliz que los que viven en gran deleite; así como quien es consciente de su propia maldad, aunque se rodee de todas las riquezas, es el más desdichado de todos."
+                          },
+                          {
+                            "lineNumber": [
+                              350,
+                              351
+                            ],
+                            "originalText": "∆ιὰ δὴ τοῦτο ὁ µὲν Παῦλος ἐν λιµῷ ζῶν τῷ διηνεκεῖ καὶ γυµνότητι, καὶ µαστιζόµενος καθ' ἑκάστην ἡµέραν, ἔχαιρέ τε καὶ ἐτρύφα µᾶλλον τῶν βασιλευόντων τότε· ὁ δὲ Ἀχαὰβ βασιλεύων καὶ τρυφῆς ἀπολαύων πολυτελοῦς, ἐπειδὴ τὴν ἁµαρτίαν ἐκείνην εἰργάσατο, ἔστενέ τε καὶ ἠθύµει, καὶ τὸ πρόσωπον αὐτοῦ συµπεπτωκὸς ἦν, καὶ πρὸ τῆς ἁµαρτίας καὶ µετὰ τὴν ἁµαρτίαν.",
+                            "spanishTranslation": "Por esta razón, Pablo, viviendo en continua hambre y desnudez, y siendo azotado cada día, se regocijaba y deleitaba más que los reyes de aquel tiempo; mientras que Acab, siendo rey y disfrutando de un lujo ostentoso, después de cometer aquel pecado, gemía y se desanimaba, y su rostro estaba abatido, tanto antes del pecado como después del pecado."
+                          },
+                          {
+                            "lineNumber": [
+                              352
+                            ],
+                            "originalText": "Εἰ τοίνυν βουλόµεθα ἀπολαύειν ἡδονῆς, πρὸ τῶν ἄλλων ἁπάντων φεύγωµεν πονηρίαν, καὶ διώκωµεν ἀρετὴν, ὡς οὐκ ἐνὸν ἄλλως τούτου µετασχεῖν, κἂν ἐπ' αὐτὸν ἀναβῶµεν τὸν θρόνον τὸν βασιλικόν.",
+                            "spanishTranslation": "Si, pues, queremos gozar de placer, antes que todas las demás cosas huyamos de la maldad y persigamos la virtud, ya que no es posible participar de esto de otra manera, aunque ascendamos al mismo trono real."
+                          },
+                          {
+                            "lineNumber": [
+                              353,
+                              354
+                            ],
+                            "originalText": "∆ιὸ καὶ ὁ Παῦλος ἔλεγεν· Ὁ δὲ καρπὸς τοῦ Πνεύµατος ἀγάπη, χαρὰ, εἰρήνη.",
+                            "spanishTranslation": "Por eso también Pablo decía: «Pero el fruto del Espíritu es amor, gozo, paz»."
+                          },
+                          {
+                            "lineNumber": [
+                              355,
+                              356
+                            ],
+                            "originalText": "Τοῦτον οὖν τὸν καρπὸν τρέφωµεν παρ' ἑαυτοῖς, ἵνα καὶ τῆς ἐνταῦθα χαρᾶς ἀπολαύσωµεν, καὶ τῆς µελλούσης ἐπιτύχωµεν βασιλείας, χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡµῶν Ἰησοῦ Χριστοῦ, µεθ' οὗ τῷ Πατρὶ ἡ δόξα, ἅµα τῷ ἁγίῳ Πνεύµατι, νῦν καὶ ἀεὶ, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀµήν.",
+                            "spanishTranslation": "Cultivemos, pues, este fruto en nosotros, para que disfrutemos del gozo aquí y alcancemos el reino futuro, por la gracia y la filantropía de nuestro Señor Jesucristo, con quien al Padre sea la gloria, junto con el Espíritu Santo, ahora y siempre, y por los siglos de los siglos. Amén."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "chapterSummary": ""
+      }
+    ]
+  }
+]
